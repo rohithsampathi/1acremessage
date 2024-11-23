@@ -28,11 +28,24 @@ class FilterState:
 
 class DashboardApp:
     def __init__(self):
+        """Initialize dashboard application"""
+        # Set page config with metadata
         st.set_page_config(
-            page_title="1acre Message Analytics",
+            page_title="1acre Message Analytics | Conversation Intelligence Platform",
             page_icon="🏙️",
             layout="wide",
-            initial_sidebar_state="expanded"
+            initial_sidebar_state="expanded",
+            menu_items={
+                'Get Help': 'mailto:support@1acre.in',
+                'Report a bug': 'mailto:support@1acre.in',
+                'About': """
+                # 1acre Message Analytics
+                A powerful conversation intelligence platform for analyzing customer interactions.
+                
+                Version: 1.0.0
+                © 2024 1acre
+                """
+            }
         )
         self._init_state()
         self.data_loader = DataLoader()
@@ -40,6 +53,16 @@ class DashboardApp:
         self.metrics = None
         with open('style.css') as f:
             st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
+
+        # Set additional metadata
+        st.markdown(
+            """
+            <meta name="description" content="1acre Message Analytics - Advanced conversation intelligence platform for analyzing customer interactions and deriving actionable insights.">
+            <meta name="keywords" content="1acre, analytics, conversation intelligence, customer interactions, real estate">
+            <meta name="author" content="1acre">
+            """,
+            unsafe_allow_html=True
+        )
     
     def _init_state(self) -> None:
         defaults = {
