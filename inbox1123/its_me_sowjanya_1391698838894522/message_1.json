@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "its_me_sowjanya"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711557395395,
+      "content": "Hi, Please call the number given in the video.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "its_me_sowjanya",
+      "timestamp_ms": 1711555749223,
+      "content": "Hi iam interested in freelancing job",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "its_me_sowjanya",
+  "is_still_participant": true,
+  "thread_path": "inbox/its_me_sowjanya_1391698838894522",
+  "magic_words": [
+    
+  ]
+}

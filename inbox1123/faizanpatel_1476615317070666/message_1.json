@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Faizan Patel"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720153666547,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720153665775,
+      "content": "Hi, Please contact Vijay 9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Faizan Patel",
+      "timestamp_ms": 1720153248702,
+      "content": "Please tell me details about land in yavatmal",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Faizan Patel",
+  "is_still_participant": true,
+  "thread_path": "inbox/faizanpatel_1476615317070666",
+  "magic_words": [
+    
+  ]
+}

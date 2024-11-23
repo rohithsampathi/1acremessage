@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Ajaysuraj Rachuri"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704420801713,
+      "content": "ajay_suraj wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704420801335,
+      "content": "Hi, Please contact Vijay\n9959994737. He'll answer all your queries.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ajaysuraj Rachuri",
+      "timestamp_ms": 1704409976235,
+      "content": "Hi, where in Maharashtra are you investing?\nWould be interested in buying",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ajaysuraj Rachuri",
+  "is_still_participant": true,
+  "thread_path": "inbox/ajaysurajrachuri_1280562286668776",
+  "magic_words": [
+    
+  ]
+}

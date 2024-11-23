@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Abhi Vasa"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Abhi Vasa",
+      "timestamp_ms": 1702990919389,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702990644107,
+      "content": "Hi, please call Ratna Kiran 7661063355",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhi Vasa",
+      "timestamp_ms": 1702990606553,
+      "content": "We are also builders",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhi Vasa",
+      "timestamp_ms": 1702984788526,
+      "content": "Thought of selling",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhi Vasa",
+      "timestamp_ms": 1702984774488,
+      "content": "We have a land in Sadhashivpet",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Abhi Vasa",
+  "is_still_participant": true,
+  "thread_path": "inbox/abhivasa_1207873213950331",
+  "magic_words": [
+    
+  ]
+}

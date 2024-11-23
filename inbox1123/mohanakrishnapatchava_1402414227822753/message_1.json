@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Mohanakrishna Patchava"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708262544316,
+      "content": "It's half acre.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708262523514,
+      "content": "https://maps.app.goo.gl/aPbwiQmx6WXqGP1J7",
+      "share": {
+        "link": "https://maps.app.goo.gl/aPbwiQmx6WXqGP1J7",
+        "share_text": "https://maps.app.goo.gl/aPbwiQmx6WXqGP1J7"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohanakrishna Patchava",
+      "timestamp_ms": 1708235442844,
+      "content": "Ananthagiri living 1 acre send me the place please",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mohanakrishna Patchava",
+  "is_still_participant": true,
+  "thread_path": "inbox/mohanakrishnapatchava_1402414227822753",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Purna Kuncham"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707841292625,
+      "content": "Sure. Vijay will get in touch to discuss",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707841195148,
+      "content": "Narsingi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Purna Kuncham",
+      "timestamp_ms": 1707840249269,
+      "content": "A land near by house of central finance minister within the city limits with high security officials like MP/MLA and Burocrats near by plots",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Purna Kuncham",
+      "timestamp_ms": 1707840134860,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707839556205,
+      "content": "Hi, sure. Vijay, from the team will call you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Purna Kuncham",
+      "timestamp_ms": 1707839427179,
+      "content": "I have a land to sell pls call me on 9000888264",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3257715394924346413"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Purna Kuncham",
+  "is_still_participant": true,
+  "thread_path": "inbox/purnakuncham_1284331469635558",
+  "magic_words": [
+    
+  ]
+}

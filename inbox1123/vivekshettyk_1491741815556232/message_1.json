@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Vivek Shetty K"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719134123247,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719134122469,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team. \nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vivek Shetty K",
+      "timestamp_ms": 1719133124435,
+      "content": "I mean land purchaser",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vivek Shetty K",
+      "timestamp_ms": 1719133105244,
+      "content": "Road facing bit \n\nI can get any deal from yourside",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vivek Shetty K",
+      "timestamp_ms": 1719133038795,
+      "content": "I want to sale my land 1 acre In\nVikarabad town",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vivek Shetty K",
+  "is_still_participant": true,
+  "thread_path": "inbox/vivekshettyk_1491741815556232",
+  "magic_words": [
+    
+  ]
+}

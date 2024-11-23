@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Dilip Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705138520329,
+      "content": "Hi, sure. We'll get in touch with you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dilip Reddy",
+      "timestamp_ms": 1705131043192,
+      "content": "I have land for sale in total upto 6 acres, proper road facility with water facility of vaagu.\n\nadjacent to \"Giridhari's Samraksha Farms\" The Grand Gated Community with 228 Exquisite Farmland Units of 1/4th Acre each, with Fruit Plantations, located at Mariyapur, Manchanpalle, pudur mandal  Vikarabad. We. Can schedule site visit call 7286823401",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Dilip Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/dilipreddy_1325031368892902",
+  "magic_words": [
+    
+  ]
+}

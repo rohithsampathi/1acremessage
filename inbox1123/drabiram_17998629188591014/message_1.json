@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Dr Abi ram"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dr Abi ram",
+      "timestamp_ms": 1710531422655,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710524175098,
+      "content": "abiramnaidu_7108 wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710524174660,
+      "content": "Currently only Telangana. Launching AP soon. Will keep you informed.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Dr Abi ram",
+          "timestamp": 1710531422
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dr Abi ram",
+      "timestamp_ms": 1710523349418,
+      "content": "Frm Andhra pradesh!",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Dr Abi ram",
+  "is_still_participant": true,
+  "thread_path": "inbox/drabiram_17998629188591014",
+  "magic_words": [
+    
+  ]
+}

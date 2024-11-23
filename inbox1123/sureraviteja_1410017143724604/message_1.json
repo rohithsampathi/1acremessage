@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Sure Raviteja"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sure Raviteja",
+      "timestamp_ms": 1720281187064,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720193950376,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412\nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sure Raviteja",
+      "timestamp_ms": 1720193579758,
+      "content": "Let me know if you have any deals",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sure Raviteja",
+      "timestamp_ms": 1720193567505,
+      "content": "Am looking for 50+ acres land within orr to rrr region for development",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sure Raviteja",
+      "timestamp_ms": 1720193531526,
+      "content": "3. Villa project in tukkuguda",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sure Raviteja",
+      "timestamp_ms": 1720193511878,
+      "content": "Hi, We are into realestate. We are doing 3 ventures. 1. Villa plots in 166 acres near mansanpally 2. Farm plots in kondurg, Shadnagar about 100 acres",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sure Raviteja",
+  "is_still_participant": true,
+  "thread_path": "inbox/sureraviteja_1410017143724604",
+  "magic_words": [
+    
+  ]
+}

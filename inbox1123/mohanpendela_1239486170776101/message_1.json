@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Mohan Pendela"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mohan Pendela",
+      "timestamp_ms": 1701432138581,
+      "content": "Okay",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1701489018
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701408127132,
+      "content": "Right now we working on Telangana ,for more details contact:9505778117, PRATHEEK",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohan Pendela",
+      "timestamp_ms": 1701402498673,
+      "content": "Sir only Telangana lo chestara Andhra lo kuda unnaya",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701368575690,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohan Pendela",
+      "timestamp_ms": 1701364159551,
+      "content": "Hii Sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mohan Pendela",
+  "is_still_participant": true,
+  "thread_path": "inbox/mohanpendela_1239486170776101",
+  "magic_words": [
+    
+  ]
+}

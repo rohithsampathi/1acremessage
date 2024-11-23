@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Ishaq Mohammed"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712596344064,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ishaq Mohammed",
+      "timestamp_ms": 1712596259954,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ishaq Mohammed",
+  "is_still_participant": true,
+  "thread_path": "inbox/ishaqmohammed_1332638874795077",
+  "magic_words": [
+    
+  ]
+}

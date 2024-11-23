@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "lavte sushma"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708524377014,
+      "content": "Hi, may I know what you are looking for? I'll connect accordingly.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "lavte sushma",
+      "timestamp_ms": 1708510928033,
+      "content": "Contact number",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "lavte sushma",
+  "is_still_participant": true,
+  "thread_path": "inbox/lavtesushma_17936269286800394",
+  "magic_words": [
+    
+  ]
+}

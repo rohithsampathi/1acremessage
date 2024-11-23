@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "jaagan_101456"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "jaagan_101456",
+      "timestamp_ms": 1732015095238,
+      "content": "Hi sir iam looking for land for purchase\nAnywhere near whitefield gunjur , bellandur , kr puramAbout 10 k sqft a katha",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "jaagan_101456",
+  "is_still_participant": true,
+  "thread_path": "inbox/jaagan_101456_18028716551591014",
+  "magic_words": [
+    
+  ]
+}

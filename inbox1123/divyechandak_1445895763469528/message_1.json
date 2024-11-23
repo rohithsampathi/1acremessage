@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Divye Chandak"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Divye Chandak",
+      "timestamp_ms": 1721467077203,
+      "content": "Telegana will not match the temperature profile requirement",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721467053930,
+      "content": "You can call the sellers directly.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721467043763,
+      "content": "1acre.in please explore. \nCurrently listing Telangana will list other states soon.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "1acre.in please explore. \nCurrently listing Telangana will list other states soon."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Divye Chandak",
+      "timestamp_ms": 1721466544380,
+      "content": "Hi, I'm looking for agri land for growing purpose \nTo buy and rent \nRequirement : min 20 acre max 100 acre \nImportant note : temperature should not go above 35 degrees \nAnytime throughout the year",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Divye Chandak",
+  "is_still_participant": true,
+  "thread_path": "inbox/divyechandak_1445895763469528",
+  "magic_words": [
+    
+  ]
+}

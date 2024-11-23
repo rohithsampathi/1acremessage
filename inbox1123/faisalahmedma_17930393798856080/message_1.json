@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Faisal Ahmed MA"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718327987807,
+      "content": "Hi, sure. We'll give you a call to discuss.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Faisal Ahmed MA",
+      "timestamp_ms": 1718302582415,
+      "content": "7399999789 my contact number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Faisal Ahmed MA",
+      "timestamp_ms": 1718302547279,
+      "content": "Pls help me out in selling my land at Manneguda",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Faisal Ahmed MA",
+      "timestamp_ms": 1718302528510,
+      "content": "1.4cr per acre am quiting and I got offer upto 1.09 cr per acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Faisal Ahmed MA",
+      "timestamp_ms": 1718302508851,
+      "content": "32 acres of land am holding I need to sale it immediately",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Faisal Ahmed MA",
+      "timestamp_ms": 1718302497341,
+      "content": "Manneguda",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717777347017,
+      "content": "Where's the land?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Faisal Ahmed MA",
+      "timestamp_ms": 1717772962338,
+      "content": "Hi I wanna sale my land",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Faisal Ahmed MA",
+  "is_still_participant": true,
+  "thread_path": "inbox/faisalahmedma_17930393798856080",
+  "magic_words": [
+    
+  ]
+}

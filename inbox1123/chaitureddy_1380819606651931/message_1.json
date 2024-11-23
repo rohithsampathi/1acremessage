@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Chaitu Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708668827360,
+      "content": "Please contact Pratheek \n9390674324. He'll set up a meet at our office.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708668784997,
+      "content": "Hi, sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chaitu Reddy",
+      "timestamp_ms": 1708668455037,
+      "content": "Hi\nI am a developer based out of Hyderabad.I would like to know more details about the 40 acres in Maharashtra. I would also want to discuss some options with you in person .Please let me know if you would be available for a meeting at your earliest convenience. \nThank you",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Chaitu Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/chaitureddy_1380819606651931",
+  "magic_words": [
+    
+  ]
+}

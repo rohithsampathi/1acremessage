@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "Hanu Ram"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Hanu Ram",
+      "timestamp_ms": 1714705052702,
+      "content": "You missed an audio call",
+      "call_duration": 0,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hanu Ram",
+      "timestamp_ms": 1714705050688,
+      "content": "farms_and_homes started an audio call",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708668759799,
+      "content": "Thanks for letting us know. We'll contact you soon to share more information about this plot.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hanu Ram",
+      "timestamp_ms": 1708668759250,
+      "content": "+918886166624",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708668754696,
+      "content": "Sounds good, Hanu. What is the best phone number to reach you?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hanu Ram",
+      "timestamp_ms": 1708668754196,
+      "content": "Call me",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708668751567,
+      "content": "Great! How would you like us to contact you?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hanu Ram",
+      "timestamp_ms": 1708668750390,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Hanu Ram",
+  "is_still_participant": true,
+  "thread_path": "inbox/hanuram_956020902605886",
+  "magic_words": [
+    
+  ]
+}

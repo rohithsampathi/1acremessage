@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "ANALOGUE"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717929456053,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412\nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "ANALOGUE",
+      "timestamp_ms": 1717929437123,
+      "content": "Details of this",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "ANALOGUE",
+      "timestamp_ms": 1717929418727,
+      "content": "ANALOGUE sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C7ys9k7Srbf/?id=3382964015692691167_47651711013",
+        "share_text": "2 acres | \u00e2\u0082\u00b95 Cr | Lakeview | Anantagiri Hills | Link in bio \u00f0\u009f\u008c\u009f\n\n- Verified and Facilitated by 1acre.in \n- Permissions for a 5-floor, 100-room lake view resort\n- Prime location near Vikarabad, perfect for a getaway\n\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 9959994737",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717928499326,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "ANALOGUE",
+      "timestamp_ms": 1717925457868,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "ANALOGUE",
+  "is_still_participant": true,
+  "thread_path": "inbox/analogue_1335022577887401",
+  "magic_words": [
+    
+  ]
+}

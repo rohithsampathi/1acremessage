@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Mahesh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721234270187,
+      "content": "Hi, Please talk to Sandeep 9005464412, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mahesh",
+      "timestamp_ms": 1721233065590,
+      "content": "Hi i am intrested",
+      "share": {
+        "link": "https://www.instagram.com/p/C9UBKzVt_9s/"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mahesh",
+  "is_still_participant": true,
+  "thread_path": "inbox/mahesh_18005624453556857",
+  "magic_words": [
+    
+  ]
+}

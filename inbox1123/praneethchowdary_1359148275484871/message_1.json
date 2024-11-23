@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "PrAneeth Chowdary"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707915515568,
+      "content": "He'll help you with the listing",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707915473193,
+      "content": "Please contact Ramakrishna \n7780122120",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "PrAneeth Chowdary",
+      "timestamp_ms": 1707915265715,
+      "content": "In gandimaissama church gagilapur 800mtrs from national highway",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "PrAneeth Chowdary",
+      "timestamp_ms": 1707915248422,
+      "content": "I'm looking to list our property",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707912957538,
+      "content": "Hi, may i know what you are looking for? I'll connect accordingly",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "PrAneeth Chowdary",
+      "timestamp_ms": 1707908374597,
+      "content": "Hi can I've your number",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "PrAneeth Chowdary",
+  "is_still_participant": true,
+  "thread_path": "inbox/praneethchowdary_1359148275484871",
+  "magic_words": [
+    
+  ]
+}

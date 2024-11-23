@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Rakshay Dhariwal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716538522107,
+      "content": "Ratna Kiran \n9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rakshay Dhariwal",
+      "timestamp_ms": 1716536232871,
+      "content": "Send me your number. Ill call and explain.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716526770118,
+      "content": "Let us know what you are looking for. We'll see how we can help.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rakshay Dhariwal",
+      "timestamp_ms": 1716516385208,
+      "content": "No",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716514360568,
+      "content": "Hi, are you speaking about a specific land that we have posted?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rakshay Dhariwal",
+      "timestamp_ms": 1716486511437,
+      "content": "Hi I'm looking for agricultural land",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rakshay Dhariwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/rakshaydhariwal_1436195514445681",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "HK Vedha"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717652248215,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "HK Vedha",
+      "timestamp_ms": 1717650982593,
+      "content": "Hello \u00f0\u009f\u0091\u008b",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "HK Vedha",
+  "is_still_participant": true,
+  "thread_path": "inbox/hkvedha_1386974512697528",
+  "magic_words": [
+    
+  ]
+}

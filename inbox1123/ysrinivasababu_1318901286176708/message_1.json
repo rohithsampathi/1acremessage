@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Ysrinivasa Babu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705928839759,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ysrinivasa Babu",
+      "timestamp_ms": 1705920145917,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ysrinivasa Babu",
+  "is_still_participant": true,
+  "thread_path": "inbox/ysrinivasababu_1318901286176708",
+  "magic_words": [
+    
+  ]
+}

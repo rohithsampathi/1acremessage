@@ -1,0 +1,124 @@
+{
+  "participants": [
+    {
+      "name": "RR"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721130058784,
+      "content": "Did you login? If not, Please click on 'Account' and login and check.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721130036995,
+      "content": "It's marked as premium.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721129919012,
+      "content": "Sorry about that. It should automatically happen. We'll fix it asap.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "RR",
+      "timestamp_ms": 1721124633925,
+      "content": "Email: ravinderreddy123@gmail.com",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "RR",
+      "timestamp_ms": 1721124597335,
+      "content": "My number is +1.267.428.0541",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "RR",
+      "timestamp_ms": 1721124572786,
+      "content": "Do you need to activate my account or enable mapview for me?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "RR",
+      "timestamp_ms": 1721124530037,
+      "content": "When I click on Access Mapview, it takes me to the subscribe option again",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "RR",
+      "timestamp_ms": 1721124503056,
+      "content": "I just paid 5000 for premium",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721118884794,
+      "content": "Additionally, if you want access to MapView and other filters - You can subscribe at 1acre.in/subscribe",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "2600+ Verified lands across Telangana."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721118825152,
+      "content": "1acre.in is a platform for verified lands. We have some 3000+ lands listed on the website. You can call the sellers directly",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "RR",
+      "timestamp_ms": 1721118504276,
+      "content": "Depends...I do not have a set budget but depending on the specifics may be like 2 to 3 cr",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721118420021,
+      "content": "Total budget?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "RR",
+      "timestamp_ms": 1721118239575,
+      "content": "I would like some help finding a right price of land suitable for a farm house/light farming with a house closer to the city",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "RR",
+      "timestamp_ms": 1721118156168,
+      "content": "I plan to come back in Dec, but meanwhile I would like to understand ur process and how you can help",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "RR",
+      "timestamp_ms": 1721118130697,
+      "content": "Hey, I'm currently in Hyd, visiting, will be leaving on 19th",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721117194751,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "RR",
+      "timestamp_ms": 1721115795224,
+      "content": "Hey there",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "RR",
+  "is_still_participant": true,
+  "thread_path": "inbox/rr_1331141171606897",
+  "magic_words": [
+    
+  ]
+}

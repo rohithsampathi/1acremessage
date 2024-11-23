@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Srimanth Paravastu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726483894132,
+      "content": "Hi, \nKindly check out the link below.\n\nhttps://www.1acre.in/verified-lands-for-sale/telangana/medak/chegunta/chinna-shivnoor/3115\n\nFeel free to reach out at 8341149011 should you need any other info",
+      "share": {
+        "link": "https://www.1acre.in/verified-lands-for-sale/telangana/medak/chegunta/chinna-shivnoor/3115",
+        "share_text": "Hi, \nKindly check out the link below.\n\nhttps://www.1acre.in/verified-lands-for-sale/telangana/medak/chegunta/chinna-shivnoor/3115\n\nFeel free to reach out at 8341149011 should you need any other info"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726457678916,
+      "content": "Srimanth Paravastu replied to an ad. View ad(https://www.instagram.com/p/C_xWSC_MLQA/)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srimanth Paravastu",
+      "timestamp_ms": 1726457677414,
+      "content": "Hello, Can I get more info on this?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Srimanth Paravastu",
+  "is_still_participant": true,
+  "thread_path": "inbox/srimanthparavastu_1539653324100093",
+  "magic_words": [
+    
+  ]
+}

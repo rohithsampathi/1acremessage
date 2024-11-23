@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Kranthi Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kranthi Kumar",
+      "timestamp_ms": 1722178817663,
+      "content": "Ok thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722091523897,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kranthi Kumar",
+      "timestamp_ms": 1722088907327,
+      "content": "Need share our property in your page",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kranthi Kumar",
+      "timestamp_ms": 1722088889591,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kranthi Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/kranthikumar_1523428432390817",
+  "magic_words": [
+    
+  ]
+}

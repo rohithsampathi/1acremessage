@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Krishna Chaitanya"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722253901205,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Krishna Chaitanya",
+      "timestamp_ms": 1722252289250,
+      "content": "Krishna sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C-ATqHHSHhR/?id=3422822173541693521_47651711013",
+        "share_text": "3 acres | \u00e2\u0082\u00b91.95 Cr per acre | Just off Chilkur-Vikarabad road | Link in bio \u00f0\u009f\u008c\u009f\n\nVerified and facilitated by 1acre.in\n\n- Just off 100' wide Chilkur-Vikarabad road\n- Very close to Villaggio premium farm community\n- Located in free zone beyond HMDA limits\n\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 8341149011\n\nDM us for more queries on buying, selling, or partnerships.\n\n#landforsale #chilkur #vikarabad #land #investment #propertyforsale #realestate",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Krishna Chaitanya",
+  "is_still_participant": true,
+  "thread_path": "inbox/krishnachaitanya_1505449707516961",
+  "magic_words": [
+    
+  ]
+}

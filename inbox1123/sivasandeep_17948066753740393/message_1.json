@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Siva Sandeep"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704444390883,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Siva Sandeep",
+      "timestamp_ms": 1704428450073,
+      "content": "Are you the middle man and take commission ? \nOr you buy from farmers and sell to us ? \nOr we buy the land together and upon selling, we share profits ? \n\nJust want to know the business model !!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Siva Sandeep",
+      "timestamp_ms": 1704428399867,
+      "content": "Is there a minimum land purchase that one should do?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Siva Sandeep",
+      "timestamp_ms": 1704428374958,
+      "content": "If each acre costs 3 lakhs and what if I can\u00e2\u0080\u0099t buy 100 acres in one go ? How do we manage if one can afford to buy 10 to 20acres.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Siva Sandeep",
+      "timestamp_ms": 1704428320337,
+      "content": "Hello, where are you guys buying lands in Maharashtra / Andhra Pradesh ? Can you share the location name and details ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Siva Sandeep",
+  "is_still_participant": true,
+  "thread_path": "inbox/sivasandeep_17948066753740393",
+  "magic_words": [
+    
+  ]
+}

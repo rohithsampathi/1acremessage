@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Hari Kasu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712845335815,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hari Kasu",
+      "timestamp_ms": 1712845021030,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709385902941,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team. He'll take note of your requirements.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hari Kasu",
+      "timestamp_ms": 1709385412334,
+      "content": "We can develop Villa, high raise towers, open plots",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hari Kasu",
+      "timestamp_ms": 1709385351207,
+      "content": "For development lands",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709360761670,
+      "content": "Hyderabad yes. May I know what you are looking for?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hari Kasu",
+      "timestamp_ms": 1709357579085,
+      "content": "I\u00e2\u0080\u0099m from Hyderabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hari Kasu",
+      "timestamp_ms": 1709357573982,
+      "content": "Where are you from",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709341882389,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hari Kasu",
+      "timestamp_ms": 1709314128102,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Hari Kasu",
+  "is_still_participant": true,
+  "thread_path": "inbox/harikasu_1321442555916755",
+  "magic_words": [
+    
+  ]
+}

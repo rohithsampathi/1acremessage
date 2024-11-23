@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Sounava Banerjee"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720146676212,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sounava Banerjee",
+      "timestamp_ms": 1720114850151,
+      "content": "I'm interested to talk about the 4 acre land",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sounava Banerjee",
+  "is_still_participant": true,
+  "thread_path": "inbox/sounavabanerjee_17993684111651928",
+  "magic_words": [
+    
+  ]
+}

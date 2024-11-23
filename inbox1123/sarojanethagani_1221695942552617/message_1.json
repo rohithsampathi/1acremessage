@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Saroja Nethagani"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703144833871,
+      "content": "Sure,you can connect with pratheek  9390674324,",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Saroja Nethagani",
+      "timestamp_ms": 1703139811816,
+      "content": "Hello!! Was looking for a farm land.. need guidance. Can we have a telephonic conversation?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Saroja Nethagani",
+  "is_still_participant": true,
+  "thread_path": "inbox/sarojanethagani_1221695942552617",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Yogesh Patel"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709138488385,
+      "content": "Hello Yogesh, may I know what you are looking for? I'll connect with someone in the team accordingly.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yogesh Patel",
+      "timestamp_ms": 1709137570355,
+      "content": "Hello, this is yogesh Patel from New Jersey. Please give me a contact number.  My US number is +1908500-0 500.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Yogesh Patel",
+  "is_still_participant": true,
+  "thread_path": "inbox/yogeshpatel_1299221448137360",
+  "magic_words": [
+    
+  ]
+}

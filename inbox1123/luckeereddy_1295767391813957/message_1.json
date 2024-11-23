@@ -1,0 +1,100 @@
+{
+  "participants": [
+    {
+      "name": "Luckee Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Luckee Reddy",
+      "timestamp_ms": 1711547855056,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711547504245,
+      "content": "You can also contact Pratheek \n9390674324, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711547484696,
+      "content": "1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711547478824,
+      "content": "Please check the website.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Luckee Reddy",
+      "timestamp_ms": 1711547463552,
+      "content": "Investment purpose",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Luckee Reddy",
+      "timestamp_ms": 1711547454367,
+      "content": "Any properties in and around hyd",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Luckee Reddy",
+      "timestamp_ms": 1711547439132,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711544830542,
+      "content": "Yavatmal maharashtra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Luckee Reddy",
+      "timestamp_ms": 1711544285126,
+      "content": "Where is it",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710089935277,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Luckee Reddy",
+      "timestamp_ms": 1710089296542,
+      "content": "Seen your 10 acre property",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710088225694,
+      "content": "Hi, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Luckee Reddy",
+      "timestamp_ms": 1710085113724,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Luckee Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/luckeereddy_1295767391813957",
+  "magic_words": [
+    
+  ]
+}

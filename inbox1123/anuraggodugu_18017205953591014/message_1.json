@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Anurag Godugu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anurag Godugu",
+      "timestamp_ms": 1723987056000,
+      "content": "Thank you!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723985732580,
+      "content": "Hi, Please talk to Sandeep, from the team.\n7702801301",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anurag Godugu",
+      "timestamp_ms": 1723983714776,
+      "content": "Hello\nI'm an open plots layout developer and have few properties in Hyderabad - Warangal route and Hyd - Bengaluru route. Could you please arrange a meeting with one of our your executives? I want to know possibilities of collaborating with 1acre.in in selling my plots.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hello\nI'm an open plots layout developer and have few properties in Hyderabad - Warangal route and Hyd - Bengaluru route. Could you please arrange a meeting with one of our your executives? I want to know possibilities of collaborating with 1acre.in in selling my plots."
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Anurag Godugu",
+  "is_still_participant": true,
+  "thread_path": "inbox/anuraggodugu_18017205953591014",
+  "magic_words": [
+    
+  ]
+}

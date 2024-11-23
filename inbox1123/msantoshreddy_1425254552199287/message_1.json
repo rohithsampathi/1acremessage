@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "M.Santosh Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "M.Santosh Reddy",
+      "timestamp_ms": 1722421070984,
+      "content": "Number pz what's app",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722420625094,
+      "content": "Please share your resume to sandeep@1acre.in",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "M.Santosh Reddy",
+      "timestamp_ms": 1722418815325,
+      "content": "Whr is ur office or banch Or location",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "M.Santosh Reddy",
+      "timestamp_ms": 1722418780164,
+      "content": "Work with u",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "M.Santosh Reddy",
+      "timestamp_ms": 1722418777533,
+      "content": "Sir I'm interested",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "M.Santosh Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/msantoshreddy_1425254552199287",
+  "magic_words": [
+    
+  ]
+}

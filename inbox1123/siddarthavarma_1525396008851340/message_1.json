@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Siddartha Varma"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729751626863,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Siddartha Varma",
+      "timestamp_ms": 1729697772603,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Siddartha Varma",
+  "is_still_participant": true,
+  "thread_path": "inbox/siddarthavarma_1525396008851340",
+  "magic_words": [
+    
+  ]
+}

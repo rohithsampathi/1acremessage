@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "SIDHU\u00f0\u009f\u00a6\u0085"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "SIDHU\u00f0\u009f\u00a6\u0085",
+      "timestamp_ms": 1726539789241,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726539780186,
+      "content": "Our team will get back to you shortly \u00f0\u009f\u0099\u0082",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SIDHU\u00f0\u009f\u00a6\u0085",
+      "timestamp_ms": 1726539771988,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726539761304,
+      "content": "Are you interested to buy this land ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SIDHU\u00f0\u009f\u00a6\u0085",
+      "timestamp_ms": 1726537473963,
+      "content": "SIDHU\u00f0\u009f\u00a6\u0085 sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C8ZV7fkSx4e/?id=3393840241521139230_47651711013",
+        "share_text": "3 acres | 65 Lakhs per acre | Ananthagiri Hills | Link in bio \u00f0\u009f\u008c\u009f\n\n- Verified and facilitated by 1acre.in\n- 500 ft road frontage along a 40 ft blacktop road\n- Just 10 km from Vikarabad\n- Surrounded by beautiful views\n\nInterested? Get in touch now! \n\n\u00f0\u009f\u0093\u009e +91 9959994737",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "SIDHU\u00f0\u009f\u00a6\u0085",
+  "is_still_participant": true,
+  "thread_path": "inbox/sidhu_17998887050670922",
+  "magic_words": [
+    
+  ]
+}

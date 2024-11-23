@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Akshay Tehri"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726145253326,
+      "content": "We currently only operate in telangana and andhra\n\nWill keep you posted when we launch in other states",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akshay Tehri",
+      "timestamp_ms": 1726142652154,
+      "content": "Do you have land in Gurgaon, Sohna too?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Akshay Tehri",
+  "is_still_participant": true,
+  "thread_path": "inbox/akshaytehri_1438784990844398",
+  "magic_words": [
+    
+  ]
+}

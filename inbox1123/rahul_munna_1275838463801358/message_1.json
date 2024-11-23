@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "RAHUL_MUNNA\u00e2\u009d\u00a4"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715755323995,
+      "content": "9032114737\nYou can talk to Bharath, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "RAHUL_MUNNA\u00e2\u009d\u00a4",
+      "timestamp_ms": 1715754810322,
+      "content": "I'm interested",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "RAHUL_MUNNA\u00e2\u009d\u00a4",
+      "timestamp_ms": 1715754809557,
+      "content": "RAHUL_MUNNA\u00e2\u009d\u00a4 sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C4j3HBRt6Vt/?id=3324743324894995821_47651711013",
+        "share_text": "9032114737\n\nPlease call Bharath, from the team.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "RAHUL_MUNNA\u00e2\u009d\u00a4",
+  "is_still_participant": true,
+  "thread_path": "inbox/rahul_munna_1275838463801358",
+  "magic_words": [
+    
+  ]
+}

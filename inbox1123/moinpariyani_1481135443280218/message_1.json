@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Moin pariyani"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Moin pariyani",
+      "timestamp_ms": 1724752338249,
+      "content": "Alright \u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724752216635,
+      "content": "Although we'd be launching Gujarat in a month, You can meanwhile discuss with Satish (co-founder) at 7661933372",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724752158900,
+      "content": "Sure Mr. Moin,\nThanks for reaching out.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Moin pariyani",
+      "timestamp_ms": 1724684246000,
+      "content": "Dear 1Acre.in Team,\n\nI hope this message finds you well. My name is Moin Pariyani, and I am writing to express my interest in your potential expansion into the Gujarat region. I am a real estate professional with extensive experience in land ownership, development, and construction in my hometown of Jasdan, Rajkot, Gujarat.\n\nI believe that there is significant potential for your business in this region, and I would be delighted to discuss how we might collaborate to ensure the success of your expansion.\n\nI look forward to hearing from you.\n\nBest regards,\nMoin Pariyani\n+91-8347798692",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Dear 1Acre.in Team,\n\nI hope this message finds you well. My name is Moin Pariyani, and I am writing to express my interest in your potential expansion into the Gujarat region. I am a real estate professional with extensive experience in land ownership, development, and construction in my hometown of Jasdan, Rajkot, Gujarat.\n\nI believe that there is significant potential for your business in this region, and I would be delighted to discuss how we might collaborate to ensure the success of your expansion.\n\nI look forward to hearing from you.\n\nBest regards,\nMoin Pariyani\n+91-8347798692"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Moin pariyani",
+  "is_still_participant": true,
+  "thread_path": "inbox/moinpariyani_1481135443280218",
+  "magic_words": [
+    
+  ]
+}

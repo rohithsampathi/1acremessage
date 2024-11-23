@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Basha Shaik@Munna"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Basha Shaik@Munna",
+      "timestamp_ms": 1723484018974,
+      "content": "Sir \nI'm from Tadepalli madalam Andhra Pradesh. Undavalli is the nearest village of AP capital Amaravati",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723483386140,
+      "content": "We currently only operate in telangana and Andhra pradesh\n\nWill keep you posted when we launch in other states",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Basha Shaik@Munna",
+      "timestamp_ms": 1723476623812,
+      "content": "Hi sir \nWe have Semi Commercial House want to sale Rajadhani Area Undavalli. Can you share your contact details",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Basha Shaik@Munna",
+  "is_still_participant": true,
+  "thread_path": "inbox/bashashaikmunna_17933182349876240",
+  "magic_words": [
+    
+  ]
+}

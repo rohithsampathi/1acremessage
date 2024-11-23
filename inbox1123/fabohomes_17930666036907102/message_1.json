@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Fabo homes"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Fabo homes",
+      "timestamp_ms": 1723092420145,
+      "content": "Hi, thanks for contacting us. We've received your message and appreciate you getting in touch.\nFor immediate assistance please call us on 7799666716\npleasew visit our website www.fabohomes.in",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723092418747,
+      "content": "Hi, Please contact Srikar\n8341149011, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Fabo homes",
+      "timestamp_ms": 1723091447797,
+      "content": "Is there any possibility for development",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Fabo homes",
+      "timestamp_ms": 1723091436699,
+      "content": "https://www.instagram.com/reel/C8J7K3vSQtW/?igsh=dXRzam84aGJzOXdy",
+      "share": {
+        "link": "https://www.instagram.com/reel/C8J7K3vSQtW/?id=3389500426361047894_47651711013",
+        "share_text": "74 acres | \u00e2\u0082\u00b91.1 Cr per acre | Near Shadnagar | Link in bio \u00f0\u009f\u008c\u009f\n\n- Verified and facilitated by 1acre.in\n- Fully developed mango and palm-oil plantation\n- 50 km from ORR, 5 km from Bengaluru highway, close to proposed RRR\n- Includes power, farm ponds, drip irrigation, borewells, fencing, and worker accommodation\n\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 9959994737",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Fabo homes",
+  "is_still_participant": true,
+  "thread_path": "inbox/fabohomes_17930666036907102",
+  "magic_words": [
+    
+  ]
+}

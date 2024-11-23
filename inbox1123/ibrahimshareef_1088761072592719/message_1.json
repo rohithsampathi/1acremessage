@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Ibrahim shareef"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729239621719,
+      "content": "We have digitised most lakes on google maps and now you can check directly. \n\nLink : www.1acre.in/lakes\n\nIf your lake is mentioned on HMDA website and is not there on our website, you can request for it .\n\nWe will digitise it on priority basis",
+      "share": {
+        "link": "http://www.1acre.in/lakes",
+        "share_text": "We have digitised most lakes on google maps and now you can check directly. \n\nLink : www.1acre.in/lakes\n\nIf your lake is mentioned on HMDA website and is not there on our website, you can request for it .\n\nWe will digitise it on priority basis"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ibrahim shareef",
+      "timestamp_ms": 1727676630494,
+      "content": "Ibrahim sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DAdiWBsyusS/?id=3467078335380253458_47651711013",
+        "share_text": "We hope this video helps in understanding FTL & buffer zones.\n\nDM us if you need more details and we will try to help you the best we can. \n\nDo comment what you think about the current situation with HYDRA. \n\n#hyderabad #realestate #hydra #demolition #land #lake",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ibrahim shareef",
+  "is_still_participant": true,
+  "thread_path": "inbox/ibrahimshareef_1088761072592719",
+  "magic_words": [
+    
+  ]
+}

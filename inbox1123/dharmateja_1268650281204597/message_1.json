@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Dharma Teja"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dharma Teja",
+      "timestamp_ms": 1711714449014,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711713770527,
+      "content": "Hi, no. We don't Market. Thanks for reaching out.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Dharma Teja",
+          "timestamp": 1711714449
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dharma Teja",
+      "timestamp_ms": 1711712356656,
+      "content": "Would like to know if you take projects for marketing ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711638161462,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dharma Teja",
+      "timestamp_ms": 1711635375958,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Dharma Teja",
+  "is_still_participant": true,
+  "thread_path": "inbox/dharmateja_1268650281204597",
+  "magic_words": [
+    
+  ]
+}

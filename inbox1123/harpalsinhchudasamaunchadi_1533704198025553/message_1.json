@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Harpalsinh Chudasama Unchadi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Harpalsinh Chudasama Unchadi",
+      "timestamp_ms": 1729675728819,
+      "content": "Aap k pass customer he to mil ke kar te he",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729670302087,
+      "content": "How can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harpalsinh Chudasama Unchadi",
+      "timestamp_ms": 1729667555599,
+      "content": "Me dholera Gujarat se real estate ka kar raha hu",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729079629493,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harpalsinh Chudasama Unchadi",
+      "timestamp_ms": 1729062832332,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Harpalsinh Chudasama Unchadi",
+  "is_still_participant": true,
+  "thread_path": "inbox/harpalsinhchudasamaunchadi_1533704198025553",
+  "magic_words": [
+    
+  ]
+}

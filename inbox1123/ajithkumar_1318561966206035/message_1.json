@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Ajith Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703738983220,
+      "content": "Hi , you can connect with pratheek  9390674324,",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ajith Kumar",
+      "timestamp_ms": 1703701562725,
+      "content": "Need in karnataka",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ajith Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/ajithkumar_1318561966206035",
+  "magic_words": [
+    
+  ]
+}

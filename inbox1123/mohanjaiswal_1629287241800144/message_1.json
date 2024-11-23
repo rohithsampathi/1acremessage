@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009d\u0091\u0080\u00f0\u009d\u0092\u00aa\u00f0\u009d\u0090\u00bb\u00f0\u009d\u0092\u009c\u00f0\u009d\u0092\u00a9 \u00f0\u009d\u0092\u00a5\u00f0\u009d\u0092\u009c\u00f0\u009d\u0090\u00bc\u00f0\u009d\u0092\u00ae\u00f0\u009d\u0092\u00b2\u00f0\u009d\u0092\u009c\u00f0\u009d\u0090\u00bf"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726139198346,
+      "content": "This account can't receive your message because they don't allow new message requests from everyone.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726139195270,
+      "content": "Hi, please let us know how we can help you.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00f0\u009d\u0091\u0080\u00f0\u009d\u0092\u00aa\u00f0\u009d\u0090\u00bb\u00f0\u009d\u0092\u009c\u00f0\u009d\u0092\u00a9 \u00f0\u009d\u0092\u00a5\u00f0\u009d\u0092\u009c\u00f0\u009d\u0090\u00bc\u00f0\u009d\u0092\u00ae\u00f0\u009d\u0092\u00b2\u00f0\u009d\u0092\u009c\u00f0\u009d\u0090\u00bf",
+  "is_still_participant": true,
+  "thread_path": "inbox/mohanjaiswal_1629287241800144",
+  "magic_words": [
+    
+  ]
+}

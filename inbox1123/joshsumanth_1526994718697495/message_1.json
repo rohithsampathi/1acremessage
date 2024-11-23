@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Josh Sumanth"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727774066939,
+      "content": "Hello , \n\nDue to unforeseen demand , we are not able to address each request so we have decided to digitised all lakes around hyderabad and make it accessible for free for everyone.\n\nTo help prioritise the digitisation process, fill the following form with your requirements. We will inform you once your required lake is digitised. \nRequirement form : https://forms.gle/LFThdXChRzH8Uz6M6 \n\nThanks for your patience.",
+      "share": {
+        "link": "https://forms.gle/LFThdXChRzH8Uz6M6",
+        "share_text": "Hello , \n\nDue to unforeseen demand , we are not able to address each request so we have decided to digitised all lakes around hyderabad and make it accessible for free for everyone.\n\nTo help prioritise the digitisation process, fill the following form with your requirements. We will inform you once your required lake is digitised. \nRequirement form : https://forms.gle/LFThdXChRzH8Uz6M6 \n\nThanks for your patience."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727604694384,
+      "content": "Sure, you can contact Ratna Kiran, Our Co-Founder in working hours. 9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Josh Sumanth",
+      "timestamp_ms": 1727604261615,
+      "content": "Can you please share your phone number \nSo we will contact you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727604078481,
+      "content": "Hii, sure. We would have to commision a GIS expert. It would be at cost 5000.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Josh Sumanth",
+      "timestamp_ms": 1727601477524,
+      "content": "We need your help on hydra \nWe are looking to purchase the flat in apartment \nSo can you please confirm with us about the hydra under buffer zone and FTL regarding the Gopi cheruvu",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727593455339,
+      "content": "Hi, how can we help you?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Josh Sumanth",
+      "timestamp_ms": 1727589413739,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Josh Sumanth",
+  "is_still_participant": true,
+  "thread_path": "inbox/joshsumanth_1526994718697495",
+  "magic_words": [
+    
+  ]
+}

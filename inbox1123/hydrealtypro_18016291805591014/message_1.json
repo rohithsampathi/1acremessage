@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Hydrealtypro"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Hydrealtypro",
+      "timestamp_ms": 1723386638981,
+      "content": "Ok thanks sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723383008411,
+      "content": "Hi, Please contact Srikar\n8341149011, from the team. \nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hydrealtypro",
+      "timestamp_ms": 1723382144135,
+      "content": "I want to promote land available at your site and want brokerage",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723378221820,
+      "content": "Please share some context so we can connect you to right person",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723378202883,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hydrealtypro",
+      "timestamp_ms": 1723359874187,
+      "content": "Hiii may I know your contact number",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Hydrealtypro",
+  "is_still_participant": true,
+  "thread_path": "inbox/hydrealtypro_18016291805591014",
+  "magic_words": [
+    
+  ]
+}

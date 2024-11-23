@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "vasubhagavatula"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709303173647,
+      "content": "He'll call back.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "vasubhagavatula",
+      "timestamp_ms": 1709303069490,
+      "content": "no response",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709302133640,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "vasubhagavatula",
+      "timestamp_ms": 1709301344980,
+      "content": "please share  ur contact number",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3251801253210556633"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "vasubhagavatula",
+  "is_still_participant": true,
+  "thread_path": "inbox/vasubhagavatula_1383682149698705",
+  "magic_words": [
+    
+  ]
+}

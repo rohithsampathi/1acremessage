@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Anjum Firoz"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anjum Firoz",
+      "timestamp_ms": 1726204866872,
+      "content": "Please call me on 9885737331\nTo discuss details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726128441442,
+      "content": "This is Shruthi from 1acre.\nCan you tell me your name and the region/area where you are from?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726128360466,
+      "content": "Thank you for applying as a regional partner with 1acre.in.\nWe shall get back to you soon",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anjum Firoz",
+      "timestamp_ms": 1726128351119,
+      "content": "Hi\nI want to sell my commercial property in troop bazar. Please can you help?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Anjum Firoz",
+  "is_still_participant": true,
+  "thread_path": "inbox/anjumfiroz_1489442282448767",
+  "magic_words": [
+    
+  ]
+}

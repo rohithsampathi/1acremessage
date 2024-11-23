@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Fatima khan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Fatima khan",
+      "timestamp_ms": 1727867829549,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727867810381,
+      "content": "We shall inform once we have a solution",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727867798878,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Fatima khan",
+      "timestamp_ms": 1727860132497,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/fatimakhan_17942637431860318/photos/461480064_1233665108057609_2739571042079565196_n_1233665104724276.jpg",
+          "creation_timestamp": 1727860131,
+          "backup_uri": "https://scontent.fmaa12-2.fna.fbcdn.net/v/t1.15752-9/461480064_1233665108057609_2739571042079565196_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_ohc=e8n8pWbFKgkQ7kNvgHu_ghb&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fmaa12-2.fna&oh=03_Q7cD1QHYnCkF7QpGiFWieUBtgav4jDnfZlPZOaDvzm5UILkcKw&oe=676698B7"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727859487186,
+      "content": "How can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Fatima khan",
+      "timestamp_ms": 1727853334998,
+      "content": "9502758791",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Fatima khan",
+  "is_still_participant": true,
+  "thread_path": "inbox/fatimakhan_17942637431860318",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "P Sai Srinivas"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715697223946,
+      "content": "9032114737\nYou can talk to Bharath, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "P Sai Srinivas",
+      "timestamp_ms": 1715696314827,
+      "content": "7730051364",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "P Sai Srinivas",
+      "timestamp_ms": 1715696309414,
+      "content": "Send me your details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "P Sai Srinivas",
+      "timestamp_ms": 1715696301792,
+      "content": "Iam interested to do jobs and",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "P Sai Srinivas",
+      "timestamp_ms": 1715696301000,
+      "content": "P Sai sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C4j3HBRt6Vt/?id=3324743324894995821_47651711013",
+        "share_text": "9032114737\n\nPlease call Bharath, from the team.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "P Sai Srinivas",
+      "timestamp_ms": 1711545639853,
+      "content": "Hlo sir I need job sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "P Sai Srinivas",
+  "is_still_participant": true,
+  "thread_path": "inbox/psaisrinivas_1254150779304281",
+  "magic_words": [
+    
+  ]
+}

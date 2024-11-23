@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Gauravh Kulkarni"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gauravh Kulkarni",
+      "timestamp_ms": 1712332159947,
+      "content": "Ok no problem thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712332017137,
+      "content": "Hi, currently we are only operational in Telangana. Soon, we'll be launching Maharashtra. Will keep you informed.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gauravh Kulkarni",
+      "timestamp_ms": 1712331949375,
+      "content": "Good evening \nWe are having land in pune Naygaon ( Kamshet ) 35 km a from pune city which we want to make JV or sale is your team interested please let me know so that I can send details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711932925388,
+      "content": "We are a listing platform and we don't suggest investments for 2x. You can explore 1acre.in And call the sellers directly, if you like any land.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "We are a listing platform and we don't suggest investments for 2x. You can explore 1acre.in And call the sellers directly, if you like any land."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gauravh Kulkarni",
+      "timestamp_ms": 1711902238775,
+      "content": "Investment which will make at least 2 x",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711894490349,
+      "content": "Hi, may I know what you are looking for?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gauravh Kulkarni",
+      "timestamp_ms": 1711887841183,
+      "content": "Can you Please share me your contact details",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Gauravh Kulkarni",
+  "is_still_participant": true,
+  "thread_path": "inbox/gauravhkulkarni_1271227447598669",
+  "magic_words": [
+    
+  ]
+}

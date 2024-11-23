@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Goutham Reddy Chencharapu | Life Coach"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721408002351,
+      "content": "Hi, Please talk to Sandeep 9005464412, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Goutham Reddy Chencharapu | Life Coach",
+      "timestamp_ms": 1721406764973,
+      "content": "Hello, can I get more info on this?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Goutham Reddy Chencharapu | Life Coach",
+      "timestamp_ms": 1721406764613,
+      "share": {
+        "link": "https://www.instagram.com/p/C9UBKzVt_9s/"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Goutham Reddy Chencharapu | Life Coach",
+  "is_still_participant": true,
+  "thread_path": "inbox/gouthamreddychencharapulifecoach_1005571514407573",
+  "magic_words": [
+    
+  ]
+}

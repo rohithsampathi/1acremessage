@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Kavith Sagar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725241133981,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kavith Sagar",
+      "timestamp_ms": 1725222393853,
+      "content": "Please let me know the details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kavith Sagar",
+      "timestamp_ms": 1725222375769,
+      "content": "I want to post an advertisement on your page",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kavith Sagar",
+      "timestamp_ms": 1725222343304,
+      "content": "I'm willing to sell my 2 ACRES land  situated at Chandanvally village, Shabad mandal, rangaareddy district,",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kavith Sagar",
+      "timestamp_ms": 1725222301582,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kavith Sagar",
+  "is_still_participant": true,
+  "thread_path": "inbox/kavithsagar_1451484109575757",
+  "magic_words": [
+    
+  ]
+}

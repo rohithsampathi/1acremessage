@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Ravinder"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706113483127,
+      "content": "Hi, Please contact Ramakrishna \n7780122120",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravinder",
+      "timestamp_ms": 1706106142837,
+      "content": "Sangareddy distric NH 65 and RRR ki degaralo lands unai sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ravinder",
+  "is_still_participant": true,
+  "thread_path": "inbox/ravinder_1327364501990964",
+  "magic_words": [
+    
+  ]
+}

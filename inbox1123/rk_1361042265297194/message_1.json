@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "RK"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713773349127,
+      "content": "Currently listing only Telangana. Starting other states very soon. Will keep you posted. Thanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "RK",
+      "timestamp_ms": 1713771678054,
+      "content": "Agricultural",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "RK",
+      "timestamp_ms": 1713771671936,
+      "content": "Any land near Nasik",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "RK",
+  "is_still_participant": true,
+  "thread_path": "inbox/rk_1361042265297194",
+  "magic_words": [
+    
+  ]
+}

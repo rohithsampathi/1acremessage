@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Vinoth Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730806396864,
+      "content": "What details are you seeking ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vinoth Kumar",
+      "timestamp_ms": 1730798086715,
+      "content": "Details pls",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vinoth Kumar",
+      "timestamp_ms": 1730798084965,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vinoth Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/vinothkumar_18027013955591014",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "VA"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "VA",
+      "timestamp_ms": 1702278828860,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702273106730,
+      "content": "He'll guide you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702273100768,
+      "content": "Please get in touch with him",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702273083052,
+      "content": "You can with pratheek 9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "VA",
+      "timestamp_ms": 1702272782409,
+      "content": "Can I get more details on it",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "VA",
+      "timestamp_ms": 1702272776902,
+      "content": "Hi Saw a post about 1 acre land in Vikarabd, price shown as 42 lakhs",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "VA",
+  "is_still_participant": true,
+  "thread_path": "inbox/va_1307874207279850",
+  "magic_words": [
+    
+  ]
+}

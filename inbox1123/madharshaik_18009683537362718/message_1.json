@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Madhar Shaik"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Madhar Shaik",
+      "timestamp_ms": 1712627225779,
+      "content": "Iam intrested",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Madhar Shaik",
+  "is_still_participant": true,
+  "thread_path": "inbox/madharshaik_18009683537362718",
+  "magic_words": [
+    
+  ]
+}

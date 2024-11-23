@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718972575949,
+      "content": "Hey",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718972575267,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C8ehaG7yiD0/?id=3395298098770747636_47651711013",
+        "share_text": "14 acres | 1.07 Cr per acre | Near Shadnagar | Link in bio \u00f0\u009f\u008c\u009f\n\n- Verified and facilitated by 1acre.in\n- Nala converted industrial land with existing 50,000 sq ft structures\n- 500 kV power supply\n- Just 6 km from Bengaluru highway\n- Ideal for warehousing\n- Price is not negotiable \n\nInterested? Get in touch now! \n\n\u00f0\u009f\u0093\u009e +91 9959994737",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "1acre.in | Buy verified lands",
+  "is_still_participant": true,
+  "thread_path": "inbox/1acreinbuyverifiedlands_17986474637591014",
+  "magic_words": [
+    
+  ]
+}

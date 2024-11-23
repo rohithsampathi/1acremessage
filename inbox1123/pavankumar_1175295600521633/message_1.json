@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Pavan Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707265966929,
+      "content": "Please contact Pratheek \n9390674324, from the team. He'll help you with the details. Thanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707265925599,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pavan Kumar",
+      "timestamp_ms": 1707232875259,
+      "content": "My initial budget is 1 CR. But i can pull in my friends based on property",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707198305531,
+      "content": "May I know your total budget?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707198296473,
+      "content": "Hi, thanks for reaching out.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pavan Kumar",
+      "timestamp_ms": 1707196086095,
+      "content": "May i know the location and does the lands are fertile lands?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pavan Kumar",
+      "timestamp_ms": 1707196060802,
+      "content": "Hello, saw your post regarding land parcels in Maharashtra",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Pavan Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/pavankumar_1175295600521633",
+  "magic_words": [
+    
+  ]
+}

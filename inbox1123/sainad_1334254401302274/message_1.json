@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Sai Nad"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709517106048,
+      "content": "Please contact Ratna Kiran \n9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Nad",
+      "timestamp_ms": 1709488970823,
+      "content": "Hello, can I get more info on this?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Nad",
+      "timestamp_ms": 1709488970449,
+      "share": {
+        "link": "https://www.instagram.com/p/C3t3CBgtPFl/"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sai Nad",
+  "is_still_participant": true,
+  "thread_path": "inbox/sainad_1334254401302274",
+  "magic_words": [
+    
+  ]
+}

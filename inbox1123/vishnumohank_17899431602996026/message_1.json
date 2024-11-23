@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Vishnu Mohan k"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716684176315,
+      "content": "vishnumohank1 wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716684175938,
+      "content": "Hi, currently not operational in Karnataka. Will keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishnu Mohan k",
+      "timestamp_ms": 1716657702342,
+      "content": "In karnataka",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishnu Mohan k",
+      "timestamp_ms": 1716657694198,
+      "content": "Hi \nDo you have any land suitable for mineral water plant which is having good source of mountain water",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vishnu Mohan k",
+  "is_still_participant": true,
+  "thread_path": "inbox/vishnumohank_17899431602996026",
+  "magic_words": [
+    
+  ]
+}

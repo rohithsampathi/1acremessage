@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Nandan Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722305330319,
+      "content": "Hello Mr Nandan \n\nThanks for reaching out :) \n\nPlease call sandeep at 9005464412 to discuss further details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nandan Reddy",
+      "timestamp_ms": 1722275355579,
+      "content": "Hi 1 Acre In,\n\nI am a real estate developer based in Hyderabad, and we have recently launched an exciting project called Udyana Farmlands near Singoor Dam. This project spans about 40 acres and includes farmlands sized at 605 yards each. We are very interested in exploring potential collaboration opportunities with your esteemed organization.\n\nCould you please provide details on the procedure for establishing such a collaboration and the potential areas where we could work together?\n\nLooking forward to your positive response.\n\nBest regards,\nNandan Gangula",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nandan Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/nandanreddy_1368139674589027",
+  "magic_words": [
+    
+  ]
+}

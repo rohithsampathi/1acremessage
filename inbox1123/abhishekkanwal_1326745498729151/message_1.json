@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Abhishek Kanwal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717917628536,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717917627772,
+      "content": "You sent a private reply to a comment on your Instagram post.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Abhishek Kanwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/abhishekkanwal_1326745498729151",
+  "magic_words": [
+    
+  ]
+}

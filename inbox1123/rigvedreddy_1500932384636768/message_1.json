@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Rigved Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721613889888,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721613889103,
+      "content": "Hi, Please contact Vijay 9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rigved Reddy",
+      "timestamp_ms": 1721530891198,
+      "content": "If yes, share me the location",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rigved Reddy",
+      "timestamp_ms": 1721530880060,
+      "content": "https://www.instagram.com/reel/C9pDEg0SFc6/?igsh=MTAzNnBibDY3bjFlZw==",
+      "share": {
+        "link": "https://www.instagram.com/reel/C9pDEg0SFc6/?id=3416275296591566650_47651711013",
+        "share_text": "1320 sq yards | \u00e2\u0082\u00b913,500 per sq yard | Near Bibinagar | Link in bio \u00f0\u009f\u008c\u009f\n\n- Verified and facilitated by 1acre.in\n- Amalgamation of 8 plots in a well-developed HMDA layout\n- Just 1 km from Bibinagar town\n- Close to AIIMS, Swarnagiri, and Yadadri temples\n- Offered at a discounted rate for investors\n\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 9390155412\n\n\u00f0\u009f\u0093\u00ac DM us for more queries on buying, selling, or partnerships",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rigved Reddy",
+      "timestamp_ms": 1721530877579,
+      "content": "Hello is this still available?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rigved Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/rigvedreddy_1500932384636768",
+  "magic_words": [
+    
+  ]
+}

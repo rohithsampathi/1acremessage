@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "\u00c5\u0098\u00c3\u00a1j\u00c3\u00a0 \u00e2\u00b1\u00a4Am\u00cc\u0090"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00c5\u0098\u00c3\u00a1j\u00c3\u00a0 \u00e2\u00b1\u00a4Am\u00cc\u0090",
+      "timestamp_ms": 1711794841367,
+      "content": "Okay sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711789865986,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00c5\u0098\u00c3\u00a1j\u00c3\u00a0 \u00e2\u00b1\u00a4Am\u00cc\u0090",
+      "timestamp_ms": 1711785874780,
+      "content": "I wanted to sell my land which is in Chevalla",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00c5\u0098\u00c3\u00a1j\u00c3\u00a0 \u00e2\u00b1\u00a4Am\u00cc\u0090",
+      "timestamp_ms": 1711785856962,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00c5\u0098\u00c3\u00a1j\u00c3\u00a0 \u00e2\u00b1\u00a4Am\u00cc\u0090",
+  "is_still_participant": true,
+  "thread_path": "inbox/rajaam_1341132823947818",
+  "magic_words": [
+    
+  ]
+}

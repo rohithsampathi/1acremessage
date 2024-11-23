@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Jyoshna"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707193029067,
+      "content": "We are not giving collaborations. Thanks for reaching out.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jyoshna",
+      "timestamp_ms": 1707190199891,
+      "content": "Ok na andi collaboration",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jyoshna",
+      "timestamp_ms": 1707190197707,
+      "content": "Hi andi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jyoshna",
+      "timestamp_ms": 1707074581855,
+      "content": "Hi andi Can you give me collaboration",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Jyoshna",
+  "is_still_participant": true,
+  "thread_path": "inbox/jyoshna_17938071164795126",
+  "magic_words": [
+    
+  ]
+}

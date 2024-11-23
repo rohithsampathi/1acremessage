@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Sudhakar Reddy Nalamalapu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721041542903,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721041540879,
+      "content": "Hi, Please contact Vijay 9959994737, from the team.  He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sudhakar Reddy Nalamalapu",
+      "timestamp_ms": 1721040212424,
+      "content": "This msg regarding 1800 sqyrds plot",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721037873408,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sudhakar Reddy Nalamalapu",
+      "timestamp_ms": 1721037024324,
+      "content": "Hey",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3412613153392559027"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sudhakar Reddy Nalamalapu",
+  "is_still_participant": true,
+  "thread_path": "inbox/sudhakarreddynalamalapu_1486626669404644",
+  "magic_words": [
+    
+  ]
+}

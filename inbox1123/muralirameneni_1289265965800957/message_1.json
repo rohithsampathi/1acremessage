@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Murali Rameneni"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707488430608,
+      "content": "As on date, we are only in Telangana. We'll let you know. Thanks for reaching out.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Murali Rameneni",
+      "timestamp_ms": 1707487703992,
+      "content": "I am looking for lands to buy",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707458912064,
+      "content": "Or are you an owner looking to sell?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707458899785,
+      "content": "Are you looking to buy?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707458889593,
+      "content": "Hi, currently, we are only operating in Telangana. We are laughing other states soon. We'll get back to you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Murali Rameneni",
+      "timestamp_ms": 1707458493642,
+      "content": "Please let us know",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Murali Rameneni",
+      "timestamp_ms": 1707458485730,
+      "content": "Any lands that you guys are dealing in Andhra Pradesh around at Guntur and Vijayawada",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Murali Rameneni",
+  "is_still_participant": true,
+  "thread_path": "inbox/muralirameneni_1289265965800957",
+  "magic_words": [
+    
+  ]
+}

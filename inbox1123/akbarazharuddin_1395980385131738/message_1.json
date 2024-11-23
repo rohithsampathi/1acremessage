@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "AKBAR $$ AZHARUDDIN"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "AKBAR $$ AZHARUDDIN",
+      "timestamp_ms": 1714230531331,
+      "content": "9885010369",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "AKBAR $$ AZHARUDDIN",
+      "timestamp_ms": 1714230521228,
+      "content": "Need 2 to 3 acre near chevella same 40 to 50lkh budget",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "AKBAR $$ AZHARUDDIN",
+  "is_still_participant": true,
+  "thread_path": "inbox/akbarazharuddin_1395980385131738",
+  "magic_words": [
+    
+  ]
+}

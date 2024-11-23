@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Ace Interio's"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ace Interio's",
+      "timestamp_ms": 1706696109145,
+      "content": "Ace sent an attachment.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706117687639,
+      "content": "Thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706117684846,
+      "content": "Hi, thanks for reaching out. I am afraid we are cut off as markets and won't be of help in passing on the leads.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ace Interio's",
+      "timestamp_ms": 1706116300176,
+      "content": "Hi,\n\nI\u00e2\u0080\u0099m reaching out to inquire about a project. Please let me know if you\u00e2\u0080\u0099re interested in working together and if you have availability to discuss further. Looking forward to hearing from you!\n\n\nI run an interior ,renovation construction and firm Iam looking for leads if you can provide me access to your contacts and help me taking up their requirements for interiors we can share the profit as per the all over budget. if interested pls let me know sir \nThankyou.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ace Interio's",
+  "is_still_participant": true,
+  "thread_path": "inbox/aceinterios_17992821362591014",
+  "magic_words": [
+    
+  ]
+}

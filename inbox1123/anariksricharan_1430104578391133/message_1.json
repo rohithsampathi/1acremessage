@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Anarik Sricharan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719152965605,
+      "content": "Hi, Thanks for reaching out. \nWe are currently listing only for Telanagana.\nWe'll start TN soon.\nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anarik Sricharan",
+      "timestamp_ms": 1719146521176,
+      "content": "And planning to sell",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anarik Sricharan",
+      "timestamp_ms": 1719146514066,
+      "content": "We have a plot 3 acres in vellore tamilnadu",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anarik Sricharan",
+      "timestamp_ms": 1719146491622,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Anarik Sricharan",
+  "is_still_participant": true,
+  "thread_path": "inbox/anariksricharan_1430104578391133",
+  "magic_words": [
+    
+  ]
+}

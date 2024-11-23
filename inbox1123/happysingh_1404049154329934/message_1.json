@@ -1,0 +1,89 @@
+{
+  "participants": [
+    {
+      "name": "Happy singh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719561495633,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719561494989,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team.\nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719561474456,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Happy singh",
+      "timestamp_ms": 1719559429691,
+      "content": "Near Hyderabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Happy singh",
+      "timestamp_ms": 1719559420680,
+      "content": "Yea",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719536006780,
+      "content": "In Telangana?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Happy singh",
+      "timestamp_ms": 1719513511350,
+      "content": "I have 1 property to sell and 2 of my clients are looking to buy property as well",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719474355209,
+      "content": "Can you tell in detail? So I can connect you with the relevant team?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Happy singh",
+      "timestamp_ms": 1719471728706,
+      "content": "6300296673",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Happy singh",
+      "timestamp_ms": 1719471725087,
+      "content": "In regarding a property",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Happy singh",
+      "timestamp_ms": 1719471709893,
+      "content": "Please call me",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Happy singh",
+      "timestamp_ms": 1719471702345,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Happy singh",
+  "is_still_participant": true,
+  "thread_path": "inbox/happysingh_1404049154329934",
+  "magic_words": [
+    
+  ]
+}

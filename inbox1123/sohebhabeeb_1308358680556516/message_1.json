@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Soheb Habeeb"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707809923628,
+      "content": "Please contact Vijay\n9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707809899635,
+      "content": "Hi, sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Soheb Habeeb",
+      "timestamp_ms": 1707805194847,
+      "content": "Need details regarding sale of a property - farm house near mokila and pragati resort",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Soheb Habeeb",
+      "timestamp_ms": 1707805162027,
+      "content": "Hello.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Soheb Habeeb",
+  "is_still_participant": true,
+  "thread_path": "inbox/sohebhabeeb_1308358680556516",
+  "magic_words": [
+    
+  ]
+}

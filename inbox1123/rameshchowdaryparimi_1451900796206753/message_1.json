@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Ramesh Chowdary Parimi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ramesh Chowdary Parimi",
+      "timestamp_ms": 1717599016368,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717598632397,
+      "content": "Hi, may we know what you are looking for?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ramesh Chowdary Parimi",
+      "timestamp_ms": 1717590418806,
+      "content": "Contact number",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ramesh Chowdary Parimi",
+  "is_still_participant": true,
+  "thread_path": "inbox/rameshchowdaryparimi_1451900796206753",
+  "magic_words": [
+    
+  ]
+}

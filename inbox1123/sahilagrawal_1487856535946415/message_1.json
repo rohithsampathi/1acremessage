@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Sahil Agrawal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sahil Agrawal",
+      "timestamp_ms": 1720248287199,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720240266708,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sahil Agrawal",
+      "timestamp_ms": 1720170717807,
+      "content": "I have some bigger land parcels situated in Madhya Pradesh that I wish to sell, I would like to explore how you can help me out.\n\nThanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sahil Agrawal",
+      "timestamp_ms": 1720170670826,
+      "content": "I\u00e2\u0080\u0099m Sahil Agrawal from Indore, Madhya Pradesh. I saw your reels on instagram",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sahil Agrawal",
+      "timestamp_ms": 1720170635244,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sahil Agrawal",
+  "is_still_participant": true,
+  "thread_path": "inbox/sahilagrawal_1487856535946415",
+  "magic_words": [
+    
+  ]
+}

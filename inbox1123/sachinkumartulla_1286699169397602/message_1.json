@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Sachin Kumar Tulla"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701422433039,
+      "content": "Hi, please call Ratna Kiran 7661063355. Thanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sachin Kumar Tulla",
+      "timestamp_ms": 1701412602985,
+      "content": "Can you please let me know for any  enquiries",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sachin Kumar Tulla",
+      "timestamp_ms": 1701412577688,
+      "content": "1cr",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sachin Kumar Tulla",
+      "timestamp_ms": 1701412572735,
+      "content": "Our budget is around 1hr",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sachin Kumar Tulla",
+      "timestamp_ms": 1701412560996,
+      "content": "I\u00e2\u0080\u0099m looking to buy agricultural lands near by hyderabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sachin Kumar Tulla",
+      "timestamp_ms": 1701412506293,
+      "content": "Hello Sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sachin Kumar Tulla",
+  "is_still_participant": true,
+  "thread_path": "inbox/sachinkumartulla_1286699169397602",
+  "magic_words": [
+    
+  ]
+}

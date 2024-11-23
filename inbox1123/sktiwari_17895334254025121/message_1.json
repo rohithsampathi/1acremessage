@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "S K Tiwari"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "S K Tiwari",
+      "timestamp_ms": 1721793793244,
+      "content": "okey",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721634104204,
+      "content": "Hi, Please contact Srikar\n8341149011, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "S K Tiwari",
+      "timestamp_ms": 1721545790113,
+      "content": "can you tell me where is land and land sell price i'll take customer for your land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "S K Tiwari",
+      "timestamp_ms": 1721545730697,
+      "content": "in properties",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721453577115,
+      "content": "What kind of collaboration?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "S K Tiwari",
+      "timestamp_ms": 1721452199291,
+      "content": "HEY SIR\nI WANT TO COLLABORATE WITH YOU IN REALESTATE \nARE YOU INTERESTED IN",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "S K Tiwari",
+  "is_still_participant": true,
+  "thread_path": "inbox/sktiwari_17895334254025121",
+  "magic_words": [
+    
+  ]
+}

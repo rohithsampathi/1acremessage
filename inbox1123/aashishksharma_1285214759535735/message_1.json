@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "Aashish K Sharma"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aashish K Sharma",
+      "timestamp_ms": 1709034721741,
+      "content": "Okay thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709034504773,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aashish K Sharma",
+      "timestamp_ms": 1709032657109,
+      "content": "Hi,\nMy name is Aashish k Sharma from Adilabad Telangana.I work as a property consultant.Adilabad is located at the border of two states.I have good property date of Adilabad as well as yavatmal district.",
+      "share": {
+        "share_text": "Hi,\nMy name is Aashish k Sharma from Adilabad Telangana.I work as a property consultant.Adilabad is located at the border of two states.I have good property date of Adilabad as well as yavatmal district."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709031573036,
+      "content": "Hi, may I know what you are looking for? I'll connect accordingly.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aashish K Sharma",
+      "timestamp_ms": 1709024325760,
+      "content": "Please share your contact number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aashish K Sharma",
+      "timestamp_ms": 1709024301875,
+      "content": "1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aashish K Sharma",
+      "timestamp_ms": 1709024134628,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Aashish K Sharma",
+  "is_still_participant": true,
+  "thread_path": "inbox/aashishksharma_1285214759535735",
+  "magic_words": [
+    
+  ]
+}

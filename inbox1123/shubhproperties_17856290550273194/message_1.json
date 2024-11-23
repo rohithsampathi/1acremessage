@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Shubh Properties"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shubh Properties",
+      "timestamp_ms": 1728468607851,
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shubh Properties",
+  "is_still_participant": true,
+  "thread_path": "inbox/shubhproperties_17856290550273194",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720221742337,
+      "content": "praful_nayak101 wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720221742084,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1720195656198,
+      "content": "Details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1720195654993,
+      "content": "Yavatmal land 7 lkh per acre",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "inbox/instagramuser_1344012566988479",
+  "magic_words": [
+    
+  ]
+}

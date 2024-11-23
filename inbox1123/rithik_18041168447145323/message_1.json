@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Rithik\u00f0\u009f\u0092\u00ab"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730266868850,
+      "content": "Explore www.1acre.in where we have 3500+ lands across Telangana. \n\nFor premium subscribers , there is also a mapview for these lands where one can understand lands more clearly and identify opportunities instantly.",
+      "share": {
+        "link": "http://www.1acre.in/",
+        "share_text": "Explore www.1acre.in where we have 3500+ lands across Telangana. \n\nFor premium subscribers , there is also a mapview for these lands where one can understand lands more clearly and identify opportunities instantly."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rithik\u00f0\u009f\u0092\u00ab",
+      "timestamp_ms": 1730266765304,
+      "content": "Under 2cr",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rithik\u00f0\u009f\u0092\u00ab",
+      "timestamp_ms": 1730266756130,
+      "content": "Properties in chevela",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730256255030,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rithik\u00f0\u009f\u0092\u00ab",
+      "timestamp_ms": 1730221548997,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rithik\u00f0\u009f\u0092\u00ab",
+  "is_still_participant": true,
+  "thread_path": "inbox/rithik_18041168447145323",
+  "magic_words": [
+    
+  ]
+}

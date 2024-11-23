@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "Pranay Goud Depally"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pranay Goud Depally",
+      "timestamp_ms": 1719314207088,
+      "content": "Sure!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719314195864,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719314195215,
+      "content": "Please contact Vijay 9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719314148056,
+      "content": "Sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pranay Goud Depally",
+      "timestamp_ms": 1719314012350,
+      "content": "It would be great if your team can assist us in selling",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pranay Goud Depally",
+      "timestamp_ms": 1719313988634,
+      "content": "We have 8 acres land near Shadnagar",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pranay Goud Depally",
+      "timestamp_ms": 1719313967901,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Pranay Goud Depally",
+  "is_still_participant": true,
+  "thread_path": "inbox/pranaygouddepally_1457835035614964",
+  "magic_words": [
+    
+  ]
+}

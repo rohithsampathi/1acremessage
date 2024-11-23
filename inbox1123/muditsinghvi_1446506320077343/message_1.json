@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Mudit Singhvi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720221517284,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mudit Singhvi",
+      "timestamp_ms": 1720202307347,
+      "content": "On 7 lakh acre land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mudit Singhvi",
+      "timestamp_ms": 1720202300247,
+      "content": "More details",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mudit Singhvi",
+  "is_still_participant": true,
+  "thread_path": "inbox/muditsinghvi_1446506320077343",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "AjIt Mankar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720269420979,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team. \nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "AjIt Mankar",
+      "timestamp_ms": 1720268931932,
+      "content": "Can you please tell more about yavatmal land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "AjIt Mankar",
+      "timestamp_ms": 1720268922098,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "AjIt Mankar",
+  "is_still_participant": true,
+  "thread_path": "inbox/ajitmankar_1427804698613908",
+  "magic_words": [
+    
+  ]
+}

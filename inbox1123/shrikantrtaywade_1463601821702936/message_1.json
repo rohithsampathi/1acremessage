@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "Shrikant R Taywade"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shrikant R Taywade",
+      "timestamp_ms": 1720502821587,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720453804427,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Shrikant R Taywade",
+          "timestamp": 1720502821
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shrikant R Taywade",
+      "timestamp_ms": 1720452510423,
+      "content": "Pls kindly contact only if land is verified",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shrikant R Taywade",
+      "timestamp_ms": 1720452465663,
+      "content": "My contact number is 8275751909\nShrikant Taywade",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shrikant R Taywade",
+      "timestamp_ms": 1720451935138,
+      "content": "Can you share the location",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shrikant R Taywade",
+      "timestamp_ms": 1720451923836,
+      "content": "I am interested for property near Yavatmal",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shrikant R Taywade",
+      "timestamp_ms": 1720451909546,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shrikant R Taywade",
+  "is_still_participant": true,
+  "thread_path": "inbox/shrikantrtaywade_1463601821702936",
+  "magic_words": [
+    
+  ]
+}

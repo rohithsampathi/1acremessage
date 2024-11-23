@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Syed Shah Zabeeh Ullah Hussaini"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722616930361,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Syed Shah Zabeeh Ullah Hussaini",
+      "timestamp_ms": 1722601591592,
+      "content": "1,000 sq yards",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Syed Shah Zabeeh Ullah Hussaini",
+      "timestamp_ms": 1722601582451,
+      "content": "I want seek my open plot at Jiyaguda",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Syed Shah Zabeeh Ullah Hussaini",
+  "is_still_participant": true,
+  "thread_path": "inbox/syedshahzabeehullahhussaini_1349913063063213",
+  "magic_words": [
+    
+  ]
+}

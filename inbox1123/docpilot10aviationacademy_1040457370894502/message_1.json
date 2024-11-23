@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Doc.Pilot10 | Aviation Academy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728010059910,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Doc.Pilot10 | Aviation Academy",
+      "timestamp_ms": 1727971471593,
+      "content": "Price for inside Leonia please",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Doc.Pilot10 | Aviation Academy",
+  "is_still_participant": true,
+  "thread_path": "inbox/docpilot10aviationacademy_1040457370894502",
+  "magic_words": [
+    
+  ]
+}

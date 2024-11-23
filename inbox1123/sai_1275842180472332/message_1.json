@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Sai"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705593348605,
+      "content": "https://www.1acre.in/subscribe\n\nPlease go through and subscribe or click 'talk to us->' at the end of the page and fill in the form. We'll get back to you.",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "https://www.1acre.in/subscribe\n\nPlease go through and subscribe or click 'talk to us->' at the end of the page and fill in the form. We'll get back to you."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai",
+      "timestamp_ms": 1705590621282,
+      "content": "Where are your new ventures based out of?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai",
+      "timestamp_ms": 1705590612859,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sai",
+  "is_still_participant": true,
+  "thread_path": "inbox/sai_1275842180472332",
+  "magic_words": [
+    
+  ]
+}

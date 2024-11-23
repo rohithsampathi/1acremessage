@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "krisha_gupta12"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "krisha_gupta12",
+      "timestamp_ms": 1717735715156,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717719930609,
+      "content": "krisha_gupta12 wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717719930035,
+      "content": "Hi, at 1acre.in, we are currently listint only Telangana.\nWe'll start other states soon. \nWe'll keep you posted.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, at 1acre.in, we are currently listint only Telangana.\nWe'll start other states soon. \nWe'll keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "krisha_gupta12",
+      "timestamp_ms": 1717695625245,
+      "content": "Hello guys we have 23 acres land in igatpuri let me know if we can tie up for the same",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "krisha_gupta12",
+  "is_still_participant": true,
+  "thread_path": "inbox/krisha_gupta12_1347855776605786",
+  "magic_words": [
+    
+  ]
+}

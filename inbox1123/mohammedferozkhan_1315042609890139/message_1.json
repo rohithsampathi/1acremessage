@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Mohammed Feroz Khan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706706500527,
+      "content": "https://www.1acre.in/subscribe\n\nPlease go through and subscribe (or) click 'talk to us->' at the end of the page and fill in the form. We'll get back to you.",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "https://www.1acre.in/subscribe\n\nPlease go through and subscribe (or) click 'talk to us->' at the end of the page and fill in the form. We'll get back to you."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammed Feroz Khan",
+      "timestamp_ms": 1706706472120,
+      "content": "any good options 40 to 50 lakhs",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706706410621,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammed Feroz Khan",
+      "timestamp_ms": 1706703056979,
+      "content": "Mohammed sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C2AaHfgyD0q/?id=3278735392807337258_47651711013",
+        "share_text": "1acre facilitated property:\n5 acre land, very close to the city\nAt Mudimyal, 22km from ORR (APPA junction).\nJust 500mt away from the Highway. \nAvailable as 1/2 acre & 1 acre units or as a whole. \n\nYou can get in touch with us at: 9959994737",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammed Feroz Khan",
+      "timestamp_ms": 1706703044391,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mohammed Feroz Khan",
+  "is_still_participant": true,
+  "thread_path": "inbox/mohammedferozkhan_1315042609890139",
+  "magic_words": [
+    
+  ]
+}

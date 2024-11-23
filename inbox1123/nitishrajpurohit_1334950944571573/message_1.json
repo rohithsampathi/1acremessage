@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Nitish Rajpurohit"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704734746689,
+      "content": "https://www.1acre.in/subscribe\n\nPlease go through and fill in the form at the end of the page. We'll get back to you.",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "https://www.1acre.in/subscribe\n\nPlease go through and fill in the form at the end of the page. We'll get back to you."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nitish Rajpurohit",
+      "timestamp_ms": 1704732369479,
+      "content": "Can you send me the location pls",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nitish Rajpurohit",
+      "timestamp_ms": 1704732046124,
+      "content": "In Maharashtra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nitish Rajpurohit",
+      "timestamp_ms": 1704732036912,
+      "content": "Want to know about 100 acres plot location",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nitish Rajpurohit",
+      "timestamp_ms": 1704732020267,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nitish Rajpurohit",
+  "is_still_participant": true,
+  "thread_path": "inbox/nitishrajpurohit_1334950944571573",
+  "magic_words": [
+    
+  ]
+}

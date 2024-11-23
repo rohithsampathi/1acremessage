@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Vijay Kumar Chanda"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vijay Kumar Chanda",
+      "timestamp_ms": 1703553035492,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703508251076,
+      "content": "You can connect to same number in what\u00e2\u0080\u0099s app",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vijay Kumar Chanda",
+      "timestamp_ms": 1703502912684,
+      "content": "Can I have WhatsApp number as I\u00e2\u0080\u0099m in out of country for the moment",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703486373384,
+      "content": "Hi you can connect with Vijay ,80-74450533",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vijay Kumar Chanda",
+      "timestamp_ms": 1703486191761,
+      "content": "I\u00e2\u0080\u0099m planning to buy a plot in Ibrahimpatnam , will you verify ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vijay Kumar Chanda",
+  "is_still_participant": true,
+  "thread_path": "inbox/vijaykumarchanda_1336005047798348",
+  "magic_words": [
+    
+  ]
+}

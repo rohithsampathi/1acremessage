@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Ashhad Jaweed"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ashhad Jaweed",
+      "timestamp_ms": 1707541412993,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707541322277,
+      "content": "Hi, Please contact Vijay\n9959994737 from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ashhad Jaweed",
+      "timestamp_ms": 1707541027753,
+      "content": "Requirement of land for development",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ashhad Jaweed",
+  "is_still_participant": true,
+  "thread_path": "inbox/ashhadjaweed_1252638106126696",
+  "magic_words": [
+    
+  ]
+}

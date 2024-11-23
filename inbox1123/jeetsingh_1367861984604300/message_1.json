@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Jeet Singh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jeet Singh",
+      "timestamp_ms": 1720151273452,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720146559477,
+      "content": "Currently not. \n\nBut we do get inbound requests from north india. If you can share details on your requirements, we can connect you with any matching sellers (edited)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720146520531,
+      "content": "Currently not. \n\nBut we do get inbound requests from north india. If you can share details on your requirements, we can connect with people who are selling",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jeet Singh",
+      "timestamp_ms": 1720117285282,
+      "content": "Do you have any properties in North India",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Jeet Singh",
+  "is_still_participant": true,
+  "thread_path": "inbox/jeetsingh_1367861984604300",
+  "magic_words": [
+    
+  ]
+}

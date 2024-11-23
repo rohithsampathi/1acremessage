@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Da rera"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Da rera",
+      "timestamp_ms": 1718617247343,
+      "content": "OK thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718450448904,
+      "content": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Da rera",
+      "timestamp_ms": 1718449782669,
+      "content": "Hi ...\nNeed 1 acre land for agriculture near or around pune ...can u help plz",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Da rera",
+  "is_still_participant": true,
+  "thread_path": "inbox/darera_17980128077698059",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "shravan kumar reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709970008686,
+      "content": "1.1Cr for 2000Sq.yds inclusive of everything.",
+      "share": {
+        "share_text": "1.1Cr for 2000Sq.yds inclusive of everything."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "shravan kumar reddy",
+      "timestamp_ms": 1709951857954,
+      "content": "Price and size?",
+      "share": {
+        "link": "https://www.instagram.com/p/C3t28m8N2Gf/"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "shravan kumar reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/shravankumarreddy_1251294589592072",
+  "magic_words": [
+    
+  ]
+}

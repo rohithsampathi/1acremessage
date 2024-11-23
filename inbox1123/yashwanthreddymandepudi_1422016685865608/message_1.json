@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Yashwanth Reddy Mandepudi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717468237992,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717468196233,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717468194845,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team. \nHe'll help you with your query.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yashwanth Reddy Mandepudi",
+      "timestamp_ms": 1717432914969,
+      "content": "I am looking for 20Acer land @ a budget of 10lk per acer. Please advise if you have any available lands with in this range.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yashwanth Reddy Mandepudi",
+      "timestamp_ms": 1717432748954,
+      "content": "Hello I am following you guys for quite sometime, firstly I would appreciate the work you are doing.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Yashwanth Reddy Mandepudi",
+  "is_still_participant": true,
+  "thread_path": "inbox/yashwanthreddymandepudi_1422016685865608",
+  "magic_words": [
+    
+  ]
+}

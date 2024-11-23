@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "URBAN REAL ESTATE PVT LTD"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "URBAN REAL ESTATE PVT LTD",
+      "timestamp_ms": 1720413469050,
+      "content": "Ok ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720406111893,
+      "content": "Only telangana\nWill be launching in karnataka soon",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "URBAN REAL ESTATE PVT LTD",
+      "timestamp_ms": 1720373979578,
+      "content": "U only works in banglore??",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720328330220,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "URBAN REAL ESTATE PVT LTD",
+      "timestamp_ms": 1720326402664,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "URBAN REAL ESTATE PVT LTD",
+  "is_still_participant": true,
+  "thread_path": "inbox/urbanrealestatepvtltd_18011876426591014",
+  "magic_words": [
+    
+  ]
+}

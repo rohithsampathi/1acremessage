@@ -1,0 +1,94 @@
+{
+  "participants": [
+    {
+      "name": "Dhruv Patodia"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dhruv Patodia",
+      "timestamp_ms": 1717644027149,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717602663847,
+      "content": "We currently operate only in Telangana\n\nSo we need to assess a bit more",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717602602725,
+      "content": "We shall check and get back",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dhruv Patodia",
+      "timestamp_ms": 1717602565753,
+      "content": "?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dhruv Patodia",
+      "timestamp_ms": 1717577235038,
+      "content": "4cr per acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dhruv Patodia",
+      "timestamp_ms": 1717577224947,
+      "content": "1.25acres",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dhruv Patodia",
+      "timestamp_ms": 1717577213298,
+      "content": "https://goo.gl/maps/uz1Xv51f2Btisq5x7",
+      "share": {
+        "link": "https://goo.gl/maps/uz1Xv51f2Btisq5x7",
+        "share_text": "https://goo.gl/maps/uz1Xv51f2Btisq5x7"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717577197582,
+      "content": "Videos, acres, price & location.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dhruv Patodia",
+      "timestamp_ms": 1717577195200,
+      "content": "What do you need?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717577179733,
+      "content": "Hi, Please send us the details.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dhruv Patodia",
+      "timestamp_ms": 1717574835301,
+      "content": "Looking to sell",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dhruv Patodia",
+      "timestamp_ms": 1717574829609,
+      "content": "I have top quality land in Ooty area",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Dhruv Patodia",
+  "is_still_participant": true,
+  "thread_path": "inbox/dhruvpatodia_1291996365520753",
+  "magic_words": [
+    
+  ]
+}

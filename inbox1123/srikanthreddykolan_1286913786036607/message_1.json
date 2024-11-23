@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Srikanth Reddy Kolan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Srikanth Reddy Kolan",
+      "timestamp_ms": 1702667854644,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702635638294,
+      "content": "you can connect with pratheek  9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srikanth Reddy Kolan",
+      "timestamp_ms": 1702590244829,
+      "content": "Do you have any lands for selling in nalgonda??",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Srikanth Reddy Kolan",
+  "is_still_participant": true,
+  "thread_path": "inbox/srikanthreddykolan_1286913786036607",
+  "magic_words": [
+    
+  ]
+}

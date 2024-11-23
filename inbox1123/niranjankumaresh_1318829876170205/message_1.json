@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Niranjan Kumaresh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720241162384,
+      "content": "After effects maybe",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720241154584,
+      "content": "So we don't much know how they do.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720241142717,
+      "content": "We just give it to good editors.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Niranjan Kumaresh",
+      "timestamp_ms": 1720107144048,
+      "content": "Any app",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Niranjan Kumaresh",
+      "timestamp_ms": 1720107138370,
+      "content": "It\u00e2\u0080\u0099s so good",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Niranjan Kumaresh",
+      "timestamp_ms": 1720107135546,
+      "content": "How do you edit your videos bro",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Niranjan Kumaresh",
+  "is_still_participant": true,
+  "thread_path": "inbox/niranjankumaresh_1318829876170205",
+  "magic_words": [
+    
+  ]
+}

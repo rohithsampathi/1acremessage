@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Krishna Mohan Property Advisor"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Krishna Mohan Property Advisor",
+      "timestamp_ms": 1708275161046,
+      "content": "Package details please.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708272845414,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Krishna Mohan Property Advisor",
+      "timestamp_ms": 1708271653901,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Krishna Mohan Property Advisor",
+  "is_still_participant": true,
+  "thread_path": "inbox/krishnamohanpropertyadvisor_1336882161044376",
+  "magic_words": [
+    
+  ]
+}

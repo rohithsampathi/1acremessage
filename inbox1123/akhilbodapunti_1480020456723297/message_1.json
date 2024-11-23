@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Akhil Bodapunti"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729661798918,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will guide you how to proceed further :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akhil Bodapunti",
+      "timestamp_ms": 1729612291824,
+      "content": "Hi,My name is Akhil \nI want to sell one of my property.\nhow can I list in your page ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Akhil Bodapunti",
+  "is_still_participant": true,
+  "thread_path": "inbox/akhilbodapunti_1480020456723297",
+  "magic_words": [
+    
+  ]
+}

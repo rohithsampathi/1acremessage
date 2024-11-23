@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Sai Kiran As Ein"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sai Kiran As Ein",
+      "timestamp_ms": 1719421038043,
+      "content": "How much for 1 application sir ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Kiran As Ein",
+      "timestamp_ms": 1719421037050,
+      "content": "Sai sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C5qyPBES2No/?id=3344706607539512168_47651711013",
+        "share_text": "Looking for freelance opportunities to earn extra income? 1acre.in is hiring freelance listing associates. Your role involves collecting and uploading data to our platform, which our team will verify. Requirements include good communication skills and basic computer knowledge. Our induction program is now online via Zoom meetings. Interested? Contact us at the number below!",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sai Kiran As Ein",
+  "is_still_participant": true,
+  "thread_path": "inbox/saikiranasein_1378737023518935",
+  "magic_words": [
+    
+  ]
+}

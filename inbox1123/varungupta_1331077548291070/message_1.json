@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Varun Gupta"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Varun Gupta",
+      "timestamp_ms": 1706695713042,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706692044431,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Varun Gupta",
+      "timestamp_ms": 1706691878375,
+      "content": "Hello there \nWe are builders and developers having good experience in construction field \nWe are looking for development sites \nHow can we get connected???",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Varun Gupta",
+  "is_still_participant": true,
+  "thread_path": "inbox/varungupta_1331077548291070",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "purushothampabba"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697610721194,
+      "content": "8074450533",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697610700996,
+      "content": "Or if you have any specific query, you can call Vijay.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697610671407,
+      "content": "If you want to sell land, you can list on our platform.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697610654839,
+      "content": "We are a platform for buying and selling of lands in Telanagana. We verify all lands before they are listed on our platform.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "purushothampabba",
+      "timestamp_ms": 1697426989783,
+      "content": "Do you buy lands also?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "purushothampabba",
+      "timestamp_ms": 1697426981386,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "purushothampabba",
+  "is_still_participant": true,
+  "thread_path": "inbox/purushothampabba_1197926511595904",
+  "magic_words": [
+    
+  ]
+}

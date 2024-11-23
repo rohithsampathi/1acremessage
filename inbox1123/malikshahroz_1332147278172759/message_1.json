@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Malik Shahroz"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721475607016,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Malik Shahroz",
+      "timestamp_ms": 1721474737475,
+      "content": "My plot was listed in your site.. but a need a boost up",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Malik Shahroz",
+      "timestamp_ms": 1721474709780,
+      "content": "Sir when will my plot will get posted on instagram",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Malik Shahroz",
+  "is_still_participant": true,
+  "thread_path": "inbox/malikshahroz_1332147278172759",
+  "magic_words": [
+    
+  ]
+}

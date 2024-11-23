@@ -1,0 +1,76 @@
+{
+  "participants": [
+    {
+      "name": "Sharath Lolakpuri"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sharath Lolakpuri",
+      "timestamp_ms": 1707068467218,
+      "content": "I clearly told to Prateek",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sharath Lolakpuri",
+      "timestamp_ms": 1707068413712,
+      "content": "No man",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707068238227,
+      "content": "Are you a subscriber?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sharath Lolakpuri",
+      "timestamp_ms": 1707052427888,
+      "content": "I told immediately need land in anjaneya nagar Moosapet",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sharath Lolakpuri",
+      "timestamp_ms": 1707052399695,
+      "content": "24hrs done but Prateek not came on this",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706450778273,
+      "content": "https://www.1acre.in/subscribe\n\nPlease go through and subscribe (or) click 'talk to us->' at the end of the page and fill in the form. We'll get back to you.",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "https://www.1acre.in/subscribe\n\nPlease go through and subscribe (or) click 'talk to us->' at the end of the page and fill in the form. We'll get back to you."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sharath Lolakpuri",
+      "timestamp_ms": 1706449703710,
+      "content": "Looking land in Moosapet anjeneya nagar",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706449674410,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sharath Lolakpuri",
+      "timestamp_ms": 1706448433123,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sharath Lolakpuri",
+  "is_still_participant": true,
+  "thread_path": "inbox/sharathlolakpuri_1225357602186395",
+  "magic_words": [
+    
+  ]
+}

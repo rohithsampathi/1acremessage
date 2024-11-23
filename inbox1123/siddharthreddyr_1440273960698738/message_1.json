@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Siddharth Reddy R"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Siddharth Reddy R",
+      "timestamp_ms": 1721222753829,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721222664547,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721222663489,
+      "content": "Please contact Vijay 9959994737, from the team. He will share more details.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Siddharth Reddy R",
+          "timestamp": 1721222753
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Siddharth Reddy R",
+      "timestamp_ms": 1721222025949,
+      "content": "Can I get details about the 1800 square yards plot at narsingi.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Siddharth Reddy R",
+  "is_still_participant": true,
+  "thread_path": "inbox/siddharthreddyr_1440273960698738",
+  "magic_words": [
+    
+  ]
+}

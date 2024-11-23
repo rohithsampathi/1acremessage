@@ -1,0 +1,72 @@
+{
+  "participants": [
+    {
+      "name": "Srimanthudu Nanda Kishore"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719325121644,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srimanthudu Nanda Kishore",
+      "timestamp_ms": 1719324701841,
+      "content": "All the best",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srimanthudu Nanda Kishore",
+      "timestamp_ms": 1719324697420,
+      "content": "Thanq",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719315996348,
+      "content": "We will launch soon in andhra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srimanthudu Nanda Kishore",
+      "timestamp_ms": 1719314523269,
+      "content": "Chesthunara",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srimanthudu Nanda Kishore",
+      "timestamp_ms": 1719314519539,
+      "content": "Lo",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srimanthudu Nanda Kishore",
+      "timestamp_ms": 1719314517433,
+      "content": "Andhra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719303078271,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srimanthudu Nanda Kishore",
+      "timestamp_ms": 1719302516784,
+      "content": "Hiii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Srimanthudu Nanda Kishore",
+  "is_still_participant": true,
+  "thread_path": "inbox/srimanthudunandakishore_1284521802931585",
+  "magic_words": [
+    
+  ]
+}

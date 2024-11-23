@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "imaanbhargava"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720221176619,
+      "content": "imaanbhargava wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720221176351,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "imaanbhargava",
+      "timestamp_ms": 1720213096457,
+      "content": "The land in Yavatmal",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "imaanbhargava",
+      "timestamp_ms": 1720213086880,
+      "content": "I\u00e2\u0080\u0099m interested to know more about",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "imaanbhargava",
+  "is_still_participant": true,
+  "thread_path": "inbox/imaanbhargava_1456621075738423",
+  "magic_words": [
+    
+  ]
+}

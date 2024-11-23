@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Kartheek epuri"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705814363012,
+      "content": "Sure. You are in India or abroad?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kartheek epuri",
+      "timestamp_ms": 1705808216750,
+      "content": "Kartheek.epuri@gmail.com is my email id",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kartheek epuri",
+      "timestamp_ms": 1705808206985,
+      "content": "I saw your video about land in maharashtra and intrested in learning about prospects.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kartheek epuri",
+  "is_still_participant": true,
+  "thread_path": "inbox/kartheekepuri_1319784679413809",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Sivaram"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725290487595,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sivaram",
+      "timestamp_ms": 1725288286205,
+      "content": "Per acre price?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sivaram",
+      "timestamp_ms": 1725288276847,
+      "content": "What is the price for chegunta land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sivaram",
+      "timestamp_ms": 1725288250494,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sivaram",
+  "is_still_participant": true,
+  "thread_path": "inbox/sivaram_18014938199570288",
+  "magic_words": [
+    
+  ]
+}

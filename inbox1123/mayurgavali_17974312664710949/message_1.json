@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Mayur Gavali"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mayur Gavali",
+      "timestamp_ms": 1718297900528,
+      "content": "Main Maharashtra main buisness start karne ki soch Raha hoon isi liye",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mayur Gavali",
+      "timestamp_ms": 1718297868562,
+      "content": "Sir aap land kaise search karte ho",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mayur Gavali",
+      "timestamp_ms": 1718297856845,
+      "content": "Hey",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mayur Gavali",
+  "is_still_participant": true,
+  "thread_path": "inbox/mayurgavali_17974312664710949",
+  "magic_words": [
+    
+  ]
+}

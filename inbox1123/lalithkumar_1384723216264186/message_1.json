@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Lalith Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723945720193,
+      "content": "We need more context before we can connect to the right person from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lalith Kumar",
+      "timestamp_ms": 1723913934688,
+      "content": "I need to discuss with you something important",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lalith Kumar",
+      "timestamp_ms": 1723913922609,
+      "content": "Can we connect ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lalith Kumar",
+      "timestamp_ms": 1723913917409,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Lalith Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/lalithkumar_1384723216264186",
+  "magic_words": [
+    
+  ]
+}

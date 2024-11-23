@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "krishna&."
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "krishna&.",
+      "timestamp_ms": 1715582618391,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715582102118,
+      "content": "9032114737\nYou can talk to Bharath, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "krishna&.",
+      "timestamp_ms": 1715482257356,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "krishna&.",
+      "timestamp_ms": 1715482256483,
+      "content": "krishna&. sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C4j3HBRt6Vt/?id=3324743324894995821_47651711013",
+        "share_text": "9032114737\n\nPlease call Bharath, from the team.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "krishna&.",
+  "is_still_participant": true,
+  "thread_path": "inbox/krishna_1302629147792956",
+  "magic_words": [
+    
+  ]
+}

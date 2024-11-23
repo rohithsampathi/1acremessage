@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Ramesh Raju"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ramesh Raju",
+      "timestamp_ms": 1712127492609,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712126281008,
+      "content": "Hi, currently we are operational only in Telanagana. We'll soon launch AP. Will keep you informed.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ramesh Raju",
+      "timestamp_ms": 1712123744473,
+      "content": "Need half acre land in Vijayawada could you please help me",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ramesh Raju",
+  "is_still_participant": true,
+  "thread_path": "inbox/rameshraju_1335704527821216",
+  "magic_words": [
+    
+  ]
+}

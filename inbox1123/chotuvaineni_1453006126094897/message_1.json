@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Chotu Vaineni"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721132528884,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721132528141,
+      "content": "Hi, Please contact Vijay 9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chotu Vaineni",
+      "timestamp_ms": 1721131312965,
+      "content": "Hello, can I get more info on this?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chotu Vaineni",
+      "timestamp_ms": 1721131312607,
+      "share": {
+        "link": "https://www.instagram.com/p/C9UBKzVt_9s/"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Chotu Vaineni",
+  "is_still_participant": true,
+  "thread_path": "inbox/chotuvaineni_1453006126094897",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "InduVardhan Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702951345444,
+      "content": "Hy , you can connect with pratheek  9390674324,",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "InduVardhan Reddy",
+      "timestamp_ms": 1702948737337,
+      "content": "Good morning \nThis is regarding a land in the west part of Hyd. I would like to meet you in your office \nPls let me know the time and loction. \nGood day",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "InduVardhan Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/induvardhanreddy_1322946789103367",
+  "magic_words": [
+    
+  ]
+}

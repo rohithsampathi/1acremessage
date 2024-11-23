@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Lavanya Lata"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703125149653,
+      "content": "Hy , you can connect with pratheek  9390674324,",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lavanya Lata",
+      "timestamp_ms": 1703094446521,
+      "content": "Lavanya sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C01UUPStXV7/?id=3257599257212188027_47651711013",
+        "share_text": "Rs 500 only for lifetime membership to a platform that can make you crores over the years through verified land opportunities. Become a landlord.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Lavanya Lata",
+  "is_still_participant": true,
+  "thread_path": "inbox/lavanyalata_1167687194617055",
+  "magic_words": [
+    
+  ]
+}

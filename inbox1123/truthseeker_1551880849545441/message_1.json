@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Truth Seeker"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729837300861,
+      "content": "Please contact our team member ,pavan, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Truth Seeker",
+      "timestamp_ms": 1729823834892,
+      "content": "Can you sell",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Truth Seeker",
+      "timestamp_ms": 1729823829263,
+      "content": "I have a land of size 277 sq yards",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Truth Seeker",
+      "timestamp_ms": 1729823802151,
+      "content": "Suchir india gold coast down town",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Truth Seeker",
+  "is_still_participant": true,
+  "thread_path": "inbox/truthseeker_1551880849545441",
+  "magic_words": [
+    
+  ]
+}

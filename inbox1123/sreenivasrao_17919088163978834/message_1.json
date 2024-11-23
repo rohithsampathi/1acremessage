@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "sreenivas rao"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729239221279,
+      "content": "May we know what are the doubts to see if we can help you on this matter",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "sreenivas rao",
+      "timestamp_ms": 1727696347366,
+      "content": "9849752483",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "sreenivas rao",
+      "timestamp_ms": 1727695998059,
+      "content": "Hi I have doubts about one project which is located in wadakpally village Ameenpur mandal I made partial payment how can I consult",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "sreenivas rao",
+  "is_still_participant": true,
+  "thread_path": "inbox/sreenivasrao_17919088163978834",
+  "magic_words": [
+    
+  ]
+}

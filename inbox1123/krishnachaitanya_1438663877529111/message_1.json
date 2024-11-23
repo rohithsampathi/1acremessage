@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Krishna chaitanya"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719109609690,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719109608208,
+      "content": "Hi, Please contact Vijay 9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Krishna chaitanya",
+      "timestamp_ms": 1719106780913,
+      "content": "Share details",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3396415587235767742"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Krishna chaitanya",
+  "is_still_participant": true,
+  "thread_path": "inbox/krishnachaitanya_1438663877529111",
+  "magic_words": [
+    
+  ]
+}

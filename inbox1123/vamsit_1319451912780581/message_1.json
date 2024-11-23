@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Vamsi T"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707212686100,
+      "content": "Yes Maharashtra is good in terms of pricing, but I am afraid we'll be able to get 4 acres there.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vamsi T",
+      "timestamp_ms": 1707212278552,
+      "content": "You were saying Maharashtra is pretty good right?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707181626999,
+      "content": "Cheapest per acre cost in Telangana? You can look them up on the website. Thanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707181594636,
+      "content": "We won't be able to tell which area suits for your venture.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vamsi T",
+      "timestamp_ms": 1707175259076,
+      "content": "Hey! We are looking to get 4 acres of land for Solar Harvesting! Can you suggest the best area with cheap per acre cost?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vamsi T",
+  "is_still_participant": true,
+  "thread_path": "inbox/vamsit_1319451912780581",
+  "magic_words": [
+    
+  ]
+}

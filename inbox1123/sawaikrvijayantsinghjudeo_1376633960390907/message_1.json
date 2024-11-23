@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Sawai Kr. Vijayant Singh Ju Deo"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724379563338,
+      "content": "Can you share more details about the land such as location , price , extent etc",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sawai Kr. Vijayant Singh Ju Deo",
+      "timestamp_ms": 1724351989420,
+      "content": "Hi we wanted to sell some of our land",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sawai Kr. Vijayant Singh Ju Deo",
+  "is_still_participant": true,
+  "thread_path": "inbox/sawaikrvijayantsinghjudeo_1376633960390907",
+  "magic_words": [
+    
+  ]
+}

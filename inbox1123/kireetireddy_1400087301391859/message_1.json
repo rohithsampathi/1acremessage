@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Kireeti Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kireeti Reddy",
+      "timestamp_ms": 1715140988993,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715089678316,
+      "content": "Hi, Thanks for reaching out. Currently only for Telangana. Soon, we'll launch AP.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Kireeti Reddy",
+          "timestamp": 1715140988
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kireeti Reddy",
+      "timestamp_ms": 1715088867457,
+      "content": "Or it\u00e2\u0080\u0099s only for telangana?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kireeti Reddy",
+      "timestamp_ms": 1715088856072,
+      "content": "Can we list my commercial one acre land in Tirupati in 1acre.in ?",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Can we list my commercial one acre land in Tirupati in 1acre.in ?"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kireeti Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/kireetireddy_1400087301391859",
+  "magic_words": [
+    
+  ]
+}

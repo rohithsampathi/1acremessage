@@ -1,0 +1,102 @@
+{
+  "participants": [
+    {
+      "name": "Raghu Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Raghu Reddy",
+      "timestamp_ms": 1707836151354,
+      "content": "Thank you, I really want to make sure before I pull the trigger",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707836108377,
+      "content": "We'll try our best",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707836057689,
+      "content": "Let me find out. Also, sorry if we are unable to service this request at this point of time, due to lack of bandwidth.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raghu Reddy",
+      "timestamp_ms": 1707835806809,
+      "content": "Do you recommend any CAs in India?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707835758214,
+      "content": "Don't think so. I would request you to find out from your sources/known CA.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raghu Reddy",
+      "timestamp_ms": 1707835540681,
+      "content": "Is there a way to find out for sure?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707810056727,
+      "content": "No, we don't have anyone yet, but I guess they won't really track that much. Source of Funds etc.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raghu Reddy",
+      "timestamp_ms": 1707802646377,
+      "content": "They can track it with the bank transfers, right? Everything is linked to Aadhaar nowadays. Do you have any clients who had done this recently?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raghu Reddy",
+      "timestamp_ms": 1707802561705,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/raghureddy_1250191419703110/photos/423036455_689199320095046_3170330645853807405_n_689199316761713.png",
+          "creation_timestamp": 1707802560,
+          "backup_uri": "https://scontent.fmaa12-3.fna.fbcdn.net/v/t1.15752-9/423036455_689199320095046_3170330645853807405_n.png?_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_ohc=aQADtg2mxZUQ7kNvgFAek4h&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fmaa12-3.fna&oh=03_Q7cD1QF4fFdrc7O4kt2urxxsa7fuh0X0INi72cXtXL4MbrYfug&oe=6766A971"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707786759875,
+      "content": "How would anyone know?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707786749728,
+      "content": "I am not really sure why your parents can't buy once the money is transferred here.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707786722312,
+      "content": "Hi, thanks for getting in touch.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raghu Reddy",
+      "timestamp_ms": 1707770083077,
+      "content": "Hi, I recently started following your page and interested to buy an agricultural land. Upon some research, it says neither I can buy agricultural land being an NRI nor my parents can buy with the money I transfer. Is there a way around? I would like to pull the trigger if it\u00e2\u0080\u0099s possible when I find something I like",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Raghu Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/raghureddy_1250191419703110",
+  "magic_words": [
+    
+  ]
+}

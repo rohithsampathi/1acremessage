@@ -1,0 +1,83 @@
+{
+  "participants": [
+    {
+      "name": "Lokesh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702007289202,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702007281671,
+      "content": "You can connect with pratheek 9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lokesh",
+      "timestamp_ms": 1701978426117,
+      "content": "How can I approach you sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lokesh",
+      "timestamp_ms": 1701978405180,
+      "content": "I can see this application will be going to make big business in india",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1702007295
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lokesh",
+      "timestamp_ms": 1701978346427,
+      "content": "I am interested to work with and contribute to 1acre.in directly or indirectly",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1702007298
+        }
+      ],
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "I am interested to work with and contribute to 1acre.in directly or indirectly"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lokesh",
+      "timestamp_ms": 1701978308413,
+      "content": "Hello sir, I am amazed by this model of 1acre.in",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1702007297
+        }
+      ],
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hello sir, I am amazed by this model of 1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Lokesh",
+  "is_still_participant": true,
+  "thread_path": "inbox/lokesh_916212823170603",
+  "magic_words": [
+    
+  ]
+}

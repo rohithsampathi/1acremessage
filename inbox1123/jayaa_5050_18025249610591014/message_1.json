@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Jayaa_5050"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jayaa_5050",
+      "timestamp_ms": 1729609609095,
+      "content": "Hir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729601693359,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jayaa_5050",
+      "timestamp_ms": 1729592020789,
+      "content": "Hie",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Jayaa_5050",
+  "is_still_participant": true,
+  "thread_path": "inbox/jayaa_5050_18025249610591014",
+  "magic_words": [
+    
+  ]
+}

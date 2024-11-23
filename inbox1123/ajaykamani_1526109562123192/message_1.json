@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Ajay Kamani"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726051034802,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ajay Kamani",
+      "timestamp_ms": 1726043964280,
+      "content": "Can u get further details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ajay Kamani",
+      "timestamp_ms": 1726043956905,
+      "content": "Saw an add for a land near Shamirpet",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ajay Kamani",
+      "timestamp_ms": 1726043945833,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ajay Kamani",
+  "is_still_participant": true,
+  "thread_path": "inbox/ajaykamani_1526109562123192",
+  "magic_words": [
+    
+  ]
+}

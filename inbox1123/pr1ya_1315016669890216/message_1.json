@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "PR1ya\u00e2\u009d\u00a4"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "PR1ya\u00e2\u009d\u00a4",
+      "timestamp_ms": 1709357836374,
+      "content": "Thank you !",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "PR1ya\u00e2\u009d\u00a4",
+      "timestamp_ms": 1709357832039,
+      "content": "I had a call with Vijay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709357537471,
+      "content": "You can contact Ramakrishna \n7780122120.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "PR1ya\u00e2\u009d\u00a4",
+      "timestamp_ms": 1709356336130,
+      "content": "Is there any alternative number ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "PR1ya\u00e2\u009d\u00a4",
+      "timestamp_ms": 1709356326082,
+      "content": "This number says not reachable",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "PR1ya\u00e2\u009d\u00a4",
+      "timestamp_ms": 1709356317484,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709341934178,
+      "content": "Please contact Vijay\n9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709341906077,
+      "content": "Hi, thanks for getting in touch.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "PR1ya\u00e2\u009d\u00a4",
+      "timestamp_ms": 1709315068344,
+      "content": "We are in search of buyer for our 1 acre fertile land in Vikarabad. \nCould you help us sell the property ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "PR1ya\u00e2\u009d\u00a4",
+      "timestamp_ms": 1709315005410,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "PR1ya\u00e2\u009d\u00a4",
+  "is_still_participant": true,
+  "thread_path": "inbox/pr1ya_1315016669890216",
+  "magic_words": [
+    
+  ]
+}

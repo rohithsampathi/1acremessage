@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "Srikanth Gundemoni"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718805242890,
+      "content": "Thank you. Negotiable, we are not very sure. But Vijay from the team will ping you, to address any questions you might have.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srikanth Gundemoni",
+      "timestamp_ms": 1718803162621,
+      "content": "I can send my brother to visit site for final better understanding before we seal the deal. But if it is negotiable",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srikanth Gundemoni",
+      "timestamp_ms": 1718803128980,
+      "content": "I like your options and content which creates FOMO and excitement to buy but not in my budget. This time it is in our budget which is of this 65lacs and 3acres. Let me know if it is negotiable.  We can connect on call. +960 7787030",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srikanth Gundemoni",
+      "timestamp_ms": 1718803036044,
+      "content": "Hi",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3393843241278849558"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Srikanth Gundemoni",
+  "is_still_participant": true,
+  "thread_path": "inbox/srikanthgundemoni_1456219032445853",
+  "magic_words": [
+    
+  ]
+}

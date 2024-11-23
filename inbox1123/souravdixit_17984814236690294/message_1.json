@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Sourav Dixit"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sourav Dixit",
+      "timestamp_ms": 1719212701272,
+      "content": "Ok sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719211444920,
+      "content": "Hmmm. We are right now in Telangana. \nWe'll talk when we launch Orissa.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sourav Dixit",
+      "timestamp_ms": 1719210837439,
+      "content": "Nuapada,Odisha precisely",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sourav Dixit",
+      "timestamp_ms": 1719210821545,
+      "content": "Odisha",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719210804802,
+      "content": "Where are you from?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sourav Dixit",
+      "timestamp_ms": 1719209985685,
+      "content": "Sir please let me know if there is a vacancy so that I can share my resume with you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sourav Dixit",
+      "timestamp_ms": 1719209909734,
+      "content": "Is there any vacancy",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sourav Dixit",
+      "timestamp_ms": 1719209902705,
+      "content": "I am searching for career options",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sourav Dixit",
+  "is_still_participant": true,
+  "thread_path": "inbox/souravdixit_17984814236690294",
+  "magic_words": [
+    
+  ]
+}

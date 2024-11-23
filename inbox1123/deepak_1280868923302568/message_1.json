@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Deepak"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Deepak",
+      "timestamp_ms": 1711005319790,
+      "content": "Thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Deepak",
+      "timestamp_ms": 1711005316239,
+      "content": "8688530030",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Deepak",
+      "timestamp_ms": 1711005309365,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710984681769,
+      "content": "Can I have your number?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710976303991,
+      "content": "Hi, Sorry about that. Will ask them to get back.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Deepak",
+      "timestamp_ms": 1710974506568,
+      "content": "I texted in WhatsApp... But response is not good",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Deepak",
+      "timestamp_ms": 1710974488212,
+      "content": "Hello sir/ma'am - I want to list our property... Pls help",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Deepak",
+  "is_still_participant": true,
+  "thread_path": "inbox/deepak_1280868923302568",
+  "magic_words": [
+    
+  ]
+}

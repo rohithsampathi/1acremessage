@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Boreddy Vivek"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715581807302,
+      "content": "1acre.in/subscribe \nIf you subscribe to premium, you also get access to the MapView.",
+      "share": {
+        "link": "http://1acre.in/subscribe",
+        "share_text": "1acre.in/subscribe \nIf you subscribe to premium, you also get access to the MapView."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715581775849,
+      "content": "Hi, we are a listing platform. You can check on the website.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Boreddy Vivek",
+      "timestamp_ms": 1715567202358,
+      "content": "Hello sir\nDo you have anything land for sale in vanasthali hills ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Boreddy Vivek",
+      "timestamp_ms": 1708529816772,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708529805757,
+      "content": "Ok. Got it. Let's get back to you on this.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Boreddy Vivek",
+      "timestamp_ms": 1708525691043,
+      "content": "230 sq yards to main road and another 1100 sqrds 200mts from main road",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Boreddy Vivek",
+      "timestamp_ms": 1708525666635,
+      "content": "I have two commercial spaces in kadapa city it slef",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Boreddy Vivek",
+      "timestamp_ms": 1708525644381,
+      "content": "Sell",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708525261638,
+      "content": "Hi, thanks for reaching out. Not as of yet. Are you looking to buy or sell?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Boreddy Vivek",
+      "timestamp_ms": 1708510318005,
+      "content": "Hello \nDo you deal In Kadapa, Andhra Pradesh ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Boreddy Vivek",
+  "is_still_participant": true,
+  "thread_path": "inbox/boreddyvivek_1233427621378485",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "participants": [
+    {
+      "name": "Naman Agrawal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Naman Agrawal",
+      "timestamp_ms": 1725298365346,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725295565393,
+      "content": "Srikar from the team will talk to you tomorrow.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Naman Agrawal",
+          "timestamp": 1725298365
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Naman Agrawal",
+      "timestamp_ms": 1725292601268,
+      "content": "98266 30403",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725278865077,
+      "content": "Give us your number.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725278830079,
+      "content": "Did you contact Srikar, from our team?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Naman Agrawal",
+      "timestamp_ms": 1725274255446,
+      "content": "Hi can we connect, \nWish to explore land for realestate development.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Naman Agrawal",
+      "timestamp_ms": 1722490112174,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722485476383,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Naman Agrawal",
+      "timestamp_ms": 1722480305537,
+      "content": "Hi ,\nI am looking for land in Hyderabad for real estate project. Not a big size land. Around 15000 aqft to 1 acre.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Naman Agrawal",
+  "is_still_participant": true,
+  "thread_path": "inbox/namanagrawal_1474542620607460",
+  "magic_words": [
+    
+  ]
+}

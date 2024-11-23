@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Uma Shashank"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712980578966,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412\nHe'll help you with it. Thanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Uma Shashank",
+      "timestamp_ms": 1712974392743,
+      "content": "Hi can you please share more details",
+      "share": {
+        "link": "https://www.instagram.com/p/C3t28m8N2Gf/"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Uma Shashank",
+  "is_still_participant": true,
+  "thread_path": "inbox/umashashank_1261354181935956",
+  "magic_words": [
+    
+  ]
+}

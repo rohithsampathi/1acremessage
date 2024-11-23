@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Onkar Deokate Patil"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Onkar Deokate Patil",
+      "timestamp_ms": 1720323201861,
+      "content": "Kk",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720323186896,
+      "content": "English please",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Onkar Deokate Patil",
+      "timestamp_ms": 1720322331631,
+      "content": "Plot ahet khup",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Onkar Deokate Patil",
+      "timestamp_ms": 1720322325592,
+      "content": "Ploting la",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Onkar Deokate Patil",
+      "timestamp_ms": 1720322321565,
+      "content": "Baramati mdhe invest karnar ka",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720321305205,
+      "content": "Hello \u00f0\u009f\u0091\u008b",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Onkar Deokate Patil",
+      "timestamp_ms": 1720319188991,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Onkar Deokate Patil",
+  "is_still_participant": true,
+  "thread_path": "inbox/onkardeokatepatil_18033752810313671",
+  "magic_words": [
+    
+  ]
+}

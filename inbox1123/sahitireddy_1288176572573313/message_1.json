@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "sahiti reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707181711911,
+      "content": "Yes?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "sahiti reddy",
+      "timestamp_ms": 1707157872988,
+      "content": "sahiti sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C2-NmEfyIFd/?id=3296131768054743389_47651711013",
+        "share_text": "\u00f0\u009f\u008c\u0090 Land Hunting Alert! \u00f0\u009f\u008f\u00a1 Exploring tons of lands on 1acre.in? We\u00e2\u0080\u0099ve got you covered! \u00f0\u009f\u008c\u009f\n\n\u00f0\u009f\u0094\u008d Dive into the ease of land hunting with our new filters! \u00f0\u009f\u0097\u00ba\u00ef\u00b8\u008f Pick your district, mandal, or filter by highways like Mumbai or Vijaywada. Specify your distance from the Outer Ring road and uncover lands crafted for your needs.\n\n\u00f0\u009f\u0092\u00a1 But wait, there\u00e2\u0080\u0099s more! Easily sort by price (low to high/high to low) or acreage (less to more/more to less). Simple choices!\n\n\u00f0\u009f\u0097\u00ba\u00ef\u00b8\u008f Exclusive for our premium pals, don\u00e2\u0080\u0099t miss the map view! \u00f0\u009f\u008c\u0088 Thousands of lands marked, color-coded by price. Explore the heat map for prices from low to high. \u00f0\u009f\u009a\u0080 Finding your dream plot just got easier. Let\u00e2\u0080\u0099s discover your perfect spot! \u00f0\u009f\u0092\u009a #LandHunting #ExploreYourPlot #1acreInnovation #1acre.in",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "sahiti reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/sahitireddy_1288176572573313",
+  "magic_words": [
+    
+  ]
+}

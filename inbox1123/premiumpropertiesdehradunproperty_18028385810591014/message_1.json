@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Premium Properties | Dehradun Property"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Premium Properties | Dehradun Property",
+      "timestamp_ms": 1731770413706,
+      "content": "Premium sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DCb82H8vNZl/?id=3502660737388303973_69572512497",
+        "share_text": "Complete details open the comment BOX\u00e2\u0086\u0097\u00ef\u00b8\u008f\n.\n.\n.\n.\n.\n .\n.\n.\n.\n#dehradun #property dehradunproperty #premium \n#realestate #investment #reelsinstagram #reelitfeelit #uttarakhand",
+        "original_content_owner": "premiumpropertiess"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Premium Properties | Dehradun Property",
+  "is_still_participant": true,
+  "thread_path": "inbox/premiumpropertiesdehradunproperty_18028385810591014",
+  "magic_words": [
+    
+  ]
+}

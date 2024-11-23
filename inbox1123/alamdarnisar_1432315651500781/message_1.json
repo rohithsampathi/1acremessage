@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Alamdar nisar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719160730162,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Alamdar nisar",
+      "timestamp_ms": 1719160633602,
+      "content": "Contact me threw my Whatsapp +917288094346",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Alamdar nisar",
+      "timestamp_ms": 1719160605280,
+      "content": "Hello I\u00e2\u0080\u0099m Syed Nisar From Hyderabad I have a Property for sale nearby Warangal approx 118Acers.. I will explain all about it",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Alamdar nisar",
+  "is_still_participant": true,
+  "thread_path": "inbox/alamdarnisar_1432315651500781",
+  "magic_words": [
+    
+  ]
+}

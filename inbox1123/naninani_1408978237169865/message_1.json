@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "Nani Nani"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716354438668,
+      "content": "Message. He'll call back.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nani Nani",
+      "timestamp_ms": 1716354401835,
+      "content": "Not answer",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716339193244,
+      "content": "black_devil_black_devil123 wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716339192741,
+      "content": "9032114737\nYou can talk to Bharath, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nani Nani",
+      "timestamp_ms": 1716309788225,
+      "content": "I'm interested sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nani Nani",
+      "timestamp_ms": 1716309786730,
+      "content": "Nani sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C4j3HBRt6Vt/?id=3324743324894995821_47651711013",
+        "share_text": "9032114737\n\nPlease call Bharath, from the team.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nani Nani",
+  "is_still_participant": true,
+  "thread_path": "inbox/naninani_1408978237169865",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "."
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": ".",
+      "timestamp_ms": 1720379355354,
+      "content": "Super",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1720406227
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": ".",
+  "is_still_participant": true,
+  "thread_path": "inbox/18011961314591014",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "ashish Properties"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ashish Properties",
+      "timestamp_ms": 1706941433549,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "ashish Properties",
+      "timestamp_ms": 1706941428761,
+      "content": "OK sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706938380076,
+      "content": "Sir, we don't usually market ventures. But if you want to talk any particular details, you can get it touch with us, at \n9989738297",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "ashish Properties",
+      "timestamp_ms": 1706934966026,
+      "content": "Sir I too have nri ventures at ibrahimpatnam do you have any leads",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3260634967822710318"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "ashish Properties",
+  "is_still_participant": true,
+  "thread_path": "inbox/ashishproperties_17843735157158103",
+  "magic_words": [
+    
+  ]
+}

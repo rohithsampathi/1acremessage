@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Srilatha Shanigarapu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708936593720,
+      "content": "Please contact Pratheek \n9390674324, from the team. He'll explain.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708936577209,
+      "content": "Sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srilatha Shanigarapu",
+      "timestamp_ms": 1708936523770,
+      "content": "You said about places near to Hyderabad/maharatra which are still affordable some 1000 acres",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708917683927,
+      "content": "Hi, may I know which one you are referring to?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srilatha Shanigarapu",
+      "timestamp_ms": 1708906239438,
+      "content": "Can you send more details?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Srilatha Shanigarapu",
+  "is_still_participant": true,
+  "thread_path": "inbox/srilathashanigarapu_1243104333760224",
+  "magic_words": [
+    
+  ]
+}

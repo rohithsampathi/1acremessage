@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Puni_21"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717809484093,
+      "content": "_pxnxt_21 wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717809483788,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Puni_21",
+      "timestamp_ms": 1717785973356,
+      "content": "Hi sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Puni_21",
+  "is_still_participant": true,
+  "thread_path": "inbox/puni_21_18011487338431036",
+  "magic_words": [
+    
+  ]
+}

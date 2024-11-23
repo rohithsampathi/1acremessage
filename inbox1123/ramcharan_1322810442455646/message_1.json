@@ -1,0 +1,73 @@
+{
+  "participants": [
+    {
+      "name": "Ram Charan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ram Charan",
+      "timestamp_ms": 1712894252952,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712894239363,
+      "content": "Hi, we will be launching in AP next month.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Ram Charan",
+          "timestamp": 1712894252
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ram Charan",
+      "timestamp_ms": 1712863814169,
+      "content": "Could you help me with selling it",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ram Charan",
+      "timestamp_ms": 1712863785984,
+      "content": "I have a property in Andhra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ram Charan",
+      "timestamp_ms": 1712863764875,
+      "content": "I stay in Hyderabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ram Charan",
+      "timestamp_ms": 1712863755949,
+      "content": "I am charan",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ram Charan",
+      "timestamp_ms": 1712863721755,
+      "content": "Your content is impressive",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ram Charan",
+      "timestamp_ms": 1712863690852,
+      "content": "Hi Ratna Kiran garu",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ram Charan",
+  "is_still_participant": true,
+  "thread_path": "inbox/ramcharan_1322810442455646",
+  "magic_words": [
+    
+  ]
+}

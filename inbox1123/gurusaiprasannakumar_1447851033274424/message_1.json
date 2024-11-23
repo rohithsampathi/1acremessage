@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Guru Sai Prasanna Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723725298910,
+      "content": "Done. Plz check.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723724921010,
+      "content": "Hi, Sorry. We'll look into it and fix it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Guru Sai Prasanna Kumar",
+      "timestamp_ms": 1723720270646,
+      "content": "Hi. The razorpay link shows 5 lakhs for premium account.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Guru Sai Prasanna Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/gurusaiprasannakumar_1447851033274424",
+  "magic_words": [
+    
+  ]
+}

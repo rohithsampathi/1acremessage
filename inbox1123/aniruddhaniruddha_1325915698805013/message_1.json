@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Aniruddh/ \u00e0\u00a4\u0085\u00e0\u00a4\u00a8\u00e0\u00a4\u00bf\u00e0\u00a4\u00b0\u00e0\u00a5\u0081\u00e0\u00a4\u00a6\u00e0\u00a5\u008d\u00e0\u00a4\u00a7 \u00e2\u0099\u00a0"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706466852102,
+      "content": "100 acres at least.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aniruddh/ \u00e0\u00a4\u0085\u00e0\u00a4\u00a8\u00e0\u00a4\u00bf\u00e0\u00a4\u00b0\u00e0\u00a5\u0081\u00e0\u00a4\u00a6\u00e0\u00a5\u008d\u00e0\u00a4\u00a7 \u00e2\u0099\u00a0",
+      "timestamp_ms": 1706464810054,
+      "content": "Hi when you say 2-5L/ acre is it for bulk purchase of 50-100 acres or some 5-10 acres can be purchased",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706282817154,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aniruddh/ \u00e0\u00a4\u0085\u00e0\u00a4\u00a8\u00e0\u00a4\u00bf\u00e0\u00a4\u00b0\u00e0\u00a5\u0081\u00e0\u00a4\u00a6\u00e0\u00a5\u008d\u00e0\u00a4\u00a7 \u00e2\u0099\u00a0",
+      "timestamp_ms": 1706213223817,
+      "content": "Hey",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Aniruddh/ \u00e0\u00a4\u0085\u00e0\u00a4\u00a8\u00e0\u00a4\u00bf\u00e0\u00a4\u00b0\u00e0\u00a5\u0081\u00e0\u00a4\u00a6\u00e0\u00a5\u008d\u00e0\u00a4\u00a7 \u00e2\u0099\u00a0",
+  "is_still_participant": true,
+  "thread_path": "inbox/aniruddhaniruddha_1325915698805013",
+  "magic_words": [
+    
+  ]
+}

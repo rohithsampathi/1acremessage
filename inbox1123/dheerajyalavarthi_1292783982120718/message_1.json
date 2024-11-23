@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Dheeraj Yalavarthi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1698900609654,
+      "content": "Sure , you can contact on 9505778117",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dheeraj Yalavarthi",
+      "timestamp_ms": 1698884533102,
+      "content": "Can i have your contact number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dheeraj Yalavarthi",
+      "timestamp_ms": 1698884526819,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Dheeraj Yalavarthi",
+  "is_still_participant": true,
+  "thread_path": "inbox/dheerajyalavarthi_1292783982120718",
+  "magic_words": [
+    
+  ]
+}

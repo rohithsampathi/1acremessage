@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "Salim"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711280399493,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412\nYou can discuss with him.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Salim",
+      "timestamp_ms": 1711279153814,
+      "content": "Plus do u have land at reasonable rate between Bangalore and Mysore",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Salim",
+      "timestamp_ms": 1711279120790,
+      "content": "Interested to know more.on.the 5000 acres investment u r doing in Maharashtra",
+      "share": {
+        "share_text": "Interested to know more.on.the 5000 acres investment u r doing in Maharashtra"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Salim",
+      "timestamp_ms": 1711279092084,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Salim",
+  "is_still_participant": true,
+  "thread_path": "inbox/salim_1334019054657137",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Mahendra Jadhav"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720358915419,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mahendra Jadhav",
+      "timestamp_ms": 1720358889373,
+      "content": "Yavatmal maharastra\nProperty is where \nSend me detial",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mahendra Jadhav",
+  "is_still_participant": true,
+  "thread_path": "inbox/mahendrajadhav_1445481380181531",
+  "magic_words": [
+    
+  ]
+}

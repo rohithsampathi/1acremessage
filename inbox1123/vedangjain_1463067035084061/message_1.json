@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Vedang Jain"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729661706233,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vedang Jain",
+      "timestamp_ms": 1729605539855,
+      "content": "I want to sell",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729601698030,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vedang Jain",
+      "timestamp_ms": 1729596775339,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vedang Jain",
+  "is_still_participant": true,
+  "thread_path": "inbox/vedangjain_1463067035084061",
+  "magic_words": [
+    
+  ]
+}

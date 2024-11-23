@@ -1,0 +1,70 @@
+{
+  "participants": [
+    {
+      "name": "Dharma"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713501409026,
+      "content": "We will be listing plots soon, on the Website. You can check. \n1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "We will be listing plots soon, on the Website. You can check. \n1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dharma",
+      "timestamp_ms": 1713498967966,
+      "content": "Looking for low budget plot",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713319067795,
+      "content": "What exactly are you looking for? Can you go in detail?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713319050554,
+      "content": "We are a listing platform for verified lands.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dharma",
+      "timestamp_ms": 1713317551373,
+      "content": "Land ? Plot sell",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dharma",
+      "timestamp_ms": 1712708867042,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712481270842,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dharma",
+      "timestamp_ms": 1712476619264,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Dharma",
+  "is_still_participant": true,
+  "thread_path": "inbox/dharma_18001202798591014",
+  "magic_words": [
+    
+  ]
+}

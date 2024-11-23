@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Ravi Meda"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716453525620,
+      "content": "Hi, Please talk to Ratna Kiran \n9390155412\nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravi Meda",
+      "timestamp_ms": 1716445541315,
+      "content": "Hi, Can you share more details about the 10acres property near tippeshwar resort",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ravi Meda",
+  "is_still_participant": true,
+  "thread_path": "inbox/ravimeda_1282115103176363",
+  "magic_words": [
+    
+  ]
+}

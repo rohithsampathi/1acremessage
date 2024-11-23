@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009f\u0096\u00a4Harsha \u00f0\u009f\u0096\u00a4"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731909858735,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u0096\u00a4Harsha \u00f0\u009f\u0096\u00a4",
+      "timestamp_ms": 1731819835954,
+      "content": "Hiii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00f0\u009f\u0096\u00a4Harsha \u00f0\u009f\u0096\u00a4",
+  "is_still_participant": true,
+  "thread_path": "inbox/harsha_1604735577593321",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "mahi doodles"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "mahi doodles",
+      "timestamp_ms": 1697353638186,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697353468392,
+      "content": "Please contact (+91 80744 50533) Vijay from 1acre.in for more details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697353449693,
+      "content": "visit 1acre.in website",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "mahi doodles",
+      "timestamp_ms": 1697353365064,
+      "content": "I'm looking land for minimum 2 acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "mahi doodles",
+      "timestamp_ms": 1697353335998,
+      "content": "9553371056",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697352286093,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "mahi doodles",
+      "timestamp_ms": 1697305191547,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "mahi doodles",
+  "is_still_participant": true,
+  "thread_path": "inbox/mahidoodles_1292493345480370",
+  "magic_words": [
+    
+  ]
+}

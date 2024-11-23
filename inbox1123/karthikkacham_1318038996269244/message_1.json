@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "karthik kacham"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "karthik kacham",
+      "timestamp_ms": 1727928148726,
+      "content": "Thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727928107346,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will guide you how to proceed further :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "karthik kacham",
+      "timestamp_ms": 1727895085692,
+      "content": "Please share the location and further details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "karthik kacham",
+      "timestamp_ms": 1727894976970,
+      "content": "I'm interested in that site",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "karthik kacham",
+      "timestamp_ms": 1727894967873,
+      "content": "7acre agricultural land near kondapochama Sagar.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "karthik kacham",
+  "is_still_participant": true,
+  "thread_path": "inbox/karthikkacham_1318038996269244",
+  "magic_words": [
+    
+  ]
+}

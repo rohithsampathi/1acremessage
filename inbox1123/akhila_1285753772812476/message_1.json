@@ -1,0 +1,91 @@
+{
+  "participants": [
+    {
+      "name": "akhila"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "akhila",
+      "timestamp_ms": 1715703093268,
+      "content": "Ok. Thank you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715686815405,
+      "content": "Hi, Sorry. We don't know anyone as of date.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "akhila",
+      "timestamp_ms": 1715686550632,
+      "content": "Is there any mediator in Kakinada ? If you know can you please share number.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "akhila",
+      "timestamp_ms": 1715322918697,
+      "content": "Tq.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "akhila",
+      "timestamp_ms": 1715322910575,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715322165184,
+      "content": "Hi, Thanks for reaching out. \nWe are currently listing only in Telangana. Will launch AP soon. Will keep you posted.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "akhila",
+          "timestamp": 1715322910
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "akhila",
+      "timestamp_ms": 1715321184002,
+      "content": "We want to sell our property in Kakinada (AP).",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "akhila",
+      "timestamp_ms": 1715321146688,
+      "content": "How can we approach you?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "akhila",
+      "timestamp_ms": 1715321126506,
+      "content": "Hi!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "akhila",
+      "timestamp_ms": 1715321085902,
+      "content": "We want  to sell our property in kakinada (AP) . How can we approach you?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "akhila",
+      "timestamp_ms": 1715320863126,
+      "content": "Hi !",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "akhila",
+  "is_still_participant": true,
+  "thread_path": "inbox/akhila_1285753772812476",
+  "magic_words": [
+    
+  ]
+}

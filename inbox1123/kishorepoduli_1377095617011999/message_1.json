@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Kishore Poduli"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724855523514,
+      "content": "Not yet. We'll start listings soon. Will keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kishore Poduli",
+      "timestamp_ms": 1724854849262,
+      "content": "Do you have any lands near Bangalore?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724809184258,
+      "content": "How can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724809170691,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kishore Poduli",
+      "timestamp_ms": 1724786035184,
+      "content": "Hello team",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kishore Poduli",
+  "is_still_participant": true,
+  "thread_path": "inbox/kishorepoduli_1377095617011999",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Ramesh Giriraju"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722958109337,
+      "content": "1acre.in/subscribe\nPlease explore. You can call the sellers directly.",
+      "share": {
+        "link": "http://1acre.in/subscribe",
+        "share_text": "1acre.in/subscribe\nPlease explore. You can call the sellers directly."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ramesh Giriraju",
+      "timestamp_ms": 1722874959567,
+      "content": "And we are looking for plotting sites also. If any availability pls call me on 9700377793",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ramesh Giriraju",
+      "timestamp_ms": 1722874802418,
+      "content": "Is there any development lands for villas",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ramesh Giriraju",
+      "timestamp_ms": 1722874781575,
+      "content": "Hi sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ramesh Giriraju",
+  "is_still_participant": true,
+  "thread_path": "inbox/rameshgiriraju_1446974823362967",
+  "magic_words": [
+    
+  ]
+}

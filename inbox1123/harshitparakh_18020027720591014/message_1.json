@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Harshit Parakh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726032337464,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harshit Parakh",
+      "timestamp_ms": 1725967335432,
+      "content": "Can u send the details of the owner",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harshit Parakh",
+      "timestamp_ms": 1725967316271,
+      "content": "Harshit sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C8ZV7fkSx4e/?id=3393840241521139230_47651711013",
+        "share_text": "3 acres | 65 Lakhs per acre | Ananthagiri Hills | Link in bio \u00f0\u009f\u008c\u009f\n\n- Verified and facilitated by 1acre.in\n- 500 ft road frontage along a 40 ft blacktop road\n- Just 10 km from Vikarabad\n- Surrounded by beautiful views\n\nInterested? Get in touch now! \n\n\u00f0\u009f\u0093\u009e +91 9959994737",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Harshit Parakh",
+  "is_still_participant": true,
+  "thread_path": "inbox/harshitparakh_18020027720591014",
+  "magic_words": [
+    
+  ]
+}

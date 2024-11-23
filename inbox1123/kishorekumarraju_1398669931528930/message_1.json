@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Kishore Kumar Raju"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kishore Kumar Raju",
+      "timestamp_ms": 1711638264645,
+      "content": "Sure thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711638238043,
+      "content": "Hi, thanks for reaching out. \nYou can talk to Satish 7661933372",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kishore Kumar Raju",
+      "timestamp_ms": 1711630860853,
+      "content": "Planning for franchise or be a partner for 1acre.in \nI liked your concept I was planning to implement same here in Banglore so is there any options from your side to do business in Banglore",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Planning for franchise or be a partner for 1acre.in \nI liked your concept I was planning to implement same here in Banglore so is there any options from your side to do business in Banglore"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kishore Kumar Raju",
+      "timestamp_ms": 1711630771826,
+      "content": "I am from Banglore",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kishore Kumar Raju",
+      "timestamp_ms": 1711630761966,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kishore Kumar Raju",
+  "is_still_participant": true,
+  "thread_path": "inbox/kishorekumarraju_1398669931528930",
+  "magic_words": [
+    
+  ]
+}

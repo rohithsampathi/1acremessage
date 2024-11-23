@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Rama Krishna Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730955566427,
+      "content": "Please call our team member Venu at +91 76749 01201\n\nHe shall help you list it and share other details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730955556655,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rama Krishna Reddy",
+      "timestamp_ms": 1730894211541,
+      "content": "Hi 1 Acre Team \nI have 10.11 acres agricultural land which I bought in 2020. \nWhich has 2 sides road. Location: Mutyalampalle village, Addakal Mandal, Mahbubnagar district. \nI want to sell my land and thought I might  consider your help . Thanks",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rama Krishna Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/ramakrishnareddy_17983506608751972",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "\u00c3\u0080runa... \u00f0\u009f\u00a6\u008b"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00c3\u0080runa... \u00f0\u009f\u00a6\u008b",
+      "timestamp_ms": 1713253198572,
+      "content": "K",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713253146583,
+      "content": "Hi, Please contact Harish\n9032114737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00c3\u0080runa... \u00f0\u009f\u00a6\u008b",
+      "timestamp_ms": 1713253101059,
+      "content": "Freelancer job?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00c3\u0080runa... \u00f0\u009f\u00a6\u008b",
+      "timestamp_ms": 1713253092714,
+      "content": "Hlo",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00c3\u0080runa... \u00f0\u009f\u00a6\u008b",
+  "is_still_participant": true,
+  "thread_path": "inbox/aruna_18004533521408563",
+  "magic_words": [
+    
+  ]
+}

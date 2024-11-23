@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Guna Jakka"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Guna Jakka",
+      "timestamp_ms": 1718293196224,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Guna Jakka",
+      "timestamp_ms": 1718293191242,
+      "content": "Okay I will talk to him",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718292510941,
+      "content": "Hi, 1acre.in is a listing platform for verified lands. \nKindly check the website once, to get an idea. \nAs such, the ones posted here are facilitated by us, as to what we think are good buys. \nWe might not be able to do much for layouts. \nYou could ping Ratna Kiran \n9390155412, to discuss further.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, 1acre.in is a listing platform for verified lands. \nKindly check the website once, to get an idea. \nAs such, the ones posted here are facilitated by us, as to what we think are good buys. \nWe might not be able to do much for layouts. \nYou could ping Ratna Kiran \n9390155412, to discuss further."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Guna Jakka",
+      "timestamp_ms": 1718291709944,
+      "content": "Wanted to know what kind of services you all provide ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Guna Jakka",
+      "timestamp_ms": 1718291693258,
+      "content": "We are developing a HmDA project in Shadnagar",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718285320481,
+      "content": "Hi, may we know what you are looking for, so we can connect with the team accordingly?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Guna Jakka",
+      "timestamp_ms": 1718281607721,
+      "content": "How do we contact you",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Guna Jakka",
+  "is_still_participant": true,
+  "thread_path": "inbox/gunajakka_1454445055949593",
+  "magic_words": [
+    
+  ]
+}

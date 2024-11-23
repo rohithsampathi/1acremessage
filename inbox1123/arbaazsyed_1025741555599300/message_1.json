@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Arbaaz Syed"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723089102396,
+      "content": "Can you tell us more details? Location, extent and price?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Arbaaz Syed",
+      "timestamp_ms": 1723069490081,
+      "content": "Want to sell property",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Arbaaz Syed",
+  "is_still_participant": true,
+  "thread_path": "inbox/arbaazsyed_1025741555599300",
+  "magic_words": [
+    
+  ]
+}

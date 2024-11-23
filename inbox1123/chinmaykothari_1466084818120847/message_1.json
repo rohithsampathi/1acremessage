@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Chinmay Kothari"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722766096678,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chinmay Kothari",
+      "timestamp_ms": 1722760712658,
+      "content": "Can you share the number on WhatsApp",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chinmay Kothari",
+      "timestamp_ms": 1722760705531,
+      "content": "The mumbai HMDA manufacturing unit land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chinmay Kothari",
+      "timestamp_ms": 1722760688821,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Chinmay Kothari",
+  "is_still_participant": true,
+  "thread_path": "inbox/chinmaykothari_1466084818120847",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "participants": [
+    {
+      "name": "B\u00c3\u00a3l\u00c3\u00bb G\u00c3\u00b8\u00c3\u00b9d"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1700979876057,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "B\u00c3\u00a3l\u00c3\u00bb G\u00c3\u00b8\u00c3\u00b9d",
+      "timestamp_ms": 1700977869090,
+      "content": "Sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "B\u00c3\u00a3l\u00c3\u00bb G\u00c3\u00b8\u00c3\u00b9d",
+      "timestamp_ms": 1700977867165,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1696672300465,
+      "content": "Please contact (+91 80744 50533) Vijay from 1acre.in for more details.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "B\u00c3\u00a3l\u00c3\u00bb G\u00c3\u00b8\u00c3\u00b9d",
+      "timestamp_ms": 1694774411121,
+      "content": "WhatsApp haa",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1694774192721,
+      "content": "+91 80744 50533 Vijay 1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "+91 80744 50533 Vijay 1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "B\u00c3\u00a3l\u00c3\u00bb G\u00c3\u00b8\u00c3\u00b9d",
+      "timestamp_ms": 1694773633464,
+      "content": "Nadi pettandi Instagram lo",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "B\u00c3\u00a3l\u00c3\u00bb G\u00c3\u00b8\u00c3\u00b9d",
+      "timestamp_ms": 1694657877366,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "B\u00c3\u00a3l\u00c3\u00bb G\u00c3\u00b8\u00c3\u00b9d",
+  "is_still_participant": true,
+  "thread_path": "inbox/balugoud_853595422778473",
+  "magic_words": [
+    
+  ]
+}

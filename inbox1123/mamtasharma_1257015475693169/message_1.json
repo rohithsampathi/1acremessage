@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Mamta Sharma"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701930792425,
+      "content": "You can call me on the above number and I can walk you through the website and all the details you need.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mamta Sharma",
+      "timestamp_ms": 1701877182526,
+      "content": "My ques",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3251801253210556633"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1699987522716,
+      "content": "The above property is not listed in premium, you can find all the details of the property in Instagram post .For further enquiries you can contact to Pratheek (9505778117), he can guide you about your enquiries.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mamta Sharma",
+      "timestamp_ms": 1699972912729,
+      "content": "Is this premium?",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3235811721462059517"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mamta Sharma",
+  "is_still_participant": true,
+  "thread_path": "inbox/mamtasharma_1257015475693169",
+  "magic_words": [
+    
+  ]
+}

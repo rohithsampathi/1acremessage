@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "\u00e0\u00a4\u00ae\u00e0\u00a5\u0083\u00e0\u00a4\u00a6\u00e0\u00a5\u0081\u00e0\u00a4\u00b2 \u00e0\u00a4\u00b8\u00e0\u00a4\u00bf\u00e0\u00a4\u0082\u00e0\u00a4\u00b9 \u00e0\u00a4\u00b0\u00e0\u00a4\u00be\u00e0\u00a4\u00b5\u00e0\u00a4\u00a4"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00e0\u00a4\u00ae\u00e0\u00a5\u0083\u00e0\u00a4\u00a6\u00e0\u00a5\u0081\u00e0\u00a4\u00b2 \u00e0\u00a4\u00b8\u00e0\u00a4\u00bf\u00e0\u00a4\u0082\u00e0\u00a4\u00b9 \u00e0\u00a4\u00b0\u00e0\u00a4\u00be\u00e0\u00a4\u00b5\u00e0\u00a4\u00a4",
+      "timestamp_ms": 1718533386687,
+      "content": "Ok thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718533372121,
+      "content": "We currently only operate in telangana. \n\nWill keep you posted when we launch in other states",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00e0\u00a4\u00ae\u00e0\u00a5\u0083\u00e0\u00a4\u00a6\u00e0\u00a5\u0081\u00e0\u00a4\u00b2 \u00e0\u00a4\u00b8\u00e0\u00a4\u00bf\u00e0\u00a4\u0082\u00e0\u00a4\u00b9 \u00e0\u00a4\u00b0\u00e0\u00a4\u00be\u00e0\u00a4\u00b5\u00e0\u00a4\u00a4",
+      "timestamp_ms": 1718532974806,
+      "content": "Hlw \nYou are working in madhyapradesh also ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00e0\u00a4\u00ae\u00e0\u00a5\u0083\u00e0\u00a4\u00a6\u00e0\u00a5\u0081\u00e0\u00a4\u00b2 \u00e0\u00a4\u00b8\u00e0\u00a4\u00bf\u00e0\u00a4\u0082\u00e0\u00a4\u00b9 \u00e0\u00a4\u00b0\u00e0\u00a4\u00be\u00e0\u00a4\u00b5\u00e0\u00a4\u00a4",
+  "is_still_participant": true,
+  "thread_path": "inbox/mrdulasinharavata_18027720296133861",
+  "magic_words": [
+    
+  ]
+}

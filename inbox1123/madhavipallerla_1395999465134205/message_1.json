@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Madhavi Pallerla"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Madhavi Pallerla",
+      "timestamp_ms": 1706176346975,
+      "content": "Ok thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706166172155,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Madhavi Pallerla",
+      "timestamp_ms": 1706165383275,
+      "content": "Hi we are interested in the agricultural land which is in Srisailam road. \nWe would like to visit tomorrow. Please let us know",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Madhavi Pallerla",
+  "is_still_participant": true,
+  "thread_path": "inbox/madhavipallerla_1395999465134205",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Faizan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697177910147,
+      "content": "Please contact (+91 80744 50533) Vijay from 1acre.in for more details.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Faizan",
+      "timestamp_ms": 1697136607132,
+      "content": "Faizan sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/CxxLofEt0Du/?carousel_share_child_media_id=3202391949427761423_47651711013",
+        "share_text": "Stop buying plots. Own 10 acres at the cost of one. Larger chunks of land available at good prices.\n...\n\u00f0\u009f\u0091\u0089 Get access to premium opportunities: https://www.1acre.in/subscribe",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Faizan",
+  "is_still_participant": true,
+  "thread_path": "inbox/faizan_1194208865303209",
+  "magic_words": [
+    
+  ]
+}

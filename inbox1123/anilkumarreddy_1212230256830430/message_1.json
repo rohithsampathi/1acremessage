@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Anil Kumar Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anil Kumar Reddy",
+      "timestamp_ms": 1709571141152,
+      "content": "Hello\nI'm interested to work with 1acre \nLet me know if any position available ....",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Anil Kumar Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/anilkumarreddy_1212230256830430",
+  "magic_words": [
+    
+  ]
+}

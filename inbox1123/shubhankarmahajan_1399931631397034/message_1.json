@@ -1,0 +1,95 @@
+{
+  "participants": [
+    {
+      "name": "Shubhankar Mahajan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730194137362,
+      "content": "Share your number and our team will get in touch",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shubhankar Mahajan",
+      "timestamp_ms": 1730193752103,
+      "content": "I'am interested",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shubhankar Mahajan",
+      "timestamp_ms": 1730193751635,
+      "content": "Shubhankar sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DBsr6qASdDg/?carousel_share_child_media_id=3489356951837079286_47651711013",
+        "share_text": "",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728300765518,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shubhankar Mahajan",
+      "timestamp_ms": 1728293054474,
+      "content": "Hey 1acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shubhankar Mahajan",
+      "timestamp_ms": 1722065361839,
+      "content": "okey thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722044580196,
+      "content": "We currently only operate in telangana. \n\nWill keep you posted when we launch in other states",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shubhankar Mahajan",
+      "timestamp_ms": 1722016073891,
+      "content": "we want to list our property in 1acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722015746943,
+      "content": "We do not do any promotions",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shubhankar Mahajan",
+      "timestamp_ms": 1722014918729,
+      "content": "we have one real estate project in maharashtra so we want the leads for our project. we will create a promo video or you can create also and we could collab the video on insta and facebook if possible",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722014794241,
+      "content": "What kind of collaboration you are looking for ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shubhankar Mahajan",
+      "timestamp_ms": 1722008415526,
+      "content": "How do you charge for collaboration and promotion?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shubhankar Mahajan",
+  "is_still_participant": true,
+  "thread_path": "inbox/shubhankarmahajan_1399931631397034",
+  "magic_words": [
+    
+  ]
+}

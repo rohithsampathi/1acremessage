@@ -1,0 +1,99 @@
+{
+  "participants": [
+    {
+      "name": "Faisal Dawood"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Faisal Dawood",
+      "timestamp_ms": 1714261306014,
+      "content": "Send me number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Faisal Dawood",
+      "timestamp_ms": 1714261299488,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706548403126,
+      "content": "https://www.1acre.in/subscribe\n\nPlease go through and subscribe (or) click 'talk to us->' at the end of the page and fill in the form. We'll get back to you.",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "https://www.1acre.in/subscribe\n\nPlease go through and subscribe (or) click 'talk to us->' at the end of the page and fill in the form. We'll get back to you."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Faisal Dawood",
+      "timestamp_ms": 1706541937502,
+      "content": "Can you provide me your number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Faisal Dawood",
+      "timestamp_ms": 1704314022896,
+      "content": "Hi sir",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3272295087417729048"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701768233566,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Faisal Dawood",
+      "timestamp_ms": 1701767924734,
+      "content": "Hi",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3250939036437075775"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Faisal Dawood",
+      "timestamp_ms": 1695551783846,
+      "content": "It's available",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Faisal Dawood",
+      "timestamp_ms": 1695521459117,
+      "content": "Faisal sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/CwqTxG5hAbt/",
+        "share_text": "Investment size : 6 lakhs\nLand size : 12 guntas \nLocation : Vikarabad, Dudyal, Dudyal\n\nCopy Link: https://www.1acre.in/verified-lands/vikarabad/dudyal/251\n\nYou can copy the above link to view the listing and contact the seller directly. \nVerified by 1acre.in\n\nFollow @1acre.in to receive instant notification of all verified lands in Telangana between 5 lakh to 45 lakhs in investment size. \n\nTag your friends or share this post, if you believe they might benefit from this information!\n\n1acre.in - Buy verified agricultural lands around Hyderabad (Telangana)",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1695520676067,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Faisal Dawood",
+      "timestamp_ms": 1695504852617,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Faisal Dawood",
+  "is_still_participant": true,
+  "thread_path": "inbox/faisaldawood_17949859601682306",
+  "magic_words": [
+    
+  ]
+}

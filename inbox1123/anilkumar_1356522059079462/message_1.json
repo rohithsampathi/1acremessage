@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "\u00c3\u0082\u00c3\u00b1\u00c3\u00adl K\u00c3\u00bbm\u00c3\u00a3r"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705913933178,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00c3\u0082\u00c3\u00b1\u00c3\u00adl K\u00c3\u00bbm\u00c3\u00a3r",
+      "timestamp_ms": 1705911399013,
+      "content": "Sir is there any opportunity to work in 1acre.in?",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Sir is there any opportunity to work in 1acre.in?"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00c3\u0082\u00c3\u00b1\u00c3\u00adl K\u00c3\u00bbm\u00c3\u00a3r",
+  "is_still_participant": true,
+  "thread_path": "inbox/anilkumar_1356522059079462",
+  "magic_words": [
+    
+  ]
+}

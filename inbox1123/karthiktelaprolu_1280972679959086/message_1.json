@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Karthik Telaprolu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709636394968,
+      "content": "Hi, sure. Please contact Ratna Kiran \n9390155412\nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Karthik Telaprolu",
+      "timestamp_ms": 1709626846212,
+      "content": "Give you mobile number or call me on 9959959595",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Karthik Telaprolu",
+      "timestamp_ms": 1709626821418,
+      "content": "Hi, need more details about this property .",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Karthik Telaprolu",
+      "timestamp_ms": 1709626802108,
+      "content": "Karthik sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C19TN8CSVtt/?id=3277860624495369069_47651711013",
+        "share_text": "14 acres of Non agricultural land towards Bengaluru highway up for sale.\nFacilitated by 1acre.in\n\n*6 km from Balanagar-NH44.\n*49 km from ORR exit.\n*50000 SFT metal structures.\n*Well secured by boundary wall and fencing\n*40\u00e2\u0080\u0099 approach road\n*500 KV Transformer \n*Existing Galvanising unit.\nSuitable for warehousing, industrial units and also Plotting\nA lump-sum quote of 15CR \nContact us:9959994737\nDM us if this land is of interest to you.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Karthik Telaprolu",
+  "is_still_participant": true,
+  "thread_path": "inbox/karthiktelaprolu_1280972679959086",
+  "magic_words": [
+    
+  ]
+}

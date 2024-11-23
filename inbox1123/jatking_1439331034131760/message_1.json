@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "JAT KING"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718715914719,
+      "content": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "JAT KING",
+      "timestamp_ms": 1718713600025,
+      "content": "Are you dealing in haryana region",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "JAT KING",
+  "is_still_participant": true,
+  "thread_path": "inbox/jatking_1439331034131760",
+  "magic_words": [
+    
+  ]
+}

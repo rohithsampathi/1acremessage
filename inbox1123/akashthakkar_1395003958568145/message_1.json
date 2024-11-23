@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Akash Thakkar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717515031071,
+      "content": "We are currently only in telangana \nWe shall launch in few months and keep you posted",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akash Thakkar",
+      "timestamp_ms": 1717512780091,
+      "content": "You have any lake view land in goa",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akash Thakkar",
+      "timestamp_ms": 1717512774937,
+      "content": "Helo",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Akash Thakkar",
+  "is_still_participant": true,
+  "thread_path": "inbox/akashthakkar_1395003958568145",
+  "magic_words": [
+    
+  ]
+}

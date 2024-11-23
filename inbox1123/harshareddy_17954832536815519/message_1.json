@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Harsha Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Harsha Reddy",
+      "timestamp_ms": 1725255592306,
+      "content": "You have pending appointment request",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harsha Reddy",
+      "timestamp_ms": 1725183229750,
+      "content": "Sure, thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725181160592,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harsha Reddy",
+      "timestamp_ms": 1725169189824,
+      "content": "You can now schedule and manage appointments in chat. Learn More.(https://help.instagram.com/1043402509628629)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harsha Reddy",
+      "timestamp_ms": 1725169189648,
+      "content": "We are looking to sell a 2 acre land near ibrahimpatnam(seetarampet), I would like to know how does selling with 1 acre.in works, what will be the fee structure, what services will be provided throughout the sale and how will you evaluate the price is the land. Thank you",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Harsha Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/harshareddy_17954832536815519",
+  "magic_words": [
+    
+  ]
+}

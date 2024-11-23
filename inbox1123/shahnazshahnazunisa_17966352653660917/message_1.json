@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Shahnaz Shahnaz Unisa"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702376445447,
+      "content": "Please call Vijay \n7780122120",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shahnaz Shahnaz Unisa",
+      "timestamp_ms": 1702373748753,
+      "content": "I have a 2000 sqyrds land in mamidipally sangareddy 1km from parivar dhaba/ main road what is the price i want to know at what price can I sell",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702373653227,
+      "content": "Hello, please tell me.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shahnaz Shahnaz Unisa",
+      "timestamp_ms": 1702365025324,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shahnaz Shahnaz Unisa",
+  "is_still_participant": true,
+  "thread_path": "inbox/shahnazshahnazunisa_17966352653660917",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Koushik Ghattamaneni"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709820450666,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412\nHe'll help you with all the details.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Koushik Ghattamaneni",
+      "timestamp_ms": 1709817714174,
+      "content": "Can you please share the additional details and let me know the next steps and site visit possibilities",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Koushik Ghattamaneni",
+      "timestamp_ms": 1709817683618,
+      "content": "Hi Team,\n\nI connected with Pratik for details of 46 acre land in Sindhnoor",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Koushik Ghattamaneni",
+  "is_still_participant": true,
+  "thread_path": "inbox/koushikghattamaneni_1365564148175607",
+  "magic_words": [
+    
+  ]
+}

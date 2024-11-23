@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Nishit Shah"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nishit Shah",
+      "timestamp_ms": 1711598550635,
+      "content": "That\u00e2\u0080\u0099s great",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711598542135,
+      "content": "Hi, Thanks for reaching out. \nYou can connect with Satish 7661933372, Co-founder.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nishit Shah",
+      "timestamp_ms": 1711593219735,
+      "content": "Please share your number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nishit Shah",
+      "timestamp_ms": 1711593213880,
+      "content": "Myself Nishit Shah CEO of the company",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nishit Shah",
+      "timestamp_ms": 1711593196269,
+      "content": "Hi,\n\nCan we connect face to face once . We can look at business opportunities. Our company is AssetNX India private limited.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nishit Shah",
+  "is_still_participant": true,
+  "thread_path": "inbox/nishitshah_1276952783693654",
+  "magic_words": [
+    
+  ]
+}

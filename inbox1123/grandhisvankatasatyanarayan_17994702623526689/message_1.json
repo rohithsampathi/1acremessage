@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Grandhis Vankata Satyanarayan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705915920978,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Grandhis Vankata Satyanarayan",
+      "timestamp_ms": 1705915680618,
+      "content": "Hi sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Grandhis Vankata Satyanarayan",
+  "is_still_participant": true,
+  "thread_path": "inbox/grandhisvankatasatyanarayan_17994702623526689",
+  "magic_words": [
+    
+  ]
+}

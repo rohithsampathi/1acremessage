@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "PRIYANSHU AGRAWAL\u00f0\u009f\u00a4\u00a4"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719240548963,
+      "content": "Hi, \nWe are currently listing only Telangana.\nWe'll launch other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "PRIYANSHU AGRAWAL\u00f0\u009f\u00a4\u00a4",
+      "timestamp_ms": 1719231861413,
+      "content": "Near kanota dam",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "PRIYANSHU AGRAWAL\u00f0\u009f\u00a4\u00a4",
+      "timestamp_ms": 1719231850863,
+      "content": "I have 2.45 acre in jaipur",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "PRIYANSHU AGRAWAL\u00f0\u009f\u00a4\u00a4",
+      "timestamp_ms": 1719231771508,
+      "content": "Hey",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "PRIYANSHU AGRAWAL\u00f0\u009f\u00a4\u00a4",
+  "is_still_participant": true,
+  "thread_path": "inbox/priyanshuagrawal_17885064126065435",
+  "magic_words": [
+    
+  ]
+}

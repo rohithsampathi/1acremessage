@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Jakkampudi Kiran"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jakkampudi Kiran",
+      "timestamp_ms": 1706896111573,
+      "content": "9963985678",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Jakkampudi Kiran",
+  "is_still_participant": true,
+  "thread_path": "inbox/jakkampudikiran_1285679832824461",
+  "magic_words": [
+    
+  ]
+}

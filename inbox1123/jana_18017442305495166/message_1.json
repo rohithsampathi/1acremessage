@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Jana"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709860515845,
+      "content": "Could you elaborate where are you interested in investing?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jana",
+      "timestamp_ms": 1709842753180,
+      "content": "We are very much interested to invest connect my whatsapp +919848088980",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Jana",
+  "is_still_participant": true,
+  "thread_path": "inbox/jana_18017442305495166",
+  "magic_words": [
+    
+  ]
+}

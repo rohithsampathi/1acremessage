@@ -1,0 +1,65 @@
+{
+  "participants": [
+    {
+      "name": "Arun reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723301941316,
+      "content": "arunreddykaithe wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723301940651,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Arun reddy",
+      "timestamp_ms": 1723298383954,
+      "content": "Interested please send details on WhatsApp to- 9866929873",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Arun reddy",
+      "timestamp_ms": 1723298383771,
+      "content": "Arun sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C-fPv3FyPgg/?id=3431530700745537568_47651711013",
+        "share_text": "SOLD !",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704388570545,
+      "content": "arunreddykaithe wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704388570154,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Arun reddy",
+      "timestamp_ms": 1704387972403,
+      "content": "Hi , wanted to know Pricing of per acre in maharastra and karnataka locations u mentioned.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Arun reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/arunreddy_1297918474934351",
+  "magic_words": [
+    
+  ]
+}

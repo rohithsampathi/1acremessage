@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Prithu Bhasin"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Prithu Bhasin",
+      "timestamp_ms": 1726579705578,
+      "content": "You have pending appointment request",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726560982569,
+      "content": "Hi Mr Bhasin,\n\nThis is Srikar from 1acre.in\n\nAs discussed, feel free to reach out should you need any other info.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726539535504,
+      "content": "Sure \nOur team will call you back",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prithu Bhasin",
+      "timestamp_ms": 1726493302995,
+      "content": "You can now schedule and manage appointments in chat. Learn more.(https://help.instagram.com/1043402509628629)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prithu Bhasin",
+      "timestamp_ms": 1726493302728,
+      "content": "Hi we are Intersted in lands in threHighway.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prithu Bhasin",
+      "timestamp_ms": 1726493243278,
+      "content": "Hi I\u00e2\u0080\u0099m interested in Shadnagar and other Properties in the highway please share location and further details to 9980913627",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Prithu Bhasin",
+  "is_still_participant": true,
+  "thread_path": "inbox/prithubhasin_18020792846591014",
+  "magic_words": [
+    
+  ]
+}

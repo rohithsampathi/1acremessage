@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Santhu Santhosh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Santhu Santhosh",
+      "timestamp_ms": 1728369007462,
+      "content": "Is there any vacancy in your company",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728367234148,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Santhu Santhosh",
+      "timestamp_ms": 1728337648674,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Santhu Santhosh",
+  "is_still_participant": true,
+  "thread_path": "inbox/santhusanthosh_1478366606886860",
+  "magic_words": [
+    
+  ]
+}

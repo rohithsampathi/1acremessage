@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Abrilla Infra & Construction"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Abrilla Infra & Construction",
+      "timestamp_ms": 1721823258296,
+      "content": "Abrilla sent an attachment.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Abrilla Infra & Construction",
+  "is_still_participant": true,
+  "thread_path": "inbox/abrillainfraconstruction_18013060343591014",
+  "magic_words": [
+    
+  ]
+}

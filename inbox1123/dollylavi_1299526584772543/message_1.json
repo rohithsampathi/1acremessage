@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Dolly Lavi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703150441708,
+      "content": "Sure,you can connect with pratheek  9390674324,",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dolly Lavi",
+      "timestamp_ms": 1703146022563,
+      "content": "Dolly sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C01UYfFNU58/?id=3257599549043461756_47651711013",
+        "share_text": "Always wanted to buy land but could never trust the process? 1acre.in is here to solve this for you. We only list verified properties with clear titles on our platform and give you the opportunity to get access to exclusive land deals as a premium member.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Dolly Lavi",
+  "is_still_participant": true,
+  "thread_path": "inbox/dollylavi_1299526584772543",
+  "magic_words": [
+    
+  ]
+}

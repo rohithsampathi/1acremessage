@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Dileepkumar Erra"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dileepkumar Erra",
+      "timestamp_ms": 1715609005054,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715608710134,
+      "content": "9032114737\nYou can talk to Bharath, from the team.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Dileepkumar Erra",
+          "timestamp": 1715609005
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dileepkumar Erra",
+      "timestamp_ms": 1715606361734,
+      "content": "Interested",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dileepkumar Erra",
+      "timestamp_ms": 1715606360391,
+      "content": "Dileepkumar sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C4j3HBRt6Vt/?id=3324743324894995821_47651711013",
+        "share_text": "9032114737\n\nPlease call Bharath, from the team.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Dileepkumar Erra",
+  "is_still_participant": true,
+  "thread_path": "inbox/dileepkumarerra_1321053669282893",
+  "magic_words": [
+    
+  ]
+}

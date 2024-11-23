@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "tulasidharnaik"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "tulasidharnaik",
+      "timestamp_ms": 1720530366382,
+      "content": "Hey bro i have content coordinate",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "tulasidharnaik",
+      "timestamp_ms": 1718728225883,
+      "content": "Thank you bro!!!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718723151668,
+      "content": "Hi, Please contact Bharath \n7780122120, from the team. \nHe'll help you with the listing.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "tulasidharnaik",
+      "timestamp_ms": 1718722699880,
+      "content": "near warangal!!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "tulasidharnaik",
+      "timestamp_ms": 1718722582128,
+      "content": "yaa the land is also in teleangana",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718722375660,
+      "content": "We currently only operate in telangana. \n\nWill keep you posted when we launch in other states",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "tulasidharnaik",
+      "timestamp_ms": 1718718693495,
+      "content": "hey bro i have a land in dornakal will you sell it",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "tulasidharnaik",
+  "is_still_participant": true,
+  "thread_path": "inbox/tulasidharnaik_18009603158591014",
+  "magic_words": [
+    
+  ]
+}

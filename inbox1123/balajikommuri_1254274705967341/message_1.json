@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Balaji Kommuri"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1699865998513,
+      "content": "Hi Balaji, how can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Balaji Kommuri",
+      "timestamp_ms": 1699854670830,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Balaji Kommuri",
+  "is_still_participant": true,
+  "thread_path": "inbox/balajikommuri_1254274705967341",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Naresh Netha Atipamula"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707627834488,
+      "content": "Please contact Ramakrishna \n7780122120",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707627821980,
+      "content": "Post/list it",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707627811296,
+      "content": "Yes, you can post your property",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Naresh Netha Atipamula",
+      "timestamp_ms": 1707612074310,
+      "content": "if yes please contact 9032790428 for further information",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Naresh Netha Atipamula",
+      "timestamp_ms": 1707612026263,
+      "content": "Is there a way of posting our property too??",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Naresh Netha Atipamula",
+      "timestamp_ms": 1707612001018,
+      "content": "I'm running a business of land trading",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Naresh Netha Atipamula",
+      "timestamp_ms": 1707611964763,
+      "content": "Hello there",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Naresh Netha Atipamula",
+  "is_still_participant": true,
+  "thread_path": "inbox/nareshnethaatipamula_1338774464185974",
+  "magic_words": [
+    
+  ]
+}

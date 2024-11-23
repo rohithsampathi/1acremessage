@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Sai Kalyan Kolapally"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sai Kalyan Kolapally",
+      "timestamp_ms": 1709986572220,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709985958262,
+      "content": "Hi, Please contact Vijay\n9959994737, he'll help you with it.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Sai Kalyan Kolapally",
+          "timestamp": 1709986572
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Kalyan Kolapally",
+      "timestamp_ms": 1709983710466,
+      "content": "Any industrial lands available for sale ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Kalyan Kolapally",
+      "timestamp_ms": 1703731930991,
+      "content": "Do you have any industrial area (red zone) land for sale in Telangana?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Kalyan Kolapally",
+      "timestamp_ms": 1703731888615,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sai Kalyan Kolapally",
+  "is_still_participant": true,
+  "thread_path": "inbox/saikalyankolapally_1272180147506303",
+  "magic_words": [
+    
+  ]
+}

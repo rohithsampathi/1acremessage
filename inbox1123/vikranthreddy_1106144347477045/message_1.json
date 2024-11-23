@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Vikranth Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vikranth Reddy",
+      "timestamp_ms": 1707055561249,
+      "content": "Sure im available tomorrow",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707030963096,
+      "content": "But Vijay, from the team will call you, to discuss the details and check the feasibility.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707030920778,
+      "content": "Ideally, we don't promote farm ventures ourselves.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707030901031,
+      "content": "Hey",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vikranth Reddy",
+      "timestamp_ms": 1707028293936,
+      "content": "Hey\nWould you be interested in promoting our upcoming farm venture project in tangatoor-mokila?\nGive me a call on 9246450045\nThanks",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vikranth Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/vikranthreddy_1106144347477045",
+  "magic_words": [
+    
+  ]
+}

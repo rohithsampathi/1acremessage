@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Nagaraju Battula"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nagaraju Battula",
+      "timestamp_ms": 1712739006375,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712738996296,
+      "content": "Hi, Please contact Harish\n9032114737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nagaraju Battula",
+      "timestamp_ms": 1712738937545,
+      "content": "I'm interested into joining",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nagaraju Battula",
+  "is_still_participant": true,
+  "thread_path": "inbox/nagarajubattula_17851541214174217",
+  "magic_words": [
+    
+  ]
+}

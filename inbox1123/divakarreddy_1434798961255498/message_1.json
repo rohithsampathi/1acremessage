@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Divakar Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721640102341,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721640101763,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Divakar Reddy",
+      "timestamp_ms": 1721635515366,
+      "content": "53kms for warangal air port mamnoor",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Divakar Reddy",
+      "timestamp_ms": 1721635390042,
+      "content": "With one bore passbook is available rathu Bandhu is coming",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Divakar Reddy",
+      "timestamp_ms": 1721635351459,
+      "content": "( Village & mandal ) Dhanthalapally  \nDistrict mahbubabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Divakar Reddy",
+      "timestamp_ms": 1721635276178,
+      "content": "I have my own agriculture land for sale Warangal to Khammam Highway first bit 4  acres",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Divakar Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/divakarreddy_1434798961255498",
+  "magic_words": [
+    
+  ]
+}

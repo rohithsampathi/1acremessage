@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "iam_Mantesh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "iam_Mantesh",
+      "timestamp_ms": 1708183744857,
+      "content": "Thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708143675128,
+      "content": "These are Lands around Chilkur. They are usually priced around 5cr per acre.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "iam_Mantesh",
+      "timestamp_ms": 1708113726390,
+      "content": "I\u00e2\u0080\u0099m replying to this reel",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "iam_Mantesh",
+      "timestamp_ms": 1708113726007,
+      "content": "iam_Mantesh sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C3NyiVgtfnG/?id=3300516363817580998_47651711013",
+        "share_text": "Thinking about purchasing land in Telangana? \n\nGet access to 1acre Premium that offers you: \n\u00f0\u009f\u00a4\u009d Hand Holding and Investment Guidance \n\u00f0\u009f\u008f\u009c\u00ef\u00b8\u008f Curated Land Parcels just for you \n\u00f0\u009f\u0091\u0081\u00ef\u00b8\u008f Access lands in Karnataka & Maharastra\n\u00f0\u009f\u0093\u008d Map view to see all lands available at a glance \n\nLife time membership for Rs 5000 only.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "iam_Mantesh",
+      "timestamp_ms": 1708113703611,
+      "content": "Why I\u00e2\u0080\u0099m looking for it, what will be price per acre",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "iam_Mantesh",
+  "is_still_participant": true,
+  "thread_path": "inbox/iam_mantesh_1281633443226309",
+  "magic_words": [
+    
+  ]
+}

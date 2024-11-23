@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "RAHULROVEER"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703315923020,
+      "content": "Hi , you can connect with pratheek  9390674324,",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "RAHULROVEER",
+      "timestamp_ms": 1703300568806,
+      "content": "Sir I need a procedure  or details for buy a agricultural land . how We can know the it is a perfect land with out any litigations or disputes ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "RAHULROVEER",
+      "timestamp_ms": 1703275590510,
+      "content": "Hi sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "RAHULROVEER",
+  "is_still_participant": true,
+  "thread_path": "inbox/rahulroveer_906002574258569",
+  "magic_words": [
+    
+  ]
+}

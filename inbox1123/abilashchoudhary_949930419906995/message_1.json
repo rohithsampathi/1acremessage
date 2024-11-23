@@ -1,0 +1,76 @@
+{
+  "participants": [
+    {
+      "name": "Abilash Choudhary"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708598702369,
+      "content": "Plz check this page for all details.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abilash Choudhary",
+      "timestamp_ms": 1708598059673,
+      "content": "Premium charges?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708591845372,
+      "content": "https://www.1acre.in/subscribe",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "https://www.1acre.in/subscribe"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708591832317,
+      "content": "If you subscribe to premium, you get access to the MapView of all verified lands. You can contact the sellers directly and if you have any hiccups during the process, we'll guide you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708591577493,
+      "content": "Hi, thanks for reaching out.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abilash Choudhary",
+      "timestamp_ms": 1708591397309,
+      "content": "Preferably on Mumbai highway",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abilash Choudhary",
+      "timestamp_ms": 1708591379364,
+      "content": "My budget is 50L",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abilash Choudhary",
+      "timestamp_ms": 1708591372153,
+      "content": "Am looking to buy land within 30-50kms from ORR",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abilash Choudhary",
+      "timestamp_ms": 1708591339106,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Abilash Choudhary",
+  "is_still_participant": true,
+  "thread_path": "inbox/abilashchoudhary_949930419906995",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Narresh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721374493642,
+      "content": "1acre.in/subscribe  Please explore.",
+      "share": {
+        "link": "http://1acre.in/subscribe",
+        "share_text": "1acre.in/subscribe  Please explore."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Narresh",
+      "timestamp_ms": 1721369025158,
+      "content": "Warangal lo 20 lac lo land unnaya brother",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721275585800,
+      "content": "Yes, good morning",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Narresh",
+      "timestamp_ms": 1721271093100,
+      "content": "Good morning",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Narresh",
+  "is_still_participant": true,
+  "thread_path": "inbox/narresh_1460028698726018",
+  "magic_words": [
+    
+  ]
+}

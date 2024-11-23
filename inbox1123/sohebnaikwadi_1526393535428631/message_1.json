@@ -1,0 +1,100 @@
+{
+  "participants": [
+    {
+      "name": "Soheb Naikwadi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Soheb Naikwadi",
+      "timestamp_ms": 1730886473754,
+      "content": "7030721617",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730886454978,
+      "content": "Can you drop your number so our assigned team will give you a call!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Soheb Naikwadi",
+      "timestamp_ms": 1730886123991,
+      "content": "What kind of operation do you expect",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730885465711,
+      "content": "We only partner with agents who have strong operations in a region",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Soheb Naikwadi",
+      "timestamp_ms": 1730885207561,
+      "content": "I want 1acer for solapur region",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730885142802,
+      "content": "I hat partnership are you looking for ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Soheb Naikwadi",
+      "timestamp_ms": 1730885040235,
+      "content": "I am an engineer by profession",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730885006071,
+      "content": "Are you an agent ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Soheb Naikwadi",
+      "timestamp_ms": 1730882157768,
+      "content": "How to become partner with u",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3495199295807211213"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Soheb Naikwadi",
+      "timestamp_ms": 1723906020505,
+      "content": "7030721617",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1723906043
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723905982879,
+      "content": "We are launching Maharashtra soon. Will keep you posted. \nPlease drop your number.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Soheb Naikwadi",
+      "timestamp_ms": 1723903020464,
+      "content": "Hello \nWe want sell our property in Solapur",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Soheb Naikwadi",
+  "is_still_participant": true,
+  "thread_path": "inbox/sohebnaikwadi_1526393535428631",
+  "magic_words": [
+    
+  ]
+}

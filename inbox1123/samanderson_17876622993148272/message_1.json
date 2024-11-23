@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Sam Anderson"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725861047395,
+      "content": "Let us know more specifics (like budget, Location etc.) And your number, so we can get back to you later.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sam Anderson",
+      "timestamp_ms": 1725857554064,
+      "content": "I'm looking to buy",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725759231291,
+      "content": "Are you looking to buy or sell?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725759216425,
+      "content": "We are launching next week, in Karanataka.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sam Anderson",
+      "timestamp_ms": 1725729402359,
+      "content": "Bangalore",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sam Anderson",
+      "timestamp_ms": 1725729400272,
+      "content": "Hi, do you only deal in AP and Telangana? Or you have any properties in and around bangy",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sam Anderson",
+  "is_still_participant": true,
+  "thread_path": "inbox/samanderson_17876622993148272",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Padma Tej"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1699866059093,
+      "content": "Can we have your contact number our team connects with you and help you with your enquiry.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Padma Tej",
+      "timestamp_ms": 1699853859486,
+      "content": "And wanted to know",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Padma Tej",
+      "timestamp_ms": 1699853854011,
+      "content": "I saw ur posts last nyt",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1699840213280,
+      "content": "Hey , how can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Padma Tej",
+      "timestamp_ms": 1699817816988,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Padma Tej",
+  "is_still_participant": true,
+  "thread_path": "inbox/padmatej_1275147273886849",
+  "magic_words": [
+    
+  ]
+}

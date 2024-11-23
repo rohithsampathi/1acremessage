@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Anudeep Reddy Muddasani"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702951060014,
+      "content": "you can connect with pratheek  9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anudeep Reddy Muddasani",
+      "timestamp_ms": 1702891434211,
+      "content": "will call you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anudeep Reddy Muddasani",
+      "timestamp_ms": 1702891431523,
+      "content": "give me your contact",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anudeep Reddy Muddasani",
+      "timestamp_ms": 1702891424778,
+      "content": "looking to buy land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702890722084,
+      "content": "Hy , how can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anudeep Reddy Muddasani",
+      "timestamp_ms": 1702890471337,
+      "content": "hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Anudeep Reddy Muddasani",
+  "is_still_participant": true,
+  "thread_path": "inbox/anudeepreddymuddasani_1320097086052066",
+  "magic_words": [
+    
+  ]
+}

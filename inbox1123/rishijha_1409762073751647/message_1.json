@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Rishi Jha"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rishi Jha",
+      "timestamp_ms": 1720238331026,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720236456064,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720236455220,
+      "content": "Hi, Please contact Vijay 9959994737, from the team. He'll help you with it.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Rishi Jha",
+          "timestamp": 1720238331
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rishi Jha",
+      "timestamp_ms": 1720186879629,
+      "content": "I would like to purchase this land",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rishi Jha",
+  "is_still_participant": true,
+  "thread_path": "inbox/rishijha_1409762073751647",
+  "magic_words": [
+    
+  ]
+}

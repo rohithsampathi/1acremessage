@@ -1,0 +1,89 @@
+{
+  "participants": [
+    {
+      "name": "Pranay Goyal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710217788144,
+      "content": "Hi, Please contact Harish\n9989738297",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pranay Goyal",
+      "timestamp_ms": 1710215499097,
+      "content": "Do u have any contact ni",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pranay Goyal",
+      "timestamp_ms": 1710215491743,
+      "content": "You missed an audio call",
+      "call_duration": 0,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pranay Goyal",
+      "timestamp_ms": 1710215484389,
+      "content": "pranay_goyal1994 started an audio call",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pranay Goyal",
+      "timestamp_ms": 1710215471004,
+      "content": "U have any",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pranay Goyal",
+      "timestamp_ms": 1710215467049,
+      "content": "1 acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708525065523,
+      "content": "You can subscribe, get access to the mapview and see all the lands and contact the sellers directly.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pranay Goyal",
+      "timestamp_ms": 1708522377636,
+      "content": "Any good in chance in range of 40",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pranay Goyal",
+      "timestamp_ms": 1708522370267,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705453575684,
+      "content": "https://www.1acre.in/subscribe\n\nPlease go through and subscribe or click 'talk to us->' at the end of the page and fill in the form. We'll get back to you.",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "https://www.1acre.in/subscribe\n\nPlease go through and subscribe or click 'talk to us->' at the end of the page and fill in the form. We'll get back to you."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pranay Goyal",
+      "timestamp_ms": 1705420638527,
+      "content": "Any good in range of 10",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Pranay Goyal",
+  "is_still_participant": true,
+  "thread_path": "inbox/pranaygoyal_18012569240497812",
+  "magic_words": [
+    
+  ]
+}

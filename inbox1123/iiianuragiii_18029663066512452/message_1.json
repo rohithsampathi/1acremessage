@@ -1,0 +1,72 @@
+{
+  "participants": [
+    {
+      "name": "iii.anurag.iii"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "iii.anurag.iii",
+      "timestamp_ms": 1724393436137,
+      "content": "In between",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "iii.anurag.iii",
+      "timestamp_ms": 1724393428463,
+      "content": "Pardih to galudih",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "iii.anurag.iii",
+      "timestamp_ms": 1724393395152,
+      "content": "Own",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724393220806,
+      "content": "May we know if you are looking for yourself or a client ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724393202576,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "iii.anurag.iii",
+      "timestamp_ms": 1724392972111,
+      "content": "Land near highway in nh33",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724392729424,
+      "content": "May we know what are you looking for ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724392722244,
+      "content": "We have not launched in jamshedpur yet",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "iii.anurag.iii",
+      "timestamp_ms": 1724345464354,
+      "content": "Jamshedpur mai koi jameen hai",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "iii.anurag.iii",
+  "is_still_participant": true,
+  "thread_path": "inbox/iiianuragiii_18029663066512452",
+  "magic_words": [
+    
+  ]
+}

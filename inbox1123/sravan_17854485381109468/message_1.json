@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Sravan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706957283302,
+      "content": "This",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sravan",
+      "timestamp_ms": 1706954647362,
+      "content": "Can I have contact number plz",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706938446278,
+      "content": "This is Ratna Kiran's number \n9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706938424794,
+      "content": "Definitely sir.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sravan",
+      "timestamp_ms": 1706935429240,
+      "content": "Hi sir, Can have your number,  I am from your school, Roll No: 3296,96-2003 Batch, I stay in hyd holding hotel business, for any investment I just want to meet you,  if you don't have issue .",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sravan",
+  "is_still_participant": true,
+  "thread_path": "inbox/sravan_17854485381109468",
+  "magic_words": [
+    
+  ]
+}

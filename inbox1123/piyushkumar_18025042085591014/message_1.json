@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Piyush Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729480151259,
+      "content": "No",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Piyush Kumar",
+      "timestamp_ms": 1729447401436,
+      "content": "?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Piyush Kumar",
+      "timestamp_ms": 1729447399897,
+      "content": "Sir any work you have currently",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729447278634,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Piyush Kumar",
+      "timestamp_ms": 1729440808357,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Piyush Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/piyushkumar_18025042085591014",
+  "magic_words": [
+    
+  ]
+}

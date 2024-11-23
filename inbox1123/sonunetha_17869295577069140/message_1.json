@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Sonu netha"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sonu netha",
+      "timestamp_ms": 1709352201284,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709351878971,
+      "content": "Please contact Ramakrishna \n7780122120, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709351855500,
+      "content": "Hi, Sorry lost track of this message.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sonu netha",
+      "timestamp_ms": 1709214552543,
+      "content": "I need a call from you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sonu netha",
+      "timestamp_ms": 1709214545217,
+      "content": "We had land near bhiknoor village Nizamabad Highway facing land for sale",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sonu netha",
+  "is_still_participant": true,
+  "thread_path": "inbox/sonunetha_17869295577069140",
+  "magic_words": [
+    
+  ]
+}

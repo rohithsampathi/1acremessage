@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Abhishek Tunk"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726465610043,
+      "content": "What is this regarding ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhishek Tunk",
+      "timestamp_ms": 1726457774307,
+      "content": "Send your contact number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhishek Tunk",
+      "timestamp_ms": 1726457730533,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Abhishek Tunk",
+  "is_still_participant": true,
+  "thread_path": "inbox/abhishektunk_1452609596125639",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Jeevan Loy Colaco"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730971858976,
+      "content": "Share your number and our team will call you to discuss",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jeevan Loy Colaco",
+      "timestamp_ms": 1730971576671,
+      "content": "Chikmagalur",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730955545002,
+      "content": "Which area are you from ? (edited)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730955536566,
+      "content": "Which area are you looking for ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jeevan Loy Colaco",
+      "timestamp_ms": 1730905236420,
+      "content": "I want  to sell land. I want a video similar way.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Jeevan Loy Colaco",
+  "is_still_participant": true,
+  "thread_path": "inbox/jeevanloycolaco_18045013826293988",
+  "magic_words": [
+    
+  ]
+}

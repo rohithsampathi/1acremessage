@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Rohith"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697547020703,
+      "content": "Please contact Vijay from 1acre.in for more details. +91 8074450533",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697546891814,
+      "content": "1acre.in",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rohith",
+      "timestamp_ms": 1697526435260,
+      "content": "Can you call me on 8977643113",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rohith",
+      "timestamp_ms": 1697526428531,
+      "content": "Would like to discuss about what\u00e2\u0080\u0099s posted in these ..",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rohith",
+      "timestamp_ms": 1697526408377,
+      "content": "Rohith sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/CyfUQ2zruSu/?carousel_share_child_media_id=3215377774423208206_47651711013",
+        "share_text": "",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rohith",
+  "is_still_participant": true,
+  "thread_path": "inbox/rohith_1266077398124832",
+  "magic_words": [
+    
+  ]
+}

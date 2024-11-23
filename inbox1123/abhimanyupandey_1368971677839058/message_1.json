@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Abhimanyu Pandey"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Abhimanyu Pandey",
+      "timestamp_ms": 1721095895034,
+      "content": "Ok \u00f0\u009f\u0099\u0082",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721090972650,
+      "content": "We are currently listing only Telangana. We'll list other states soon. Will keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhimanyu Pandey",
+      "timestamp_ms": 1721067164614,
+      "content": "2 acre land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhimanyu Pandey",
+      "timestamp_ms": 1721067136481,
+      "content": "Near maa Narmada river",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhimanyu Pandey",
+      "timestamp_ms": 1721067120370,
+      "content": "In madhya pradesh",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhimanyu Pandey",
+      "timestamp_ms": 1721067116712,
+      "content": "I have land for sale",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Abhimanyu Pandey",
+  "is_still_participant": true,
+  "thread_path": "inbox/abhimanyupandey_1368971677839058",
+  "magic_words": [
+    
+  ]
+}

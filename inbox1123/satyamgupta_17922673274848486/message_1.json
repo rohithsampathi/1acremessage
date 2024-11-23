@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Satyam Gupta"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Satyam Gupta",
+      "timestamp_ms": 1708695765144,
+      "content": "Stop",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708695757768,
+      "content": "Thanks. Please let us know how we can help you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Satyam Gupta",
+      "timestamp_ms": 1708695756923,
+      "content": "Not now",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Satyam Gupta",
+  "is_still_participant": true,
+  "thread_path": "inbox/satyamgupta_17922673274848486",
+  "magic_words": [
+    
+  ]
+}

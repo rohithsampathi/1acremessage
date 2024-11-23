@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Vishnu Pajjuri"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722913353096,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishnu Pajjuri",
+      "timestamp_ms": 1722865649646,
+      "content": "Upto 20k sq.yards",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishnu Pajjuri",
+      "timestamp_ms": 1722865631422,
+      "content": "Hey I have few plots in a hmda venture in Mucherla",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vishnu Pajjuri",
+  "is_still_participant": true,
+  "thread_path": "inbox/vishnupajjuri_1392354698820662",
+  "magic_words": [
+    
+  ]
+}

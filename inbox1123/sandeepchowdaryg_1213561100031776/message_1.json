@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Sandeep Chowdary G"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sandeep Chowdary G",
+      "timestamp_ms": 1704602558929,
+      "content": "9121333354",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704602534273,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sandeep Chowdary G",
+      "timestamp_ms": 1704602498748,
+      "content": "Aziz Nagar to Moinabad Route or Aziz Nagar to Chilkur Route.. 1 to 3 Acres wanted for Farm House.. ONLY 111 GO LAND PREFERRED AS BUDGET IS LESS",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sandeep Chowdary G",
+  "is_still_participant": true,
+  "thread_path": "inbox/sandeepchowdaryg_1213561100031776",
+  "magic_words": [
+    
+  ]
+}

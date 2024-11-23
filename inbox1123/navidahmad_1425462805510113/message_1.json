@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Navid Ahmad"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729239776536,
+      "content": "We have few lands and adding more every week. \n\nYou can check on our website 1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "We have few lands and adding more every week. \n\nYou can check on our website 1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Navid Ahmad",
+      "timestamp_ms": 1727663254551,
+      "content": "Any land in vizag",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Navid Ahmad",
+  "is_still_participant": true,
+  "thread_path": "inbox/navidahmad_1425462805510113",
+  "magic_words": [
+    
+  ]
+}

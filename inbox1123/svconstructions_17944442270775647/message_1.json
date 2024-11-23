@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "SV CONSTRUCTIONS"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706333872474,
+      "content": "https://www.1acre.in/subscribe\n\nPlease go through and subscribe (or) click 'talk to us->' at the end of the page and fill in the form. We'll get back to you.",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "https://www.1acre.in/subscribe\n\nPlease go through and subscribe (or) click 'talk to us->' at the end of the page and fill in the form. We'll get back to you."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SV CONSTRUCTIONS",
+      "timestamp_ms": 1706333156923,
+      "content": "20 acres",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SV CONSTRUCTIONS",
+      "timestamp_ms": 1706333136402,
+      "content": "Do u have any farm lands near to city around 40 lakh",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706231500417,
+      "content": "Ok. But we do only lands and even in that, we don't do paid promotions.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SV CONSTRUCTIONS",
+      "timestamp_ms": 1706203969556,
+      "content": "Actually we built  apartments and gated communities so would like to promote a vedio of our site",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706147873305,
+      "content": "Only lands",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SV CONSTRUCTIONS",
+      "timestamp_ms": 1706119956909,
+      "content": "Hi this is vishnu from sv construction do u do vedio only on farm lands or on buildings and apartments to",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "SV CONSTRUCTIONS",
+  "is_still_participant": true,
+  "thread_path": "inbox/svconstructions_17944442270775647",
+  "magic_words": [
+    
+  ]
+}

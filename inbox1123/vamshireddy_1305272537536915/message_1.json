@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Vamshi Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702951069306,
+      "content": "you can connect with pratheek  9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vamshi Reddy",
+      "timestamp_ms": 1702891267833,
+      "content": "Can u share ur cnct num",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vamshi Reddy",
+      "timestamp_ms": 1702891251818,
+      "content": "Here",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vamshi Reddy",
+      "timestamp_ms": 1702891249704,
+      "content": "Vamshi reddy",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vamshi Reddy",
+      "timestamp_ms": 1702891243356,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vamshi Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/vamshireddy_1305272537536915",
+  "magic_words": [
+    
+  ]
+}

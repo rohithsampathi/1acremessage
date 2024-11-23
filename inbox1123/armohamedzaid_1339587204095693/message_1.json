@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Ar. MOHAMED ZAID"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717720004274,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412\nThanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ar. MOHAMED ZAID",
+      "timestamp_ms": 1717693153606,
+      "content": "Hello is this is Ar.ZAID from Ballari I am an architect \nAnd we are in a construction business too\nNeed an appointment and a small meeting with u \nSo sir please can u share me ur contact details",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ar. MOHAMED ZAID",
+  "is_still_participant": true,
+  "thread_path": "inbox/armohamedzaid_1339587204095693",
+  "magic_words": [
+    
+  ]
+}

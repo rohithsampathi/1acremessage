@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Megna Gujarathi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Megna Gujarathi",
+      "timestamp_ms": 1699885435152,
+      "content": "Megna sent an attachment.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Megna Gujarathi",
+  "is_still_participant": true,
+  "thread_path": "inbox/megnagujarathi_1136903397695798",
+  "magic_words": [
+    
+  ]
+}

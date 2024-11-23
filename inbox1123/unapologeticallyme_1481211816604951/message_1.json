@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "unapologetically Me\u00f0\u009f\u008c\u00b8"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727615095151,
+      "content": "Number?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727615073871,
+      "content": "Anytime before lunch",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "unapologetically Me\u00f0\u009f\u008c\u00b8",
+      "timestamp_ms": 1727614068603,
+      "content": "Okay what time?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727614049790,
+      "content": "Pls drop your number, will try to arrange for a call tomorrow",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "unapologetically Me\u00f0\u009f\u008c\u00b8",
+      "timestamp_ms": 1727613068692,
+      "content": "Hey I'm from bandlaguda near Owaisi school please give brief detail about ftl and buffer zone",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "unapologetically Me\u00f0\u009f\u008c\u00b8",
+  "is_still_participant": true,
+  "thread_path": "inbox/unapologeticallyme_1481211816604951",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009d\u0097\u00a5\u00f0\u009d\u0097\u00bc\u00f0\u009d\u0097\u00af\u00f0\u009d\u0097\u00b6\u00f0\u009d\u0097\u00bb"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00f0\u009d\u0097\u00a5\u00f0\u009d\u0097\u00bc\u00f0\u009d\u0097\u00af\u00f0\u009d\u0097\u00b6\u00f0\u009d\u0097\u00bb",
+      "timestamp_ms": 1717831351977,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717809324624,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717809323588,
+      "content": "Yes. Please contact Vijay\n9959994737, from the team.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "\u00f0\u009d\u0097\u00a5\u00f0\u009d\u0097\u00bc\u00f0\u009d\u0097\u00af\u00f0\u009d\u0097\u00b6\u00f0\u009d\u0097\u00bb",
+          "timestamp": 1717831351
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0097\u00a5\u00f0\u009d\u0097\u00bc\u00f0\u009d\u0097\u00af\u00f0\u009d\u0097\u00b6\u00f0\u009d\u0097\u00bb",
+      "timestamp_ms": 1717799313254,
+      "content": "is there commission if i get u buyers",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0097\u00a5\u00f0\u009d\u0097\u00bc\u00f0\u009d\u0097\u00af\u00f0\u009d\u0097\u00b6\u00f0\u009d\u0097\u00bb",
+      "timestamp_ms": 1717799293224,
+      "content": "hi bro",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00f0\u009d\u0097\u00a5\u00f0\u009d\u0097\u00bc\u00f0\u009d\u0097\u00af\u00f0\u009d\u0097\u00b6\u00f0\u009d\u0097\u00bb",
+  "is_still_participant": true,
+  "thread_path": "inbox/robin_1389282449129871",
+  "magic_words": [
+    
+  ]
+}

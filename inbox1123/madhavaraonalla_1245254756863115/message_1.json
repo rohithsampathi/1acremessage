@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Madhava Rao Nalla"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Madhava Rao Nalla",
+      "timestamp_ms": 1706078544426,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706073384825,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Madhava Rao Nalla",
+      "timestamp_ms": 1706065745751,
+      "content": "Hi, I am interested in buying agricultural land in warangal. We can discuss the requirements over the call. Kindly share your contact number",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Madhava Rao Nalla",
+  "is_still_participant": true,
+  "thread_path": "inbox/madhavaraonalla_1245254756863115",
+  "magic_words": [
+    
+  ]
+}

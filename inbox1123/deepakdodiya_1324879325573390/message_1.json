@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Deepak Dodiya"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706691488050,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Deepak Dodiya",
+      "timestamp_ms": 1706677099760,
+      "content": "I am interested in buying 100 acres land in Maharashtra. Please share details",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Deepak Dodiya",
+  "is_still_participant": true,
+  "thread_path": "inbox/deepakdodiya_1324879325573390",
+  "magic_words": [
+    
+  ]
+}

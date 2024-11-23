@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Sawdia Dhanraj"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731150965566,
+      "content": "Please call our team member Venu at +91 76749 01201\n\nHe shall help you list it and share other details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sawdia Dhanraj",
+      "timestamp_ms": 1731139488330,
+      "content": "Have to talk about land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sawdia Dhanraj",
+      "timestamp_ms": 1731139475166,
+      "content": "Hii \nDhanraj this side",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sawdia Dhanraj",
+  "is_still_participant": true,
+  "thread_path": "inbox/sawdiadhanraj_17957050043832140",
+  "magic_words": [
+    
+  ]
+}

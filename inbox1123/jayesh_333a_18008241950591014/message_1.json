@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "jayesh_333a"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "jayesh_333a",
+      "timestamp_ms": 1717738347109,
+      "content": "Jobs available",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717737814634,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "jayesh_333a",
+      "timestamp_ms": 1717736862998,
+      "content": "Hey",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "jayesh_333a",
+  "is_still_participant": true,
+  "thread_path": "inbox/jayesh_333a_18008241950591014",
+  "magic_words": [
+    
+  ]
+}

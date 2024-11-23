@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009d\u0090\u0095\u00f0\u009d\u0090\u0098\u00f0\u009d\u0090\u0092\u00f0\u009d\u009f\u0097\u00f0\u009d\u009f\u0094"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0095\u00f0\u009d\u0090\u0098\u00f0\u009d\u0090\u0092\u00f0\u009d\u009f\u0097\u00f0\u009d\u009f\u0094",
+      "timestamp_ms": 1721656546394,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721656514716,
+      "content": "We are currently listing Telangana.  We'll list other states soon.  Will keep you posted.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "\u00f0\u009d\u0090\u0095\u00f0\u009d\u0090\u0098\u00f0\u009d\u0090\u0092\u00f0\u009d\u009f\u0097\u00f0\u009d\u009f\u0094",
+          "timestamp": 1721656546
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0095\u00f0\u009d\u0090\u0098\u00f0\u009d\u0090\u0092\u00f0\u009d\u009f\u0097\u00f0\u009d\u009f\u0094",
+      "timestamp_ms": 1721654130658,
+      "content": "From*",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0095\u00f0\u009d\u0090\u0098\u00f0\u009d\u0090\u0092\u00f0\u009d\u009f\u0097\u00f0\u009d\u009f\u0094",
+      "timestamp_ms": 1721654061857,
+      "content": "We want to sell our general property/Land of 3.11 Acres",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0095\u00f0\u009d\u0090\u0098\u00f0\u009d\u0090\u0092\u00f0\u009d\u009f\u0097\u00f0\u009d\u009f\u0094",
+      "timestamp_ms": 1721654006808,
+      "content": "I'm karnataka.. Vijayapur district",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721653832027,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0095\u00f0\u009d\u0090\u0098\u00f0\u009d\u0090\u0092\u00f0\u009d\u009f\u0097\u00f0\u009d\u009f\u0094",
+      "timestamp_ms": 1721653245913,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00f0\u009d\u0090\u0095\u00f0\u009d\u0090\u0098\u00f0\u009d\u0090\u0092\u00f0\u009d\u009f\u0097\u00f0\u009d\u009f\u0094",
+  "is_still_participant": true,
+  "thread_path": "inbox/vys96_1513846100012923",
+  "magic_words": [
+    
+  ]
+}

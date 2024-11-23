@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Viswanath Rao Chitturi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705110932101,
+      "content": "Hi, the price is 3cr per acre. Please contact Vijay for all the details. \n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Viswanath Rao Chitturi",
+      "timestamp_ms": 1705103787871,
+      "content": "Interested to acquire some acres of land. Please share the details.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Viswanath Rao Chitturi",
+  "is_still_participant": true,
+  "thread_path": "inbox/viswanathraochitturi_1349535953113574",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Samudragupa"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Samudragupa",
+      "timestamp_ms": 1725188460473,
+      "content": "Thank u",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725188324229,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Samudragupa",
+      "timestamp_ms": 1725185197725,
+      "content": "Can u drop your number ? I wil send u more details. How much commission do u charge ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Samudragupa",
+      "timestamp_ms": 1725185175197,
+      "content": "We have a property in lingasur, near raichur Karnataka.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Samudragupa",
+      "timestamp_ms": 1725185159919,
+      "content": "Hiii..",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Samudragupa",
+  "is_still_participant": true,
+  "thread_path": "inbox/samudragupa_18037931807106896",
+  "magic_words": [
+    
+  ]
+}

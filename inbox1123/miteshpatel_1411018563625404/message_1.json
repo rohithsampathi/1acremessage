@@ -1,0 +1,72 @@
+{
+  "participants": [
+    {
+      "name": "Mitesh Patel"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mitesh Patel",
+      "timestamp_ms": 1717650295066,
+      "content": "Or mere ko lend chaiye lease ya rent pe",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mitesh Patel",
+      "timestamp_ms": 1717650275073,
+      "content": "Me Gujarat se hun sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717649789890,
+      "content": "Aap kaha se ho? Aur land mein deal Karte ho?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mitesh Patel",
+      "timestamp_ms": 1717649078180,
+      "content": "Ji sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717645216218,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mitesh Patel",
+      "timestamp_ms": 1717643679156,
+      "content": "Land can be rented if desired sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717642215436,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mitesh Patel",
+      "timestamp_ms": 1717640896410,
+      "content": "Sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mitesh Patel",
+      "timestamp_ms": 1717640895057,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mitesh Patel",
+  "is_still_participant": true,
+  "thread_path": "inbox/miteshpatel_1411018563625404",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "TASK WHITE"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717992395056,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "TASK WHITE",
+      "timestamp_ms": 1717992180257,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "TASK WHITE",
+  "is_still_participant": true,
+  "thread_path": "inbox/taskwhite_18008596253591014",
+  "magic_words": [
+    
+  ]
+}

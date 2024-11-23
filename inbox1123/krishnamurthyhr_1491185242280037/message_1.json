@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Krishnamurthy H R"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722479036325,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Krishnamurthy H R",
+      "timestamp_ms": 1722441838623,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Krishnamurthy H R",
+  "is_still_participant": true,
+  "thread_path": "inbox/krishnamurthyhr_1491185242280037",
+  "magic_words": [
+    
+  ]
+}

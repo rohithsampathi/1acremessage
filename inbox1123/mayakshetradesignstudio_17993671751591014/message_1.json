@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "MAYAKSHETRA DESIGN STUDIO"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706758969810,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "MAYAKSHETRA DESIGN STUDIO",
+      "timestamp_ms": 1706752846657,
+      "content": "I am from Hyderabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "MAYAKSHETRA DESIGN STUDIO",
+      "timestamp_ms": 1706752832360,
+      "content": "My name is B Krishna Chaitanyaa Architect",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "MAYAKSHETRA DESIGN STUDIO",
+      "timestamp_ms": 1706752812653,
+      "content": "Can I have your number to discuss a few points",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "MAYAKSHETRA DESIGN STUDIO",
+      "timestamp_ms": 1706752781068,
+      "content": "Good morning",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "MAYAKSHETRA DESIGN STUDIO",
+  "is_still_participant": true,
+  "thread_path": "inbox/mayakshetradesignstudio_17993671751591014",
+  "magic_words": [
+    
+  ]
+}

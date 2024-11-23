@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Brat Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707526856566,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Brat Reddy",
+      "timestamp_ms": 1707501361505,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Brat Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/bratreddy_1320538722670628",
+  "magic_words": [
+    
+  ]
+}

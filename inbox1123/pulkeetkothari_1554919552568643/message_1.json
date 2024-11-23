@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "PULKEET KOTHARI"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731048488785,
+      "content": "Share your number and our team will call you to discuss",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "PULKEET KOTHARI",
+      "timestamp_ms": 1731043754268,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731043355866,
+      "content": "Are you an agent ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "PULKEET KOTHARI",
+      "timestamp_ms": 1730980389512,
+      "content": "Dm",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "PULKEET KOTHARI",
+      "timestamp_ms": 1730980385230,
+      "content": "PULKEET sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DBsr6qASdDg/?carousel_share_child_media_id=3489356951837079286_47651711013",
+        "share_text": "",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "PULKEET KOTHARI",
+  "is_still_participant": true,
+  "thread_path": "inbox/pulkeetkothari_1554919552568643",
+  "magic_words": [
+    
+  ]
+}

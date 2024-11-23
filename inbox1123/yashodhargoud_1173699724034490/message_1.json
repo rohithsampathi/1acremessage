@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Yashodhar Goud"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703739043325,
+      "content": "Hi , you can connect with pratheek  9390674324,",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yashodhar Goud",
+      "timestamp_ms": 1703688859487,
+      "content": "60lakhs per acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yashodhar Goud",
+      "timestamp_ms": 1703688846787,
+      "content": "Land for sale in Gajwel mandal 50 kms from Hyderabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yashodhar Goud",
+      "timestamp_ms": 1703687056890,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Yashodhar Goud",
+  "is_still_participant": true,
+  "thread_path": "inbox/yashodhargoud_1173699724034490",
+  "magic_words": [
+    
+  ]
+}

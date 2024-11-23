@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Nithin Ammineni"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717646665412,
+      "content": "Please let us know your requirement",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717646656167,
+      "content": "Hello there !",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nithin Ammineni",
+      "timestamp_ms": 1717645664253,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nithin Ammineni",
+  "is_still_participant": true,
+  "thread_path": "inbox/nithinammineni_1403721991021579",
+  "magic_words": [
+    
+  ]
+}

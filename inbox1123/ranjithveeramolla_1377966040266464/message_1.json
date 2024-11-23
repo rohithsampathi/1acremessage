@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Ranjith Veeramolla"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710645938915,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ranjith Veeramolla",
+      "timestamp_ms": 1710643057937,
+      "content": "My budget 2 cr",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ranjith Veeramolla",
+      "timestamp_ms": 1710643051700,
+      "content": "Hi I am looking for a land..which gives good appreciation in future...can you suggest any",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ranjith Veeramolla",
+  "is_still_participant": true,
+  "thread_path": "inbox/ranjithveeramolla_1377966040266464",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "MallikArjun Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706701904489,
+      "content": "He'll help you with it",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706701892269,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "MallikArjun Reddy",
+      "timestamp_ms": 1706700477059,
+      "content": "It\u00e2\u0080\u0099s near Medchal",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "MallikArjun Reddy",
+      "timestamp_ms": 1706700457568,
+      "content": "Can you guys help me in selling my land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "MallikArjun Reddy",
+      "timestamp_ms": 1706700410363,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "MallikArjun Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/mallikarjunreddy_1299320118126197",
+  "magic_words": [
+    
+  ]
+}

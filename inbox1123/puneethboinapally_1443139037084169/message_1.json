@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Puneeth Boinapally"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721017417297,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721017416438,
+      "content": "Hi, Please contact Vijay 9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Puneeth Boinapally",
+      "timestamp_ms": 1721016417248,
+      "content": "Can you please share location pin",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Puneeth Boinapally",
+      "timestamp_ms": 1721016393997,
+      "content": "Puneeth sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C9Y-y1OqDp4/?id=3411752889744898680_47651711013",
+        "share_text": "7 acres | \u00e2\u0082\u00b92 Cr per acre | Near Gajwel | Link in bio \u00f0\u009f\u008c\u009f\n\nVerified and facilitated by 1acre.in\nReady to be sold as smaller parcels \n60\u00e2\u0080\u0099 Road access\n2km from Karimnagar Highway, Very close to RRR\n5km from Kondapochamma Reservoir \nIn Free-zone beyond HMDA limits\nIdeal for layout or Group buying. \n\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 9959994737\n\n\u00f0\u009f\u0093\u00ac DM us for more queries on buying, selling, or partnerships",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Puneeth Boinapally",
+      "timestamp_ms": 1721016383571,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Puneeth Boinapally",
+  "is_still_participant": true,
+  "thread_path": "inbox/puneethboinapally_1443139037084169",
+  "magic_words": [
+    
+  ]
+}

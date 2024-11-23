@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Srikanth Lakma"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Srikanth Lakma",
+      "timestamp_ms": 1714563991388,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710953646085,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team. \nHe'll help you with it. Thanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srikanth Lakma",
+      "timestamp_ms": 1710949502730,
+      "content": "Will you be able to help with sale ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srikanth Lakma",
+      "timestamp_ms": 1710949493720,
+      "content": "Hi,  we have two lands which we want to  put on sale if there is demand  .   One 1000 sq yards plot in near kompally bridge towards medchal.    Another land 9 acres in Kammarpally, nizamabd",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Srikanth Lakma",
+  "is_still_participant": true,
+  "thread_path": "inbox/srikanthlakma_1317247779667454",
+  "magic_words": [
+    
+  ]
+}

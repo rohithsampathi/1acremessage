@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Dr. Sunil Bhosale | Certified life & Business Coach"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730525376367,
+      "content": "Sure our team will get in touch with you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dr. Sunil Bhosale | Certified life & Business Coach",
+      "timestamp_ms": 1730524138889,
+      "content": "9664469900",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dr. Sunil Bhosale | Certified life & Business Coach",
+      "timestamp_ms": 1730524132147,
+      "content": "I deal in land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dr. Sunil Bhosale | Certified life & Business Coach",
+      "timestamp_ms": 1730524110449,
+      "content": "I need your expertise to advertise my agricultural land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727603028020,
+      "content": "Hi, may we know what you are looking for?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dr. Sunil Bhosale | Certified life & Business Coach",
+      "timestamp_ms": 1727599195151,
+      "content": "I\u00e2\u0080\u0099m interested",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Dr. Sunil Bhosale | Certified life & Business Coach",
+  "is_still_participant": true,
+  "thread_path": "inbox/drsunilbhosalecertifiedlifebusinesscoach_1549923076406423",
+  "magic_words": [
+    
+  ]
+}

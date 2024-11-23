@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Batchu Divya"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704420979212,
+      "content": "https://www.1acre.in/subscribe",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "https://www.1acre.in/subscribe"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Batchu Divya",
+      "timestamp_ms": 1704393848225,
+      "content": "Interested",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3272295087417729048"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Batchu Divya",
+      "timestamp_ms": 1704391700294,
+      "content": "Hi. Interested",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Batchu Divya",
+  "is_still_participant": true,
+  "thread_path": "inbox/batchudivya_1164668764917006",
+  "magic_words": [
+    
+  ]
+}

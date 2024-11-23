@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "AMIT SAINI"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701674752648,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "AMIT SAINI",
+      "timestamp_ms": 1701583740138,
+      "content": "WhatsApp only please",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "AMIT SAINI",
+      "timestamp_ms": 1701583726816,
+      "content": "9502250673",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701583495049,
+      "content": "Can we have your contact number, our team connect with you shortly",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "AMIT SAINI",
+      "timestamp_ms": 1701582624516,
+      "content": "Can you please suggest",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "AMIT SAINI",
+      "timestamp_ms": 1701582620413,
+      "content": "I want to buy land at cheap rates for future",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "AMIT SAINI",
+  "is_still_participant": true,
+  "thread_path": "inbox/amitsaini_1314787599919861",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "participants": [
+    {
+      "name": "Micky Jan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Micky Jan",
+      "timestamp_ms": 1717954719655,
+      "content": "Ok sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717949038473,
+      "content": "Could you send me location and price?\nI'll get back to you if anyone is interested.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Micky Jan",
+      "timestamp_ms": 1717943072510,
+      "content": "Did u have any idea",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Micky Jan",
+      "timestamp_ms": 1717943042778,
+      "content": "In city side",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Micky Jan",
+      "timestamp_ms": 1717943030129,
+      "content": "In pondicherry we have site around 52 acres",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Micky Jan",
+      "timestamp_ms": 1717942967652,
+      "content": "Ok sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Micky Jan",
+      "timestamp_ms": 1717942937303,
+      "content": "Or in  Bengaluru",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717942936781,
+      "content": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Micky Jan",
+      "timestamp_ms": 1717942921418,
+      "content": "Is there any land available in TN",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Micky Jan",
+      "timestamp_ms": 1717942903095,
+      "content": "In tamil nadu",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Micky Jan",
+      "timestamp_ms": 1717942891805,
+      "content": "Sir I am doing real estate business",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717942852317,
+      "content": "Hello Jan, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Micky Jan",
+      "timestamp_ms": 1717942723654,
+      "content": "I am Jana from pondicherry",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Micky Jan",
+      "timestamp_ms": 1717942718106,
+      "content": "Hi sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Micky Jan",
+  "is_still_participant": true,
+  "thread_path": "inbox/mickyjan_1362972961772038",
+  "magic_words": [
+    
+  ]
+}

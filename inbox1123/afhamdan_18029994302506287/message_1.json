@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "AF Hamdan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "AF Hamdan",
+      "timestamp_ms": 1720098632591,
+      "content": "40 acres total 28lakas",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720098027171,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "AF Hamdan",
+      "timestamp_ms": 1720097388075,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "AF Hamdan",
+      "timestamp_ms": 1720097384656,
+      "content": "https://www.instagram.com/reel/C8_88ylSF7J/?igsh=YWhxdGhkcDNwejls",
+      "share": {
+        "link": "https://www.instagram.com/reel/C8_88ylSF7J/?id=3404707903587245769_47651711013",
+        "share_text": "40 acres | \u00e2\u0082\u00b97 lakhs per acre | Near Yavatmal, Maharashtra | Link in bio \u00f0\u009f\u008c\u009f\n\n- Verified and facilitated by 1acre.in\n- Extremely fertile, canal-irrigated land\n- Only 6 hours from Hyderabad\n- Well-connected to national highways, expressways, and railways\n- Ideal for active agriculture and investment\n\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 9959994737\n\n\u00f0\u009f\u0093\u00ac\u00f0\u009f\u0093\u00a9 DM us for more queries on buying, selling, or partnerships",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "AF Hamdan",
+      "timestamp_ms": 1718944432718,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718928906216,
+      "content": "soheb_070_ wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718928905724,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "AF Hamdan",
+      "timestamp_ms": 1718906665224,
+      "content": "Hi bro",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "AF Hamdan",
+  "is_still_participant": true,
+  "thread_path": "inbox/afhamdan_18029994302506287",
+  "magic_words": [
+    
+  ]
+}

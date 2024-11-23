@@ -1,0 +1,84 @@
+{
+  "participants": [
+    {
+      "name": "Hari Vardhan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Hari Vardhan",
+      "timestamp_ms": 1731519202902,
+      "content": "I wanna talk regarding coconut plant plantation to the manager",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hari Vardhan",
+      "timestamp_ms": 1731519181922,
+      "content": "No",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731519175462,
+      "content": "Buy or sell or something else",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731519164424,
+      "content": "What are you looking for ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hari Vardhan",
+      "timestamp_ms": 1731515359747,
+      "content": "I need to talk to the manager",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hari Vardhan",
+      "timestamp_ms": 1731515335145,
+      "content": "I am from deejay coconuts",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731515197972,
+      "content": "We need to know what you are looking for so we can connect the right person",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hari Vardhan",
+      "timestamp_ms": 1731510490179,
+      "content": "Can i get the number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731508546164,
+      "content": "How can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731508539882,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hari Vardhan",
+      "timestamp_ms": 1731496577690,
+      "content": "Hi hlo sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Hari Vardhan",
+  "is_still_participant": true,
+  "thread_path": "inbox/harivardhan_1579727510092232",
+  "magic_words": [
+    
+  ]
+}

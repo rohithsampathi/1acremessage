@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Sameer Devaguru"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712163120377,
+      "content": "Verified lands",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712163112139,
+      "content": "Hi, Thanks. But 1acre.in will be about land.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, Thanks. But 1acre.in will be about land."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sameer Devaguru",
+      "timestamp_ms": 1712160591190,
+      "content": "Hi Team, you have some great content. Can you please list Villa properties also",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sameer Devaguru",
+  "is_still_participant": true,
+  "thread_path": "inbox/sameerdevaguru_928073065452290",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "participants": [
+    {
+      "name": "Teja Tssv"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Teja Tssv",
+      "timestamp_ms": 1727551265714,
+      "content": "Thanks in advance",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Teja Tssv",
+      "timestamp_ms": 1727551260210,
+      "content": "That will be great",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Teja Tssv",
+      "timestamp_ms": 1727551254663,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727551229812,
+      "content": "Thank you Teja. Only lakes data is available publicly. Not sure if we can help you with Musi river. But we shall try if we can get that data to help you",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Teja Tssv",
+          "timestamp": 1727551254
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Teja Tssv",
+      "timestamp_ms": 1727529679675,
+      "content": "Impressive and inspiring",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Teja Tssv",
+      "timestamp_ms": 1727529675512,
+      "content": "I appreciate all the great work you are doing through 1 acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Teja Tssv",
+      "timestamp_ms": 1727529662882,
+      "content": "If possible a map will be helpful",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Teja Tssv",
+      "timestamp_ms": 1727529627122,
+      "content": "Can you please help me understand the Musi river buffer zone and FTL , I am in the process of purchasing a flat with hallmark sunny side and they are closer to Musi in Manchirevula",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Teja Tssv",
+      "timestamp_ms": 1727529570855,
+      "content": "Hello sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Teja Tssv",
+  "is_still_participant": true,
+  "thread_path": "inbox/tejatssv_1508931133830682",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "participants": [
+    {
+      "name": "Harsha"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Harsha",
+      "timestamp_ms": 1717648623990,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717637320045,
+      "content": "Hi, Please contact Bharath \n7780122120, from the team.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Harsha",
+          "timestamp": 1717648623
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harsha",
+      "timestamp_ms": 1717611987189,
+      "content": "I had 5 acre land in warangal for sale",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harsha",
+      "timestamp_ms": 1717611969122,
+      "content": "Hlo",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709826444984,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412.\nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harsha",
+      "timestamp_ms": 1709825862510,
+      "content": "7095666302",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harsha",
+      "timestamp_ms": 1709825861376,
+      "content": "Harsha sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C3t3CBgtPFl/?id=3309543332806717797_47651711013",
+        "share_text": "\u00f0\u009f\u008c\u00be Explore prime agricultural land! Today, we\u00e2\u0080\u0099re featuring a 40-acre plot in Yavatmal, Maharashtra, just 400 km from Hyderabad. With fertile soil and irrigation access, this land is a farmer\u00e2\u0080\u0099s paradise. Located only 2 km from the state highway, with a short kacha road leading to it, it\u00e2\u0080\u0099s easily accessible. Priced at seven lakhs per acre and situated just 30 km from the Samridi Expressway, this opportunity is ripe for investment. All legal documentation is verified by 1acre.in Contact us now to seize this opportunity! \u00f0\u009f\u009a\u009c\u00f0\u009f\u0092\u00b0 #YavatmalLand #FertileAcres #AgriculturalInvestment #OneacreOpportunity \u00f0\u009f\u008c\u00b1",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Harsha",
+  "is_still_participant": true,
+  "thread_path": "inbox/harsha_1401013571297043",
+  "magic_words": [
+    
+  ]
+}

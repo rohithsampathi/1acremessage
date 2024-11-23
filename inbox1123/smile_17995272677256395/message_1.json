@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Smile"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1698206886078,
+      "content": "Hi Rupesh ,we\u00e2\u0080\u0099re only dealing in Telangana right now",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Smile",
+      "timestamp_ms": 1698162483605,
+      "content": "Low budget",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Smile",
+      "timestamp_ms": 1698162475310,
+      "content": "Any lands near vijayawada",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Smile",
+  "is_still_participant": true,
+  "thread_path": "inbox/smile_17995272677256395",
+  "magic_words": [
+    
+  ]
+}

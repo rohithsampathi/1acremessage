@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "sravan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "sravan",
+      "timestamp_ms": 1701503079912,
+      "content": "Sure",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1701504684
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701500488629,
+      "content": "Our team connects with you shortly",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "sravan",
+      "timestamp_ms": 1701500313004,
+      "content": "9959509233",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701489744977,
+      "content": "Hi Sravan , we would like to connect can we have your contact number.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "sravan",
+      "timestamp_ms": 1701453959577,
+      "content": "We have our own venture and looking for marketing team",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "sravan",
+      "timestamp_ms": 1701453945229,
+      "content": "Hi sir\nWill you also do marketing for ventures?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "sravan",
+  "is_still_participant": true,
+  "thread_path": "inbox/sravan_1230785371644462",
+  "magic_words": [
+    
+  ]
+}

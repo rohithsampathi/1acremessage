@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Shivam Metgud"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shivam Metgud",
+      "timestamp_ms": 1720154521438,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720149463159,
+      "content": "Not yet. We are launching karnataka soon. Will keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shivam Metgud",
+      "timestamp_ms": 1720148088381,
+      "content": "Any land near belgaum or dharwad or hubli in North karnataka",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shivam Metgud",
+  "is_still_participant": true,
+  "thread_path": "inbox/shivammetgud_1384187526305313",
+  "magic_words": [
+    
+  ]
+}

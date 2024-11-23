@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Prasad Saitwal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720244625924,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720244625073,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prasad Saitwal",
+      "timestamp_ms": 1720244514521,
+      "content": "Want to know about the land near Yavatmal",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prasad Saitwal",
+      "timestamp_ms": 1720244503199,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Prasad Saitwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/prasadsaitwal_1405271594198292",
+  "magic_words": [
+    
+  ]
+}

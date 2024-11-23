@@ -1,0 +1,72 @@
+{
+  "participants": [
+    {
+      "name": "Nandini Garikapati"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701675406555,
+      "content": "Our team will connect with you shortly.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nandini Garikapati",
+      "timestamp_ms": 1701675390059,
+      "content": "93916 16782",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701675370428,
+      "content": "Sure, can we have your contact number our team will connect with you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nandini Garikapati",
+      "timestamp_ms": 1701674819462,
+      "content": "Could you please let us know your services around this?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nandini Garikapati",
+      "timestamp_ms": 1701674803434,
+      "content": "Expecting the agri rates to come down post results",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nandini Garikapati",
+      "timestamp_ms": 1701674786455,
+      "content": "We are looking for agri land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701674769715,
+      "content": "How can we help you?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701593480722,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nandini Garikapati",
+      "timestamp_ms": 1701592622916,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nandini Garikapati",
+  "is_still_participant": true,
+  "thread_path": "inbox/nandinigarikapati_1177486640305286",
+  "magic_words": [
+    
+  ]
+}

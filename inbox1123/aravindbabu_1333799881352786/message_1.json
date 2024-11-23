@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Aravind babu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704647202406,
+      "content": "https://www.1acre.in/subscribe\n\nPlease go through and fill in the form at the end of the page. We'll get back to you.",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "https://www.1acre.in/subscribe\n\nPlease go through and fill in the form at the end of the page. We'll get back to you."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aravind babu",
+      "timestamp_ms": 1704639853365,
+      "content": "Can you share some more details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aravind babu",
+      "timestamp_ms": 1704639844978,
+      "content": "Interested to take 100 acre in the pool",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Aravind babu",
+  "is_still_participant": true,
+  "thread_path": "inbox/aravindbabu_1333799881352786",
+  "magic_words": [
+    
+  ]
+}

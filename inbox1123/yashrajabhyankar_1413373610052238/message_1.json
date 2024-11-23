@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "YashraJ Abhyankar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "YashraJ Abhyankar",
+      "timestamp_ms": 1723800180949,
+      "content": "Okay.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723798653909,
+      "content": "We currently only operate in Telangana and Andhra pradesh\n\nWill keep you posted when we launch in other states",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "YashraJ Abhyankar",
+      "timestamp_ms": 1723791764126,
+      "content": "So, I wanted to know the success ratio of your services",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "YashraJ Abhyankar",
+      "timestamp_ms": 1723791728870,
+      "content": "My family has a property near nagpur that we're looking forward to selling. 15 min from Pench and 1p min from Ramdham.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723783905961,
+      "content": "Hello Yashraj \nPlease share more context on your question",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "YashraJ Abhyankar",
+      "timestamp_ms": 1723716558668,
+      "content": "Whats your success ratio ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "YashraJ Abhyankar",
+  "is_still_participant": true,
+  "thread_path": "inbox/yashrajabhyankar_1413373610052238",
+  "magic_words": [
+    
+  ]
+}

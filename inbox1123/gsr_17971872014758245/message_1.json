@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "GSR\u00f0\u009f\u0091\u00bb"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "GSR\u00f0\u009f\u0091\u00bb",
+      "timestamp_ms": 1723108172597,
+      "content": "*our",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "GSR\u00f0\u009f\u0091\u00bb",
+      "timestamp_ms": 1723108158615,
+      "content": "Iam not a regular agent",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "GSR\u00f0\u009f\u0091\u00bb",
+      "timestamp_ms": 1723094284151,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723092388192,
+      "content": "If you are not a regular agent, we don't currently have any such model.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "GSR\u00f0\u009f\u0091\u00bb",
+      "timestamp_ms": 1723091341686,
+      "content": "Want to sell land as freelancing",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723089132147,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "GSR\u00f0\u009f\u0091\u00bb",
+      "timestamp_ms": 1723088062259,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "GSR\u00f0\u009f\u0091\u00bb",
+  "is_still_participant": true,
+  "thread_path": "inbox/gsr_17971872014758245",
+  "magic_words": [
+    
+  ]
+}

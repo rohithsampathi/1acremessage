@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "MS Developers and Marketers"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720053726025,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720053725287,
+      "content": "Hi, Please contact Vijay 9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "MS Developers and Marketers",
+      "timestamp_ms": 1720027649635,
+      "content": "Hello\nI have 6 acers of land at yenkapalle near manneguda for sale",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "MS Developers and Marketers",
+  "is_still_participant": true,
+  "thread_path": "inbox/msdevelopersandmarketers_18010568948591014",
+  "magic_words": [
+    
+  ]
+}

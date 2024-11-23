@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Abhinav Sharma"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Abhinav Sharma",
+      "timestamp_ms": 1714634571748,
+      "content": "Industrial land for sale in jammu kashmir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1714633543821,
+      "content": "Are you looking for anything specific?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1714633528800,
+      "content": "Not yet. We are currently operational only for Telangana. We'll Launch other states soon. Will keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhinav Sharma",
+      "timestamp_ms": 1714628574181,
+      "content": "Do u work here in jammu kashmir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhinav Sharma",
+      "timestamp_ms": 1714628572722,
+      "content": "Abhinav sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C5nDjr6Njrp/?id=3343656894814632681_47651711013",
+        "share_text": "\u00f0\u009f\u008c\u009f Exciting Announcement! \u00f0\u009f\u009a\u0080\n\n1acre.in is answering your demand! We\u00e2\u0080\u0099re thrilled to share that we\u00e2\u0080\u0099ll soon be featuring plots on our platform. \u00f0\u009f\u008f\u009e\u00ef\u00b8\u008f Initially hesitant, our commitment to preliminary verification remains our main USP, adding substantial value to plot listings just like agricultural lands.\n\nWe\u00e2\u0080\u0099re focusing on two primary types of plots:\n1. Plots in approved layouts with verified permissions.\n2. Plots in kachha or panchayat layouts with Land Regularization Scheme (LRS) already paid.\n\nOur aim is quality over quantity, which is why we won\u00e2\u0080\u0099t list plots directly from developers. Instead, we\u00e2\u0080\u0099ll showcase plots from individuals who have purchased from developers and are looking to resell.\n\nWhether you\u00e2\u0080\u0099re a buyer seeking plots or a seller wanting to list, keep an eye on 1acre.in for exciting updates and opportunities in the world of plots! \u00f0\u009f\u008c\u00bf\u00f0\u009f\u0092\u00bc #PlotListings #1acreOpportunities #RealEstateInvesting \u00f0\u009f\u008f\u00a1\u00e2\u009c\u00a8",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Abhinav Sharma",
+  "is_still_participant": true,
+  "thread_path": "inbox/abhinavsharma_1392424305484736",
+  "magic_words": [
+    
+  ]
+}

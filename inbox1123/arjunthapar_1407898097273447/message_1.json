@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Arjun Thapar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717612590726,
+      "content": "9959994737\n\nPlease call vijay for further details\nHe can help you with it",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Arjun Thapar",
+      "timestamp_ms": 1717611046842,
+      "content": "hi pls share details for the lake facing land",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Arjun Thapar",
+  "is_still_participant": true,
+  "thread_path": "inbox/arjunthapar_1407898097273447",
+  "magic_words": [
+    
+  ]
+}

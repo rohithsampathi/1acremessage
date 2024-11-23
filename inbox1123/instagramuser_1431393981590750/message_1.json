@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717572902964,
+      "content": "Hi, Thanks for reaching out. \n1acre.in is currently listing only for Telangana. \nWe'll start other states soon. Will keep you posted.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, Thanks for reaching out. \n1acre.in is currently listing only for Telangana. \nWe'll start other states soon. Will keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1717571986410,
+      "content": "Any properties in north india",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "inbox/instagramuser_1431393981590750",
+  "magic_words": [
+    
+  ]
+}

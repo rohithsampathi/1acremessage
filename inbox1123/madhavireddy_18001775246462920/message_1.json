@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Madhavi Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706073397242,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Madhavi Reddy",
+      "timestamp_ms": 1706063104417,
+      "content": "I legal opinion on one land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Madhavi Reddy",
+      "timestamp_ms": 1706063083856,
+      "content": "Hello andi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Madhavi Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/madhavireddy_18001775246462920",
+  "magic_words": [
+    
+  ]
+}

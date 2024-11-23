@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Prathyusha Rao"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Prathyusha Rao",
+      "timestamp_ms": 1706783453525,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706771780676,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prathyusha Rao",
+      "timestamp_ms": 1706771190504,
+      "content": "In and around also is okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prathyusha Rao",
+      "timestamp_ms": 1706771179492,
+      "content": "We wanted property near Moinabad ! Let us know if u get some leads",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prathyusha Rao",
+      "timestamp_ms": 1706771156553,
+      "content": "Hey !",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Prathyusha Rao",
+  "is_still_participant": true,
+  "thread_path": "inbox/prathyusharao_1357130412352963",
+  "magic_words": [
+    
+  ]
+}

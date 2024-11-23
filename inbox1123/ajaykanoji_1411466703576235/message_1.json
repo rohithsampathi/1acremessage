@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Ajay Kanoji"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ajay Kanoji",
+      "timestamp_ms": 1725167744626,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725104324592,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725104323847,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ajay Kanoji",
+      "timestamp_ms": 1725098453909,
+      "content": "We are looking to sell our land in nawabpet Mandal, chevella",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ajay Kanoji",
+      "timestamp_ms": 1725098389181,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ajay Kanoji",
+  "is_still_participant": true,
+  "thread_path": "inbox/ajaykanoji_1411466703576235",
+  "magic_words": [
+    
+  ]
+}

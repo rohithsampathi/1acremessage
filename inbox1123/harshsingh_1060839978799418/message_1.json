@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Harsh Singh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720193909191,
+      "content": "Not yet. We'll start listing soon. Where are you looking to buy?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harsh Singh",
+      "timestamp_ms": 1720191143347,
+      "content": "You don't have any verified land in North State ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harsh Singh",
+      "timestamp_ms": 1720191142257,
+      "content": "Harsh sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C9CgdjpSOCk/?id=3405427036872302756_47651711013",
+        "share_text": "1 acre | \u00e2\u0082\u00b914 Cr | Gandimaisamma-Medchal Road | Link in bio \u00f0\u009f\u008c\u009f\n\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\n\nWhich direction of Hyderabad you are looking for lands ? \u00f0\u009f\u0091\u0080",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Harsh Singh",
+  "is_still_participant": true,
+  "thread_path": "inbox/harshsingh_1060839978799418",
+  "magic_words": [
+    
+  ]
+}

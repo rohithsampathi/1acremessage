@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Abhijit Naidu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Abhijit Naidu",
+      "timestamp_ms": 1709089102975,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709086593646,
+      "content": "Please contact Ratna Kiran \n9390155412. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhijit Naidu",
+      "timestamp_ms": 1709080679597,
+      "content": "Hello this is Abhijit From Hyderabad \nNeed more information or get in touch with regarding 40 acres land in Yavtmal \nThank you in advance",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Abhijit Naidu",
+  "is_still_participant": true,
+  "thread_path": "inbox/abhijitnaidu_1243053710416838",
+  "magic_words": [
+    
+  ]
+}

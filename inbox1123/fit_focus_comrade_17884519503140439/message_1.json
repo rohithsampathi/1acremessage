@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "FIT_FOCUS_comrade"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "FIT_FOCUS_comrade",
+      "timestamp_ms": 1730946309610,
+      "content": "JB Infra Projects! Thisis Mohan Krishna General Manager. Open Plots and Villas  around Hyderabad 1.JB'S SERENE COUNTY ( HMDA) Kongarakalan near Foxconn  Price:31999/sqy basic price  2.JB'S SERENE CITY (HMDA) Ibrahimpatnam adjacent to Gurunanak University  Price:14000/sqy to 25000/sqy 3.JB'S NATURE VALLEY (DTCP) Chouttuppal on Vijayawada Highway facing  Price:8500/sqy to 13000/sqy",
+      "share": {
+        "share_text": "JB Infra Projects! Thisis Mohan Krishna General Manager. Open Plots and Villas  around Hyderabad 1.JB'S SERENE COUNTY ( HMDA) Kongarakalan near Foxconn  Price:31999/sqy basic price  2.JB'S SERENE CITY (HMDA) Ibrahimpatnam adjacent to Gurunanak University  Price:14000/sqy to 25000/sqy 3.JB'S NATURE VALLEY (DTCP) Chouttuppal on Vijayawada Highway facing  Price:8500/sqy to 13000/sqy"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "FIT_FOCUS_comrade",
+      "timestamp_ms": 1730946124352,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "FIT_FOCUS_comrade",
+  "is_still_participant": true,
+  "thread_path": "inbox/fit_focus_comrade_17884519503140439",
+  "magic_words": [
+    
+  ]
+}

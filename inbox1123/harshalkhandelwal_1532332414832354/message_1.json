@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Harshal Khandelwal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720240933822,
+      "content": "Also, Please drop your number Here.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720240925473,
+      "content": "Meanwhile, Please send us details like location & extent. If someone is interested, we'll get back.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720240887010,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harshal Khandelwal",
+      "timestamp_ms": 1720168578734,
+      "content": "Hi! We have over 300 acres landbanks in Thane and Matheran. We're interested in showcasing them on your platform and page.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Harshal Khandelwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/harshalkhandelwal_1532332414832354",
+  "magic_words": [
+    
+  ]
+}

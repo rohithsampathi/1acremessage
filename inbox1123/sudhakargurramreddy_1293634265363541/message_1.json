@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Sudhakar Gurram Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703071614196,
+      "content": "Hi, Please call Vijay \n7780122120",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sudhakar Gurram Reddy",
+      "timestamp_ms": 1703068819844,
+      "content": "We have 9acres land can u include it in your 1 acre",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sudhakar Gurram Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/sudhakargurramreddy_1293634265363541",
+  "magic_words": [
+    
+  ]
+}

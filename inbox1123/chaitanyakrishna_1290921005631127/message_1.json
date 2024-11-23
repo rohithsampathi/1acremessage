@@ -1,0 +1,83 @@
+{
+  "participants": [
+    {
+      "name": "Chaitanya Krishna"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Chaitanya Krishna",
+      "timestamp_ms": 1708136080845,
+      "content": "Thank you",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1708419611
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708136012581,
+      "content": "https://maps.app.goo.gl/mWPZsrREwuw48H8k7",
+      "share": {
+        "link": "https://maps.app.goo.gl/mWPZsrREwuw48H8k7",
+        "share_text": "https://maps.app.goo.gl/mWPZsrREwuw48H8k7"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708135903360,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chaitanya Krishna",
+      "timestamp_ms": 1708135471692,
+      "content": "Can you help me with the location of forest side farmhouse update in anthagiri hills",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706895516216,
+      "content": "Please contact Pratheek \n9390674324. He'll WhatsApp the location and fix up a meet.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706895449980,
+      "content": "Sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chaitanya Krishna",
+      "timestamp_ms": 1706894796886,
+      "content": "Can u please share the details . Wud like to drop by",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706885215466,
+      "content": "Hi, our office is in financial district",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chaitanya Krishna",
+      "timestamp_ms": 1706884668666,
+      "content": "Hai where r u located n hyd ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Chaitanya Krishna",
+  "is_still_participant": true,
+  "thread_path": "inbox/chaitanyakrishna_1290921005631127",
+  "magic_words": [
+    
+  ]
+}

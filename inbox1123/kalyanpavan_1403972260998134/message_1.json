@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Kalyan Pavan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kalyan Pavan",
+      "timestamp_ms": 1716080639332,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kalyan Pavan",
+      "timestamp_ms": 1716080636368,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716051148316,
+      "content": "9032114737\nYou can talk to Bharath, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kalyan Pavan",
+      "timestamp_ms": 1716047570280,
+      "content": "I am interested",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kalyan Pavan",
+      "timestamp_ms": 1716047568929,
+      "content": "Kalyan sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C4j3HBRt6Vt/?id=3324743324894995821_47651711013",
+        "share_text": "9032114737\n\nPlease call Bharath, from the team.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kalyan Pavan",
+  "is_still_participant": true,
+  "thread_path": "inbox/kalyanpavan_1403972260998134",
+  "magic_words": [
+    
+  ]
+}

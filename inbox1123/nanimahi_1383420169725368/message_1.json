@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Nani Mahi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711124946819,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nani Mahi",
+      "timestamp_ms": 1711118286077,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nani Mahi",
+  "is_still_participant": true,
+  "thread_path": "inbox/nanimahi_1383420169725368",
+  "magic_words": [
+    
+  ]
+}

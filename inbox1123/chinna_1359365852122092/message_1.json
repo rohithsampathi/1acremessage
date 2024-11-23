@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u008d\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u0086"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u008d\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u0086",
+      "timestamp_ms": 1718990528653,
+      "content": "How to buy lion",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718900411374,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u008d\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u0086",
+      "timestamp_ms": 1718898890071,
+      "content": "Hiii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u008d\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u0086",
+  "is_still_participant": true,
+  "thread_path": "inbox/chinna_1359365852122092",
+  "magic_words": [
+    
+  ]
+}

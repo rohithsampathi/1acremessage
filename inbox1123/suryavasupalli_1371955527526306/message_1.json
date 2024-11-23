@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Surya Vasupalli"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Surya Vasupalli",
+      "timestamp_ms": 1721723241641,
+      "content": "8978271399",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721640592327,
+      "content": "Plz drop your number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721640587247,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Surya Vasupalli",
+      "timestamp_ms": 1721640209660,
+      "content": "I have properties for listing let me know when you start",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721640045426,
+      "content": "We'll start listing soon.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Surya Vasupalli",
+      "timestamp_ms": 1721639914255,
+      "content": "Hi do you also list plots in vizag",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Surya Vasupalli",
+  "is_still_participant": true,
+  "thread_path": "inbox/suryavasupalli_1371955527526306",
+  "magic_words": [
+    
+  ]
+}

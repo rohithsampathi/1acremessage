@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Missrakam Tpt"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724582285004,
+      "content": "Are you asking regarding the regional partners ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Missrakam Tpt",
+      "timestamp_ms": 1724574299464,
+      "content": "Tirupati",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Missrakam Tpt",
+      "timestamp_ms": 1724574297071,
+      "content": "Details can I know",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Missrakam Tpt",
+  "is_still_participant": true,
+  "thread_path": "inbox/missrakamtpt_18030826049336376",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Venkateshwar Rao"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704421249519,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Venkateshwar Rao",
+      "timestamp_ms": 1704388848285,
+      "content": "Can we buy the land with group of my friends for 100 acres as said in the videos... \nIf yes, can we register individually",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Venkateshwar Rao",
+      "timestamp_ms": 1704388622203,
+      "content": "Hi this is venkat from hyderabad",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Venkateshwar Rao",
+  "is_still_participant": true,
+  "thread_path": "inbox/venkateshwarrao_1335091964555847",
+  "magic_words": [
+    
+  ]
+}

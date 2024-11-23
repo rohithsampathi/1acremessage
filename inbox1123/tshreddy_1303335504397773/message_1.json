@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "$@t!sh Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704387449939,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "$@t!sh Reddy",
+      "timestamp_ms": 1704386820271,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "$@t!sh Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/tshreddy_1303335504397773",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "chintu..\u00f0\u009f\u0092\u0095"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "chintu..\u00f0\u009f\u0092\u0095",
+      "timestamp_ms": 1716262995876,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716252666749,
+      "content": "prakash_raj_perla wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716252666400,
+      "content": "9032114737\nYou can talk to Bharath, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "chintu..\u00f0\u009f\u0092\u0095",
+      "timestamp_ms": 1716225173568,
+      "content": "I wnat join your community and i need freelance work... \u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "chintu..\u00f0\u009f\u0092\u0095",
+      "timestamp_ms": 1716225172728,
+      "content": "chintu..\u00f0\u009f\u0092\u0095 sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C4j3HBRt6Vt/?id=3324743324894995821_47651711013",
+        "share_text": "9032114737\n\nPlease call Bharath, from the team.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "chintu..\u00f0\u009f\u0092\u0095",
+  "is_still_participant": true,
+  "thread_path": "inbox/chintu_1418757016185974",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Shanraj"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1732175752901,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shanraj",
+      "timestamp_ms": 1732115749842,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shanraj",
+  "is_still_participant": true,
+  "thread_path": "inbox/shanraj_1511021880289964",
+  "magic_words": [
+    
+  ]
+}

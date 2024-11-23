@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Manish Bhandari"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729506114003,
+      "content": "Calling you shortly",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manish Bhandari",
+      "timestamp_ms": 1729506090951,
+      "content": "9509289751",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729506069415,
+      "content": "Hi. Please share your contact details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manish Bhandari",
+      "timestamp_ms": 1729505953295,
+      "content": "https://www.instagram.com/p/DBWJwxSSrcJ/",
+      "share": {
+        "link": "https://www.instagram.com/p/DBWJwxSSrcJ/",
+        "share_text": "Instagram"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manish Bhandari",
+      "timestamp_ms": 1729505939580,
+      "content": "300 Sq Yds in Kondapur  - Hi, can you please tell me which direction this plot is facing - i tried to call MANY times but no luck",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Manish Bhandari",
+  "is_still_participant": true,
+  "thread_path": "inbox/manishbhandari_1582546016477355",
+  "magic_words": [
+    
+  ]
+}

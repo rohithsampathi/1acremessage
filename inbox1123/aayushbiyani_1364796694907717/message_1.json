@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Aayush Biyani"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724860715992,
+      "content": "Hi, Please contact Srikar 8341149011, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724860699360,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aayush Biyani",
+      "timestamp_ms": 1724860105542,
+      "content": "Hi wanted to speak regarding a land I want to market",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Aayush Biyani",
+  "is_still_participant": true,
+  "thread_path": "inbox/aayushbiyani_1364796694907717",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Vinay Bhatia"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vinay Bhatia",
+      "timestamp_ms": 1719160949997,
+      "content": "Thanks a lot",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719155304676,
+      "content": "1acre.in has 2600+ verified land listings. Do check the website. You can call the sellers directly.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "1acre.in has 2600+ verified land listings. Do check the website. You can call the sellers directly."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719155276684,
+      "content": "But we started listing plots.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719155260187,
+      "content": "We wouldn't be ideal for that.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vinay Bhatia",
+      "timestamp_ms": 1719153035285,
+      "content": "Do you offer that as well?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vinay Bhatia",
+      "timestamp_ms": 1719153025601,
+      "content": "Was looking for consultation to buy gated community plots",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vinay Bhatia",
+      "timestamp_ms": 1719152972812,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vinay Bhatia",
+  "is_still_participant": true,
+  "thread_path": "inbox/vinaybhatia_1413198236739589",
+  "magic_words": [
+    
+  ]
+}

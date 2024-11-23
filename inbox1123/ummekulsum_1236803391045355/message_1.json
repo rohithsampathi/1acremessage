@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Umme kulsum"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701489011705,
+      "content": "Hi, how can we help you?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Umme kulsum",
+      "timestamp_ms": 1701432024167,
+      "content": "Hi sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Umme kulsum",
+  "is_still_participant": true,
+  "thread_path": "inbox/ummekulsum_1236803391045355",
+  "magic_words": [
+    
+  ]
+}

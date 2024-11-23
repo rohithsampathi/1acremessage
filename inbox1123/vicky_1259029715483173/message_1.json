@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Vicky"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716166643357,
+      "content": "maarivicky07 wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716166643089,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vicky",
+      "timestamp_ms": 1716146971319,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vicky",
+  "is_still_participant": true,
+  "thread_path": "inbox/vicky_1259029715483173",
+  "magic_words": [
+    
+  ]
+}

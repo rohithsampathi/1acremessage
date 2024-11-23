@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "rehber"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729239552755,
+      "content": "We have digitised most lakes on google maps and now you can check directly. \n\nLink : www.1acre.in/lakes\n\nIf your lake is mentioned on HMDA website and is not there on our website, you can request for it .\n\nWe will digitise it on priority basis",
+      "share": {
+        "link": "http://www.1acre.in/lakes",
+        "share_text": "We have digitised most lakes on google maps and now you can check directly. \n\nLink : www.1acre.in/lakes\n\nIf your lake is mentioned on HMDA website and is not there on our website, you can request for it .\n\nWe will digitise it on priority basis"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "rehber",
+      "timestamp_ms": 1727684029271,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/rehber_1029427355307285/photos/461098750_507395412051034_3213777724648324257_n_507395408717701.jpg",
+          "creation_timestamp": 1727684028,
+          "backup_uri": "https://scontent.fmaa12-2.fna.fbcdn.net/v/t1.15752-9/461098750_507395412051034_3213777724648324257_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_ohc=aBvl-lepIsoQ7kNvgH8nj5e&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fmaa12-2.fna&oh=03_Q7cD1QENK0izd1zlnMCgMs8kmlZSs4GXSUCxdd2Ia15Nv7Glqw&oe=6766CE35"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "rehber",
+      "timestamp_ms": 1727683972583,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/rehber_1029427355307285/photos/461142083_507707848554776_6902469851367165819_n_507707841888110.jpg",
+          "creation_timestamp": 1727683971,
+          "backup_uri": "https://scontent.fmaa12-1.fna.fbcdn.net/v/t1.15752-9/461142083_507707848554776_6902469851367165819_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=9f807c&_nc_ohc=gDSohWLdh7EQ7kNvgE2kiRb&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fmaa12-1.fna&oh=03_Q7cD1QFzBg_bKIekagMGUydgEtsuSyKEwZdCLqR8MCixR3b3Ew&oe=6766CBF3"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "rehber",
+      "timestamp_ms": 1727683943320,
+      "content": "Balapur mandal RR dist\nPedda cheruvu lake",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "rehber",
+      "timestamp_ms": 1727683921374,
+      "content": "I want to see a ftl map in google maps",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "rehber",
+  "is_still_participant": true,
+  "thread_path": "inbox/rehber_1029427355307285",
+  "magic_words": [
+    
+  ]
+}

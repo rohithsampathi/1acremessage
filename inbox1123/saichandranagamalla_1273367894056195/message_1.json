@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Sai Chandra Nagamalla"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sai Chandra Nagamalla",
+      "timestamp_ms": 1704453444775,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704453143719,
+      "content": "sai_chandra_gupta wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704453143491,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Chandra Nagamalla",
+      "timestamp_ms": 1704453029502,
+      "content": "Can i know more details about the land in Maharashtra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Chandra Nagamalla",
+      "timestamp_ms": 1704453010409,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sai Chandra Nagamalla",
+  "is_still_participant": true,
+  "thread_path": "inbox/saichandranagamalla_1273367894056195",
+  "magic_words": [
+    
+  ]
+}

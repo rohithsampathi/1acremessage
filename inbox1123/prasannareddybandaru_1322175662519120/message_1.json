@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Prasanna Reddy Bandaru"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717745382757,
+      "content": "9032114737\nYou can talk to Bharath, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717745376669,
+      "content": "Yes we do.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prasanna Reddy Bandaru",
+      "timestamp_ms": 1717744156663,
+      "content": "Hello, I am interested to support for this opportunity. Do we still have these openings?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prasanna Reddy Bandaru",
+      "timestamp_ms": 1717744156311,
+      "content": "Prasanna sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C4i6bwFSdhZ/?id=3324476468704696409_47651711013",
+        "share_text": "9032114737\n\nPlease call Bharath, from the team.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Prasanna Reddy Bandaru",
+  "is_still_participant": true,
+  "thread_path": "inbox/prasannareddybandaru_1322175662519120",
+  "magic_words": [
+    
+  ]
+}

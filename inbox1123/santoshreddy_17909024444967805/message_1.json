@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Santosh reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717918769041,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717918768121,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team. \nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Santosh reddy",
+      "timestamp_ms": 1717918274683,
+      "content": "Hi I am santosh reddy , I have 10 acres developed land at jangoan it's on warangal hyderabad highway can u share your contact please",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Santosh reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/santoshreddy_17909024444967805",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "vadde_pawan645"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721964426635,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "vadde_pawan645",
+      "timestamp_ms": 1721836413272,
+      "content": "1800 yeards",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "vadde_pawan645",
+      "timestamp_ms": 1721836406845,
+      "content": "Need financial district plot details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "vadde_pawan645",
+      "timestamp_ms": 1721836382506,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "vadde_pawan645",
+  "is_still_participant": true,
+  "thread_path": "inbox/vadde_pawan645_1323986042339139",
+  "magic_words": [
+    
+  ]
+}

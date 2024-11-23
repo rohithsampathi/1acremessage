@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Megavath Mohan Nayak"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710843546975,
+      "content": "Hi, Please contact Ramakrishna \n7780122120",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Megavath Mohan Nayak",
+      "timestamp_ms": 1710840152963,
+      "content": "Namaskar sir. \nI am Mohan from toopran so I am also doing real estate in toopran so we have agriculture lands for sale do you have any clients to purchase agriculture lands",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Megavath Mohan Nayak",
+  "is_still_participant": true,
+  "thread_path": "inbox/megavathmohannayak_1351393752918831",
+  "magic_words": [
+    
+  ]
+}

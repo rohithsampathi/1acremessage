@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Karthik Maddineni"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Karthik Maddineni",
+      "timestamp_ms": 1706789746483,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706789494157,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Karthik Maddineni",
+      "timestamp_ms": 1706786434659,
+      "content": "Hello I\u00e2\u0080\u0099m a builder looking for Land in South Hyderabad, can you please share your contact",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Karthik Maddineni",
+  "is_still_participant": true,
+  "thread_path": "inbox/karthikmaddineni_1305255047535509",
+  "magic_words": [
+    
+  ]
+}

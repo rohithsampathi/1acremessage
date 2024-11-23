@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Reddy j"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721125243053,
+      "content": "We are currently listing Telangana. We'll list other states soon. Will keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Reddy j",
+      "timestamp_ms": 1721120000499,
+      "content": "We need to sale",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Reddy j",
+      "timestamp_ms": 1721119993290,
+      "content": "Hi \nWe have land in Bagalkot district",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Reddy j",
+  "is_still_participant": true,
+  "thread_path": "inbox/reddyj_1475352483861396",
+  "magic_words": [
+    
+  ]
+}

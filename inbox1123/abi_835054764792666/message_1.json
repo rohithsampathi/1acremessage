@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "\u00c3\u0081B\u00c3\u008c"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1694769518806,
+      "content": "+91 80744 50533 Vijay 1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "+91 80744 50533 Vijay 1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00c3\u0081B\u00c3\u008c",
+      "timestamp_ms": 1694769386515,
+      "content": "\u00c3\u0081B\u00c3\u008c sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/Cwx4gOqRJCK/",
+        "share_text": "Investment size : 11 lakhs\nLand size : 11 guntas\nLocation : Vikarabad, Mambapur, Peddemul\n\nCopy Link: https://1acre.in/verified-lands/vikarabad/peddemul/182\n\nYou can copy the above link to view the listing and contact the seller directly.\nVerified by 1acre.in\n\nFollow @1acre.in to receive instant notification of all verified lands in Telangana between 5 lakh to 45 lakhs in investment size.\n\nTag your friends or share this post, if you believe they might benefit from this information!\n\n1acre.in - Buy verified agricultural lands around Hyderabad (Telangana)\n\n#agriculturelands #landforsale #telangana #hyderabad #vikarabad #farmland #1acre",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00c3\u0081B\u00c3\u008c",
+  "is_still_participant": true,
+  "thread_path": "inbox/abi_835054764792666",
+  "magic_words": [
+    
+  ]
+}

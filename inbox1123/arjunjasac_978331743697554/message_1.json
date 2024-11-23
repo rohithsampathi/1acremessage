@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Arjun Jasac"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Arjun Jasac",
+      "timestamp_ms": 1717605298321,
+      "content": "Sure!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717598080242,
+      "content": "Hi, Please talk to Sandeep 9005464412, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Arjun Jasac",
+      "timestamp_ms": 1717597917263,
+      "content": "We are working on a start up ideally good for land scaling and planning! Would like to get in touch with you and see if we can work on it",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717597802452,
+      "content": "Hi, Thanks for reaching out.\nCan you describe the nature of the collaboration?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Arjun Jasac",
+      "timestamp_ms": 1717596910306,
+      "content": "Hello team, would like to get in touch with you for a collaboration",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Arjun Jasac",
+  "is_still_participant": true,
+  "thread_path": "inbox/arjunjasac_978331743697554",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Sagar Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sagar Reddy",
+      "timestamp_ms": 1707458304350,
+      "content": "\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707454273815,
+      "content": "Hi, we are only dealing with Telangana for now. We'll mark this and get back to you when we expand to Bangalore. Very soon.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sagar Reddy",
+      "timestamp_ms": 1707452882715,
+      "content": "Jus opposite to a 90acre township",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sagar Reddy",
+      "timestamp_ms": 1707452875351,
+      "content": "https://maps.app.goo.gl/yQ6ynfSxNTKwBPCM7?g_st=ic",
+      "share": {
+        "link": "https://maps.app.goo.gl/yQ6ynfSxNTKwBPCM7?g_st=ic",
+        "share_text": "https://maps.app.goo.gl/yQ6ynfSxNTKwBPCM7?g_st=ic"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sagar Reddy",
+      "timestamp_ms": 1707452085599,
+      "content": "28acres",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sagar Reddy",
+      "timestamp_ms": 1707452083172,
+      "content": "Bangalore",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sagar Reddy",
+      "timestamp_ms": 1707452081092,
+      "content": "We have a land at jigni",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707450699837,
+      "content": "Please tell",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707450697108,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sagar Reddy",
+      "timestamp_ms": 1707447833150,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sagar Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/sagarreddy_1257101992346606",
+  "magic_words": [
+    
+  ]
+}

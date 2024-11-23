@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Financial Advisor"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Financial Advisor",
+      "timestamp_ms": 1724579672378,
+      "content": "Financial sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1724582257
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/C_Fp2tqMOph/?id=3442341569979542113_57244068430",
+        "share_text": "\u00f0\u009f\u0093\u008d Location Dhule District, Shirpur Taluka - Maharashtra \n\n\u00f0\u009f\u008f\u009e\u00ef\u00b8\u008f 3.13 Acre Agriculture Land\n\n\u00f0\u009f\u0092\u00a6 Separate Borewell and Pipeline \n\n\u00f0\u009f\u008f\u0099\u00ef\u00b8\u008f Very next to vikhran gaon\n\n\u00f0\u009f\u0092\u00b0 Asking price 15 Lakh per acre (35/- sqft)\n\n\u00f0\u009f\u00a4\u00b5\u00f0\u009f\u00a4\u00b7\u00e2\u0080\u008d\u00e2\u0099\u0082\u00ef\u00b8\u008f Direct contact with owner for price negotiation \n\n\u00e2\u0098\u008e\u00ef\u00b8\u008f Contact us for more info 8698285624\n\n.\n.\n.\n#agriculture #land #developer #realtor #realestate #newproject #investment #investor #agent #landpurchase #dubai #dubairealestate #india #indian",
+        "original_content_owner": "aadeez5858"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Financial Advisor",
+  "is_still_participant": true,
+  "thread_path": "inbox/financialadvisor_17936450561908431",
+  "magic_words": [
+    
+  ]
+}

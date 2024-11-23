@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "chandra sekharr"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "chandra sekharr",
+      "timestamp_ms": 1700126667194,
+      "content": "OK",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1700126607758,
+      "content": "You can connect with MR Vijay  7780122120,he can help you with your enquiry",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "chandra sekharr",
+      "timestamp_ms": 1700124728931,
+      "content": "Location \nZaheerabad \nSadasivapet \nChevella \nShankarpally",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "chandra sekharr",
+      "timestamp_ms": 1700124568384,
+      "content": "I need 2 acres farmland",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "chandra sekharr",
+      "timestamp_ms": 1700124487542,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "chandra sekharr",
+  "is_still_participant": true,
+  "thread_path": "inbox/chandrasekharr_17912517542835845",
+  "magic_words": [
+    
+  ]
+}

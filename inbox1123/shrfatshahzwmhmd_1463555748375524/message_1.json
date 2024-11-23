@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "\u00d8\u00b4\u00d8\u00b1\u00d9\u0081\u00d8\u00a7\u00d8\u00aa \u00d8\u00b4\u00d8\u00a7\u00d9\u0087\u00d8\u00b2\u00d9\u0088 \u00d9\u0085\u00d8\u00ad\u00d9\u0085\u00d8\u00af"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720414874091,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00d8\u00b4\u00d8\u00b1\u00d9\u0081\u00d8\u00a7\u00d8\u00aa \u00d8\u00b4\u00d8\u00a7\u00d9\u0087\u00d8\u00b2\u00d9\u0088 \u00d9\u0085\u00d8\u00ad\u00d9\u0085\u00d8\u00af",
+      "timestamp_ms": 1720368959907,
+      "content": "Hey",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00e2\u0080\u008e\u00d8\u00b4\u00d8\u00b1\u00d9\u0081\u00d8\u00a7\u00d8\u00aa \u00d8\u00b4\u00d8\u00a7\u00d9\u0087\u00d8\u00b2\u00d9\u0088 \u00d9\u0085\u00d8\u00ad\u00d9\u0085\u00d8\u00af\u00e2\u0080\u008e",
+  "is_still_participant": true,
+  "thread_path": "inbox/shrfatshahzwmhmd_1463555748375524",
+  "magic_words": [
+    
+  ]
+}

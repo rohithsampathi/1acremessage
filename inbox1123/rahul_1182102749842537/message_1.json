@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Rahul"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705126055791,
+      "content": "Hi, Please contact Ramakrishna \n7780122120",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rahul",
+      "timestamp_ms": 1705125078652,
+      "content": "4 acers",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rahul",
+      "timestamp_ms": 1705125075527,
+      "content": "In kotipally village near vikarabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rahul",
+      "timestamp_ms": 1705125062235,
+      "content": "My land for sale",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rahul",
+      "timestamp_ms": 1705125057559,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rahul",
+  "is_still_participant": true,
+  "thread_path": "inbox/rahul_1182102749842537",
+  "magic_words": [
+    
+  ]
+}

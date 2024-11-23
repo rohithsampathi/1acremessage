@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Reddy",
+      "timestamp_ms": 1703661843518,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703661670796,
+      "content": "Hi , you can connect with pratheek  9390674324,",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Reddy",
+      "timestamp_ms": 1703645801961,
+      "content": "Want land in Telangana",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Reddy",
+      "timestamp_ms": 1703645795849,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/reddy_1323341075728684",
+  "magic_words": [
+    
+  ]
+}

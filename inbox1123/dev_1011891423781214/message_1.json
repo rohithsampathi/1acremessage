@@ -1,0 +1,128 @@
+{
+  "participants": [
+    {
+      "name": "Dev"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dev",
+      "timestamp_ms": 1721296243079,
+      "content": "Roughly 3 to 3.5 hours from Bangalore",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dev",
+      "timestamp_ms": 1721296233898,
+      "content": "https://maps.app.goo.gl/QTpZ6hmUgwThc8aZ6?g_st=com.google.maps.preview.copy",
+      "share": {
+        "link": "https://maps.app.goo.gl/QTpZ6hmUgwThc8aZ6?g_st=com.google.maps.preview.copy",
+        "share_text": "https://maps.app.goo.gl/QTpZ6hmUgwThc8aZ6?g_st=com.google.maps.preview.copy"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721292071748,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dev",
+      "timestamp_ms": 1721291963969,
+      "content": "70 lakhs per acre with lakh and conditioned coffee estate",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721291898279,
+      "content": "Ok. We'll get back to you.\nAt what price? \nAnd could you share the location?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dev",
+      "timestamp_ms": 1721291864262,
+      "content": "15 acres available",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dev",
+      "timestamp_ms": 1721291853755,
+      "content": "Coffee estate 1.2km from highway also available",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721291753790,
+      "content": "Not villa projects.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721291747316,
+      "content": "We do only lands.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dev",
+      "timestamp_ms": 1721291670459,
+      "content": "You can refer this property",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dev",
+      "timestamp_ms": 1721291665543,
+      "content": "https://maps.app.goo.gl/cfYVS1W6Y21mQ7sr9?g_st=com.google.maps.preview.copy",
+      "share": {
+        "link": "https://maps.app.goo.gl/cfYVS1W6Y21mQ7sr9?g_st=com.google.maps.preview.copy",
+        "share_text": "https://maps.app.goo.gl/cfYVS1W6Y21mQ7sr9?g_st=com.google.maps.preview.copy"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dev",
+      "timestamp_ms": 1721291624671,
+      "content": "We also have an already existing resort at sakleshpur",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dev",
+      "timestamp_ms": 1721291608590,
+      "content": "It\u00e2\u0080\u0099s a upcoming villa plots project included with swimming pool clubhouse conference hall a restaurant and a wedding hall",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dev",
+      "timestamp_ms": 1721291444717,
+      "content": "It\u00e2\u0080\u0099s a coffee estate in sakleshpur  it next to the national highway between Bangalore and Mangalore",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721291206676,
+      "content": "Could you tell us, \nLocation, extent and price?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721291201591,
+      "content": "We are launching Karnataka soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dev",
+      "timestamp_ms": 1721291057947,
+      "content": "Hello is your page only limited to Telangana or lands from Karnataka also posted?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Dev",
+  "is_still_participant": true,
+  "thread_path": "inbox/dev_1011891423781214",
+  "magic_words": [
+    
+  ]
+}

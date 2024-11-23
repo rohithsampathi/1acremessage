@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Artbyvineeth"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Artbyvineeth",
+      "timestamp_ms": 1706519509781,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706466979159,
+      "content": "Hi, Please contact Ramakrishna \n7780122120",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Artbyvineeth",
+          "timestamp": 1706519509
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Artbyvineeth",
+      "timestamp_ms": 1706464958680,
+      "content": "Do you also help in selling the lands which are 80kms away frm hyderabad ? And near to Nalgonda town.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Artbyvineeth",
+      "timestamp_ms": 1706464408683,
+      "content": "Hi team",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Artbyvineeth",
+  "is_still_participant": true,
+  "thread_path": "inbox/artbyvineeth_1169071687811302",
+  "magic_words": [
+    
+  ]
+}

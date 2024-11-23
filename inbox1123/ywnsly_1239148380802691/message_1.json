@@ -1,0 +1,76 @@
+{
+  "participants": [
+    {
+      "name": "\u00d9\u008a\u00d9\u0088\u00d9\u0086\u00d8\u00b3 \u00d8\u00b9\u00d9\u0084\u00d9\u008a"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00d9\u008a\u00d9\u0088\u00d9\u0086\u00d8\u00b3 \u00d8\u00b9\u00d9\u0084\u00d9\u008a",
+      "timestamp_ms": 1715762058963,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715758999259,
+      "content": "Hi, Please contact Ramakrishna \n7780122120",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00d9\u008a\u00d9\u0088\u00d9\u0086\u00d8\u00b3 \u00d8\u00b9\u00d9\u0084\u00d9\u008a",
+      "timestamp_ms": 1715755742554,
+      "content": "But what is the price going on there ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00d9\u008a\u00d9\u0088\u00d9\u0086\u00d8\u00b3 \u00d8\u00b9\u00d9\u0084\u00d9\u008a",
+      "timestamp_ms": 1715755735723,
+      "content": "Website is file, I'll update land pics",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715755485739,
+      "content": "Please check the Website. \n1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Please check the Website. \n1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00d9\u008a\u00d9\u0088\u00d9\u0086\u00d8\u00b3 \u00d8\u00b9\u00d9\u0084\u00d9\u008a",
+      "timestamp_ms": 1715754277428,
+      "content": "Do you have any idea what is the price going on there ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00d9\u008a\u00d9\u0088\u00d9\u0086\u00d8\u00b3 \u00d8\u00b9\u00d9\u0084\u00d9\u008a",
+      "timestamp_ms": 1715754266551,
+      "content": "1 acr and 35 gunta",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00d9\u008a\u00d9\u0088\u00d9\u0086\u00d8\u00b3 \u00d8\u00b9\u00d9\u0084\u00d9\u008a",
+      "timestamp_ms": 1715754259739,
+      "content": "I was planning to sell our land in mukundapuram village suryapet dist",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00d9\u008a\u00d9\u0088\u00d9\u0086\u00d8\u00b3 \u00d8\u00b9\u00d9\u0084\u00d9\u008a",
+      "timestamp_ms": 1715754238808,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00e2\u0080\u008e\u00d9\u008a\u00d9\u0088\u00d9\u0086\u00d8\u00b3 \u00d8\u00b9\u00d9\u0084\u00d9\u008a\u00e2\u0080\u008e",
+  "is_still_participant": true,
+  "thread_path": "inbox/ywnsly_1239148380802691",
+  "magic_words": [
+    
+  ]
+}

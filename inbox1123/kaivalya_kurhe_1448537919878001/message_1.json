@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "kaivalya_kurhe"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720241276668,
+      "content": "We are not currently dealing with lease.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "kaivalya_kurhe",
+      "timestamp_ms": 1720240777611,
+      "content": "Can I get agriculture land on lease",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "kaivalya_kurhe",
+  "is_still_participant": true,
+  "thread_path": "inbox/kaivalya_kurhe_1448537919878001",
+  "magic_words": [
+    
+  ]
+}

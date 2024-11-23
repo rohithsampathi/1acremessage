@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Sundeep Gupta"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710846468596,
+      "content": "He'll help you with the information.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710846453100,
+      "content": "Hi, Please contact Ramakrishna \n7780122120",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sundeep Gupta",
+      "timestamp_ms": 1710846270504,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sundeep Gupta",
+      "timestamp_ms": 1710846249037,
+      "content": "Want to know more on this property",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sundeep Gupta",
+      "timestamp_ms": 1710846232463,
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sundeep Gupta",
+  "is_still_participant": true,
+  "thread_path": "inbox/sundeepgupta_1330463028347127",
+  "magic_words": [
+    
+  ]
+}

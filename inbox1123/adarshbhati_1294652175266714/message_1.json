@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Adarsh Bhati"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705141274974,
+      "content": "Hi, the price is 3cr per acre. Please contact Vijay for all the details. \n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Adarsh Bhati",
+      "timestamp_ms": 1705140366079,
+      "content": "Rate",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Adarsh Bhati",
+      "timestamp_ms": 1705140365356,
+      "content": "Adarsh sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C2AeQgeNLeg/?id=3278753604499191712_47651711013",
+        "share_text": "1acre facilitated property:\n5 acre land, very close to the city\nAt Mudimyal, 22km from ORR (APPA junction).\nJust 500mt away from the Highway. \nAvailable as 1/2 acre & 1 acre units or as a whole. \n\nYou can get in touch with us at: 9959994737",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Adarsh Bhati",
+  "is_still_participant": true,
+  "thread_path": "inbox/adarshbhati_1294652175266714",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Milind Agarwal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702798285881,
+      "content": "Hey you can connect with Ratha kiran ,7661-063355",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Milind Agarwal",
+      "timestamp_ms": 1702790716722,
+      "content": "Can close this immediately, if any options are available",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Milind Agarwal",
+      "timestamp_ms": 1702790703925,
+      "content": "Should be agricultural land, and budget is 2-3L per acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Milind Agarwal",
+      "timestamp_ms": 1702790683057,
+      "content": "I have requirement for a 100+ acres",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Milind Agarwal",
+      "timestamp_ms": 1702790665813,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Milind Agarwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/milindagarwal_1313402826722536",
+  "magic_words": [
+    
+  ]
+}

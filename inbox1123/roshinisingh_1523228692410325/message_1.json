@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Roshini Singh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727773238433,
+      "content": "How can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727773234240,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Roshini Singh",
+      "timestamp_ms": 1727663973541,
+      "content": "hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Roshini Singh",
+  "is_still_participant": true,
+  "thread_path": "inbox/roshinisingh_1523228692410325",
+  "magic_words": [
+    
+  ]
+}

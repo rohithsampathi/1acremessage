@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Lion Boorgu Mallesh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lion Boorgu Mallesh",
+      "timestamp_ms": 1711285849357,
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Lion Boorgu Mallesh",
+  "is_still_participant": true,
+  "thread_path": "inbox/lionboorgumallesh_1340124564046469",
+  "magic_words": [
+    
+  ]
+}

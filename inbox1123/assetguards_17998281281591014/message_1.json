@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Assetguards"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Assetguards",
+      "timestamp_ms": 1710397330309,
+      "content": "Hi, i\u00e2\u0080\u0099m at the office location shared by Pratheek. Can you please give a call back?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Assetguards",
+      "timestamp_ms": 1710260104301,
+      "content": "Will do that",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Assetguards",
+      "timestamp_ms": 1710260099718,
+      "content": "Perfect",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710260054892,
+      "content": "Please contact Pratheek \n9390674324, from the team. \nHe'll schedule a meeting.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710259998945,
+      "content": "Sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Assetguards",
+      "timestamp_ms": 1710259466142,
+      "content": "Hello team, this is Sankeerth konda from Assetguards and we operate in US helping the NRI clients. I\u00e2\u0080\u0099m currently in Hyderabad and i thought it would be great for us to meet to explore any possible collaboration. Let me know if we can schedule some time and meet. Thanks",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Assetguards",
+  "is_still_participant": true,
+  "thread_path": "inbox/assetguards_17998281281591014",
+  "magic_words": [
+    
+  ]
+}

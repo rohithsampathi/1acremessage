@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "ROHAN KUMATKAR"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730538655400,
+      "content": "Please explore.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730538650264,
+      "content": "1acre.in/subscribe",
+      "share": {
+        "link": "http://1acre.in/subscribe",
+        "share_text": "1acre.in/subscribe"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "ROHAN KUMATKAR",
+      "timestamp_ms": 1730538230703,
+      "content": "I am looking commercial land for monthly rental income",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "ROHAN KUMATKAR",
+      "timestamp_ms": 1730538187051,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "ROHAN KUMATKAR",
+  "is_still_participant": true,
+  "thread_path": "inbox/rohankumatkar_17948159270890622",
+  "magic_words": [
+    
+  ]
+}

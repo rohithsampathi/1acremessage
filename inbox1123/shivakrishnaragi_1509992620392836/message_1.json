@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Shiva Krishna Ragi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729661785848,
+      "content": "Leave your number and we shall ensure you get a call back",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729661764106,
+      "content": "Please leave a message \nHe shall get back today",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shiva Krishna Ragi",
+      "timestamp_ms": 1729610611883,
+      "content": "No response from Vijay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shiva Krishna Ragi",
+      "timestamp_ms": 1729599446173,
+      "content": "Ok thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729574303181,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shiva Krishna Ragi",
+      "timestamp_ms": 1729568111535,
+      "content": "Hi, my name is shiva. I saw couple of plots listed in Manchirevula for 1450 sq yds and 500 sq yds. Can i know if they are still available?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shiva Krishna Ragi",
+  "is_still_participant": true,
+  "thread_path": "inbox/shivakrishnaragi_1509992620392836",
+  "magic_words": [
+    
+  ]
+}

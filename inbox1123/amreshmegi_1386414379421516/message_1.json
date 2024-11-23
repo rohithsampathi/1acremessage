@@ -1,0 +1,85 @@
+{
+  "participants": [
+    {
+      "name": "Amresh Megi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Amresh Megi",
+      "timestamp_ms": 1704353697854,
+      "content": "Cool<, Have a great day",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1704353731
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704353654050,
+      "content": "Sure. He'll arrange for a meeting with Ratna at office.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Amresh Megi",
+      "timestamp_ms": 1704353633016,
+      "content": "And I am a deisgner, would like to collaborate with your team",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Amresh Megi",
+      "timestamp_ms": 1704353611548,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704353603512,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Amresh Megi",
+      "timestamp_ms": 1704353476853,
+      "content": "Address please",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704352197491,
+      "content": "Financial district",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Amresh Megi",
+      "timestamp_ms": 1704349523648,
+      "content": "Where is your office?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704348949142,
+      "content": "Hello, Please tell",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Amresh Megi",
+      "timestamp_ms": 1704346699707,
+      "content": "Hey",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Amresh Megi",
+  "is_still_participant": true,
+  "thread_path": "inbox/amreshmegi_1386414379421516",
+  "magic_words": [
+    
+  ]
+}

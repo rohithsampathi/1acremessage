@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Shaikh Shahnawaz Hussain"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1700975218377,
+      "content": "You can contact to pratheek 9505778117,he can guide you regarding your enquiries",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shaikh Shahnawaz Hussain",
+      "timestamp_ms": 1700908997761,
+      "content": "And solve the court case",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shaikh Shahnawaz Hussain",
+      "timestamp_ms": 1700908894851,
+      "content": "Hi sir \nDo your company also take litigation lands",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shaikh Shahnawaz Hussain",
+  "is_still_participant": true,
+  "thread_path": "inbox/shaikhshahnawazhussain_17980207484567551",
+  "magic_words": [
+    
+  ]
+}

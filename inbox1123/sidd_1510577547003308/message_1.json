@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "SIDD \u00f0\u009f\u0087\u00ae\u00f0\u009f\u0087\u00b3\u00f0\u009f\u0087\u00a7\u00f0\u009f\u0087\u00bb"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722245579636,
+      "content": "You can explore 3000+ lands on our website 1acre.in and directly talk to sellers \n\nHope that helps",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "You can explore 3000+ lands on our website 1acre.in and directly talk to sellers \n\nHope that helps"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SIDD \u00f0\u009f\u0087\u00ae\u00f0\u009f\u0087\u00b3\u00f0\u009f\u0087\u00a7\u00f0\u009f\u0087\u00bb",
+      "timestamp_ms": 1722222378677,
+      "content": "Do you deal with property of that value",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SIDD \u00f0\u009f\u0087\u00ae\u00f0\u009f\u0087\u00b3\u00f0\u009f\u0087\u00a7\u00f0\u009f\u0087\u00bb",
+      "timestamp_ms": 1722222354909,
+      "content": "I was looking for an investment opportunity for a land under 10 lakhs",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722172651387,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SIDD \u00f0\u009f\u0087\u00ae\u00f0\u009f\u0087\u00b3\u00f0\u009f\u0087\u00a7\u00f0\u009f\u0087\u00bb",
+      "timestamp_ms": 1722164999809,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "SIDD \u00f0\u009f\u0087\u00ae\u00f0\u009f\u0087\u00b3\u00f0\u009f\u0087\u00a7\u00f0\u009f\u0087\u00bb",
+  "is_still_participant": true,
+  "thread_path": "inbox/sidd_1510577547003308",
+  "magic_words": [
+    
+  ]
+}

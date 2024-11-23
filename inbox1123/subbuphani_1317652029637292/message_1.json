@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Subbu Phani"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Subbu Phani",
+      "timestamp_ms": 1711886006333,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Subbu Phani",
+      "timestamp_ms": 1711886004978,
+      "content": "Sure , thankyou",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711885891411,
+      "content": "Sure. Someone from the team will reach out to you.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Subbu Phani",
+          "timestamp": 1711886006
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Subbu Phani",
+      "timestamp_ms": 1711874536042,
+      "content": "Heyy , this is regarding land that is for sale near jinnaram , kodakanchi village ( 15min from exit 4 orr )  with a total extent of ,14.2 acres which would be perfect for your next project. Please contact 7032481177 for more details.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Subbu Phani",
+      "timestamp_ms": 1711874534994,
+      "content": "Subbu sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C3t3CBgtPFl/?id=3309543332806717797_47651711013",
+        "share_text": "\u00f0\u009f\u008c\u00be Explore prime agricultural land! Today, we\u00e2\u0080\u0099re featuring a 40-acre plot in Yavatmal, Maharashtra, just 400 km from Hyderabad. With fertile soil and irrigation access, this land is a farmer\u00e2\u0080\u0099s paradise. Located only 2 km from the state highway, with a short kacha road leading to it, it\u00e2\u0080\u0099s easily accessible. Priced at seven lakhs per acre and situated just 30 km from the Samridi Expressway, this opportunity is ripe for investment. All legal documentation is verified by 1acre.in Contact us now to seize this opportunity! \u00f0\u009f\u009a\u009c\u00f0\u009f\u0092\u00b0 #YavatmalLand #FertileAcres #AgriculturalInvestment #OneacreOpportunity \u00f0\u009f\u008c\u00b1",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Subbu Phani",
+  "is_still_participant": true,
+  "thread_path": "inbox/subbuphani_1317652029637292",
+  "magic_words": [
+    
+  ]
+}

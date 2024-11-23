@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Poorna Vijay Singh, Nayagarh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723865012122,
+      "content": "Currently in Telangana and Andhra.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723865002161,
+      "content": "1acre.in take a look at the website. You can checkout all the verified lands and call the sellers directly.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "1acre.in take a look at the website. You can checkout all the verified lands and call the sellers directly."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723864965172,
+      "content": "We do not know of anyone listing verified lands. We are launching in Odisha soon.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Poorna Vijay Singh, Nayagarh",
+      "timestamp_ms": 1723751424267,
+      "content": "Hi ! \nDo you know of anyone or any firm offering a similar service to purchase land in Odisha ! Would be extremely grateful if you could point me in their direction. \nThanks in advance.\nCheers",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Poorna Vijay Singh, Nayagarh",
+  "is_still_participant": true,
+  "thread_path": "inbox/poornavijaysinghnayagarh_1427481561975952",
+  "magic_words": [
+    
+  ]
+}

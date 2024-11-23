@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Naman Vashishth"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720195507096,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720195506141,
+      "content": "Hi, Please contact Vijay 9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Naman Vashishth",
+      "timestamp_ms": 1720189571547,
+      "content": "Hello\n\nCan you please provide me location of this 40 acre land near yavatmal on sale. I'm looking for big lot for agriculture purpose.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Naman Vashishth",
+  "is_still_participant": true,
+  "thread_path": "inbox/namanvashishth_1462152388516550",
+  "magic_words": [
+    
+  ]
+}

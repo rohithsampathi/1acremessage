@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Shaik Mazhar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711857329403,
+      "content": "Very soon. Probably in 1-2 months. Thanks for that.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shaik Mazhar",
+      "timestamp_ms": 1711856143748,
+      "content": "It will surely click",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shaik Mazhar",
+      "timestamp_ms": 1711856120547,
+      "content": "I mean in Karnataka",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shaik Mazhar",
+      "timestamp_ms": 1711856117084,
+      "content": "Let's do this in bangalore too",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shaik Mazhar",
+  "is_still_participant": true,
+  "thread_path": "inbox/shaikmazhar_1381858586541072",
+  "magic_words": [
+    
+  ]
+}

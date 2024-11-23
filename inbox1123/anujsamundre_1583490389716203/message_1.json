@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Anuj Samundre"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728503864411,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anuj Samundre",
+      "timestamp_ms": 1728495504868,
+      "content": "Hy",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Anuj Samundre",
+  "is_still_participant": true,
+  "thread_path": "inbox/anujsamundre_1583490389716203",
+  "magic_words": [
+    
+  ]
+}

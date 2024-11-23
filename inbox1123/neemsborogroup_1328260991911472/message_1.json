@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Neemsboro Group"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Neemsboro Group",
+      "timestamp_ms": 1723795896321,
+      "content": "Hi, thank you for showing interest! To assist you further or you can reach out to us at +91 9955588555  kindly visit our website: https://www.neemsboro.com/ for further details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723795895029,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Neemsboro Group",
+      "timestamp_ms": 1723789824344,
+      "content": "Hey guys! Love your work. Can we have a conversation sometime soon about the projects that we have?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Neemsboro Group",
+  "is_still_participant": true,
+  "thread_path": "inbox/neemsborogroup_1328260991911472",
+  "magic_words": [
+    
+  ]
+}

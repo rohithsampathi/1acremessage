@@ -1,0 +1,84 @@
+{
+  "participants": [
+    {
+      "name": "DHOLERA SMART CITY"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "DHOLERA SMART CITY",
+      "timestamp_ms": 1724747995649,
+      "content": "7359001616",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724747962516,
+      "content": "There is no payment. We are doing some setup work for other states. Will reach out to you within a week. \nPlease give us your number.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "DHOLERA SMART CITY",
+      "timestamp_ms": 1724746681728,
+      "content": "So please explain to me what is the next step and what is the payment method",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "DHOLERA SMART CITY",
+      "timestamp_ms": 1724666805316,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724666031551,
+      "content": "1) The listings will be on your name. Calls will come to you directly from buyers.\n2) If we get any direct mandate for land in any area - we work only with Partners.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724665971426,
+      "content": "Ok. Above 50, makes you eligible for regional partnership.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "DHOLERA SMART CITY",
+      "timestamp_ms": 1724665332114,
+      "content": "Yes  I have 37 land and 27 plots available",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724665253174,
+      "content": "Would you have access to more than 50 lands/plots in Dholera?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724665225971,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "DHOLERA SMART CITY",
+      "timestamp_ms": 1724660153316,
+      "content": "So you can tell how we can work together.?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "DHOLERA SMART CITY",
+      "timestamp_ms": 1724660122593,
+      "content": "Hello I am from dholera smart city and our company deals in residential commercial and industrial land sale within dholera smart city we have lots of land parcels available for sale.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "DHOLERA SMART CITY",
+  "is_still_participant": true,
+  "thread_path": "inbox/dholerasmartcity_17916499820975585",
+  "magic_words": [
+    
+  ]
+}

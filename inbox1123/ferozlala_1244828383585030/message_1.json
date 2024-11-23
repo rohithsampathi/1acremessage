@@ -1,0 +1,76 @@
+{
+  "participants": [
+    {
+      "name": "Feroz Lala"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Feroz Lala",
+      "timestamp_ms": 1694769240268,
+      "content": "Ok bro",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1694769201699,
+      "content": "Call him for any queries",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1694769186139,
+      "content": "On the page?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1694769171366,
+      "content": "+91 80744 50533 Vijay 1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "+91 80744 50533 Vijay 1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Feroz Lala",
+      "timestamp_ms": 1694769169719,
+      "content": "For 28 lacs",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Feroz Lala",
+      "timestamp_ms": 1694769157749,
+      "content": "There was my land for sale \nBro",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1694769131433,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Feroz Lala",
+      "timestamp_ms": 1694769099534,
+      "content": "Anna",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Feroz Lala",
+      "timestamp_ms": 1694769095869,
+      "content": "Hlo",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Feroz Lala",
+  "is_still_participant": true,
+  "thread_path": "inbox/ferozlala_1244828383585030",
+  "magic_words": [
+    
+  ]
+}

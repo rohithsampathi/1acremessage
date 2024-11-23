@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "\u00e0\u00a4\u00a4\u00e0\u00a5\u0087\u00e0\u00a4\u009c\u00e0\u00a4\u00b8\u00e0\u00a5\u008d\u00e0\u00a4\u00b5\u00e0\u00a5\u0080 \u00e0\u00a4\u00ac\u00e0\u00a4\u00be\u00e0\u00a4\u00ac\u00e0\u00a5\u0082 \u00e0\u00a4\u00af\u00e0\u00a5\u0082\u00e0\u00a4\u00a5 \u00e0\u00a4\u0095\u00e0\u00a5\u008d\u00e0\u00a4\u00b2\u00e0\u00a4\u00ac"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722342420479,
+      "content": "Hello! How can I assist you today?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00e0\u00a4\u00a4\u00e0\u00a5\u0087\u00e0\u00a4\u009c\u00e0\u00a4\u00b8\u00e0\u00a5\u008d\u00e0\u00a4\u00b5\u00e0\u00a5\u0080 \u00e0\u00a4\u00ac\u00e0\u00a4\u00be\u00e0\u00a4\u00ac\u00e0\u00a5\u0082 \u00e0\u00a4\u00af\u00e0\u00a5\u0082\u00e0\u00a4\u00a5 \u00e0\u00a4\u0095\u00e0\u00a5\u008d\u00e0\u00a4\u00b2\u00e0\u00a4\u00ac",
+      "timestamp_ms": 1722342411471,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00e0\u00a4\u00a4\u00e0\u00a5\u0087\u00e0\u00a4\u009c\u00e0\u00a4\u00b8\u00e0\u00a5\u008d\u00e0\u00a4\u00b5\u00e0\u00a5\u0080 \u00e0\u00a4\u00ac\u00e0\u00a4\u00be\u00e0\u00a4\u00ac\u00e0\u00a5\u0082 \u00e0\u00a4\u00af\u00e0\u00a5\u0082\u00e0\u00a4\u00a5 \u00e0\u00a4\u0095\u00e0\u00a5\u008d\u00e0\u00a4\u00b2\u00e0\u00a4\u00ac",
+  "is_still_participant": true,
+  "thread_path": "inbox/tejasvibabuyuthaklaba_18016550087399632",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Ravi Naik"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704595435668,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravi Naik",
+      "timestamp_ms": 1704567109188,
+      "content": "My contact no is 9845154154",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravi Naik",
+      "timestamp_ms": 1704567095672,
+      "content": "Need details on 100 acre land in Maharashtra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravi Naik",
+      "timestamp_ms": 1704567081972,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ravi Naik",
+  "is_still_participant": true,
+  "thread_path": "inbox/ravinaik_1240265737362803",
+  "magic_words": [
+    
+  ]
+}

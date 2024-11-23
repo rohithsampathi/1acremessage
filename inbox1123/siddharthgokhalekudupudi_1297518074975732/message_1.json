@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Siddharth Gokhale Kudupudi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706594789748,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Siddharth Gokhale Kudupudi",
+      "timestamp_ms": 1706593239443,
+      "content": "Hi, I would like to know more about the location and so on for the Maharashtra acreage acquisition and how the process works .\n\nThank you",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Siddharth Gokhale Kudupudi",
+  "is_still_participant": true,
+  "thread_path": "inbox/siddharthgokhalekudupudi_1297518074975732",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Dhiraj Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720271705788,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dhiraj Reddy",
+      "timestamp_ms": 1720271157902,
+      "content": "Hello any lands in chenai",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Dhiraj Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/dhirajreddy_17932404344893834",
+  "magic_words": [
+    
+  ]
+}

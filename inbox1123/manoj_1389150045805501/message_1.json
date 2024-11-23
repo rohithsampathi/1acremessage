@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "M A N O J"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728632184705,
+      "content": "Please do share in your network :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728632170625,
+      "content": "Thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "M A N O J",
+      "timestamp_ms": 1728627375536,
+      "content": "good work \u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3475634411678185493"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "M A N O J",
+  "is_still_participant": true,
+  "thread_path": "inbox/manoj_1389150045805501",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Ritesh Gadekar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721614145556,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ritesh Gadekar",
+      "timestamp_ms": 1721585994646,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ritesh Gadekar",
+  "is_still_participant": true,
+  "thread_path": "inbox/riteshgadekar_1502047957861235",
+  "magic_words": [
+    
+  ]
+}

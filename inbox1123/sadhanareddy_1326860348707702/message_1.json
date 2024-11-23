@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Sadhana Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sadhana Reddy",
+      "timestamp_ms": 1707732041553,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707730742823,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sadhana Reddy",
+      "timestamp_ms": 1707729792590,
+      "content": "Hi \nWe are looking for land in moinabad,any leads\nIf possible pls share the details",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sadhana Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/sadhanareddy_1326860348707702",
+  "magic_words": [
+    
+  ]
+}

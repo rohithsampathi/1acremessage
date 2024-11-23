@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Vinay Majety"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702798409836,
+      "content": "You can contact to Pratheek  9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vinay Majety",
+      "timestamp_ms": 1702785734389,
+      "content": "Can u share the contact pls",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vinay Majety",
+      "timestamp_ms": 1702785724784,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vinay Majety",
+      "timestamp_ms": 1702785719687,
+      "content": "You missed an audio call",
+      "call_duration": 0,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vinay Majety",
+      "timestamp_ms": 1702785710666,
+      "content": "vinaymajety started an audio call",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vinay Majety",
+  "is_still_participant": true,
+  "thread_path": "inbox/vinaymajety_1250397986350935",
+  "magic_words": [
+    
+  ]
+}

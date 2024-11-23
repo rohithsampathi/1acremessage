@@ -1,0 +1,112 @@
+{
+  "participants": [
+    {
+      "name": "Mohammed Sameer"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mohammed Sameer",
+      "timestamp_ms": 1720876444581,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720874898132,
+      "content": "Please contact Vijay.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Mohammed Sameer",
+          "timestamp": 1720876444
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammed Sameer",
+      "timestamp_ms": 1720861992536,
+      "content": "With 40 fit road",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammed Sameer",
+      "timestamp_ms": 1720861971322,
+      "content": "Need 2 acres land in tellapur",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720859407325,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammed Sameer",
+      "timestamp_ms": 1720854480351,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720084402532,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720084401940,
+      "content": "Hi, Please contact Vijay 9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammed Sameer",
+      "timestamp_ms": 1720076145265,
+      "content": "Price 2 cr per acre in meeting negotiable.\u00ef\u00bf\u00bc",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammed Sameer",
+      "timestamp_ms": 1720076056414,
+      "content": "https://maps.app.goo.gl/kjKs9kzf5VeGeHFm7?g_st=ii",
+      "share": {
+        "link": "https://maps.app.goo.gl/kjKs9kzf5VeGeHFm7?g_st=ii",
+        "share_text": "https://maps.app.goo.gl/kjKs9kzf5VeGeHFm7?g_st=ii"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720073813356,
+      "content": "Can you send us location and price?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammed Sameer",
+      "timestamp_ms": 1720072918842,
+      "content": "300 acres available on Mumbai Highway at komkol toll pass 100-125 acres outrate others for development",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720064387591,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammed Sameer",
+      "timestamp_ms": 1720056239385,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mohammed Sameer",
+  "is_still_participant": true,
+  "thread_path": "inbox/mohammedsameer_18011483990591014",
+  "magic_words": [
+    
+  ]
+}

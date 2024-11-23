@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Prudhvi Raj"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715148321011,
+      "content": "Hi, Thanks for getting in touch. We'll definitely consider that. What would be an ideal pricing in your opinion?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prudhvi Raj",
+      "timestamp_ms": 1715141130741,
+      "content": "Wouldn\u00e2\u0080\u0099t it be simpler to have monthly charges instead of a one-time payment of 5k?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Prudhvi Raj",
+  "is_still_participant": true,
+  "thread_path": "inbox/prudhviraj_1477233257008688",
+  "magic_words": [
+    
+  ]
+}

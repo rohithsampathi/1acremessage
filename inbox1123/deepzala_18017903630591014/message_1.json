@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Deep Zala"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731466799066,
+      "content": "Our team will call back",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Deep Zala",
+      "timestamp_ms": 1724495174177,
+      "content": "My name is deep zala I am from Vadodara Gujarat I want to tell you some thing about my business my contact number 91737 83838",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Deep Zala",
+      "timestamp_ms": 1724495155821,
+      "content": "Yaa sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724495028695,
+      "content": "Could tell in detail?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Deep Zala",
+      "timestamp_ms": 1724485727079,
+      "content": "Muje business ke related baat karni hai apse",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724485607959,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Deep Zala",
+      "timestamp_ms": 1724482540670,
+      "content": "Hii 1 acre",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Deep Zala",
+  "is_still_participant": true,
+  "thread_path": "inbox/deepzala_18017903630591014",
+  "magic_words": [
+    
+  ]
+}

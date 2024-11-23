@@ -1,0 +1,70 @@
+{
+  "participants": [
+    {
+      "name": "jattathehairstylist"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "jattathehairstylist",
+      "timestamp_ms": 1718367045660,
+      "content": "Okk",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718367010691,
+      "content": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "jattathehairstylist",
+      "timestamp_ms": 1718366999884,
+      "content": "Sale kar ni h",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "jattathehairstylist",
+      "timestamp_ms": 1718366995569,
+      "content": "M",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "jattathehairstylist",
+      "timestamp_ms": 1718366994606,
+      "content": "Rajsthan Jaipur",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "jattathehairstylist",
+      "timestamp_ms": 1718366989327,
+      "content": "Mari lad h",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718366973984,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "jattathehairstylist",
+      "timestamp_ms": 1718366590041,
+      "content": "Hiii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "jattathehairstylist",
+  "is_still_participant": true,
+  "thread_path": "inbox/jattathehairstylist_17998554698619276",
+  "magic_words": [
+    
+  ]
+}

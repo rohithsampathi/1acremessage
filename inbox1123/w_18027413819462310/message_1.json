@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "W"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "W",
+      "timestamp_ms": 1726471174450,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726464968267,
+      "content": "We'll keep you posted, if we have anything.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726464952764,
+      "content": "Ok. It's a very specific request and we can't do much at this point.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "W",
+      "timestamp_ms": 1726460567985,
+      "content": "Because I have buyers for that Particular lands",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726449732493,
+      "content": "Not particularly. Only when they come. Why are you looking for those lands only?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "W",
+      "timestamp_ms": 1726413962053,
+      "content": "Do you\u00e2\u0080\u0099ll have any ex-army or freedom fighter lands",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "W",
+      "timestamp_ms": 1726413950576,
+      "content": "Hey",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "W",
+  "is_still_participant": true,
+  "thread_path": "inbox/w_18027413819462310",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Vidit Vij"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717566715197,
+      "content": "Hi, 1acre.in is a free listing platform for verified lands. \nCurrently, we are listing only Telanagana. Soon, we'll start other states. Will keep you posted.\nAlso, plz send us the details. We'll reach out to you, if someone is interested. \nAcres, location and price.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, 1acre.in is a free listing platform for verified lands. \nCurrently, we are listing only Telanagana. Soon, we'll start other states. Will keep you posted.\nAlso, plz send us the details. We'll reach out to you, if someone is interested. \nAcres, location and price."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vidit Vij",
+      "timestamp_ms": 1717566202270,
+      "content": "Hey, do you do marketing for lands in tamilnadu",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vidit Vij",
+  "is_still_participant": true,
+  "thread_path": "inbox/viditvij_1415347636527603",
+  "magic_words": [
+    
+  ]
+}

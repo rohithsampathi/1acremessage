@@ -1,0 +1,97 @@
+{
+  "participants": [
+    {
+      "name": "Vijay"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705060312049,
+      "content": "Sure. We'll reach back to you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vijay",
+      "timestamp_ms": 1705058273292,
+      "content": "My number is 9346777880",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vijay",
+      "timestamp_ms": 1705058259282,
+      "content": "Not answering my call",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vijay",
+      "timestamp_ms": 1705057909277,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705057899461,
+      "content": "Hi, Please contact Ramakrishna \n7780122120",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Vijay",
+          "timestamp": 1705057909
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vijay",
+      "timestamp_ms": 1705057895953,
+      "content": "Your number plz",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vijay",
+      "timestamp_ms": 1705057876802,
+      "content": "Vavilala village\nNear Gagillapur\n6 km from Dundigal ORR exit",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vijay",
+      "timestamp_ms": 1705057836646,
+      "content": "I have 6 guntas of agrl land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vijay",
+      "timestamp_ms": 1705057817647,
+      "content": "Give your WhatsApp number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vijay",
+      "timestamp_ms": 1705057802350,
+      "content": "Interesting marketing",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705057723698,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vijay",
+      "timestamp_ms": 1705057333886,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vijay",
+  "is_still_participant": true,
+  "thread_path": "inbox/vijay_1323610185704880",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Mallikarjun Reddy. \u00f0\u009f\u0098\u008e"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731909767342,
+      "content": "Sorry we do not list them",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mallikarjun Reddy. \u00f0\u009f\u0098\u008e",
+      "timestamp_ms": 1731864469947,
+      "content": "It is a building",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731749883526,
+      "content": "We only list agricultural lands and open plots. \n\nDo you mean land or a building ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mallikarjun Reddy. \u00f0\u009f\u0098\u008e",
+      "timestamp_ms": 1731730826616,
+      "content": "We would like to sell it",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mallikarjun Reddy. \u00f0\u009f\u0098\u008e",
+      "timestamp_ms": 1731730812300,
+      "content": "We have a commercial property in Kukatpally",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mallikarjun Reddy. \u00f0\u009f\u0098\u008e",
+      "timestamp_ms": 1731730799571,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mallikarjun Reddy. \u00f0\u009f\u0098\u008e",
+  "is_still_participant": true,
+  "thread_path": "inbox/mallikarjunreddy_1543596680372411",
+  "magic_words": [
+    
+  ]
+}

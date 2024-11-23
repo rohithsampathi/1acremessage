@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Manjigani Anand Rao"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Manjigani Anand Rao",
+      "timestamp_ms": 1707319485214,
+      "content": "I'm interested, but my budget would be low 5-10 L max",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Manjigani Anand Rao",
+  "is_still_participant": true,
+  "thread_path": "inbox/manjiganianandrao_1365795238150627",
+  "magic_words": [
+    
+  ]
+}

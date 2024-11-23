@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Saikiran Siripuram"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712918762298,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412\nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Saikiran Siripuram",
+      "timestamp_ms": 1712917156351,
+      "content": "More details",
+      "share": {
+        "link": "https://www.instagram.com/p/C3t3CBgtPFl/"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Saikiran Siripuram",
+  "is_still_participant": true,
+  "thread_path": "inbox/saikiransiripuram_1339252250800523",
+  "magic_words": [
+    
+  ]
+}

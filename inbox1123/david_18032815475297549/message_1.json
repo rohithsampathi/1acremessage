@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "David"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720161338391,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720161337432,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "David",
+      "timestamp_ms": 1720155806062,
+      "content": "40 acar per acar 7 lakh yavatmal land info plzz",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "David",
+  "is_still_participant": true,
+  "thread_path": "inbox/david_18032815475297549",
+  "magic_words": [
+    
+  ]
+}

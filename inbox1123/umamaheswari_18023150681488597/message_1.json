@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Uma Maheswari"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Uma Maheswari",
+      "timestamp_ms": 1715494690981,
+      "content": "But I couldn't find any listings in your platform on this NH930P.\nCan that be included?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715422555735,
+      "content": "Hi, we are a listing platform for verified lands. We generally restrain from giving advice.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Uma Maheswari",
+      "timestamp_ms": 1715415961436,
+      "content": "NH930P",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Uma Maheswari",
+      "timestamp_ms": 1715415950831,
+      "content": "Hi. Please give inputs on purchase of agriculture lands on the new Hyderabad to bhadrachalam highway?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Uma Maheswari",
+  "is_still_participant": true,
+  "thread_path": "inbox/umamaheswari_18023150681488597",
+  "magic_words": [
+    
+  ]
+}

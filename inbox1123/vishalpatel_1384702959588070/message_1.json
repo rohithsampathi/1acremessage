@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Vishal Patel"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717898983762,
+      "content": "Hello Vishal, \nThanks for reaching out.\nWe currently have 2500+ verified listings across Telangana.\nWe definitely might have good enough lands, at least outside the ORR.\nWe would advise you to connect with Ratna Kiran(co-founder)\n9390155412, directly and discuss what can be done. \nThanks again.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishal Patel",
+      "timestamp_ms": 1717855954633,
+      "content": "Hi,\n\nI'm Vishal, director at Om Sree builders. Wanted to check if you had any good land parcels in the city or around ORR",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vishal Patel",
+  "is_still_participant": true,
+  "thread_path": "inbox/vishalpatel_1384702959588070",
+  "magic_words": [
+    
+  ]
+}

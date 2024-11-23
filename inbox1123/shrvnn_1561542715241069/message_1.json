@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Shr@vnn"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724567876369,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shr@vnn",
+      "timestamp_ms": 1724559440037,
+      "content": "How to approach your team ? Please advise",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shr@vnn",
+      "timestamp_ms": 1724559430118,
+      "content": "Interested in commercial land",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shr@vnn",
+  "is_still_participant": true,
+  "thread_path": "inbox/shrvnn_1561542715241069",
+  "magic_words": [
+    
+  ]
+}

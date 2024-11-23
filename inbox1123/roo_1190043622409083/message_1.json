@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Roo"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Roo",
+      "timestamp_ms": 1718850080007,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718836608544,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Roo",
+          "timestamp": 1718850080
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Roo",
+      "timestamp_ms": 1718815001674,
+      "content": "Want to sell land from Maharashtra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Roo",
+      "timestamp_ms": 1718814986903,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Roo",
+  "is_still_participant": true,
+  "thread_path": "inbox/roo_1190043622409083",
+  "magic_words": [
+    
+  ]
+}

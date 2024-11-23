@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Mohammed Bilal Hussain"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704085074374,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammed Bilal Hussain",
+      "timestamp_ms": 1703999763561,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mohammed Bilal Hussain",
+  "is_still_participant": true,
+  "thread_path": "inbox/mohammedbilalhussain_1314880709912218",
+  "magic_words": [
+    
+  ]
+}

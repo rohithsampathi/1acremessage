@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Mr Shetty"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719790323348,
+      "content": "Listing on 1acre.in is free for sellers. It's free also for the buyers - they can reach out to the sellers directly. \n\nWhen we, as a company, facilitate a transaction, we take the extra effort and charge 2%",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Listing on 1acre.in is free for sellers. It's free also for the buyers - they can reach out to the sellers directly. \n\nWhen we, as a company, facilitate a transaction, we take the extra effort and charge 2%"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mr Shetty",
+      "timestamp_ms": 1719788522461,
+      "content": "Telangana Hyderabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719761324135,
+      "content": "Which state?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mr Shetty",
+      "timestamp_ms": 1719757355082,
+      "content": "And i want to know what the listing process is",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mr Shetty",
+      "timestamp_ms": 1719757328399,
+      "content": "I am a builder and my father\u00e2\u0080\u0099s business is real estate plotting",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719757292506,
+      "content": "May I know what you are looking for?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719757282142,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mr Shetty",
+      "timestamp_ms": 1719757273197,
+      "content": "You list Even plots??",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719757241047,
+      "content": "Only lands but we don't buy them. We are a listing platform.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mr Shetty",
+      "timestamp_ms": 1719752867046,
+      "content": "Do you buy only lands or even houses",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mr Shetty",
+  "is_still_participant": true,
+  "thread_path": "inbox/mrshetty_1406581577402708",
+  "magic_words": [
+    
+  ]
+}

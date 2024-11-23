@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Shwetam Khabiya"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shwetam Khabiya",
+      "timestamp_ms": 1709046471468,
+      "content": "Okay \u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709046441799,
+      "content": "Yeah, that's one opportunity.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shwetam Khabiya",
+      "timestamp_ms": 1709046395925,
+      "content": "Okay\nI just saw a yavatmal land parxel you shared so texted you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709045036397,
+      "content": "But I would like to know the extent, price and location, in case someone asks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709045014631,
+      "content": "Hi, we are currently operational only in Telanagana. We are expanding to other states soon. Will get back to you. Thank you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shwetam Khabiya",
+      "timestamp_ms": 1709044662849,
+      "content": "Hi \nI have a land parcel near Mumbai\nI want to sell it \nHow can we collaborate?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shwetam Khabiya",
+  "is_still_participant": true,
+  "thread_path": "inbox/shwetamkhabiya_1389970255737551",
+  "magic_words": [
+    
+  ]
+}

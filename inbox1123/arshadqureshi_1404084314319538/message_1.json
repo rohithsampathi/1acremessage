@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Arshad Qureshi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716353645920,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716353645001,
+      "content": "You can also WhatsApp him, at \n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716353621585,
+      "content": "Hi, Please give us your number. Vijay, from the team will send you the details.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Arshad Qureshi",
+      "timestamp_ms": 1716324704464,
+      "content": "Hi I\u00e2\u0080\u0099d like to know the details of the location for the 10 acre land near tipeshwar",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Arshad Qureshi",
+  "is_still_participant": true,
+  "thread_path": "inbox/arshadqureshi_1404084314319538",
+  "magic_words": [
+    
+  ]
+}

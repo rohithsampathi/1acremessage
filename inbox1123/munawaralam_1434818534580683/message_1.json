@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Munawar Alam"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Munawar Alam",
+      "timestamp_ms": 1717471015817,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717468575015,
+      "content": "Hi, Thanks for reaching out. We are not actively seeking funds, so we don't have a pitch deck yet. Thanks. \nsatish@1acre.in \nThis is the official email I'd. In case you wanted.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Munawar Alam",
+          "timestamp": 1717471015
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Munawar Alam",
+      "timestamp_ms": 1717418549274,
+      "content": "May i ask for a detailed pitch deck and revenue figures with biz model + official email id",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Munawar Alam",
+      "timestamp_ms": 1717418522577,
+      "content": "Hey 1acre, i love your concept and would like to invest in this interesting concept by funding your company",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Munawar Alam",
+  "is_still_participant": true,
+  "thread_path": "inbox/munawaralam_1434818534580683",
+  "magic_words": [
+    
+  ]
+}

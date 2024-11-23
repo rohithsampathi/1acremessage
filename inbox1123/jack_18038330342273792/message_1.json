@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Jack \u00f0\u009f\u0090\u00be"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jack \u00f0\u009f\u0090\u00be",
+      "timestamp_ms": 1730721851182,
+      "content": "Jack sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DBy5hSwybuf/?id=3491105637705300895_3130861750",
+        "share_text": "Why do you burn firecrackers for Diwali ?\n\nSource : Buddhi",
+        "original_content_owner": "trollenku"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Jack \u00f0\u009f\u0090\u00be",
+  "is_still_participant": true,
+  "thread_path": "inbox/jack_18038330342273792",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Chipmunks AI"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709892306251,
+      "content": "No, thank you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chipmunks AI",
+      "timestamp_ms": 1709892039870,
+      "content": "Barter Promotion ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709860388116,
+      "content": "Hello, Plz tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chipmunks AI",
+      "timestamp_ms": 1709850169877,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Chipmunks AI",
+  "is_still_participant": true,
+  "thread_path": "inbox/chipmunksai_17997728357591014",
+  "magic_words": [
+    
+  ]
+}

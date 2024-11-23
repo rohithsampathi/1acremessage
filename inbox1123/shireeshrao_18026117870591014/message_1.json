@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Shireesh Rao"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shireesh Rao",
+      "timestamp_ms": 1730342478092,
+      "content": "10 crore max",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730192564413,
+      "content": "May we know your requirements",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shireesh Rao",
+      "timestamp_ms": 1730188931098,
+      "content": "Do you have development lands available for Villas in tellapur or sharmeerpet?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shireesh Rao",
+      "timestamp_ms": 1730188890381,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shireesh Rao",
+  "is_still_participant": true,
+  "thread_path": "inbox/shireeshrao_18026117870591014",
+  "magic_words": [
+    
+  ]
+}

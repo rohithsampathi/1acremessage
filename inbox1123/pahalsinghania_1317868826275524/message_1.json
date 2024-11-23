@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Pahal Singhania"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705841579060,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pahal Singhania",
+      "timestamp_ms": 1705841442028,
+      "content": "Wanna know more about the 1000acre plan",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705767144378,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pahal Singhania",
+      "timestamp_ms": 1705748608852,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Pahal Singhania",
+  "is_still_participant": true,
+  "thread_path": "inbox/pahalsinghania_1317868826275524",
+  "magic_words": [
+    
+  ]
+}

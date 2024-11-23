@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Yash Oswal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Yash Oswal",
+      "timestamp_ms": 1720110896940,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720110859923,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Yash Oswal",
+          "timestamp": 1720110896
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yash Oswal",
+      "timestamp_ms": 1720108471531,
+      "content": "Can you please share details from this land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yash Oswal",
+      "timestamp_ms": 1720108442141,
+      "content": "Yash sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C8_88ylSF7J/?id=3404707903587245769_47651711013",
+        "share_text": "40 acres | \u00e2\u0082\u00b97 lakhs per acre | Near Yavatmal, Maharashtra | Link in bio \u00f0\u009f\u008c\u009f\n\n- Verified and facilitated by 1acre.in\n- Extremely fertile, canal-irrigated land\n- Only 6 hours from Hyderabad\n- Well-connected to national highways, expressways, and railways\n- Ideal for active agriculture and investment\n\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 9959994737\n\n\u00f0\u009f\u0093\u00ac\u00f0\u009f\u0093\u00a9 DM us for more queries on buying, selling, or partnerships",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yash Oswal",
+      "timestamp_ms": 1720108427440,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Yash Oswal",
+  "is_still_participant": true,
+  "thread_path": "inbox/yashoswal_1425894838806126",
+  "magic_words": [
+    
+  ]
+}

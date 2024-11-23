@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "vishal jadhav"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "vishal jadhav",
+      "timestamp_ms": 1718533340742,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718533268662,
+      "content": "Would advise you to work with a lawyer well versed in land transactions.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718533235050,
+      "content": "No. There's a land ceiling in Telangana. About 50 acres.\nAlso, it would be better if you do not pay any money in advance, to the agents/brokers.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "vishal jadhav",
+      "timestamp_ms": 1718533116047,
+      "content": "Just simply I asked bcz some brokers are saying they have more land but not saying what's the process to buy ... Asking advance to show land ... I'm asking just for information that is it possible to buy agriculture land more that 500acre or not??",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718532076466,
+      "content": "Who said about 500 acres? What's the context?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "vishal jadhav",
+      "timestamp_ms": 1718527136304,
+      "content": "How can we buy land more than 500 acre bcz there is land ceiling act????",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "vishal jadhav",
+  "is_still_participant": true,
+  "thread_path": "inbox/vishaljadhav_17861189385170090",
+  "magic_words": [
+    
+  ]
+}

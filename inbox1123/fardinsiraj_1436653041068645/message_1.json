@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Fardin Siraj"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Fardin Siraj",
+      "timestamp_ms": 1718807320668,
+      "content": "Sure ,thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718805227584,
+      "content": "We currently only operate in telangana. \n\nWill keep you posted when we launch in other states",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Fardin Siraj",
+      "timestamp_ms": 1718802240853,
+      "content": "I am looking for 1 acre agriculture land outskirts of Bangalore, preferably north.\nBudget INR 50 Lakhs",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Fardin Siraj",
+      "timestamp_ms": 1718802162143,
+      "content": "Hope you are doing well",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Fardin Siraj",
+      "timestamp_ms": 1718802143367,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Fardin Siraj",
+  "is_still_participant": true,
+  "thread_path": "inbox/fardinsiraj_1436653041068645",
+  "magic_words": [
+    
+  ]
+}

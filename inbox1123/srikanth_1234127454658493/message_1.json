@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Srikanth"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704084994411,
+      "content": "https://www.1acre.in/subscribe",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "https://www.1acre.in/subscribe"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704084989774,
+      "content": "Please check out 1acre premium",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704084981562,
+      "content": "Hi, yes we do. We call that hand-holding.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srikanth",
+      "timestamp_ms": 1704076555999,
+      "content": "Do u also help in identifying and buying a land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srikanth",
+      "timestamp_ms": 1704076525511,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Srikanth",
+  "is_still_participant": true,
+  "thread_path": "inbox/srikanth_1234127454658493",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Rajashekar Chalapaka"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729574314309,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rajashekar Chalapaka",
+      "timestamp_ms": 1729564457267,
+      "content": "More details about Kondapur land\nPrice per square yard",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rajashekar Chalapaka",
+  "is_still_participant": true,
+  "thread_path": "inbox/rajashekarchalapaka_1449252353144964",
+  "magic_words": [
+    
+  ]
+}

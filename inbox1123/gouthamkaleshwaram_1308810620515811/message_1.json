@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Goutham Kaleshwaram"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703996410673,
+      "content": "you can connect with pratheek, 9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Goutham Kaleshwaram",
+      "timestamp_ms": 1703963017261,
+      "content": "Hi. I'm interested in buying 1 acre land near hyd or blre. My budget is around 10l. Please help",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Goutham Kaleshwaram",
+  "is_still_participant": true,
+  "thread_path": "inbox/gouthamkaleshwaram_1308810620515811",
+  "magic_words": [
+    
+  ]
+}

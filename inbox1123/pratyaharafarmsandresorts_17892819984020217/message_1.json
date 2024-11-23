@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Pratyahara Farms and Resorts"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718790495070,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412\nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pratyahara Farms and Resorts",
+      "timestamp_ms": 1718784687390,
+      "content": "Interested in buying 10 acre attached to the forest any further details please?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Pratyahara Farms and Resorts",
+  "is_still_participant": true,
+  "thread_path": "inbox/pratyaharafarmsandresorts_17892819984020217",
+  "magic_words": [
+    
+  ]
+}

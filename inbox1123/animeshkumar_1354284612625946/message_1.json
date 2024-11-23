@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Animesh Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Animesh Kumar",
+      "timestamp_ms": 1723096821137,
+      "content": "Hello ok.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723088958264,
+      "content": "He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723088953823,
+      "content": "Hi, Please contact Srikar\n8341149011, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Animesh Kumar",
+      "timestamp_ms": 1723024910205,
+      "content": "Can u pls share location.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Animesh Kumar",
+      "timestamp_ms": 1723024900927,
+      "content": "Animesh sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C-U5ePmSkrw/?id=3428617983319755504_47651711013",
+        "share_text": "10 acres | \u00e2\u0082\u00b91.1 Cr per acre | Close to proposed RRR | Link in bio \u00f0\u009f\u008c\u009f\n\n\u00e2\u009c\u0085 Verified and facilitated by 1acre.in\n\n- Ideal for long-term investment\n- 2 km from Bijapur Highway (four-laned)\n- 40 km from TSPA ORR exit\n- 5-minute drive to Organo Antharam\n\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 8341149011\nDM us for more queries on buying, selling, or partnerships.\n#landforsale #RRR #investment #propertyforsale #realestate",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Animesh Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/animeshkumar_1354284612625946",
+  "magic_words": [
+    
+  ]
+}

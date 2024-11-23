@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "Ashna Chopra"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ashna Chopra",
+      "timestamp_ms": 1708664900235,
+      "content": "\u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708664685677,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ashna Chopra",
+      "timestamp_ms": 1708664539593,
+      "content": "Please share a no on which I can contact you\u00e2\u0080\u0099ll",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ashna Chopra",
+      "timestamp_ms": 1708664493394,
+      "content": "You missed an audio call",
+      "call_duration": 0,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ashna Chopra",
+      "timestamp_ms": 1708664443597,
+      "content": "ashnachopra started an audio call",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ashna Chopra",
+      "timestamp_ms": 1708664437013,
+      "content": "Please reach out to me",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ashna Chopra",
+      "timestamp_ms": 1708664426070,
+      "content": "Yavatmal agricultural land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ashna Chopra",
+      "timestamp_ms": 1708664409314,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ashna Chopra",
+  "is_still_participant": true,
+  "thread_path": "inbox/ashnachopra_1368352807896686",
+  "magic_words": [
+    
+  ]
+}

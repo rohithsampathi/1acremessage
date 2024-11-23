@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Tejas Hindocha"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726153301607,
+      "content": "Please explore www.1acre.in where we have 3500+ lands listed across telangana and many in chevella too. \n\nHope this helps :)",
+      "share": {
+        "link": "http://www.1acre.in/",
+        "share_text": "Please explore www.1acre.in where we have 3500+ lands listed across telangana and many in chevella too. \n\nHope this helps :)"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726153173075,
+      "content": "Tejas Hindocha replied to an ad. View ad(https://www.instagram.com/p/C_xe85bMn6E/)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tejas Hindocha",
+      "timestamp_ms": 1726153172014,
+      "content": "Iam searching in chavella aarya..",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Tejas Hindocha",
+  "is_still_participant": true,
+  "thread_path": "inbox/tejashindocha_1537826680947055",
+  "magic_words": [
+    
+  ]
+}

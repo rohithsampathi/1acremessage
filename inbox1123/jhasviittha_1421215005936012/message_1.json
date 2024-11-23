@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Jhasviittha"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719677098102,
+      "content": "Hi, Please contact Bharath \n7780122120, from the team. He'll help you with the listing.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jhasviittha",
+      "timestamp_ms": 1719675531287,
+      "content": "Near sadasivpet",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jhasviittha",
+      "timestamp_ms": 1719675525972,
+      "content": "It\u00e2\u0080\u0099s in maddikunta village",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719675461681,
+      "content": "Hi, Thanks for reaching out.\nCould you tell us where the land is, and the extent?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jhasviittha",
+      "timestamp_ms": 1719671407854,
+      "content": "Could you tell me about ur services and charges",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jhasviittha",
+      "timestamp_ms": 1719671365900,
+      "content": "We r planning to sell our land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jhasviittha",
+      "timestamp_ms": 1719671357138,
+      "content": "Hi this Jhasviittha",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Jhasviittha",
+  "is_still_participant": true,
+  "thread_path": "inbox/jhasviittha_1421215005936012",
+  "magic_words": [
+    
+  ]
+}

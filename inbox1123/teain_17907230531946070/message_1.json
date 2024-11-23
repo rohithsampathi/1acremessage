@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Tea.in"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tea.in",
+      "timestamp_ms": 1712544008011,
+      "content": "9866136956 is my number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tea.in",
+      "timestamp_ms": 1712543998971,
+      "content": "Can I know few details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tea.in",
+      "timestamp_ms": 1712543984412,
+      "content": "I got to know",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tea.in",
+      "timestamp_ms": 1712543978885,
+      "content": "Instagram",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712543391510,
+      "content": "Hi, may I know what you are referring to?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tea.in",
+      "timestamp_ms": 1712542891033,
+      "content": "Details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tea.in",
+      "timestamp_ms": 1712542886529,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Tea.in",
+  "is_still_participant": true,
+  "thread_path": "inbox/teain_17907230531946070",
+  "magic_words": [
+    
+  ]
+}

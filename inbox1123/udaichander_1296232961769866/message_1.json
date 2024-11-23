@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Udai Chander"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716166678551,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716166677938,
+      "content": "Hi, Please talk to Vijay 9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Udai Chander",
+      "timestamp_ms": 1716145448360,
+      "content": "I'm interested in the land near tippeshwar?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706692485514,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Udai Chander",
+      "timestamp_ms": 1706636775876,
+      "content": "Hi. This is regarding the 856 Sq yards plot in velimala. I\u00e2\u0080\u0099m interested. Can I know the dimensions of the plot. Also I would like to visit the site tomorrow. Kindly revert back on 9494334334",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Udai Chander",
+  "is_still_participant": true,
+  "thread_path": "inbox/udaichander_1296232961769866",
+  "magic_words": [
+    
+  ]
+}

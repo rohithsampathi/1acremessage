@@ -1,0 +1,37 @@
+{
+  "participants": [
+    {
+      "name": "rangaraju3366"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "rangaraju3366",
+      "timestamp_ms": 1703316151272,
+      "content": "You missed an audio call",
+      "call_duration": 0,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "rangaraju3366",
+      "timestamp_ms": 1703316134388,
+      "content": "rangaraju3366 started an audio call",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "rangaraju3366",
+      "timestamp_ms": 1703316122209,
+      "content": "Hi \nHow to reach you to buy a land in Hyderabad",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "rangaraju3366",
+  "is_still_participant": true,
+  "thread_path": "inbox/rangaraju3366_1158076282264792",
+  "magic_words": [
+    
+  ]
+}

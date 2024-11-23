@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Akhil Chinthalagattu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720112526011,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akhil Chinthalagattu",
+      "timestamp_ms": 1720112051596,
+      "content": "Hi, I am interested in Yavatmal 40 acre land . Please call me on 7339244296",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Akhil Chinthalagattu",
+  "is_still_participant": true,
+  "thread_path": "inbox/akhilchinthalagattu_1415868663139811",
+  "magic_words": [
+    
+  ]
+}

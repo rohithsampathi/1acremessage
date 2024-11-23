@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Kartik Balakrishnan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kartik Balakrishnan",
+      "timestamp_ms": 1709890445382,
+      "content": "Will get in touch",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kartik Balakrishnan",
+      "timestamp_ms": 1709890441251,
+      "content": "Thanks for sharing the number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709886842276,
+      "content": "Please contact Ratna Kiran \n9390155412\nYou can discuss with him, the feasibility.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709886810252,
+      "content": "Hi, thanks for reaching out.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kartik Balakrishnan",
+      "timestamp_ms": 1709880636192,
+      "content": "And have some good patches of land at promising locations",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kartik Balakrishnan",
+      "timestamp_ms": 1709880568744,
+      "content": "I am from Nagpur",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kartik Balakrishnan",
+      "timestamp_ms": 1709880558432,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kartik Balakrishnan",
+  "is_still_participant": true,
+  "thread_path": "inbox/kartikbalakrishnan_1386899066036824",
+  "magic_words": [
+    
+  ]
+}

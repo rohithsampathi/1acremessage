@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Priyanka Kadiyala"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707843488489,
+      "content": "Sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Priyanka Kadiyala",
+      "timestamp_ms": 1707841782668,
+      "content": "Thank you very much!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Priyanka Kadiyala",
+      "timestamp_ms": 1707841768361,
+      "content": "I am from USA. They can reach me on WhatsApp+18705300164.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707839647226,
+      "content": "Plz give your number. I'll have him touch base with you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Priyanka Kadiyala",
+      "timestamp_ms": 1707839379196,
+      "content": "Hi, Ramakrishna is not reachable. Can you please share if you have any alternate contacts.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Priyanka Kadiyala",
+      "timestamp_ms": 1706890904639,
+      "content": "Thank you!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706890831605,
+      "content": "Please contact Ramakrishna \n7780122120. \nHe'll assist you on listing or other options. Thanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Priyanka Kadiyala",
+      "timestamp_ms": 1706889281932,
+      "content": "Nalgonda district, somrajguda",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706880954301,
+      "content": "Hi, sure. May I know the location of the land?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Priyanka Kadiyala",
+      "timestamp_ms": 1706880437167,
+      "content": "Hello,\n\nWe have a 3 acres land near Hyderabad, and we would like to sell that land. Can you please assist with that.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Priyanka Kadiyala",
+  "is_still_participant": true,
+  "thread_path": "inbox/priyankakadiyala_1301271127931938",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Ramchandra Vakiti Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721633886738,
+      "content": "Hi, Please contact Srikar\n8341149011, from the team. \nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ramchandra Vakiti Reddy",
+      "timestamp_ms": 1721564846398,
+      "content": "Ramchandra sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C9rxJdLy7Es/?id=3417040896381399340_47651711013",
+        "share_text": "10 acres | \u00e2\u0082\u00b92.2 Cr per acre | Near Ramoji Film City | Link in bio \u00f0\u009f\u008c\u009f\n\n- Verified and facilitated by 1acre.in\n- Suitable for a layout\n- Located in Peri-Urban zone\n- Next to habitation and layouts\n- 5 km from Vijayawada highway\n- 6 km from ORR\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 9390155412\n\n\u00f0\u009f\u0093\u00ac DM us for more queries on buying, selling, or partnerships",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ramchandra Vakiti Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/ramchandravakitireddy_1456838299050111",
+  "magic_words": [
+    
+  ]
+}

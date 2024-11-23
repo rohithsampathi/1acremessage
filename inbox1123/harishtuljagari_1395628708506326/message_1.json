@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Harish Tuljagari"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722769747384,
+      "content": "Please contact our team member ,Srikar, at 83411 49011",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harish Tuljagari",
+      "timestamp_ms": 1722766601264,
+      "content": "Hi bro i have property to sale at indhresham patancheruvu",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Harish Tuljagari",
+  "is_still_participant": true,
+  "thread_path": "inbox/harishtuljagari_1395628708506326",
+  "magic_words": [
+    
+  ]
+}

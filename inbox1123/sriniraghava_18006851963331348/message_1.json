@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Srini Raghava"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704595485509,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srini Raghava",
+      "timestamp_ms": 1704585053487,
+      "content": "Can you please provide the location?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Srini Raghava",
+  "is_still_participant": true,
+  "thread_path": "inbox/sriniraghava_18006851963331348",
+  "magic_words": [
+    
+  ]
+}

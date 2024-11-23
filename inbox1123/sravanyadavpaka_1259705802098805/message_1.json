@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Sravan Yadav Paka"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sravan Yadav Paka",
+      "timestamp_ms": 1700321236104,
+      "content": "\u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1700314285911,
+      "content": "Hi, please call Ratna Kiran 7661063355",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sravan Yadav Paka",
+      "timestamp_ms": 1700314203002,
+      "content": "We are searching for larger extent of land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sravan Yadav Paka",
+      "timestamp_ms": 1700314176558,
+      "content": "Hai",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sravan Yadav Paka",
+  "is_still_participant": true,
+  "thread_path": "inbox/sravanyadavpaka_1259705802098805",
+  "magic_words": [
+    
+  ]
+}

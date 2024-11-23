@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Rehan Mohammad"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721224847814,
+      "content": "1acre.in/subscribe  Please explore.\nYou can call the sellers directly.",
+      "share": {
+        "link": "http://1acre.in/subscribe",
+        "share_text": "1acre.in/subscribe  Please explore.\nYou can call the sellers directly."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rehan Mohammad",
+      "timestamp_ms": 1721224700737,
+      "content": "Hey \nThis is Rehan \nMy father is interested in lands for development \nIt can be in outskirts of Hyderabad or it can be in the city limits of Hyderabad",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rehan Mohammad",
+  "is_still_participant": true,
+  "thread_path": "inbox/rehanmohammad_18032990432110608",
+  "magic_words": [
+    
+  ]
+}

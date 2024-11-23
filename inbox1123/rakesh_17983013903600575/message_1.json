@@ -1,0 +1,86 @@
+{
+  "participants": [
+    {
+      "name": "Rakesh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701923056200,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rakesh",
+      "timestamp_ms": 1701878413006,
+      "content": "I am available now. \nTomorrow afternoon 12 - 5pm",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1701923057
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701877721737,
+      "content": "Do let me know when you are free tomorrow , will seclude a call",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701877689447,
+      "content": "They mentioned they even texted you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701877679409,
+      "content": "Our team tried to connect  with you few days ago",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rakesh",
+      "timestamp_ms": 1701876954617,
+      "content": "I haven't been contacted yet",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rakesh",
+      "timestamp_ms": 1701675545163,
+      "content": "Hi\nThank you for your response",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1701676301
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701675086121,
+      "content": "Hi Rakesh, will let our team know about it ,our team will connect with you shortly.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rakesh",
+      "timestamp_ms": 1701626563768,
+      "content": "Hi \nI have bought premium subscription but havent got any confirmation message or any land for sale posts",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rakesh",
+  "is_still_participant": true,
+  "thread_path": "inbox/rakesh_17983013903600575",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Neelima Gudavalli"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730443479284,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Neelima Gudavalli",
+      "timestamp_ms": 1730403883669,
+      "content": "What is the final price",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Neelima Gudavalli",
+      "timestamp_ms": 1730403872650,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/neelimagudavalli_18010462880647200/photos/462553533_958727159609054_2838357881187225438_n_958727156275721.jpg",
+          "creation_timestamp": 1730403871,
+          "backup_uri": "https://scontent.fmaa12-2.fna.fbcdn.net/v/t1.15752-9/462553533_958727159609054_2838357881187225438_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=9f807c&_nc_ohc=aauM6XQRlSEQ7kNvgEcbm_L&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fmaa12-2.fna&oh=03_Q7cD1QEw1LCpNU9vddKP-4FXdWTa45aOGD8m_YmcqnL2jCxLtg&oe=6766B878"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Neelima Gudavalli",
+      "timestamp_ms": 1730403865379,
+      "content": "Which colony is this",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Neelima Gudavalli",
+  "is_still_participant": true,
+  "thread_path": "inbox/neelimagudavalli_18010462880647200",
+  "magic_words": [
+    
+  ]
+}

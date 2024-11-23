@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Surya Prakash Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721197615475,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721197614552,
+      "content": "Please contact Vijay 9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721197609476,
+      "content": "Sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Surya Prakash Reddy",
+      "timestamp_ms": 1721195775829,
+      "content": "I want to take this",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Surya Prakash Reddy",
+      "timestamp_ms": 1721195770062,
+      "content": "I live in bouduppal",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Surya Prakash Reddy",
+      "timestamp_ms": 1721195761992,
+      "content": "Surya sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C9ej3lZKX11/?id=3413323318943120757_47651711013",
+        "share_text": "900 Sq.Yds | \u00e2\u0082\u00b968,000 per Sq.Yd | at Boduppal | Link in bio \u00f0\u009f\u008c\u009f\n\nVerified and facilitated by 1acre.in\nIdeal for immediate apartment construction\n3km from Uppal Metro Station\n2km from Warangal Highway\n3-side roads\n\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 9959994737\n\n\u00f0\u009f\u0093\u00ac DM us for more queries on buying, selling, or partnerships",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Surya Prakash Reddy",
+      "timestamp_ms": 1721195756478,
+      "content": "Bro",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Surya Prakash Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/suryaprakashreddy_1563715621693329",
+  "magic_words": [
+    
+  ]
+}

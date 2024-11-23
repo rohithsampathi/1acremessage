@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Soham Hole"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Soham Hole",
+      "timestamp_ms": 1720241322948,
+      "content": "Noted with thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720240576236,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720240571325,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Soham Hole",
+      "timestamp_ms": 1720201077209,
+      "content": "Prime Agricultural Land for Sale in Solapur, Maharashtra\n\nProperty Details:\n\n\t\u00e2\u0080\u00a2\tLocation: Solapur, Maharashtra\n\t\u00e2\u0080\u00a2\tArea: 26 acres\n\t\u00e2\u0080\u00a2\tProximity: 20 km from the Pune-Solapur Highway\n\t\u00e2\u0080\u00a2\tType: Table land\n\t\u00e2\u0080\u00a2\tPrice: \u00e2\u0082\u00b920 lakh per acre (Negotiable)",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Soham Hole",
+  "is_still_participant": true,
+  "thread_path": "inbox/sohamhole_18011694185591014",
+  "magic_words": [
+    
+  ]
+}

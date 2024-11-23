@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "MD Shifaan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1700302019401,
+      "content": "9505778117, he will help you with your enquiries.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "MD Shifaan",
+      "timestamp_ms": 1700244265414,
+      "content": "Low price land in telangana send me details",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "MD Shifaan",
+  "is_still_participant": true,
+  "thread_path": "inbox/mdshifaan_1266121591449285",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Aamer Mohsin"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704444446113,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aamer Mohsin",
+      "timestamp_ms": 1704443360903,
+      "content": "Hi\nI am an owner of Agriculture Land in Zaheerebad and I want to sell it\nCould you please let me know your office address",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Aamer Mohsin",
+  "is_still_participant": true,
+  "thread_path": "inbox/aamermohsin_1144067916976746",
+  "magic_words": [
+    
+  ]
+}

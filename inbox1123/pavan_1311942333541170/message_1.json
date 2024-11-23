@@ -1,0 +1,70 @@
+{
+  "participants": [
+    {
+      "name": "PAVAN       \u00e2\u009a\u009c\u00ef\u00b8\u008f"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "PAVAN       \u00e2\u009a\u009c\u00ef\u00b8\u008f",
+      "timestamp_ms": 1708101113224,
+      "content": "So can I get a job at ur place ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "PAVAN       \u00e2\u009a\u009c\u00ef\u00b8\u008f",
+      "timestamp_ms": 1708101102734,
+      "content": "Actually I'm a real estate agent sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "PAVAN       \u00e2\u009a\u009c\u00ef\u00b8\u008f",
+      "timestamp_ms": 1708101092676,
+      "content": "Ya sir i did",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708101002797,
+      "content": "Plz check the website. Thanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "PAVAN       \u00e2\u009a\u009c\u00ef\u00b8\u008f",
+      "timestamp_ms": 1708100936304,
+      "content": "What actually 1acer.in does sir ?",
+      "share": {
+        "link": "http://1acer.in/",
+        "share_text": "What actually 1acer.in does sir ?"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "PAVAN       \u00e2\u009a\u009c\u00ef\u00b8\u008f",
+      "timestamp_ms": 1708100912860,
+      "content": "Hy sir this is pavan",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708100669980,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "PAVAN       \u00e2\u009a\u009c\u00ef\u00b8\u008f",
+      "timestamp_ms": 1708099722700,
+      "content": "Hy sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "PAVAN       \u00e2\u009a\u009c\u00ef\u00b8\u008f",
+  "is_still_participant": true,
+  "thread_path": "inbox/pavan_1311942333541170",
+  "magic_words": [
+    
+  ]
+}

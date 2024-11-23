@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Estate Insights"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Estate Insights",
+      "timestamp_ms": 1731745019493,
+      "content": "Can we have a discussion here , if you don't mind",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731667643759,
+      "content": "Share your contact",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Estate Insights",
+      "timestamp_ms": 1731589366380,
+      "content": "Hi 1acre.in ! Glad to meet you. We have a selection of seller leads ready to go, complete with:\n\nSeller email addresses\n\nContact numbers\n\nDetailed property information, including location\n\nIf you\u00e2\u0080\u0099re interested in boosting your client base, let\u00e2\u0080\u0099s discuss! Our leads are chargeable, and I can share a few trials to begin. Looking forward to hearing from you!",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi 1acre.in ! Glad to meet you. We have a selection of seller leads ready to go, complete with:\n\nSeller email addresses\n\nContact numbers\n\nDetailed property information, including location\n\nIf you\u00e2\u0080\u0099re interested in boosting your client base, let\u00e2\u0080\u0099s discuss! Our leads are chargeable, and I can share a few trials to begin. Looking forward to hearing from you!"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Estate Insights",
+  "is_still_participant": true,
+  "thread_path": "inbox/estateinsights_17857812984296623",
+  "magic_words": [
+    
+  ]
+}

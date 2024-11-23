@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Tanvi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703081121320,
+      "content": "Hy , you can connect with pratheek  9390674324,",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tanvi",
+      "timestamp_ms": 1703076516070,
+      "content": "I bought land from other person they are relatives of mine.I came for registration at that time from same survey number other person applied for NALA,because of that they were not able register not done.That\u00e2\u0080\u0099s agriculture land of 27 guntas near by houses are there how can the registration possible on my with out visiting India.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703039186212,
+      "content": "Please tell us in detail here and we'll tell you if and what we can do.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tanvi",
+      "timestamp_ms": 1703035784517,
+      "content": "Hello sir, can you help me on the land issue that I have.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Tanvi",
+  "is_still_participant": true,
+  "thread_path": "inbox/tanvi_17961776339651443",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "TechChaitu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "TechChaitu",
+      "timestamp_ms": 1731771791056,
+      "content": "Yes rohit",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731416377376,
+      "content": "Chaitu garu, hi this is Rohith from 1acre.in\n\nWanted to discuss with you regarding a collaboration.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Chaitu garu, hi this is Rohith from 1acre.in\n\nWanted to discuss with you regarding a collaboration."
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "TechChaitu",
+  "is_still_participant": true,
+  "thread_path": "inbox/techchaitu_1559913222072780",
+  "magic_words": [
+    
+  ]
+}

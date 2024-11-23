@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Sri Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718545684485,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team. \nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sri Reddy",
+      "timestamp_ms": 1718545064948,
+      "content": "I want to sell my plot in Hayatnagar",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sri Reddy",
+      "timestamp_ms": 1718545055376,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sri Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/srireddy_1274401977298235",
+  "magic_words": [
+    
+  ]
+}

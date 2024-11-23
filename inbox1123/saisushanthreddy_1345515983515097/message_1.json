@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Sai Sushanth Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706684679460,
+      "content": "You can reach out to Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706684622853,
+      "content": "Hi, thanks a lot.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Sushanth Reddy",
+      "timestamp_ms": 1706636128672,
+      "content": "Hey, really interested in what you\u00e2\u0080\u0099re doing. Would love to reach out to you and have a chat. \nCould you leave your number",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sai Sushanth Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/saisushanthreddy_1345515983515097",
+  "magic_words": [
+    
+  ]
+}

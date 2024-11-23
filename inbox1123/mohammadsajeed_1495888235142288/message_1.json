@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "Mohammad Sajeed"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mohammad Sajeed",
+      "timestamp_ms": 1721383121203,
+      "content": "do you know anyone who can give it on rent. i want it for the box cricket business. The land should be 700 sqyd",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721317474904,
+      "content": "It's only for sale, sorry.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammad Sajeed",
+      "timestamp_ms": 1721316875355,
+      "content": "I want this for rent",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammad Sajeed",
+      "timestamp_ms": 1721316863797,
+      "content": "Mohammad sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C9ej3lZKX11/?id=3413323318943120757_47651711013",
+        "share_text": "900 Sq.Yds | \u00e2\u0082\u00b968,000 per Sq.Yd | at Boduppal | Link in bio \u00f0\u009f\u008c\u009f\n\nVerified and facilitated by 1acre.in\nIdeal for immediate apartment construction\n3km from Uppal Metro Station\n2km from Warangal Highway\n3-side roads\n\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 9959994737\n\n\u00f0\u009f\u0093\u00ac DM us for more queries on buying, selling, or partnerships",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721008023672,
+      "content": "Hello, Please tell",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammad Sajeed",
+      "timestamp_ms": 1720979371659,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mohammad Sajeed",
+  "is_still_participant": true,
+  "thread_path": "inbox/mohammadsajeed_1495888235142288",
+  "magic_words": [
+    
+  ]
+}

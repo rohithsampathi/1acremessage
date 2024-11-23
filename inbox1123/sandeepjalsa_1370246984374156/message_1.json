@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "sandeep jalsa"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712069333537,
+      "content": "Please call the number given in the video",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "sandeep jalsa",
+      "timestamp_ms": 1712069004841,
+      "content": "I saw your ad regarding freelance jobs",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711894379872,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "sandeep jalsa",
+      "timestamp_ms": 1711890414160,
+      "content": "Hello sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "sandeep jalsa",
+  "is_still_participant": true,
+  "thread_path": "inbox/sandeepjalsa_1370246984374156",
+  "magic_words": [
+    
+  ]
+}

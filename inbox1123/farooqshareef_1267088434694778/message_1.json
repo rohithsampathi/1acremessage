@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Farooq Shareef"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711070653526,
+      "content": "Hi, Please contact Ramakrishna \n7780122120",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Farooq Shareef",
+      "timestamp_ms": 1711048409612,
+      "content": "This is land one acer at Mominpet near to Shankarpalli",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Farooq Shareef",
+      "timestamp_ms": 1711048377281,
+      "videos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/farooqshareef_1267088434694778/videos/434107021_6503766433059932_4088827854771174778_n_2590989691075896.mp4",
+          "creation_timestamp": 1711048363,
+          "backup_uri": "https://video.fmaa12-3.fna.fbcdn.net/v/t42.3356-2/434107021_6503766433059932_4088827854771174778_n.mp4?_nc_cat=100&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=AYB-4sZ6ECkQ7kNvgEM8TF-&_nc_zt=28&_nc_ht=video.fmaa12-3.fna&_nc_gid=A8BGZRO9WXTOLVr2ZHmrpyD&oh=03_Q7cD1QHVQ3QnkoNGFixTRV6IaFN6mmXcDM1Ui645LADg8sQjfg&oe=674124D6&dl=1"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Farooq Shareef",
+  "is_still_participant": true,
+  "thread_path": "inbox/farooqshareef_1267088434694778",
+  "magic_words": [
+    
+  ]
+}

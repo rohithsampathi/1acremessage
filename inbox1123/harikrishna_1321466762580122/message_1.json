@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Hari krishna"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Hari krishna",
+      "timestamp_ms": 1703213596091,
+      "content": "Thanks a lot",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703213575074,
+      "content": "Sure,you can connect with pratheek  9390674324,",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hari krishna",
+      "timestamp_ms": 1703213388794,
+      "content": "Revert back as soon as possible",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hari krishna",
+      "timestamp_ms": 1703213374522,
+      "content": "Hi 1acre.in. shall you drop your contact? I need to discuss something in person with you.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi 1acre.in. shall you drop your contact? I need to discuss something in person with you."
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Hari krishna",
+  "is_still_participant": true,
+  "thread_path": "inbox/harikrishna_1321466762580122",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Manoj Kumar V"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Manoj Kumar V",
+      "timestamp_ms": 1713786578566,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713786567439,
+      "content": "+919153365555\nSuresh Raju \nYou can contact this agent meanwhile.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Manoj Kumar V",
+          "timestamp": 1713786578
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713786522647,
+      "content": "Hi, currently we are listing only Telangana. We'll start listing karnataka soon. Will keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manoj Kumar V",
+      "timestamp_ms": 1713776023107,
+      "content": "Hi,\n\nI am looking for agricultural lands with in 15 lakhs in Karnataka . Could you please help me in getting a land for buying",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Manoj Kumar V",
+  "is_still_participant": true,
+  "thread_path": "inbox/manojkumarv_1209020700484142",
+  "magic_words": [
+    
+  ]
+}

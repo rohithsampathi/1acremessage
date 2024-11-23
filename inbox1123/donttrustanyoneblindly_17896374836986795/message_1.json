@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb DON'T TRUST ANYONE BLINDLY \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb DON'T TRUST ANYONE BLINDLY \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb",
+      "timestamp_ms": 1712041936605,
+      "content": "Good afternoon sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712039935211,
+      "content": "Hi, Please contact Harish\n9032114737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb DON'T TRUST ANYONE BLINDLY \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb",
+      "timestamp_ms": 1712037571874,
+      "content": "I am interested to joining in 1acte.in",
+      "share": {
+        "link": "http://1acte.in/",
+        "share_text": "I am interested to joining in 1acte.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb DON'T TRUST ANYONE BLINDLY \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb",
+  "is_still_participant": true,
+  "thread_path": "inbox/donttrustanyoneblindly_17896374836986795",
+  "magic_words": [
+    
+  ]
+}

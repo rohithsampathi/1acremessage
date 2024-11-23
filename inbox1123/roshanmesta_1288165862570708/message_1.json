@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Roshan mesta"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717610794372,
+      "content": "We are currently only in Telangana \nWe will launch soon in Karnataka and you would be able to explore then.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Roshan mesta",
+      "timestamp_ms": 1717608646058,
+      "content": "8884669293",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Roshan mesta",
+      "timestamp_ms": 1717608637799,
+      "content": "Looking 5 acre land in Karnataka near coastal region",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Roshan mesta",
+  "is_still_participant": true,
+  "thread_path": "inbox/roshanmesta_1288165862570708",
+  "magic_words": [
+    
+  ]
+}

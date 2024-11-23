@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "Rohith Menon Ambat"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rohith Menon Ambat",
+      "timestamp_ms": 1721635641338,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721629508063,
+      "content": "Hi, Please talk to Sandeep, from the team.\n7702801301\nOr email at sandeep@1acre.in",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rohith Menon Ambat",
+      "timestamp_ms": 1721627850251,
+      "content": "Hello, can I get more info on this?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rohith Menon Ambat",
+      "timestamp_ms": 1721627849923,
+      "share": {
+        "link": "https://www.instagram.com/p/C9UBKzVt_9s/"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rohith Menon Ambat",
+  "is_still_participant": true,
+  "thread_path": "inbox/rohithmenonambat_1393135292076879",
+  "magic_words": [
+    
+  ]
+}

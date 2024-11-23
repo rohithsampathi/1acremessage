@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Ram Puram"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706407009162,
+      "content": "The prices are decided by the market. We don't decide the prices.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ram Puram",
+      "timestamp_ms": 1706385686662,
+      "content": "Comparing to actual market you are quoting high prices anna.. \u00f0\u009f\u0098\u0092",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ram Puram",
+  "is_still_participant": true,
+  "thread_path": "inbox/rampuram_18011385917140059",
+  "magic_words": [
+    
+  ]
+}

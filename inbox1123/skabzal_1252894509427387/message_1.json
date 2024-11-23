@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Sk Abzal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716339208664,
+      "content": "9032114737\nYou can talk to Bharath, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sk Abzal",
+      "timestamp_ms": 1716316553644,
+      "content": "Hi Intersted",
+      "share": {
+        "link": "https://www.instagram.com/p/C4j3HBRt6Vt/"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sk Abzal",
+  "is_still_participant": true,
+  "thread_path": "inbox/skabzal_1252894509427387",
+  "magic_words": [
+    
+  ]
+}

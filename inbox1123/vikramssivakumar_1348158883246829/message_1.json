@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Vikram S Sivakumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vikram S Sivakumar",
+      "timestamp_ms": 1709611771797,
+      "content": "Ok.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709608286954,
+      "content": "Please contact Ratna Kiran \n9390155412\nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709608271746,
+      "content": "Hi, sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vikram S Sivakumar",
+      "timestamp_ms": 1709606896676,
+      "content": "Hello. I\u00e2\u0080\u0099m interested in the property. You can reach me on +91 97860 00009.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vikram S Sivakumar",
+      "timestamp_ms": 1709606860756,
+      "content": "Vikram sent an attachment.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vikram S Sivakumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/vikramssivakumar_1348158883246829",
+  "magic_words": [
+    
+  ]
+}

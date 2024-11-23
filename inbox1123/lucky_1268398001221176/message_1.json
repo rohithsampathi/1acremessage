@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "L\u00c3\u00ba \u00c3\u0087 K\u00c3\u00bd"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "L\u00c3\u00ba \u00c3\u0087 K\u00c3\u00bd",
+      "timestamp_ms": 1701675604192,
+      "content": "+919347647542",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701675342080,
+      "content": "Yes , can we have you contact number our team will connect with you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "L\u00c3\u00ba \u00c3\u0087 K\u00c3\u00bd",
+      "timestamp_ms": 1701615517241,
+      "content": "Any opportunities for freelancers?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701570673242,
+      "content": "Hi,how can we help you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "L\u00c3\u00ba \u00c3\u0087 K\u00c3\u00bd",
+      "timestamp_ms": 1701569733271,
+      "content": "Hiii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "L\u00c3\u00ba \u00c3\u0087 K\u00c3\u00bd",
+  "is_still_participant": true,
+  "thread_path": "inbox/lucky_1268398001221176",
+  "magic_words": [
+    
+  ]
+}

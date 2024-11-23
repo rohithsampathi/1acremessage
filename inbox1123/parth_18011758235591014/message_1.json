@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "parth"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720251052244,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "parth",
+      "timestamp_ms": 1720249084265,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "parth",
+  "is_still_participant": true,
+  "thread_path": "inbox/parth_18011758235591014",
+  "magic_words": [
+    
+  ]
+}

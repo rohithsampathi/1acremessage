@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Jani Victory"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723088884980,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jani Victory",
+      "timestamp_ms": 1723008404042,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Jani Victory",
+  "is_still_participant": true,
+  "thread_path": "inbox/janivictory_18034802450120028",
+  "magic_words": [
+    
+  ]
+}

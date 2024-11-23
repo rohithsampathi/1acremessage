@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "tpdinesh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711158259080,
+      "content": "Not yet.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "tpdinesh",
+      "timestamp_ms": 1711147931707,
+      "content": "U have ur app in play store",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "tpdinesh",
+  "is_still_participant": true,
+  "thread_path": "inbox/tpdinesh_1321659172559557",
+  "magic_words": [
+    
+  ]
+}

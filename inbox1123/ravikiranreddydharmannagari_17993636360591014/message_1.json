@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Ravikiran Reddy Dharmannagari"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706760098391,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravikiran Reddy Dharmannagari",
+      "timestamp_ms": 1706721661914,
+      "content": "Hi sir what is the land price going on fathepur shankarpally rr dist , please suggest what is the best rate we can for for one acre of land in fathepur, shankarpally",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ravikiran Reddy Dharmannagari",
+  "is_still_participant": true,
+  "thread_path": "inbox/ravikiranreddydharmannagari_17993636360591014",
+  "magic_words": [
+    
+  ]
+}

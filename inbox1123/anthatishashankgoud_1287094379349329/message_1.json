@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "ANTHATI  S H A S H A N K GOUD"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704796306229,
+      "content": "Hi, Please contact Ramakrishna \n7780122120",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "ANTHATI  S H A S H A N K GOUD",
+      "timestamp_ms": 1704788087121,
+      "content": "U can sale my land",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "ANTHATI  S H A S H A N K GOUD",
+  "is_still_participant": true,
+  "thread_path": "inbox/anthatishashankgoud_1287094379349329",
+  "magic_words": [
+    
+  ]
+}

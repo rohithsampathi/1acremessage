@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Vinay_kamishetty"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vinay_kamishetty",
+      "timestamp_ms": 1731669606056,
+      "content": "\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731667758294,
+      "content": "Please contact Vijay at 7075191166 from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vinay_kamishetty",
+      "timestamp_ms": 1731567549452,
+      "content": "I have lands in Shamshabad I want to post in your page can I know the formality\u00e2\u0080\u0099s",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vinay_kamishetty",
+  "is_still_participant": true,
+  "thread_path": "inbox/vinay_kamishetty_1420446936022130",
+  "magic_words": [
+    
+  ]
+}

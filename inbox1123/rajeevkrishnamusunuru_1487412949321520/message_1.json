@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Rajeev Krishna Musunuru"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719191630002,
+      "content": "We are currently operating in Telangana. \nWe'll launch Andhra soon. \nCould you tell us what you are looking for?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rajeev Krishna Musunuru",
+      "timestamp_ms": 1719170780344,
+      "content": "Do you sell lands in Andhra Pradesh??",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rajeev Krishna Musunuru",
+  "is_still_participant": true,
+  "thread_path": "inbox/rajeevkrishnamusunuru_1487412949321520",
+  "magic_words": [
+    
+  ]
+}

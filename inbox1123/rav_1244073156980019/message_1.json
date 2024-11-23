@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Rav"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rav",
+      "timestamp_ms": 1711033799316,
+      "content": "What layout is it under?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711030211496,
+      "content": "Please contact Ratna Kiran \n9390155412\nIf you are interested.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711030185506,
+      "content": "2000 Sq.yds, incl. All amenities.",
+      "share": {
+        "share_text": "2000 Sq.yds, incl. All amenities."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rav",
+      "timestamp_ms": 1711029591664,
+      "content": "How many square yards",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711025014398,
+      "content": "1.1cr",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rav",
+      "timestamp_ms": 1711023984899,
+      "content": "How much are you quoting for this?",
+      "share": {
+        "link": "https://www.instagram.com/p/C3t28m8N2Gf/"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rav",
+  "is_still_participant": true,
+  "thread_path": "inbox/rav_1244073156980019",
+  "magic_words": [
+    
+  ]
+}

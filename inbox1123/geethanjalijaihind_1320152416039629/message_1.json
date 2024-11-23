@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "Geethanjali Jaihind"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Geethanjali Jaihind",
+      "timestamp_ms": 1717661678264,
+      "content": "Thank you \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Geethanjali Jaihind",
+      "timestamp_ms": 1717661640459,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717660269303,
+      "content": "Hello Geethanjali , \n\nFirstly thanks for subscribing :) \n\nAs a principle we want to stay neutral as a platform and not give any opinion on investing. \n\nBut we do want to educate and bring more awareness about the do\u00e2\u0080\u0099s and don\u00e2\u0080\u0099ts before buying a land. \n\nHope this helps.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Geethanjali Jaihind",
+          "timestamp": 1717661640
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Geethanjali Jaihind",
+      "timestamp_ms": 1717653480637,
+      "content": "And forgot to say am your premium subscriber \u00f0\u009f\u0098\u0085",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Geethanjali Jaihind",
+      "timestamp_ms": 1717653423966,
+      "content": "Hi 1acre.in \nMake a reel about current real-estate situation in Telangana with your experience. Because as we know that TDP has won in AP can this affect the Market of Telangana business. Should a middle class person should buy the land now or wait for the Market to move down side. \nPlz make a reel it will help every one .\nThank you in advance \u00f0\u009f\u0098\u008a",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi 1acre.in \nMake a reel about current real-estate situation in Telangana with your experience. Because as we know that TDP has won in AP can this affect the Market of Telangana business. Should a middle class person should buy the land now or wait for the Market to move down side. \nPlz make a reel it will help every one .\nThank you in advance \u00f0\u009f\u0098\u008a"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Geethanjali Jaihind",
+  "is_still_participant": true,
+  "thread_path": "inbox/geethanjalijaihind_1320152416039629",
+  "magic_words": [
+    
+  ]
+}

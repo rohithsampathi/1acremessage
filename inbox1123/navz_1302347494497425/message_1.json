@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Navz"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718929194380,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718929193765,
+      "content": "Hi, Please contact Vijay 9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Navz",
+      "timestamp_ms": 1718929044516,
+      "content": "Navz sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C8J7K3vSQtW/?id=3389500426361047894_47651711013",
+        "share_text": "74 acres | \u00e2\u0082\u00b91.1 Cr per acre | Near Shadnagar | Link in bio \u00f0\u009f\u008c\u009f\n\n- Verified and facilitated by 1acre.in\n- Fully developed mango and palm-oil plantation\n- 50 km from ORR, 5 km from Bengaluru highway, close to proposed RRR\n- Includes power, farm ponds, drip irrigation, borewells, fencing, and worker accommodation\n\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 9959994737",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706147948788,
+      "content": "Please drop your number. We'll give you a call.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Navz",
+      "timestamp_ms": 1706118425738,
+      "content": "Hello, we tried to reach you but unable to reach.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703996420203,
+      "content": "you can connect with pratheek, 9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Navz",
+      "timestamp_ms": 1703921538981,
+      "content": "Also provide your contact details.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Navz",
+      "timestamp_ms": 1703921515649,
+      "content": "Could you help us to find land surrounding the area of HYD this will be for investment purpose, please let us know to discuss  further.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703911317069,
+      "content": "Hy , how can we help you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Navz",
+      "timestamp_ms": 1703899775620,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Navz",
+  "is_still_participant": true,
+  "thread_path": "inbox/navz_1302347494497425",
+  "magic_words": [
+    
+  ]
+}

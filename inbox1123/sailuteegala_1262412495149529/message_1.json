@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Sailu Teegala"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704367760643,
+      "content": "Hi, the minimum pick is 100 acres. Thanks. We'll let you know if anything matches you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sailu Teegala",
+      "timestamp_ms": 1704362887988,
+      "content": "How to reach u",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sailu Teegala",
+      "timestamp_ms": 1704362882317,
+      "content": "Kindly suggest",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sailu Teegala",
+      "timestamp_ms": 1704362878838,
+      "content": "We are interested to invest for ,10 acres around Maharashtra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sailu Teegala",
+      "timestamp_ms": 1704362856732,
+      "content": "I referred to your latest post for acre 2L",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sailu Teegala",
+      "timestamp_ms": 1704362835353,
+      "content": "Hi sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sailu Teegala",
+  "is_still_participant": true,
+  "thread_path": "inbox/sailuteegala_1262412495149529",
+  "magic_words": [
+    
+  ]
+}

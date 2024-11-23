@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Mohd Farhan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727164943815,
+      "content": "Hi, Please contact Venu \n7674901201, from the team. He'll help you with the listing.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohd Farhan",
+      "timestamp_ms": 1727158113096,
+      "content": "Owner",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727157889807,
+      "content": "Are you an Agent or an owner?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohd Farhan",
+      "timestamp_ms": 1727156390886,
+      "content": "Real estate",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohd Farhan",
+      "timestamp_ms": 1727156385207,
+      "content": "I have a land in siddipet",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohd Farhan",
+      "timestamp_ms": 1727156372946,
+      "content": "Are u making any promotions",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mohd Farhan",
+  "is_still_participant": true,
+  "thread_path": "inbox/mohdfarhan_18021716918591014",
+  "magic_words": [
+    
+  ]
+}

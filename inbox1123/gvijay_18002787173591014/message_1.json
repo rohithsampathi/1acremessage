@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "G.Vijay"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "G.Vijay",
+      "timestamp_ms": 1713925646146,
+      "content": "Great to hear it brother.\nWe are alumni of ssk just passed out in 2022 and joined btech college",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1713927511
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713709053790,
+      "content": "Yes, Ratna and Satish are both ex-saikoreans",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "G.Vijay",
+      "timestamp_ms": 1713701715669,
+      "content": "Hi brother \nAre you an ex - saikorian (alumni of sainik school korukonda).\nIt might be funny but I could find our school logo on your t shirt.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "G.Vijay",
+  "is_still_participant": true,
+  "thread_path": "inbox/gvijay_18002787173591014",
+  "magic_words": [
+    
+  ]
+}

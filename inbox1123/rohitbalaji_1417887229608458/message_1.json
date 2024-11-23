@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Rohit Balaji"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rohit Balaji",
+      "timestamp_ms": 1717584557151,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717584429843,
+      "content": "Hi, 1acre.in is a listing platform for verified lands. Currently, we are listing only for Telanagana. \nWe'll launch other states soon. \nWill keep you posted.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Rohit Balaji",
+          "timestamp": 1717584557
+        }
+      ],
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, 1acre.in is a listing platform for verified lands. Currently, we are listing only for Telanagana. \nWe'll launch other states soon. \nWill keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rohit Balaji",
+      "timestamp_ms": 1717584015918,
+      "content": "Hello sir we have a 5 acre land for sale near yercaud hills Salem tamilnadu which we are planning to sell",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rohit Balaji",
+  "is_still_participant": true,
+  "thread_path": "inbox/rohitbalaji_1417887229608458",
+  "magic_words": [
+    
+  ]
+}

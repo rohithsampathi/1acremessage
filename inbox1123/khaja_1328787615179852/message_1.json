@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Khaja"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704602244304,
+      "content": "Please check this and fill up the form. We'll get back to you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704602222689,
+      "content": "https://www.1acre.in/subscribe",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "https://www.1acre.in/subscribe"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Khaja",
+      "timestamp_ms": 1704601916451,
+      "content": "Can I get more information",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Khaja",
+      "timestamp_ms": 1704601912280,
+      "content": "It\u00e2\u0080\u0099s regarding the acre lands in Maharashtra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704600578354,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Khaja",
+      "timestamp_ms": 1704599544422,
+      "content": "Heyy",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Khaja",
+  "is_still_participant": true,
+  "thread_path": "inbox/khaja_1328787615179852",
+  "magic_words": [
+    
+  ]
+}

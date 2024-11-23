@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Congress party SHADNAGAR @"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726209150746,
+      "content": "Hi, \n\nKindly find the link below.\n\nhttps://www.1acre.in/verified-lands-for-sale/telangana/rangareddy/kothur/penjerla/3580\n\nFeel free to reach out at 8341149011 should you need any other info.",
+      "share": {
+        "link": "https://www.1acre.in/verified-lands-for-sale/telangana/rangareddy/kothur/penjerla/3580",
+        "share_text": "Hi, \n\nKindly find the link below.\n\nhttps://www.1acre.in/verified-lands-for-sale/telangana/rangareddy/kothur/penjerla/3580\n\nFeel free to reach out at 8341149011 should you need any other info."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Congress party SHADNAGAR @",
+      "timestamp_ms": 1726159544193,
+      "content": "Location",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Congress party SHADNAGAR @",
+      "timestamp_ms": 1726159540648,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/congresspartyshadnagar_17878436673120343/photos/458960088_2025031991289210_1260147282422194008_n_2025031987955877.jpg",
+          "creation_timestamp": 1726159539,
+          "backup_uri": "https://scontent.fmaa12-2.fna.fbcdn.net/v/t1.15752-9/458960088_2025031991289210_1260147282422194008_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=9f807c&_nc_ohc=HoMKkHb-qrMQ7kNvgFH8Tpx&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fmaa12-2.fna&oh=03_Q7cD1QF7gQ4v7juc05fMz_r4IcSRUmgNQcozjA0Yz2VMKRx5vQ&oe=6766AAEF"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Congress party SHADNAGAR @",
+  "is_still_participant": true,
+  "thread_path": "inbox/congresspartyshadnagar_17878436673120343",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Armaan Singh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724233335008,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Armaan Singh",
+      "timestamp_ms": 1724232822704,
+      "content": "Okay keep me posted then",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724232719947,
+      "content": "We'll there in 1-2 months.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Armaan Singh",
+      "timestamp_ms": 1724231246592,
+      "content": "Do you work here as well or know someone who works in this belt",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Armaan Singh",
+      "timestamp_ms": 1724231235810,
+      "content": "Hi do you just work in Telangana ? \nI\u00e2\u0080\u0099m based out of delhi ncr",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Armaan Singh",
+  "is_still_participant": true,
+  "thread_path": "inbox/armaansingh_1463635345027939",
+  "magic_words": [
+    
+  ]
+}

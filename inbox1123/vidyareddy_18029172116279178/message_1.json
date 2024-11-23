@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Vidya Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721514704035,
+      "content": "But thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721514696902,
+      "content": "No",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vidya Reddy",
+      "timestamp_ms": 1721494576116,
+      "content": "\"I'm impressed by your editing expertise.\nI want same type of graphics effects in my viode\nCan you do it",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vidya Reddy",
+      "timestamp_ms": 1721494455478,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vidya Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/vidyareddy_18029172116279178",
+  "magic_words": [
+    
+  ]
+}

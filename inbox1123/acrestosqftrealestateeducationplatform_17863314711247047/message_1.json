@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Acrestosqft - Real Estate Education Platform"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Acrestosqft - Real Estate Education Platform",
+      "timestamp_ms": 1728906678284,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1728913432
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Acrestosqft - Real Estate Education Platform",
+      "timestamp_ms": 1728906399629,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1728913389
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Acrestosqft - Real Estate Education Platform",
+  "is_still_participant": true,
+  "thread_path": "inbox/acrestosqftrealestateeducationplatform_17863314711247047",
+  "magic_words": [
+    
+  ]
+}

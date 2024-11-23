@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Zeeshan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Zeeshan",
+      "timestamp_ms": 1719329014188,
+      "content": "Okay \u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719328737627,
+      "content": "Sure. We'll get in touch with you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Zeeshan",
+      "timestamp_ms": 1719325534149,
+      "content": "Hello, I have an industrial land that is situated at a prime location of Patancheru, IDA Phase 2, Hyderabad, Sangareddy District, Telangana-502319. Surrounded by the on going projects of Incor Lake City, Mirchi Developers & Ramky symphony, I\u00e2\u0080\u0099d like to Lease/Develop/Sale my property, the property is easily accessible to Outer Ring Road and it comes under GHMC, Kindly reach me at +91 9908196352 or email at rpbml1985@gmail.com, for details regarding the property, Thank you.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Zeeshan",
+  "is_still_participant": true,
+  "thread_path": "inbox/zeeshan_1424269312306411",
+  "magic_words": [
+    
+  ]
+}

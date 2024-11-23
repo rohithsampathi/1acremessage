@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "NotLikelyHim"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "NotLikelyHim",
+      "timestamp_ms": 1718860523194,
+      "content": "Thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718836484986,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "NotLikelyHim",
+      "timestamp_ms": 1718818663851,
+      "content": "Do you also do lands in Bangalore?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "NotLikelyHim",
+      "timestamp_ms": 1718818633817,
+      "content": "Hey",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "NotLikelyHim",
+  "is_still_participant": true,
+  "thread_path": "inbox/notlikelyhim_18009748736591014",
+  "magic_words": [
+    
+  ]
+}

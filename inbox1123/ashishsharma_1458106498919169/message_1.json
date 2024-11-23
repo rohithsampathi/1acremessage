@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Ashish Sharma"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ashish Sharma",
+      "timestamp_ms": 1720095553456,
+      "content": "Will connect",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ashish Sharma",
+      "timestamp_ms": 1720095508205,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720094709314,
+      "content": "Farmer certification - if you have agricultural land in any other state and you have the passbook/document, that should be enough.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720094669890,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720094669030,
+      "content": "Hi, Please contact Vijay 9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ashish Sharma",
+      "timestamp_ms": 1720093987364,
+      "content": "Hi\nKindly share land in Maharashtra. \nAlso what is the process for farmer certification",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ashish Sharma",
+  "is_still_participant": true,
+  "thread_path": "inbox/ashishsharma_1458106498919169",
+  "magic_words": [
+    
+  ]
+}

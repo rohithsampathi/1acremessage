@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Mohammed jalaluddin yaseen"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721055451891,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721055451034,
+      "content": "Hi, Please contact Vijay 9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammed jalaluddin yaseen",
+      "timestamp_ms": 1721053290884,
+      "content": "Location",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammed jalaluddin yaseen",
+      "timestamp_ms": 1721053290495,
+      "content": "Mohammed sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C9cB_5hKwzX/?id=3412611406773292247_47651711013",
+        "share_text": "1800 Sq.Yds | \u00e2\u0082\u00b990,000 per Sq.Yd | Near Narsingi | Link in bio \u00f0\u009f\u008c\u009f\n\nVerified and facilitated by 1acre.in\nIdeal for apartments \nLocated in a low-density built area\nProximity to ORR, Kokapet and Financial District. \n\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 9959994737\n\n\u00f0\u009f\u0093\u00ac DM us for more queries on buying, selling, or partnerships",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mohammed jalaluddin yaseen",
+  "is_still_participant": true,
+  "thread_path": "inbox/mohammedjalaluddinyaseen_17970733958752614",
+  "magic_words": [
+    
+  ]
+}

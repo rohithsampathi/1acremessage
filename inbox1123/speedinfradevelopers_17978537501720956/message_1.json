@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Speed Infra Developers"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722345910888,
+      "content": "\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bc",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Speed Infra Developers",
+      "timestamp_ms": 1722344718013,
+      "content": "Noted, thanks. We will reach out to Sandeep soon",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722344629411,
+      "content": "You can call sandeep at 9005464412 to discuss further",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722344614516,
+      "content": "We currently dont promote any layouts but we are planning to list them soon",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722344564288,
+      "content": "Sorry for the wrong reply. There has been an issue with the bot we are trying",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Speed Infra Developers",
+      "timestamp_ms": 1722344470111,
+      "content": "Please send us an actual number where we can reach you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722344433972,
+      "content": "\u00f0\u009f\u00a4\u0096 If you have no further questions, we'll close the conversation for now. Do send us a message should you like to speak to us again. \u00f0\u009f\u0091\u008b",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Speed Infra Developers",
+      "timestamp_ms": 1722343510371,
+      "content": "Hello! We are a premium developer based in Hyderabad & our flagship project- Constella, a one of its kind project in Tukkuguda. We are also launching a layout project in kongara kalan. We would like to discuss a collaboration possibility. Please let us know a number we can reach out on to discuss your prices and content. You can reach me at 8106834157.\nThanks",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Speed Infra Developers",
+  "is_still_participant": true,
+  "thread_path": "inbox/speedinfradevelopers_17978537501720956",
+  "magic_words": [
+    
+  ]
+}

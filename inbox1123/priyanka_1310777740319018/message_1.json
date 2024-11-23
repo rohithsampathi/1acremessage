@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Priyanka"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701581842531,
+      "content": "Ok our team will connect with you in what\u00e2\u0080\u0099s app",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Priyanka",
+      "timestamp_ms": 1701578393685,
+      "content": "This is us number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701570940050,
+      "content": "Our team couldn\u00e2\u0080\u0099t connect with you is this your number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Priyanka",
+      "timestamp_ms": 1701551681462,
+      "content": "2028081351",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701527950976,
+      "content": "Sure Priyanka , can we have your contact number.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Priyanka",
+      "timestamp_ms": 1701526648138,
+      "content": "I have a group of Nri\u00e2\u0080\u0099s interested in buying genuine land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Priyanka",
+      "timestamp_ms": 1701526614538,
+      "content": "Please let us know if you have any land in hyd outskirts",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Priyanka",
+      "timestamp_ms": 1701526590064,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Priyanka",
+  "is_still_participant": true,
+  "thread_path": "inbox/priyanka_1310777740319018",
+  "magic_words": [
+    
+  ]
+}

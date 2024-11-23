@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "ADITYA SINGH RAJPUT"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ADITYA SINGH RAJPUT",
+      "timestamp_ms": 1721382536519,
+      "content": "Plot lana hai",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "ADITYA SINGH RAJPUT",
+  "is_still_participant": true,
+  "thread_path": "inbox/adityasinghrajput_17931819929871259",
+  "magic_words": [
+    
+  ]
+}

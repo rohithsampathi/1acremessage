@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "nagr.aj8208"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722917034376,
+      "content": "We currently only operate in telangana. \n\nWill keep you posted when we launch in other states",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "nagr.aj8208",
+      "timestamp_ms": 1722868899558,
+      "content": "Bangalore site want sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722854380499,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "nagr.aj8208",
+      "timestamp_ms": 1722792945579,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "nagr.aj8208",
+      "timestamp_ms": 1722310060523,
+      "content": "Site want sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722305229422,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "nagr.aj8208",
+      "timestamp_ms": 1722277412557,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "nagr.aj8208",
+  "is_still_participant": true,
+  "thread_path": "inbox/nagraj8208_18014822120591014",
+  "magic_words": [
+    
+  ]
+}

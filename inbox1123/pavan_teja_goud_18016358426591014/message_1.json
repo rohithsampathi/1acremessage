@@ -1,0 +1,90 @@
+{
+  "participants": [
+    {
+      "name": "PAVAN_TEJA_GOUD"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "PAVAN_TEJA_GOUD",
+      "timestamp_ms": 1729239198146,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729239115055,
+      "content": "Sorry but we are not able to help you much here",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729239096309,
+      "content": "Once they update a better map , we would be able to digitise it",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729239051935,
+      "content": "We have checked the FTL map on hmda website but the detail\u00e2\u0080\u0099s arent clear so we are not able to reliably digitise this lake yet",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "PAVAN_TEJA_GOUD",
+      "timestamp_ms": 1729237025468,
+      "content": "Akkada valaki evvarki ardham kavatam ledu dhani Boundaries hmda lakes lo  valu half dulapalli ni cover chesaru \nMandal surveyor valu correct ga answer ivatam ledu \nPlease meeku maku boundaries ni provide cheyara so akkada unna valaki clarity vasthadi asal ekkad vadaku ravachu anedi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "PAVAN_TEJA_GOUD",
+      "timestamp_ms": 1729236876263,
+      "content": "Village : Dulapalli \nMandal: dundigal gandimaisamma. \nDistrict: medchal malkajgiri\n\nLake name : lingaikunta lake \n\nPlease E lake ftl and buffer boundaries upload cheyara map lo",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "PAVAN_TEJA_GOUD",
+      "timestamp_ms": 1729236652034,
+      "content": "Hello andi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "PAVAN_TEJA_GOUD",
+      "timestamp_ms": 1723389143338,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723389123318,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "PAVAN_TEJA_GOUD",
+      "timestamp_ms": 1723383225827,
+      "content": "may i know the exact location please",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "PAVAN_TEJA_GOUD",
+      "timestamp_ms": 1723383189088,
+      "content": "@14 acres land close to dundigal.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "PAVAN_TEJA_GOUD",
+      "timestamp_ms": 1723383118648,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "PAVAN_TEJA_GOUD",
+  "is_still_participant": true,
+  "thread_path": "inbox/pavan_teja_goud_18016358426591014",
+  "magic_words": [
+    
+  ]
+}

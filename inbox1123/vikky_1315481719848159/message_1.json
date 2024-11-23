@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Vikky"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vikky",
+      "timestamp_ms": 1704387102750,
+      "content": "Thanks \u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704380750276,
+      "content": "Hi, we are looking for 50-100 acre minimum. Thanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vikky",
+      "timestamp_ms": 1704380584233,
+      "content": "Hey , willing to hold 10-15 acres if the price range is 2.5-4lacs , what are the options for a US citizen",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vikky",
+  "is_still_participant": true,
+  "thread_path": "inbox/vikky_1315481719848159",
+  "magic_words": [
+    
+  ]
+}

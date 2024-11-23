@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "Ved Dange"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ved Dange",
+      "timestamp_ms": 1720195018536,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720194762188,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720194761519,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ved Dange",
+      "timestamp_ms": 1720194715591,
+      "content": "Interested !!\nI live near the place in desaiganj , wadsa",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3405429436274227402"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ved Dange",
+  "is_still_participant": true,
+  "thread_path": "inbox/veddange_1477572433641080",
+  "magic_words": [
+    
+  ]
+}

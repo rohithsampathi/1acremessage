@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Abdul Rehman"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Abdul Rehman",
+      "timestamp_ms": 1724934030903,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724934004314,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724934003710,
+      "content": "Hi, Please contact Vijay 9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724933993991,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abdul Rehman",
+      "timestamp_ms": 1724933825575,
+      "content": "Do you have lands near Raichur, karnataka",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abdul Rehman",
+      "timestamp_ms": 1724933812701,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Abdul Rehman",
+  "is_still_participant": true,
+  "thread_path": "inbox/abdulrehman_1520502859342713",
+  "magic_words": [
+    
+  ]
+}

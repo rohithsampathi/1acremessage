@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "__manjunath_hiremath__"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723556216685,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "__manjunath_hiremath__",
+      "timestamp_ms": 1723552009456,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "__manjunath_hiremath__",
+  "is_still_participant": true,
+  "thread_path": "inbox/__manjunath_hiremath___17862112101207945",
+  "magic_words": [
+    
+  ]
+}

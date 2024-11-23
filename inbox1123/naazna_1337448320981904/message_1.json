@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "\u00d0\u00bd\u00ce\u00b1\u00d1\u008f\u00d1\u0095\u00d0\u00bd\u00ce\u00b1"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709684645853,
+      "content": "Hi, as of now, we are not listing plots. First thing, you can check the website, talk to sellers on Shamirpet side and ask them for plots. \nIf you are a premium subscriber, you will also get access to MapView, which will make the discovery easier.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00d0\u00bd\u00ce\u00b1\u00d1\u008f\u00d1\u0095\u00d0\u00bd\u00ce\u00b1",
+      "timestamp_ms": 1709680446545,
+      "content": "Would you be able to help me?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00d0\u00bd\u00ce\u00b1\u00d1\u008f\u00d1\u0095\u00d0\u00bd\u00ce\u00b1",
+      "timestamp_ms": 1709680431789,
+      "content": "I\u00e2\u0080\u0099m looking for a plot in and around Shamirpet",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00d0\u00bd\u00ce\u00b1\u00d1\u008f\u00d1\u0095\u00d0\u00bd\u00ce\u00b1",
+      "timestamp_ms": 1709680304493,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00d0\u00bd\u00ce\u00b1\u00d1\u008f\u00d1\u0095\u00d0\u00bd\u00ce\u00b1",
+  "is_still_participant": true,
+  "thread_path": "inbox/naazna_1337448320981904",
+  "magic_words": [
+    
+  ]
+}

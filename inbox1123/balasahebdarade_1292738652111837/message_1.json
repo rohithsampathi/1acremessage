@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Balasaheb Darade"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723713268016,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412\nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Balasaheb Darade",
+      "timestamp_ms": 1723708190837,
+      "content": "Still awaiting details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Balasaheb Darade",
+      "timestamp_ms": 1723708185245,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722091508882,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Balasaheb Darade",
+      "timestamp_ms": 1722087885395,
+      "content": "I\u00e2\u0080\u0099m interested in 40 acre land at near Yawatmal",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Balasaheb Darade",
+  "is_still_participant": true,
+  "thread_path": "inbox/balasahebdarade_1292738652111837",
+  "magic_words": [
+    
+  ]
+}

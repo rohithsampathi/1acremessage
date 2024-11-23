@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Anurag_Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anurag_Reddy",
+      "timestamp_ms": 1718944825156,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718935237938,
+      "content": "Okay we will get back to you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anurag_Reddy",
+      "timestamp_ms": 1718911763784,
+      "content": "I\u00e2\u0080\u0099m the son of the MD of established firm called sri siddi vinayaka property developers so I wanted to speak with someone regarding marking of plots of our ventures",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718903141604,
+      "content": "If you could try to detail it here, we can connect you to the respective team member.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anurag_Reddy",
+      "timestamp_ms": 1718902657836,
+      "content": "I will explain",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anurag_Reddy",
+      "timestamp_ms": 1718902651295,
+      "content": "Can you call me on this number 9642180687 tomorrow",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718895862250,
+      "content": "Hello there ! \nWhat are you looking for ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anurag_Reddy",
+      "timestamp_ms": 1718893241039,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Anurag_Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/anurag_reddy_1464690604925336",
+  "magic_words": [
+    
+  ]
+}

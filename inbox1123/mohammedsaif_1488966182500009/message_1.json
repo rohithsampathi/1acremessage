@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Mohammed Saif"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722598296594,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammed Saif",
+      "timestamp_ms": 1722592751934,
+      "content": "Looking for industrial land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammed Saif",
+      "timestamp_ms": 1722592735662,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mohammed Saif",
+  "is_still_participant": true,
+  "thread_path": "inbox/mohammedsaif_1488966182500009",
+  "magic_words": [
+    
+  ]
+}

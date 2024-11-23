@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Yash Kondawar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720236417341,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720236415996,
+      "content": "Hi, Please contact Vijay 9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yash Kondawar",
+      "timestamp_ms": 1720188335632,
+      "content": "Location",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yash Kondawar",
+      "timestamp_ms": 1720188332305,
+      "content": "40 acre land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yash Kondawar",
+      "timestamp_ms": 1720188324990,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Yash Kondawar",
+  "is_still_participant": true,
+  "thread_path": "inbox/yashkondawar_1479287866800163",
+  "magic_words": [
+    
+  ]
+}

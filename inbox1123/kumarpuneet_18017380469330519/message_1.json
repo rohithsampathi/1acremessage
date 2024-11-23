@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Kumar Puneet"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712543409125,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kumar Puneet",
+      "timestamp_ms": 1712543371924,
+      "content": "Your contact number please.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kumar Puneet",
+      "timestamp_ms": 1712543370978,
+      "content": "Kumar sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C3t3CBgtPFl/?id=3309543332806717797_47651711013",
+        "share_text": "\u00f0\u009f\u008c\u00be Explore prime agricultural land! Today, we\u00e2\u0080\u0099re featuring a 40-acre plot in Yavatmal, Maharashtra, just 400 km from Hyderabad. With fertile soil and irrigation access, this land is a farmer\u00e2\u0080\u0099s paradise. Located only 2 km from the state highway, with a short kacha road leading to it, it\u00e2\u0080\u0099s easily accessible. Priced at seven lakhs per acre and situated just 30 km from the Samridi Expressway, this opportunity is ripe for investment. All legal documentation is verified by 1acre.in Contact us now to seize this opportunity! \u00f0\u009f\u009a\u009c\u00f0\u009f\u0092\u00b0 #YavatmalLand #FertileAcres #AgriculturalInvestment #OneacreOpportunity \u00f0\u009f\u008c\u00b1",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kumar Puneet",
+  "is_still_participant": true,
+  "thread_path": "inbox/kumarpuneet_18017380469330519",
+  "magic_words": [
+    
+  ]
+}

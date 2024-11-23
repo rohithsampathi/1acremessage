@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "happpyyyy.7"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720236360009,
+      "content": "What?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "happpyyyy.7",
+      "timestamp_ms": 1720189135153,
+      "content": "Sell the plot",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "happpyyyy.7",
+  "is_still_participant": true,
+  "thread_path": "inbox/happpyyyy7_18011673881591014",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "AMARJEET KUMAR"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "AMARJEET KUMAR",
+      "timestamp_ms": 1718536544790,
+      "content": "I am still waiting",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "AMARJEET KUMAR",
+      "timestamp_ms": 1717670502137,
+      "content": "Done",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "AMARJEET KUMAR",
+      "timestamp_ms": 1717670499344,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717664778971,
+      "content": "Hello Amarjeet \n\nAppreciate your interest at 1acre. \n\nPlease share your resume at sandeep@1acre.in . We shall assess and get back to you",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "AMARJEET KUMAR",
+          "timestamp": 1717670499
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "AMARJEET KUMAR",
+      "timestamp_ms": 1717664130139,
+      "content": "Dear 1acre Team,\n\nMy name is Amarjeet Kumar, and I am currently pursuing an MBA at IMT with a specialization in finance. I recently came across your informative video on Instagram and I'm impressed by your business model. \nBased on my research, it seems 1acre currently operates in Telangana. However, I'm particularly interested in the potential expansion of 1acre to other states, specifically Bihar or Maharashtra (Nagpur).\nAs someone specializing in finance, I'm highly interested in contributing to the growth and success of 1acre. I'd be grateful if you could share any information about potential opportunities at 1acre, especially those that might involve supporting expansion efforts or leveraging my finance background. Even if there aren't immediate openings in Bihar or Nagpur, I'd be interested in learning about opportunities at your headquarters in Telangana.\nI've attached my phone number and email address .\n9135509210\ns2samarjeetkr@gmail.com\nThank you for your time.\n\nAmarjeet Kumar",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "AMARJEET KUMAR",
+  "is_still_participant": true,
+  "thread_path": "inbox/amarjeetkumar_1434859381244511",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Satyendra Yechuri"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702867112131,
+      "content": "Hi, you can connect with Pratheek  9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Satyendra Yechuri",
+      "timestamp_ms": 1702810725820,
+      "content": "Hi do you have any land in city for 150 sq yards",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Satyendra Yechuri",
+  "is_still_participant": true,
+  "thread_path": "inbox/satyendrayechuri_1261208805269551",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Swathi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Swathi",
+      "timestamp_ms": 1704815711254,
+      "content": "Please send the link for form to fill",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704468651952,
+      "content": "https://www.1acre.in/subscribe",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "https://www.1acre.in/subscribe"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704468646569,
+      "content": "Hi, Please fill in the form here. Thanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Swathi",
+      "timestamp_ms": 1704467028636,
+      "content": "Interested with buying land in other states",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Swathi",
+  "is_still_participant": true,
+  "thread_path": "inbox/swathi_1287803579280933",
+  "magic_words": [
+    
+  ]
+}

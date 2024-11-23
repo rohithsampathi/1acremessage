@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "NEWDEVEX"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "NEWDEVEX",
+      "timestamp_ms": 1713090449245,
+      "content": "Sure. Thanks for the update.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713090238079,
+      "content": "We don't have a discount on the subscription.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "NEWDEVEX",
+      "timestamp_ms": 1713080847241,
+      "content": "Okay, Is there a subscription discount available?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713072777979,
+      "content": "Currently not. Will let you know if we need any. Thanks for reaching out.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "NEWDEVEX",
+      "timestamp_ms": 1713069691014,
+      "content": "Dear 1acre.in team, \n\nPlease let me know if you are looking for a website or application for your business. We are here to help you.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Dear 1acre.in team, \n\nPlease let me know if you are looking for a website or application for your business. We are here to help you."
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "NEWDEVEX",
+  "is_still_participant": true,
+  "thread_path": "inbox/newdevex_18001975193591014",
+  "magic_words": [
+    
+  ]
+}

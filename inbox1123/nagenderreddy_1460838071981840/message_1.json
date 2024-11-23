@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Nagender Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721354182363,
+      "content": "Hi, Please talk to Sandeep 9005464412, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nagender Reddy",
+      "timestamp_ms": 1721322903163,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nagender Reddy",
+      "timestamp_ms": 1721322902193,
+      "content": "Nagender sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C9UBLDXtmaU/?carousel_share_child_media_id=3410355958192799596_47651711013",
+        "share_text": "",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nagender Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/nagenderreddy_1460838071981840",
+  "magic_words": [
+    
+  ]
+}

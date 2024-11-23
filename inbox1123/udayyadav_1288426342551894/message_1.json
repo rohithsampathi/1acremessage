@@ -1,0 +1,72 @@
+{
+  "participants": [
+    {
+      "name": "Uday Yadav"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Uday Yadav",
+      "timestamp_ms": 1704423976120,
+      "content": "Sure Pratheek in hr..",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704420853295,
+      "content": "Plz call Pratheek anytime during the office hours. Thanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Uday Yadav",
+      "timestamp_ms": 1704403288713,
+      "content": "What is your Available time to talk ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Uday Yadav",
+      "timestamp_ms": 1704403268511,
+      "content": "Hi Prateek",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Uday Yadav",
+      "timestamp_ms": 1704322574808,
+      "content": "Ok Prateek call you in morning",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704309284884,
+      "content": "yes ,pratheek 9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Uday Yadav",
+      "timestamp_ms": 1704309225384,
+      "content": "Can you share your contact Num ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704309192773,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Uday Yadav",
+      "timestamp_ms": 1704309149580,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Uday Yadav",
+  "is_still_participant": true,
+  "thread_path": "inbox/udayyadav_1288426342551894",
+  "magic_words": [
+    
+  ]
+}

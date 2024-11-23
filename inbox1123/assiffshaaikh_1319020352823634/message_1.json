@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Assiff Shaaikh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Assiff Shaaikh",
+      "timestamp_ms": 1713089582452,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713078008447,
+      "content": "Hi, Please contact Harish\n9032114737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Assiff Shaaikh",
+      "timestamp_ms": 1713075605262,
+      "content": "What's an opportunity I am from Karnataka belgaum",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713055801468,
+      "content": "Hello, can you elaborate?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Assiff Shaaikh",
+      "timestamp_ms": 1713039679244,
+      "content": "Karnataka",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Assiff Shaaikh",
+  "is_still_participant": true,
+  "thread_path": "inbox/assiffshaaikh_1319020352823634",
+  "magic_words": [
+    
+  ]
+}

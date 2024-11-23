@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "RSG"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "RSG",
+      "timestamp_ms": 1717578016051,
+      "content": "Sure \u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717577095564,
+      "content": "Thanks for reaching out.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717577086964,
+      "content": "Hi,\nAt 1acre.in, we are currently listing only Telanagana.\nWe will start other states soon. \nWill keep you posted.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi,\nAt 1acre.in, we are currently listing only Telanagana.\nWe will start other states soon. \nWill keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "RSG",
+      "timestamp_ms": 1717575350183,
+      "content": "Hello team !!\nI\u00e2\u0080\u0099m looking for lands around Bangalore \nDo get in touch : 9164120444",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "RSG",
+  "is_still_participant": true,
+  "thread_path": "inbox/rsg_1431114808288709",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Satish Naidu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Satish Naidu",
+      "timestamp_ms": 1710945673305,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710945059744,
+      "content": "Hi, Please contact Pratheek \n9390674324, from the team.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Satish Naidu",
+          "timestamp": 1710945673
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Satish Naidu",
+      "timestamp_ms": 1710943783266,
+      "content": "I am interested to buy farm lands at outskrits",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Satish Naidu",
+  "is_still_participant": true,
+  "thread_path": "inbox/satishnaidu_1220013089385232",
+  "magic_words": [
+    
+  ]
+}

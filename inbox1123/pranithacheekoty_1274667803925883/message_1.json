@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Pranitha Cheekoty"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706902749733,
+      "content": "Please contact Vijay\n9959994737. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706902727802,
+      "content": "Sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pranitha Cheekoty",
+      "timestamp_ms": 1706902129567,
+      "content": "Shankarpalli",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706837911890,
+      "content": "Where is the land located?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pranitha Cheekoty",
+      "timestamp_ms": 1706812444613,
+      "content": "I want some help in selling a land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pranitha Cheekoty",
+      "timestamp_ms": 1706812431122,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Pranitha Cheekoty",
+  "is_still_participant": true,
+  "thread_path": "inbox/pranithacheekoty_1274667803925883",
+  "magic_words": [
+    
+  ]
+}

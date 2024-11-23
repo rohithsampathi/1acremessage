@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Krishna Mohan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729662024764,
+      "content": "Which land are you referring to ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Krishna Mohan",
+      "timestamp_ms": 1729647854457,
+      "content": "Where is this land located?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Krishna Mohan",
+  "is_still_participant": true,
+  "thread_path": "inbox/krishnamohan_1467449874643857",
+  "magic_words": [
+    
+  ]
+}

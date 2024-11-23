@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Moinuddin Basha"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Moinuddin Basha",
+      "timestamp_ms": 1728633943373,
+      "content": "Thanks very helpful",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728632375143,
+      "content": "Do check our website www.1acre.in/lakes and you can fond FTL and buffer zones instantly.\n\nIf your lake isnt available, please make a request and we shall try our best to digitise it soon",
+      "share": {
+        "link": "http://www.1acre.in/lakes",
+        "share_text": "Do check our website www.1acre.in/lakes and you can fond FTL and buffer zones instantly.\n\nIf your lake isnt available, please make a request and we shall try our best to digitise it soon"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Moinuddin Basha",
+      "timestamp_ms": 1728560935372,
+      "content": "Need ftl and buffer zone of bul bul kunta Laxmi guda village",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Moinuddin Basha",
+  "is_still_participant": true,
+  "thread_path": "inbox/moinuddinbasha_1519665799433721",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "( SRS ) shree ramaya mines & minerals"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717606822426,
+      "content": "Please tell us what you are looking for",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717606807861,
+      "content": "Hello there !",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "( SRS ) shree ramaya mines & minerals",
+      "timestamp_ms": 1717606735632,
+      "content": "Sir any quartz stone mining land available he",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "( SRS ) shree ramaya mines & minerals",
+      "timestamp_ms": 1717606700343,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "( SRS ) shree ramaya mines & minerals",
+  "is_still_participant": true,
+  "thread_path": "inbox/srsshreeramayaminesminerals_17862069579156088",
+  "magic_words": [
+    
+  ]
+}

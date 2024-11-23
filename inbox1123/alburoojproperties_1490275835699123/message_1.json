@@ -1,0 +1,87 @@
+{
+  "participants": [
+    {
+      "name": "AL BUROOJ PROPERTIES"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "AL BUROOJ PROPERTIES",
+      "timestamp_ms": 1724515829915,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724514239330,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "AL BUROOJ PROPERTIES",
+      "timestamp_ms": 1724514165111,
+      "content": "Same as the above ad I wanted",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "AL BUROOJ PROPERTIES",
+      "timestamp_ms": 1724514147446,
+      "share": {
+        "link": "https://www.instagram.com/p/C-7mJxuM5hB/",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "AL BUROOJ PROPERTIES",
+      "timestamp_ms": 1724510491504,
+      "content": "What will be the charges",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "AL BUROOJ PROPERTIES",
+      "timestamp_ms": 1724510482422,
+      "content": "Ok we will do it for one plot the",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724498356009,
+      "content": "We currently help facilitate only lands and open plots. \n\nBut we are soon launching developer listings for layouts. We will update you then :) (edited)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724498351610,
+      "content": "We currently help facilitate only lands and open plots. \n\nBut we are soon launching developer listings for layouts. We will update you then :)?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "AL BUROOJ PROPERTIES",
+      "timestamp_ms": 1724497722043,
+      "content": "Farm land layout",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724485588244,
+      "content": "Are these open plots or layouts ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "AL BUROOJ PROPERTIES",
+      "timestamp_ms": 1724439616133,
+      "content": "Hello \nNeed to market my plots on your platform",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "AL BUROOJ PROPERTIES",
+  "is_still_participant": true,
+  "thread_path": "inbox/alburoojproperties_1490275835699123",
+  "magic_words": [
+    
+  ]
+}

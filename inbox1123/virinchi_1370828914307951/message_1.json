@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Virinchi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Virinchi",
+      "timestamp_ms": 1723510771611,
+      "content": "Thanks for replying",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Virinchi",
+      "timestamp_ms": 1723510767182,
+      "content": "Oh great.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723483306916,
+      "content": "Please check out at www.1acre.in",
+      "share": {
+        "link": "http://www.1acre.in/",
+        "share_text": "Please check out at www.1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723483270697,
+      "content": "We have launched in andhra recently.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Virinchi",
+      "timestamp_ms": 1723478246295,
+      "content": "Hello sir, \n\nI have been following your page since good time. I always wanted to ask you, why don\u00e2\u0080\u0099t you also do the same job in Andhra Pradesh. It would be even beneficial to us. Please check and respond if possible.\n\nRegards.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Virinchi",
+  "is_still_participant": true,
+  "thread_path": "inbox/virinchi_1370828914307951",
+  "magic_words": [
+    
+  ]
+}

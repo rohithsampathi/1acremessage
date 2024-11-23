@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Yash"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720107489445,
+      "content": "Not yet",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yash",
+      "timestamp_ms": 1720106022301,
+      "content": "Have u started in. Tamilnadu yet",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yash",
+      "timestamp_ms": 1719403646694,
+      "content": "Ok thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719403310718,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yash",
+      "timestamp_ms": 1719403258896,
+      "content": "It's in plots type",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yash",
+      "timestamp_ms": 1719403246067,
+      "content": "Tamilnadu",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719403231866,
+      "content": "Which state?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yash",
+      "timestamp_ms": 1719403163028,
+      "content": "Hi I am yash I would  like to sell land can u help me out with the process",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Yash",
+  "is_still_participant": true,
+  "thread_path": "inbox/yash_17909968352966802",
+  "magic_words": [
+    
+  ]
+}

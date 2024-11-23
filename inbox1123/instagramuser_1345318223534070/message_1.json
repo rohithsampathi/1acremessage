@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707370705342,
+      "content": "Hi, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1707366906991,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C2ozoIaNDC4/?id=3290106585974845624_47651711013",
+        "share_text": "Introducing our latest Feature: City Lands! \u00f0\u009f\u008c\u0086 We\u00e2\u0080\u0099ve noticed a rising demand among landowners in Hyderabad west and south for discreet connections with builders, developers, and long-term investors. If you\u00e2\u0080\u0099re on the lookout for prime land within these growth corridors or the city itself, we\u00e2\u0080\u0099re here to privately link you with eager landowners. Connect with us to explore exclusive opportunities! #CityLands #RealEstateOpportunities",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "inbox/instagramuser_1345318223534070",
+  "magic_words": [
+    
+  ]
+}

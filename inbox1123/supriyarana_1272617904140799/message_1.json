@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Supriya Rana"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708666966689,
+      "content": "Hi, Please contact Pratheek \n9390674324, from the team. He'll help you with the information.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Supriya Rana",
+      "timestamp_ms": 1708666129938,
+      "content": "Pls share your mobile number to discuss , I\u00e2\u0080\u0099m currently at gurgaon and interested in buying farm land",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Supriya Rana",
+  "is_still_participant": true,
+  "thread_path": "inbox/supriyarana_1272617904140799",
+  "magic_words": [
+    
+  ]
+}

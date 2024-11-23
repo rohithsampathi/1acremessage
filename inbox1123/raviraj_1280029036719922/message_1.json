@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Ravi Raj"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ravi Raj",
+      "timestamp_ms": 1707473511248,
+      "content": "Sure il do !! Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707473103259,
+      "content": "Hello Ravi, Please contact Vijay\n9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravi Raj",
+      "timestamp_ms": 1707467379912,
+      "content": "Would like to discuss about Few investments and investors I have sir.  Recently i have deal with Myron constructions gave them 100acers land for development at vikarabad manneguda road. Now we looking for acquiring above 100acers land for land owners who gave their property for Myron Constructions.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravi Raj",
+      "timestamp_ms": 1707467173870,
+      "content": "Hello sir I'm ravi, I'm 33years old and into revenue since 10years. Previously we used to build independent houses and sell in around Alwal, since prices have gone up now we moved towards agricultural lands in Gajwell and Siddipet 2years back and simultaneously we are dealing with few Litigation properties.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ravi Raj",
+  "is_still_participant": true,
+  "thread_path": "inbox/raviraj_1280029036719922",
+  "magic_words": [
+    
+  ]
+}

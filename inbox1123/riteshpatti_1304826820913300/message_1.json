@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Ritesh Patti"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1699768997191,
+      "content": "Hi, please call Ratna Kiran 7661063355",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ritesh Patti",
+      "timestamp_ms": 1699723767299,
+      "content": "Share your contact details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ritesh Patti",
+      "timestamp_ms": 1699723766848,
+      "content": "Ritesh sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/CzDaWtstX5_/?carousel_share_child_media_id=3225537647060924802_47651711013",
+        "share_text": "Stop buying plots. Own 10 acres at the cost of one. Larger chunks of land available at good prices.\n...\n\u00f0\u009f\u0091\u0089 Get access to premium opportunities: https://www.1acre.in/subscribe",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ritesh Patti",
+  "is_still_participant": true,
+  "thread_path": "inbox/riteshpatti_1304826820913300",
+  "magic_words": [
+    
+  ]
+}

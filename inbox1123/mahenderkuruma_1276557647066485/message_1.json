@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009d\u0096\u0092\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u008d\u00f0\u009d\u0096\u008a\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u0089\u00f0\u009d\u0096\u008a\u00f0\u009d\u0096\u0097 \u00f0\u009d\u0096\u0090\u00f0\u009d\u0096\u009a\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u009a\u00f0\u009d\u0096\u0092\u00f0\u009d\u0096\u0086"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709031342812,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0096\u0092\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u008d\u00f0\u009d\u0096\u008a\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u0089\u00f0\u009d\u0096\u008a\u00f0\u009d\u0096\u0097 \u00f0\u009d\u0096\u0090\u00f0\u009d\u0096\u009a\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u009a\u00f0\u009d\u0096\u0092\u00f0\u009d\u0096\u0086",
+      "timestamp_ms": 1709019563562,
+      "content": "Hallo sir my land is available near orr bongloor exit 12  3km acra 4.5 cr contact 9502456734",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00f0\u009d\u0096\u0092\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u008d\u00f0\u009d\u0096\u008a\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u0089\u00f0\u009d\u0096\u008a\u00f0\u009d\u0096\u0097 \u00f0\u009d\u0096\u0090\u00f0\u009d\u0096\u009a\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u009a\u00f0\u009d\u0096\u0092\u00f0\u009d\u0096\u0086",
+  "is_still_participant": true,
+  "thread_path": "inbox/mahenderkuruma_1276557647066485",
+  "magic_words": [
+    
+  ]
+}

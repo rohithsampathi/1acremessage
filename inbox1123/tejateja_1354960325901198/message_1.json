@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Teja Teja"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Teja Teja",
+      "timestamp_ms": 1709785174941,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709551128234,
+      "content": "Yawatmal district.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Teja Teja",
+          "timestamp": 1709785174
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Teja Teja",
+      "timestamp_ms": 1709550694761,
+      "content": "Where is that land you are talking about in Maharashtra",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Teja Teja",
+  "is_still_participant": true,
+  "thread_path": "inbox/tejateja_1354960325901198",
+  "magic_words": [
+    
+  ]
+}

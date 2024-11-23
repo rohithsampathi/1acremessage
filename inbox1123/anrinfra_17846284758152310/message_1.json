@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Anr Infra"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anr Infra",
+      "timestamp_ms": 1706883005824,
+      "content": "Thanks, we will reach out him. Thanks",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1706883969
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706880764313,
+      "content": "Hi Sure. \nI have informed of your requirement to Ratna Kiran (our Founder). \nThis is his number - 9390155412\nYou can reach out to him. Thanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anr Infra",
+      "timestamp_ms": 1706878458982,
+      "content": "Hi brother, howz it going.\ni have gathered bunch of people including me own land of 20acres to 25 acres at one place near ORR exit 12 and already few top villas companies started building villas besides the land. We are Looking for a developer and few of us also ready to give for out-rate. If any of developers willing to build villas in this area ,would be great option for them. Please reply me in this chat for further details and contact details. If any looking for land for development near ORR exit 12 ,south of Hyderabad. \n\nThanks \u00f0\u009f\u0099\u008f. Waiting for your reply.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Anr Infra",
+  "is_still_participant": true,
+  "thread_path": "inbox/anrinfra_17846284758152310",
+  "magic_words": [
+    
+  ]
+}

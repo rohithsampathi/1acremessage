@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Gopi 66689"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1700822270539,
+      "content": "You can contact to pratheek 9505778117,he can guide you regarding your enquiries",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gopi 66689",
+      "timestamp_ms": 1700820923615,
+      "content": "You missed an audio call",
+      "call_duration": 0,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gopi 66689",
+      "timestamp_ms": 1700820916381,
+      "content": "baddamsaigopinathreddy_ started an audio call",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gopi 66689",
+      "timestamp_ms": 1700820911540,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1698991048187,
+      "content": "Hey SaiGopinath,how can we help you?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gopi 66689",
+      "timestamp_ms": 1698988054590,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Gopi 66689",
+  "is_still_participant": true,
+  "thread_path": "inbox/gopi66689_18008321705309632",
+  "magic_words": [
+    
+  ]
+}

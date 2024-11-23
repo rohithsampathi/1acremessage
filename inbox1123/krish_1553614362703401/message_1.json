@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "K R I S H"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727773176554,
+      "content": "Hello , \n\nDue to unforeseen demand , we are not able to address each request so we have decided to digitised all lakes around hyderabad and make it accessible for free for everyone.\n\nTo help prioritise the digitisation process, fill the following form with your requirements. We will inform you once your required lake is digitised. \nRequirement form : https://forms.gle/LFThdXChRzH8Uz6M6 \n\nThanks for your patience.",
+      "share": {
+        "link": "https://forms.gle/LFThdXChRzH8Uz6M6",
+        "share_text": "Hello , \n\nDue to unforeseen demand , we are not able to address each request so we have decided to digitised all lakes around hyderabad and make it accessible for free for everyone.\n\nTo help prioritise the digitisation process, fill the following form with your requirements. We will inform you once your required lake is digitised. \nRequirement form : https://forms.gle/LFThdXChRzH8Uz6M6 \n\nThanks for your patience."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "K R I S H",
+      "timestamp_ms": 1727707539339,
+      "content": "Address: 8-1-86/16/22/1\nSHANTHI NAGAR\nNIRMAL, Telangana, 504106",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "K R I S H",
+      "timestamp_ms": 1727707516323,
+      "content": "Can you please help check my house sir?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "K R I S H",
+      "timestamp_ms": 1727707498856,
+      "content": "Hmda site doesn\u00e2\u0080\u0099t not have my city (nirmal)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "K R I S H",
+      "timestamp_ms": 1727707484022,
+      "content": "How can i check if my house is in FTL or buffer zone?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "K R I S H",
+  "is_still_participant": true,
+  "thread_path": "inbox/krish_1553614362703401",
+  "magic_words": [
+    
+  ]
+}

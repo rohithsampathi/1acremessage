@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Sameer \u00f0\u009f\u008d\u0081"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sameer \u00f0\u009f\u008d\u0081",
+      "timestamp_ms": 1721221667593,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721221504248,
+      "content": "Hi, Please talk to Sandeep 9005464412, from the team.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Sameer \u00f0\u009f\u008d\u0081",
+          "timestamp": 1721221667
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sameer \u00f0\u009f\u008d\u0081",
+      "timestamp_ms": 1721216415165,
+      "content": "Hi",
+      "share": {
+        "link": "https://www.instagram.com/p/C9UBKzVt_9s/"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sameer \u00f0\u009f\u008d\u0081",
+  "is_still_participant": true,
+  "thread_path": "inbox/sameer_18018863039372713",
+  "magic_words": [
+    
+  ]
+}

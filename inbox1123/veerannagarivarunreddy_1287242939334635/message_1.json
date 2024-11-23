@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Veerannagari Varun Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707094392235,
+      "content": "Please contact Ratna Kiran \n9390155412. He'll help you with your requirement.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707094316770,
+      "content": "Hi, sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Veerannagari Varun Reddy",
+      "timestamp_ms": 1707071933019,
+      "content": "Hi there\nI\u00e2\u0080\u0099m looking for an acre of land in JANWADA\u00e2\u0080\u00a6can you please suggest any lots you have with you and also the price range \u00e2\u0080\u00a6thanks",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Veerannagari Varun Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/veerannagarivarunreddy_1287242939334635",
+  "magic_words": [
+    
+  ]
+}

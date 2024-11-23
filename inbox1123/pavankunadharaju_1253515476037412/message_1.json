@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Pavan Kunadharaju"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707067456858,
+      "content": "Hi, Sorry. At this stage, we are looking for people who can pick up at least a 100. Thanks for reaching out.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pavan Kunadharaju",
+      "timestamp_ms": 1707055531655,
+      "content": "Hello, \n\nI am interested in 1 acer for 2.5 lakh could you please share more details?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Pavan Kunadharaju",
+  "is_still_participant": true,
+  "thread_path": "inbox/pavankunadharaju_1253515476037412",
+  "magic_words": [
+    
+  ]
+}

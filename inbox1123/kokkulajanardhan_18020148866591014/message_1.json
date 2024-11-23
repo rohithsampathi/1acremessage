@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Kokkula Janardhan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726145102245,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726048366023,
+      "content": "Kokkula Janardhan replied to an ad. View ad(https://www.instagram.com/p/C_xW-DVsF8Q/)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kokkula Janardhan",
+      "timestamp_ms": 1726048364612,
+      "content": "Hello, Can I get more info on this?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kokkula Janardhan",
+  "is_still_participant": true,
+  "thread_path": "inbox/kokkulajanardhan_18020148866591014",
+  "magic_words": [
+    
+  ]
+}

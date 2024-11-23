@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Praneeth Bathini"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723627981117,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Praneeth Bathini",
+      "timestamp_ms": 1723627323490,
+      "content": "This is in manchirevula area",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Praneeth Bathini",
+      "timestamp_ms": 1723627290568,
+      "content": "Price for 1450 sq yd plot please",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Praneeth Bathini",
+  "is_still_participant": true,
+  "thread_path": "inbox/praneethbathini_1437005664356899",
+  "magic_words": [
+    
+  ]
+}

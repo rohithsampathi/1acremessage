@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "wtf_kavita__"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "wtf_kavita__",
+      "timestamp_ms": 1727004375710,
+      "content": "wtf_kavita__ sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DANE54oSSBZ/?id=3462445258519421017_65761591032",
+        "share_text": "Jai maa sarswati \u00f0\u009f\u0099\u008f",
+        "original_content_owner": "_jai_shree_mhakal__"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "wtf_kavita__",
+      "timestamp_ms": 1726886467363,
+      "content": "wtf_kavita__ sent an attachment.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "wtf_kavita__",
+  "is_still_participant": true,
+  "thread_path": "inbox/wtf_kavita___18021330050591014",
+  "magic_words": [
+    
+  ]
+}

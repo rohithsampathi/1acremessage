@@ -1,0 +1,77 @@
+{
+  "participants": [
+    {
+      "name": "Swapnil Adakulapalli"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Swapnil Adakulapalli",
+      "timestamp_ms": 1718868120743,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718867954302,
+      "content": "The number is displayed there.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718867935326,
+      "content": "Plz call the seller directly",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Swapnil Adakulapalli",
+          "timestamp": 1718868120
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Swapnil Adakulapalli",
+      "timestamp_ms": 1718867572777,
+      "content": "I\u00e2\u0080\u0099m interested in this property.. and would like to know further details..",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Swapnil Adakulapalli",
+      "timestamp_ms": 1718867542471,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/swapniladakulapalli_1459783055419200/photos/448349498_2770337006467264_7157120836606191682_n_2770337003133931.jpg",
+          "creation_timestamp": 1718867541,
+          "backup_uri": "https://scontent.fmaa12-1.fna.fbcdn.net/v/t1.15752-9/448349498_2770337006467264_7157120836606191682_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=9f807c&_nc_ohc=tZnpBOgO2WkQ7kNvgE01Ajw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fmaa12-1.fna&oh=03_Q7cD1QFIAWOOjeHcvmfF0Qih7dsCfJEx1VqwW9uOOMeE0PJOeA&oe=6766C69D"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718867296958,
+      "content": "Hello,\n\nPlease check our website 1acre.in where 2500+ verified lands are listed. \nYou call the sellers directly. \n\nAdditionally, you can subscribe to premium, to get access to the MapView.\n\n1acre.in/subscribe",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hello,\n\nPlease check our website 1acre.in where 2500+ verified lands are listed. \nYou call the sellers directly. \n\nAdditionally, you can subscribe to premium, to get access to the MapView.\n\n1acre.in/subscribe"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Swapnil Adakulapalli",
+      "timestamp_ms": 1718865646675,
+      "content": "Hello bro.. \nI\u00e2\u0080\u0099m interested to purchase 2 acres land around Hyderabad outskirts with radius 75 kms.. \nrequirements: \n1. Land should be within 5 kms from local substation \n2. Budget 1 Cr for 2 acres..\n3. Land should be clear title.\n4. Land should have proper road to reach on 4-wheeler..",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Swapnil Adakulapalli",
+  "is_still_participant": true,
+  "thread_path": "inbox/swapniladakulapalli_1459783055419200",
+  "magic_words": [
+    
+  ]
+}

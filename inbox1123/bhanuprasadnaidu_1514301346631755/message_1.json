@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Bhanu Prasad Naidu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721515007746,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721515007161,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bhanu Prasad Naidu",
+      "timestamp_ms": 1721498968293,
+      "content": "Need on 1320 square feet land",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Bhanu Prasad Naidu",
+  "is_still_participant": true,
+  "thread_path": "inbox/bhanuprasadnaidu_1514301346631755",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Vishnuvardhan choudaripally"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721036896404,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721036895711,
+      "content": "Hi, Please contact Vijay 9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishnuvardhan choudaripally",
+      "timestamp_ms": 1721032384515,
+      "content": "For your job",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishnuvardhan choudaripally",
+      "timestamp_ms": 1721032378882,
+      "content": "I'm interested",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishnuvardhan choudaripally",
+      "timestamp_ms": 1721032375257,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vishnuvardhan choudaripally",
+  "is_still_participant": true,
+  "thread_path": "inbox/vishnuvardhanchoudaripally_18013037900591014",
+  "magic_words": [
+    
+  ]
+}

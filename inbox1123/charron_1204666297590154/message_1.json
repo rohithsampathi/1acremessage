@@ -1,0 +1,80 @@
+{
+  "participants": [
+    {
+      "name": "Charron"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717504640957,
+      "content": "charr0n_ wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717504640031,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412.\nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Charron",
+      "timestamp_ms": 1717504078181,
+      "content": "More details please. I am a builder",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Charron",
+      "timestamp_ms": 1717504077543,
+      "content": "Charron sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C7ys9k7Srbf/?id=3382964015692691167_47651711013",
+        "share_text": "2 acres | \u00e2\u0082\u00b95 Cr | Lakeview | Anantagiri Hills | Link in bio \u00f0\u009f\u008c\u009f\n\n- Verified and Facilitated by 1acre.in \n- Permissions for a 5-floor, 100-room lake view resort\n- Prime location near Vikarabad, perfect for a getaway\n\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 9959994737",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1699514825489,
+      "content": "Hey Charron ,  for more details please visit our website :https://www.1acre.in/, contact:9505778117",
+      "share": {
+        "link": "https://www.1acre.in/",
+        "share_text": "Hey Charron ,  for more details please visit our website :https://www.1acre.in/, contact:9505778117"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1699514808090,
+      "content": "charr0n_ wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Charron",
+      "timestamp_ms": 1699467952936,
+      "content": "More details pls",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Charron",
+      "timestamp_ms": 1699467952227,
+      "content": "Charron sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/CyfUQ2zruSu/?carousel_share_child_media_id=3215377774423208206_47651711013",
+        "share_text": "",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Charron",
+  "is_still_participant": true,
+  "thread_path": "inbox/charron_1204666297590154",
+  "magic_words": [
+    
+  ]
+}

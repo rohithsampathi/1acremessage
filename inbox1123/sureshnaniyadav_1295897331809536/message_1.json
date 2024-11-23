@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Suresh Naniyadav"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702867091313,
+      "content": "Hi, you can connect with Pratheek  9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Suresh Naniyadav",
+      "timestamp_ms": 1702824167116,
+      "content": "Required",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Suresh Naniyadav",
+      "timestamp_ms": 1702824162396,
+      "content": "Telangana karimnagar near me 5 acre land",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Suresh Naniyadav",
+  "is_still_participant": true,
+  "thread_path": "inbox/sureshnaniyadav_1295897331809536",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "participants": [
+    {
+      "name": "Nizam Film City"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nizam Film City",
+      "timestamp_ms": 1704388495229,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704388488268,
+      "content": "You can talk to the number given (Ratna Kiram) tomorrow.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nizam Film City",
+      "timestamp_ms": 1704388463706,
+      "content": "We have 2.5 acres clean title",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nizam Film City",
+      "timestamp_ms": 1704388457484,
+      "content": "Do u suggest selling price at malkaram please",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704388435106,
+      "content": "If the land is clear, and the price reasonable, we can send it to potential investors from our premium subscribers.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nizam Film City",
+      "timestamp_ms": 1704388249739,
+      "content": "Like if I subscribe my seller listing will be visible on the top page or it doesn't help for selling ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704388167123,
+      "content": "https://1acre.in/subscribe",
+      "share": {
+        "link": "https://1acre.in/subscribe",
+        "share_text": "https://1acre.in/subscribe"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704388162489,
+      "content": "Here's the link you can check",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704388155232,
+      "content": "5000",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nizam Film City",
+      "timestamp_ms": 1704388102133,
+      "content": "What are the charges for premium",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704388078488,
+      "content": "For now, please search by district and Mandal. Soon, we are releasing more options and direct search. \nAlso, if you subscribe to premium, you get access to the map view.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nizam Film City",
+      "timestamp_ms": 1704387905038,
+      "content": "When I say shamshabad and press enter it just stuck over der",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nizam Film City",
+      "timestamp_ms": 1704387891926,
+      "content": "Also search option is not working in the website",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nizam Film City",
+      "timestamp_ms": 1704387846048,
+      "content": "Thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704387842035,
+      "content": "Thanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nizam Film City",
+      "timestamp_ms": 1704387841585,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704387835100,
+      "content": "Tomorrow would be better.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nizam Film City",
+      "timestamp_ms": 1704387797043,
+      "content": "Sure thanks can I call now or tmrw is better",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704387779056,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nizam Film City",
+      "timestamp_ms": 1704387734079,
+      "content": "Hi we would like to sell a land",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nizam Film City",
+  "is_still_participant": true,
+  "thread_path": "inbox/nizamfilmcity_17990364689591014",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "sarvagya"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720181556637,
+      "content": "Please drop a message. He'll call back. Thanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720181550429,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "sarvagya",
+      "timestamp_ms": 1720178920559,
+      "content": "He/she is not receiving the phone call",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720178856357,
+      "content": "Hi, Please contact Vijay 9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "sarvagya",
+      "timestamp_ms": 1720177048688,
+      "content": "Interested",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "sarvagya",
+  "is_still_participant": true,
+  "thread_path": "inbox/sarvagya_18011654228591014",
+  "magic_words": [
+    
+  ]
+}

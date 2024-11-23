@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Sidhu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705653385238,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sidhu",
+      "timestamp_ms": 1705647184946,
+      "content": "Callme 9177147304",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sidhu",
+      "timestamp_ms": 1705647155650,
+      "content": "Contact number give me bro",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sidhu",
+      "timestamp_ms": 1705647144710,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sidhu",
+  "is_still_participant": true,
+  "thread_path": "inbox/sidhu_1350975339634940",
+  "magic_words": [
+    
+  ]
+}

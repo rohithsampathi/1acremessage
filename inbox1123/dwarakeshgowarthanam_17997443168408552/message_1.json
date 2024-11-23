@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Dwarakesh Gowarthanam"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705249356590,
+      "content": "https://www.1acre.in/subscribe\n\nPlease go through and subscribe or click 'talk to us->' at the end of the page and fill in the form. We'll get back to you.",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "https://www.1acre.in/subscribe\n\nPlease go through and subscribe or click 'talk to us->' at the end of the page and fill in the form. We'll get back to you."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dwarakesh Gowarthanam",
+      "timestamp_ms": 1705249343099,
+      "content": "I'm interested in Maharastra land.. can you pls share the details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dwarakesh Gowarthanam",
+      "timestamp_ms": 1705249325109,
+      "content": "hi team",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Dwarakesh Gowarthanam",
+  "is_still_participant": true,
+  "thread_path": "inbox/dwarakeshgowarthanam_17997443168408552",
+  "magic_words": [
+    
+  ]
+}

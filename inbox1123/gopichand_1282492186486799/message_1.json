@@ -1,0 +1,76 @@
+{
+  "participants": [
+    {
+      "name": "Gopi Chand \u00e2\u009c\u0088\u00ef\u00b8\u008f"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707213668423,
+      "content": "https://www.1acre.in/subscribe",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "https://www.1acre.in/subscribe"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707213628069,
+      "content": "If you want a mapview, you can subscribe to the premium.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707213571710,
+      "content": "You can search by highway and distance from ORR.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707213550940,
+      "content": "Hi, Please check the website.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gopi Chand \u00e2\u009c\u0088\u00ef\u00b8\u008f",
+      "timestamp_ms": 1707212755843,
+      "content": "Can you please let me know if there is any availability",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gopi Chand \u00e2\u009c\u0088\u00ef\u00b8\u008f",
+      "timestamp_ms": 1707212744900,
+      "content": "Drive time should be around 1 hour from Gachibowli",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gopi Chand \u00e2\u009c\u0088\u00ef\u00b8\u008f",
+      "timestamp_ms": 1707212707707,
+      "content": "Near Srisailam Highway",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gopi Chand \u00e2\u009c\u0088\u00ef\u00b8\u008f",
+      "timestamp_ms": 1707212699972,
+      "content": "Looking for 1 acre land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gopi Chand \u00e2\u009c\u0088\u00ef\u00b8\u008f",
+      "timestamp_ms": 1707212689524,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Gopi Chand \u00e2\u009c\u0088\u00ef\u00b8\u008f",
+  "is_still_participant": true,
+  "thread_path": "inbox/gopichand_1282492186486799",
+  "magic_words": [
+    
+  ]
+}

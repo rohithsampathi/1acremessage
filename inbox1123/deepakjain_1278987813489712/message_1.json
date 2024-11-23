@@ -1,0 +1,84 @@
+{
+  "participants": [
+    {
+      "name": "Deepak Jain"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Deepak Jain",
+      "timestamp_ms": 1712340903764,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712340466287,
+      "content": "Hi, Please talk to Harish in detail about it. He'll discuss with the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Deepak Jain",
+      "timestamp_ms": 1712340406015,
+      "content": "I lost my job couple of days ago",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Deepak Jain",
+      "timestamp_ms": 1712340392749,
+      "content": "I'd like to apply",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Deepak Jain",
+      "timestamp_ms": 1712340383931,
+      "content": "I saw a video which says you guys are hiring",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Deepak Jain",
+      "timestamp_ms": 1712340361417,
+      "content": "Listed one property",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Deepak Jain",
+      "timestamp_ms": 1712340353938,
+      "content": "I started freelancing with you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Deepak Jain",
+      "timestamp_ms": 1712340340290,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710560236887,
+      "content": "Hi, Please contact Harish\n9032114737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Deepak Jain",
+      "timestamp_ms": 1710557713415,
+      "content": "I am interested in freelancing with you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Deepak Jain",
+      "timestamp_ms": 1710557706191,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Deepak Jain",
+  "is_still_participant": true,
+  "thread_path": "inbox/deepakjain_1278987813489712",
+  "magic_words": [
+    
+  ]
+}

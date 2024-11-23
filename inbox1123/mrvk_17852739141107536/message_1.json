@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "mr.vk"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705570872542,
+      "content": "Hi, Please contact Ramakrishna \n7780122120",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "mr.vk",
+      "timestamp_ms": 1705567034385,
+      "content": "mr.vk sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C2PDBg1pOEd/?carousel_share_child_media_id=3282855948189982269_63140611535",
+        "share_text": "",
+        "original_content_owner": "real_estate_05_"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "mr.vk",
+      "timestamp_ms": 1705566396469,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/mrvk_17852739141107536/photos/419777074_1539819020139144_1898366319539884655_n_1539819016805811.jpg",
+          "creation_timestamp": 1705566395,
+          "backup_uri": "https://scontent.fmaa12-2.fna.fbcdn.net/v/t1.15752-9/419777074_1539819020139144_1898366319539884655_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_ohc=00yv2wfdgTMQ7kNvgFbeWxa&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fmaa12-2.fna&oh=03_Q7cD1QHULRlDRqQnRYPfjluKz8Le9nZu0x52QlxWHS4UxBkLLQ&oe=6766A522"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "mr.vk",
+      "timestamp_ms": 1705566383945,
+      "content": "75lacs per acres",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "mr.vk",
+      "timestamp_ms": 1705566376514,
+      "content": "4.5 acrs land away from NH44\nSquare land \nWith 2bore and fencing",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "mr.vk",
+  "is_still_participant": true,
+  "thread_path": "inbox/mrvk_17852739141107536",
+  "magic_words": [
+    
+  ]
+}

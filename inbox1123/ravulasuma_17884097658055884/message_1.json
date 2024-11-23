@@ -1,0 +1,65 @@
+{
+  "participants": [
+    {
+      "name": "Ravula Suma"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ravula Suma",
+      "timestamp_ms": 1728559692480,
+      "content": "Oh, you mean a story or a reel? We charge \u00e2\u0082\u00b9400 for story promotion and \u00e2\u0082\u00b9900 for a reel. Let us know your preference, and we can proceed accordingly!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728557825053,
+      "content": "Ohh \nYou mean a story in a reel right ? (edited)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728557745688,
+      "content": "Ohh \nYou mean reel not story right ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravula Suma",
+      "timestamp_ms": 1728557088380,
+      "content": "Hello, thanks for reaching out! We charge \u00e2\u0082\u00b9400 for story promotion. Let us know if you'd like to proceed, and we'll help spread the Hyderabad.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728545724331,
+      "content": "Hello from 1acre.in \u00f0\u009f\u0091\u008b, \n\nIn context to recent demolitions by HYDRAA, We,at 1acre.in, are digitising HMDA lakes with their FTL and buffer zones so people can understand if their lands falls in these zones instantly. \n\nLink : www.1acre.in/lakes\n\nWe believe it helps a lot of people who are currently in distress. See if you can help spread the word about this :) \n\nThanks,\nTeam 1acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728545723468,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DA7kPn7SO8R/?id=3475530940783587089_47651711013",
+        "share_text": "\u00f0\u009f\u0094\u0097 Visit www.1acre.in/lakes and find FTL & buffer zones instantly\u00e2\u009a\u00a1\u00ef\u00b8\u008f\n\nIf a required lake is not digitised yet, you can request for it and we will digitise it in priority \u00e2\u008f\u00ab\n\nShare it with friends and family and help them make informed decisions. \n\n#realestate #ftl #bufferzone #hydraa #hyderabad #lakes #hmda",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravula Suma",
+      "timestamp_ms": 1716696387930,
+      "content": "I would like to discuss the possibility of promoting your business.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ravula Suma",
+  "is_still_participant": true,
+  "thread_path": "inbox/ravulasuma_17884097658055884",
+  "magic_words": [
+    
+  ]
+}

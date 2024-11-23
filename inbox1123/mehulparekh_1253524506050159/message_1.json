@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Mehul Parekh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704985559835,
+      "content": "https://www.1acre.in/subscribe\n\nPlease go through and fill in the form (talk to us) at the end of the page. We'll get back to you.",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "https://www.1acre.in/subscribe\n\nPlease go through and fill in the form (talk to us) at the end of the page. We'll get back to you."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mehul Parekh",
+      "timestamp_ms": 1704980473510,
+      "content": "Hi, I am looking to invest 1Cr. Could you please suggest",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mehul Parekh",
+  "is_still_participant": true,
+  "thread_path": "inbox/mehulparekh_1253524506050159",
+  "magic_words": [
+    
+  ]
+}

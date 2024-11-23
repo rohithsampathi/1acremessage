@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Ravi Doppalapudi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718900730720,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718900729989,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravi Doppalapudi",
+      "timestamp_ms": 1718886539169,
+      "content": "Can you market it for sale",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravi Doppalapudi",
+      "timestamp_ms": 1718886521484,
+      "content": "hi i have 20 acres land in Dharur vikarabad",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ravi Doppalapudi",
+  "is_still_participant": true,
+  "thread_path": "inbox/ravidoppalapudi_1183745909730975",
+  "magic_words": [
+    
+  ]
+}

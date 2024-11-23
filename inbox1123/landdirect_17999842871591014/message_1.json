@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Land Direct"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711424713183,
+      "content": "Hi, Thanks for reaching out.\nCurrently, we are listing only Telangana. \nWe'll start listing Karnataka soon. Will keep you posted. Thanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Land Direct",
+      "timestamp_ms": 1711424256180,
+      "content": "Hi i have a agricultural land 38 Gunta in chamrajanagar mysore.. Planning to sell it... If you are interested pls let me know",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Land Direct",
+  "is_still_participant": true,
+  "thread_path": "inbox/landdirect_17999842871591014",
+  "magic_words": [
+    
+  ]
+}

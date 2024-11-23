@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Pavan Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pavan Kumar",
+      "timestamp_ms": 1712829914032,
+      "content": "Ok, Sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712829901496,
+      "content": "No",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pavan Kumar",
+      "timestamp_ms": 1712829000501,
+      "content": "Ok. Sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712828945776,
+      "content": "No sir, we are a listing platform.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pavan Kumar",
+      "timestamp_ms": 1712828446591,
+      "content": "Namaste Sir , \nLands Purchase Chesthara",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Pavan Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/pavankumar_1312470856808881",
+  "magic_words": [
+    
+  ]
+}

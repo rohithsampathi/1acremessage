@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Yash Yash"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711590804409,
+      "content": "Yes, plz tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yash Yash",
+      "timestamp_ms": 1711564872866,
+      "content": "Yash sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C454zN1t5X6/?id=3330943209574995450_47651711013",
+        "share_text": "Introducing Map View for Lands for our premium members \u00f0\u009f\u008f\u009e. First of its kind in India! \n\nExplore land prices based on locality while scrolling across the map. The easiest way to search for lands and understanding pricing in that area. Unlock this superpower now! \u00f0\u009f\u00a4\u008c\n\nEasiest way to discover lands in and around Telangana! \n\nGet access to 1acre Premium that offers you: \n\u00f0\u009f\u008f\u009c\u00ef\u00b8\u008f Curated Land Parcels just for you \n\u00f0\u009f\u0091\u0081\u00ef\u00b8\u008f Access lands in Karnataka & Maharastra\n\u00f0\u009f\u0093\u008d Map view to see all lands available at a glance \n\nLife time membership for Rs 5000 only.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Yash Yash",
+  "is_still_participant": true,
+  "thread_path": "inbox/yashyash_18000027239591014",
+  "magic_words": [
+    
+  ]
+}

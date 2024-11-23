@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Jnr JnrMaharaj"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719821309023,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jnr JnrMaharaj",
+      "timestamp_ms": 1719821187101,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Jnr JnrMaharaj",
+  "is_still_participant": true,
+  "thread_path": "inbox/jnrjnrmaharaj_17910985583967372",
+  "magic_words": [
+    
+  ]
+}

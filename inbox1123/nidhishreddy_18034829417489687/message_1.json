@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Nidhish Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nidhish Reddy",
+      "timestamp_ms": 1725019662692,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725019253819,
+      "content": "Will keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725019244093,
+      "content": "Not yet. We'll start listing soon.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nidhish Reddy",
+      "timestamp_ms": 1725012466787,
+      "content": "Pls let me know if any lands available in Bangalore",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nidhish Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/nidhishreddy_18034829417489687",
+  "magic_words": [
+    
+  ]
+}

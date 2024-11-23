@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Jaya Krishna"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jaya Krishna",
+      "timestamp_ms": 1711277088919,
+      "content": "Sure thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711277073005,
+      "content": "Hi, Please contact Harish\n9032114737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jaya Krishna",
+      "timestamp_ms": 1711274942228,
+      "content": "Can you please include me into your team",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jaya Krishna",
+      "timestamp_ms": 1711274565021,
+      "content": "Also I'm civil engineer",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jaya Krishna",
+      "timestamp_ms": 1711274556471,
+      "content": "I want to join as freelancer",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711274533663,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jaya Krishna",
+      "timestamp_ms": 1711274508596,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Jaya Krishna",
+  "is_still_participant": true,
+  "thread_path": "inbox/jayakrishna_1359612172101922",
+  "magic_words": [
+    
+  ]
+}

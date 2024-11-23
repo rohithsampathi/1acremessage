@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "AV"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718549126829,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718549125871,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team. \nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "AV",
+      "timestamp_ms": 1718547956209,
+      "content": "AV sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C8J7K3vSQtW/?id=3389500426361047894_47651711013",
+        "share_text": "74 acres | \u00e2\u0082\u00b91.1 Cr per acre | Near Shadnagar | Link in bio \u00f0\u009f\u008c\u009f\n\n- Verified and facilitated by 1acre.in\n- Fully developed mango and palm-oil plantation\n- 50 km from ORR, 5 km from Bengaluru highway, close to proposed RRR\n- Includes power, farm ponds, drip irrigation, borewells, fencing, and worker accommodation\n\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 9959994737",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "AV",
+  "is_still_participant": true,
+  "thread_path": "inbox/av_1411903810204735",
+  "magic_words": [
+    
+  ]
+}

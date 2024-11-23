@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Sethu Pathy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702097746589,
+      "content": "Hi ,How can we help you?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sethu Pathy",
+      "timestamp_ms": 1702047612999,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sethu Pathy",
+  "is_still_participant": true,
+  "thread_path": "inbox/sethupathy_1313193273408982",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "badridet"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708665018473,
+      "content": "Hi, Please contact Ramakrishna \n7780122120, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "badridet",
+      "timestamp_ms": 1708664131199,
+      "content": "I have two plots in Medchal area that I want to dispose of. Please let me know\nIf you can help?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "badridet",
+  "is_still_participant": true,
+  "thread_path": "inbox/badridet_1332995691427018",
+  "magic_words": [
+    
+  ]
+}

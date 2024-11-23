@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Harish Ch"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702635647750,
+      "content": "you can connect with pratheek  9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harish Ch",
+      "timestamp_ms": 1702612210778,
+      "content": "Harish sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C027k4pP8eT/?id=3258053399916038035_5522981807",
+        "share_text": "",
+        "original_content_owner": "swiss.harish"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Harish Ch",
+  "is_still_participant": true,
+  "thread_path": "inbox/harishch_1275899520468929",
+  "magic_words": [
+    
+  ]
+}

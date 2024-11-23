@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Arjun Rathod"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Arjun Rathod",
+      "timestamp_ms": 1720414550592,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720414109075,
+      "content": "We'll let you know. Thanks.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Arjun Rathod",
+          "timestamp": 1720414550
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Arjun Rathod",
+      "timestamp_ms": 1720373064291,
+      "content": "Hii \nAapke video Kai liye mai voice de sakta hu \nI worked with many insta channel also",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Arjun Rathod",
+  "is_still_participant": true,
+  "thread_path": "inbox/arjunrathod_18011951051591014",
+  "magic_words": [
+    
+  ]
+}

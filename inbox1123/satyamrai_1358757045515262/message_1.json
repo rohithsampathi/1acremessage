@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "Satyam Rai"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Satyam Rai",
+      "timestamp_ms": 1711265467305,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711264908038,
+      "content": "Hi, we are currently listing only Telangana. Very soon will start listing MP and other states.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Satyam Rai",
+          "timestamp": 1711265467
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Satyam Rai",
+      "timestamp_ms": 1711261708716,
+      "content": "I have some property that I want to sell",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Satyam Rai",
+      "timestamp_ms": 1711261621794,
+      "content": "Hey.. My Name Is Satyam Rai From Jabalpur Madhya Pradesh (India)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711243070389,
+      "content": "satyamrai1010 wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711243069762,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Satyam Rai",
+      "timestamp_ms": 1711227281618,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Satyam Rai",
+  "is_still_participant": true,
+  "thread_path": "inbox/satyamrai_1358757045515262",
+  "magic_words": [
+    
+  ]
+}

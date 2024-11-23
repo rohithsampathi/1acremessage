@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "\u00e2\u0099\u009bs\u00d1\u0092\u00ce\u0090v\u00e0\u00b8\u0099 \u00e2\u0099\u009b"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720354976858,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00e2\u0099\u009bs\u00d1\u0092\u00ce\u0090v\u00e0\u00b8\u0099 \u00e2\u0099\u009b",
+      "timestamp_ms": 1720352717968,
+      "content": "hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00e2\u0099\u009bs\u00d1\u0092\u00ce\u0090v\u00e0\u00b8\u0099 \u00e2\u0099\u009b",
+  "is_still_participant": true,
+  "thread_path": "inbox/sdivn_1448649549865239",
+  "magic_words": [
+    
+  ]
+}

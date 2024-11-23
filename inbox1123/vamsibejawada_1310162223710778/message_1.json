@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Vamsi Bejawada"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vamsi Bejawada",
+      "timestamp_ms": 1701927653787,
+      "content": "8074208679",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701927636755,
+      "content": "Can we have your contact number our team will connect with you?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vamsi Bejawada",
+      "timestamp_ms": 1701925117362,
+      "content": "Hi andi I am looking for land 1 acre near Hyderabad in low cost",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vamsi Bejawada",
+  "is_still_participant": true,
+  "thread_path": "inbox/vamsibejawada_1310162223710778",
+  "magic_words": [
+    
+  ]
+}

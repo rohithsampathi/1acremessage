@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Ravi Malkaj"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701504680277,
+      "content": "Sure you will get call shortly",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravi Malkaj",
+      "timestamp_ms": 1701503286606,
+      "content": "Pl call me back once, Tq",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1699987566739,
+      "content": "Sure , will schedule a call tomorrow morning",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravi Malkaj",
+      "timestamp_ms": 1699983465088,
+      "content": "9966009669",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravi Malkaj",
+      "timestamp_ms": 1699983457629,
+      "content": "Pl call me once,  Tomorrow Morning",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ravi Malkaj",
+  "is_still_participant": true,
+  "thread_path": "inbox/ravimalkaj_18004838663125435",
+  "magic_words": [
+    
+  ]
+}

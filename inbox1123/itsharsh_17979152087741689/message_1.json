@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "its harsh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725165477197,
+      "content": "To be able to help.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725165470338,
+      "content": "We need more specifics.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "its harsh",
+      "timestamp_ms": 1725159961794,
+      "content": "I want a buy a property",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "its harsh",
+      "timestamp_ms": 1725159946196,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "its harsh",
+  "is_still_participant": true,
+  "thread_path": "inbox/itsharsh_17979152087741689",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Atomic Farms"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Atomic Farms",
+      "timestamp_ms": 1721155815237,
+      "content": "If any reference pls let me know sir thank you very much",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Atomic Farms",
+      "timestamp_ms": 1721155761182,
+      "content": "Okkk sir I'm waiting to buy farm land near bapatla and Vijayawada",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721155707708,
+      "content": "Launching this month.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Atomic Farms",
+      "timestamp_ms": 1721154972937,
+      "content": "Sir please look forward in Andhra Pradesh tooo",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Atomic Farms",
+      "timestamp_ms": 1720420657137,
+      "content": "Okkkkkk",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720414247360,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Atomic Farms",
+      "timestamp_ms": 1720371599722,
+      "content": "Any land near bapatla",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Atomic Farms",
+  "is_still_participant": true,
+  "thread_path": "inbox/atomicfarms_17879707947092198",
+  "magic_words": [
+    
+  ]
+}

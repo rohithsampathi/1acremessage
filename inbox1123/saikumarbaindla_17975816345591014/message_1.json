@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Sai Kumar Baindla"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697300686217,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Kumar Baindla",
+      "timestamp_ms": 1695475100133,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sai Kumar Baindla",
+  "is_still_participant": true,
+  "thread_path": "inbox/saikumarbaindla_17975816345591014",
+  "magic_words": [
+    
+  ]
+}

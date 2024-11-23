@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Rahul Tallam"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rahul Tallam",
+      "timestamp_ms": 1720195066936,
+      "content": "Ok thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720195059001,
+      "content": "Over the next 1-2 months ideally.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rahul Tallam",
+      "timestamp_ms": 1720195028952,
+      "content": "What's the timeline?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720194826136,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rahul Tallam",
+      "timestamp_ms": 1720193999110,
+      "content": "Hi you have lands in and around Bangalore?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rahul Tallam",
+  "is_still_participant": true,
+  "thread_path": "inbox/rahultallam_1393933175330640",
+  "magic_words": [
+    
+  ]
+}

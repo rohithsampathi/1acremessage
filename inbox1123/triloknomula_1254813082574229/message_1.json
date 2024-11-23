@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Trilok Nomula"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708748170416,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Trilok Nomula",
+      "timestamp_ms": 1708736498284,
+      "content": "Hi there, Can you plz call on 9885000518 me. Anand mehta on this for a property .",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Trilok Nomula",
+  "is_still_participant": true,
+  "thread_path": "inbox/triloknomula_1254813082574229",
+  "magic_words": [
+    
+  ]
+}

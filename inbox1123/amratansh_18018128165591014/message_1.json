@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Amratansh \u00e2\u0099\u008c"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724637825330,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Amratansh \u00e2\u0099\u008c",
+      "timestamp_ms": 1724627928981,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/amratansh_18018128165591014/photos/455712840_1038199494508668_7853710910409295546_n_1038199491175335.jpg",
+          "creation_timestamp": 1724627928,
+          "backup_uri": "https://scontent.fmaa12-3.fna.fbcdn.net/v/t1.15752-9/455712840_1038199494508668_7853710910409295546_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_ohc=omlQwMA11FYQ7kNvgFLQ9rR&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fmaa12-3.fna&oh=03_Q7cD1QFw8uck5SX2etfJl6jGVXUtYGpvvEKyH_DkX7kWf5S0_A&oe=6766C793"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Amratansh \u00e2\u0099\u008c",
+      "timestamp_ms": 1724627923785,
+      "content": "Details",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Amratansh \u00e2\u0099\u008c",
+  "is_still_participant": true,
+  "thread_path": "inbox/amratansh_18018128165591014",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Jaswinder Singh Ramgadiya"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720184071775,
+      "content": "You sent a private reply to a comment on your Instagram post.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720184060045,
+      "content": "Please DM",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Jaswinder Singh Ramgadiya",
+  "is_still_participant": true,
+  "thread_path": "inbox/jaswindersinghramgadiya_1435678957822884",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "bh@r@th\u00e2\u0098\u0080\u00ef\u00b8\u008f\u00f0\u009f\u0094\u00b1"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "bh@r@th\u00e2\u0098\u0080\u00ef\u00b8\u008f\u00f0\u009f\u0094\u00b1",
+      "timestamp_ms": 1721665033727,
+      "content": "Sure thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721665008567,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721665007762,
+      "content": "Hi, Please contact Vijay 9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "bh@r@th\u00e2\u0098\u0080\u00ef\u00b8\u008f\u00f0\u009f\u0094\u00b1",
+      "timestamp_ms": 1721659576730,
+      "content": "Location baswapur village",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "bh@r@th\u00e2\u0098\u0080\u00ef\u00b8\u008f\u00f0\u009f\u0094\u00b1",
+      "timestamp_ms": 1721659567029,
+      "content": "Near to Bhongir and Yadagirigutta",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "bh@r@th\u00e2\u0098\u0080\u00ef\u00b8\u008f\u00f0\u009f\u0094\u00b1",
+      "timestamp_ms": 1721659546535,
+      "content": "Bro 14 acres of land is there",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "bh@r@th\u00e2\u0098\u0080\u00ef\u00b8\u008f\u00f0\u009f\u0094\u00b1",
+  "is_still_participant": true,
+  "thread_path": "inbox/bhrth_1329534001766452",
+  "magic_words": [
+    
+  ]
+}

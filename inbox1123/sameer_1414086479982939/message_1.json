@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Sameer"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720252878913,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sameer",
+      "timestamp_ms": 1720252516285,
+      "content": "Please share details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sameer",
+      "timestamp_ms": 1720252509036,
+      "content": "I am interested in land near Yavatmal",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sameer",
+      "timestamp_ms": 1720252497568,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sameer",
+  "is_still_participant": true,
+  "thread_path": "inbox/sameer_1414086479982939",
+  "magic_words": [
+    
+  ]
+}

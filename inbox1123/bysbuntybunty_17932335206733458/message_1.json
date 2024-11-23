@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Bys Bunty Bunty"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705339667269,
+      "content": "https://www.1acre.in/subscribe\n\nPlease go through and subscribe or click 'talk to us->' at the end of the page and fill in the form. We'll get back to you.",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "https://www.1acre.in/subscribe\n\nPlease go through and subscribe or click 'talk to us->' at the end of the page and fill in the form. We'll get back to you."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bys Bunty Bunty",
+      "timestamp_ms": 1705334949119,
+      "content": "My number 9948444200",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bys Bunty Bunty",
+      "timestamp_ms": 1705334901627,
+      "content": "Call me",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bys Bunty Bunty",
+      "timestamp_ms": 1705334900348,
+      "content": "Hi sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Bys Bunty Bunty",
+  "is_still_participant": true,
+  "thread_path": "inbox/bysbuntybunty_17932335206733458",
+  "magic_words": [
+    
+  ]
+}

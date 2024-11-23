@@ -1,0 +1,84 @@
+{
+  "participants": [
+    {
+      "name": "Satya Chaitanya\u00f0\u009f\u00a7\u0094\u00f0\u009f\u008f\u00bb"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Satya Chaitanya\u00f0\u009f\u00a7\u0094\u00f0\u009f\u008f\u00bb",
+      "timestamp_ms": 1720189863865,
+      "content": "Ok! thankyou!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720153622023,
+      "content": "We'll keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720153613310,
+      "content": "Not currently.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Satya Chaitanya\u00f0\u009f\u00a7\u0094\u00f0\u009f\u008f\u00bb",
+      "timestamp_ms": 1720153577829,
+      "content": "Do you have any lands of that size within the same budget?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Satya Chaitanya\u00f0\u009f\u00a7\u0094\u00f0\u009f\u008f\u00bb",
+      "timestamp_ms": 1720153565810,
+      "content": "Got it! Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Satya Chaitanya\u00f0\u009f\u00a7\u0094\u00f0\u009f\u008f\u00bb",
+      "timestamp_ms": 1720153559811,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720149734588,
+      "content": "That might not be possible with this land.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Satya Chaitanya\u00f0\u009f\u00a7\u0094\u00f0\u009f\u008f\u00bb",
+          "timestamp": 1720153559
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Satya Chaitanya\u00f0\u009f\u00a7\u0094\u00f0\u009f\u008f\u00bb",
+      "timestamp_ms": 1720112071287,
+      "content": "Can we buy 1 to 2 acres seperately?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Satya Chaitanya\u00f0\u009f\u00a7\u0094\u00f0\u009f\u008f\u00bb",
+      "timestamp_ms": 1720112071012,
+      "content": "Satya sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C8_88ylSF7J/?id=3404707903587245769_47651711013",
+        "share_text": "40 acres | \u00e2\u0082\u00b97 lakhs per acre | Near Yavatmal, Maharashtra | Link in bio \u00f0\u009f\u008c\u009f\n\n- Verified and facilitated by 1acre.in\n- Extremely fertile, canal-irrigated land\n- Only 6 hours from Hyderabad\n- Well-connected to national highways, expressways, and railways\n- Ideal for active agriculture and investment\n\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 9959994737\n\n\u00f0\u009f\u0093\u00ac\u00f0\u009f\u0093\u00a9 DM us for more queries on buying, selling, or partnerships",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Satya Chaitanya\u00f0\u009f\u00a7\u0094\u00f0\u009f\u008f\u00bb",
+  "is_still_participant": true,
+  "thread_path": "inbox/satyachaitanya_1463079038426486",
+  "magic_words": [
+    
+  ]
+}

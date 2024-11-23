@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Uday Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703661066826,
+      "content": "Hi , you can connect with pratheek  9390674324,",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Uday Kumar",
+      "timestamp_ms": 1703659531206,
+      "content": "I need agriculture land nalgonda munugode jangam price of 10 to 15 lakhs per acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Uday Kumar",
+      "timestamp_ms": 1703659368921,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Uday Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/udaykumar_1284852759572596",
+  "magic_words": [
+    
+  ]
+}

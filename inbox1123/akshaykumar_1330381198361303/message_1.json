@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Akshay Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Akshay Kumar",
+      "timestamp_ms": 1704721797903,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704368066863,
+      "content": "Hi, we are looking for people who can pick a minimum of 100",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Akshay Kumar",
+          "timestamp": 1704721797
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akshay Kumar",
+      "timestamp_ms": 1704362983658,
+      "content": "Or only 100 acres of land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akshay Kumar",
+      "timestamp_ms": 1704362964494,
+      "content": "Hi team, thank you for the information. So will the cost apply for 1,2 or 3 acres of land?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Akshay Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/akshaykumar_1330381198361303",
+  "magic_words": [
+    
+  ]
+}

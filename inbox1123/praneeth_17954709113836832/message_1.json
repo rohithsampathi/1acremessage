@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Praneeth"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729844363395,
+      "content": "Please call our team member Venu at +91 76749 01201\n\nHe shall help you list it and share other details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Praneeth",
+      "timestamp_ms": 1729837562257,
+      "content": "I had land to sell",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Praneeth",
+      "timestamp_ms": 1729837554838,
+      "content": "I am from Karnataka",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Praneeth",
+      "timestamp_ms": 1729837545046,
+      "content": "Hey",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Praneeth",
+  "is_still_participant": true,
+  "thread_path": "inbox/praneeth_17954709113836832",
+  "magic_words": [
+    
+  ]
+}

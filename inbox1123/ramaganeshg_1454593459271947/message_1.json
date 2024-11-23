@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Rama Ganesh G"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rama Ganesh G",
+      "timestamp_ms": 1720270791895,
+      "content": "Hello, glad to know that, \n7075344396 this is my personal and whatsapp number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720266740038,
+      "content": "We are looking to expand our content production pipeline and we would like to connect with you in scope of this requirement. \n\nCan you share your contact number to discuss further ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720266622886,
+      "content": "Hello Rama",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rama Ganesh G",
+  "is_still_participant": true,
+  "thread_path": "inbox/ramaganeshg_1454593459271947",
+  "magic_words": [
+    
+  ]
+}

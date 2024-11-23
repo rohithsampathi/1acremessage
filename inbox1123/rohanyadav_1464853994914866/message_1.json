@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Rohan yadav"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721055494837,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412\nHe'll help you with your query.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rohan yadav",
+      "timestamp_ms": 1721051909263,
+      "content": "I\u00e2\u0080\u0099ve a budget of around 2cr",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rohan yadav",
+      "timestamp_ms": 1721051900241,
+      "content": "Hey, I\u00e2\u0080\u0099m interested in plots near narsingi/ financial district/ gachibowli",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rohan yadav",
+  "is_still_participant": true,
+  "thread_path": "inbox/rohanyadav_1464853994914866",
+  "magic_words": [
+    
+  ]
+}

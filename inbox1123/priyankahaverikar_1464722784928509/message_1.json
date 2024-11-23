@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Priyanka Haverikar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Priyanka Haverikar",
+      "timestamp_ms": 1720454107173,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720453786298,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Priyanka Haverikar",
+          "timestamp": 1720454107
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Priyanka Haverikar",
+      "timestamp_ms": 1720453128866,
+      "content": "More details please",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Priyanka Haverikar",
+      "timestamp_ms": 1720453128509,
+      "content": "Priyanka sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C7InZjuKaVo/?id=3371117601243112808_47651711013",
+        "share_text": "Further:\n15km away from the Upcoming Nagpur-Goa Shakthipeeth expressway. \nA new railway line between Nagpur and Nanded is underway. \n\n10 Acres - 1.5Cr\n\nThis transaction is facilitated by 1acre.in, till the process of registration. \nIf you are interested in buying, \nContact: 9959994737\n\n#1acre #1acre.in #beauty #landscapephotography",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Priyanka Haverikar",
+  "is_still_participant": true,
+  "thread_path": "inbox/priyankahaverikar_1464722784928509",
+  "magic_words": [
+    
+  ]
+}

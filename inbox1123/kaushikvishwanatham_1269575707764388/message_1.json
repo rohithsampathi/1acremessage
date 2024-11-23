@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Kaushik Vishwanatham"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709887081999,
+      "content": "Hi, Please contact Pratheek \n9390674324, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kaushik Vishwanatham",
+      "timestamp_ms": 1709886602889,
+      "content": "Can you let me know the location",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kaushik Vishwanatham",
+      "timestamp_ms": 1709886594558,
+      "content": "I would like to visit the 1acre office in hyderabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kaushik Vishwanatham",
+      "timestamp_ms": 1709886577912,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kaushik Vishwanatham",
+      "timestamp_ms": 1709886574531,
+      "content": "You missed an audio call",
+      "call_duration": 0,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kaushik Vishwanatham",
+      "timestamp_ms": 1709886555975,
+      "content": "kaushikvishwanatham started an audio call",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kaushik Vishwanatham",
+  "is_still_participant": true,
+  "thread_path": "inbox/kaushikvishwanatham_1269575707764388",
+  "magic_words": [
+    
+  ]
+}

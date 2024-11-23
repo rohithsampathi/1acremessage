@@ -1,0 +1,73 @@
+{
+  "participants": [
+    {
+      "name": "Pav1\u00f0\u009f\u00a4\u0098\u00f0\u009f\u008f\u00bd"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pav1\u00f0\u009f\u00a4\u0098\u00f0\u009f\u008f\u00bd",
+      "timestamp_ms": 1707894346886,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707894335035,
+      "content": "Please contact Ramakrishna \n7780122120, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707894312861,
+      "content": "Sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pav1\u00f0\u009f\u00a4\u0098\u00f0\u009f\u008f\u00bd",
+      "timestamp_ms": 1707894287963,
+      "content": "Jadcherala \nSurrounded by companies",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pav1\u00f0\u009f\u00a4\u0098\u00f0\u009f\u008f\u00bd",
+      "timestamp_ms": 1707894268203,
+      "content": "It is on banglore highway",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707894249380,
+      "content": "Hi, Where's the land?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pav1\u00f0\u009f\u00a4\u0098\u00f0\u009f\u008f\u00bd",
+      "timestamp_ms": 1707893270273,
+      "content": "You missed an audio call",
+      "call_duration": 0,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pav1\u00f0\u009f\u00a4\u0098\u00f0\u009f\u008f\u00bd",
+      "timestamp_ms": 1707893242476,
+      "content": "pavanvelagaa started an audio call",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pav1\u00f0\u009f\u00a4\u0098\u00f0\u009f\u008f\u00bd",
+      "timestamp_ms": 1707893234680,
+      "content": "Hi \nwe have total 5 acres of land \nWe can sell even 1 acre if someone interested",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Pav1\u00f0\u009f\u00a4\u0098\u00f0\u009f\u008f\u00bd",
+  "is_still_participant": true,
+  "thread_path": "inbox/pav1_1248403169896509",
+  "magic_words": [
+    
+  ]
+}

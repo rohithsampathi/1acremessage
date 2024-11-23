@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "sanjay bhatt"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "sanjay bhatt",
+      "timestamp_ms": 1710245778180,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710245567951,
+      "content": "The previous was a wrong number by mistake.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710245537448,
+      "content": "Vijay will be available here.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710245504246,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "sanjay bhatt",
+      "timestamp_ms": 1710245466674,
+      "content": "Hi your contact number pls. Have to discuss about my lands in vikarabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "sanjay bhatt",
+      "timestamp_ms": 1703934543465,
+      "content": "Ok. Thnx",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703934460760,
+      "content": "Hi, Please call Vijay \n7780122120",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "sanjay bhatt",
+      "timestamp_ms": 1703930228868,
+      "content": "Hi, i have lands in vikarabad. Would like to sell few. Whom to contact",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "sanjay bhatt",
+  "is_still_participant": true,
+  "thread_path": "inbox/sanjaybhatt_1292148372178434",
+  "magic_words": [
+    
+  ]
+}

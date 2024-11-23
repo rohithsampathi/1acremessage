@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Harsh Pandey"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726465594143,
+      "content": "Hello Harsh \nWhat details are you looking for ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harsh Pandey",
+      "timestamp_ms": 1726462818741,
+      "content": "Details",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Harsh Pandey",
+  "is_still_participant": true,
+  "thread_path": "inbox/harshpandey_18034033190177171",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "M"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "M",
+      "timestamp_ms": 1703216230708,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703216218040,
+      "content": "you can connect with pratheek  9390674324,",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "M",
+      "timestamp_ms": 1703216183777,
+      "content": "I would like to know about the land for a house in Hyderabad with cost???",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "M",
+  "is_still_participant": true,
+  "thread_path": "inbox/m_17988522938591014",
+  "magic_words": [
+    
+  ]
+}

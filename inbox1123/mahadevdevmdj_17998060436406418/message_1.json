@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Mahadev Dev Mdj"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707556366904,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mahadev Dev Mdj",
+      "timestamp_ms": 1707555920804,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mahadev Dev Mdj",
+  "is_still_participant": true,
+  "thread_path": "inbox/mahadevdevmdj_17998060436406418",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Sagar R Kashappanavar (SRK)"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718345429804,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sagar R Kashappanavar (SRK)",
+      "timestamp_ms": 1718344264667,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sagar R Kashappanavar (SRK)",
+  "is_still_participant": true,
+  "thread_path": "inbox/sagarrkashappanavarsrk_1353670072688619",
+  "magic_words": [
+    
+  ]
+}

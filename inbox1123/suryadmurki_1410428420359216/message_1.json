@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Surya D Murki"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Surya D Murki",
+      "timestamp_ms": 1720096275113,
+      "content": "okay thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720096000688,
+      "content": "surya_murki wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720096000357,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Surya D Murki",
+      "timestamp_ms": 1720095953081,
+      "content": "I\u00e2\u0080\u0099m interested !!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Surya D Murki",
+      "timestamp_ms": 1720095952690,
+      "content": "Surya sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C7InZjuKaVo/?id=3371117601243112808_47651711013",
+        "share_text": "Further:\n15km away from the Upcoming Nagpur-Goa Shakthipeeth expressway. \nA new railway line between Nagpur and Nanded is underway. \n\n10 Acres - 1.5Cr\n\nThis transaction is facilitated by 1acre.in, till the process of registration. \nIf you are interested in buying, \nContact: 9959994737\n\n#1acre #1acre.in #beauty #landscapephotography",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Surya D Murki",
+  "is_still_participant": true,
+  "thread_path": "inbox/suryadmurki_1410428420359216",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Harshal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727145602791,
+      "content": "We are just starting with Maharashtra. Will intimate you when we have enough listings. Thanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harshal",
+      "timestamp_ms": 1727142220308,
+      "content": "Will u please help me",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harshal",
+      "timestamp_ms": 1727142215475,
+      "content": "I m looking for a road front land in jalgaon Maharashtra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727112363085,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harshal",
+      "timestamp_ms": 1727103004286,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Harshal",
+  "is_still_participant": true,
+  "thread_path": "inbox/harshal_1553879222676514",
+  "magic_words": [
+    
+  ]
+}

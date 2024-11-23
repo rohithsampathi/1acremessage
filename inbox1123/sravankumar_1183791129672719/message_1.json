@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Sravan Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706444937234,
+      "content": "Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706444926947,
+      "content": "Hi, Sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sravan Kumar",
+      "timestamp_ms": 1706430280809,
+      "content": "As I've seen a video posted by you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sravan Kumar",
+      "timestamp_ms": 1706430264288,
+      "content": "Shall we connect once? My number is 8712213845",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sravan Kumar",
+      "timestamp_ms": 1706430243353,
+      "content": "I'd like to get an opportunity as a builder for west or South direction lands",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sravan Kumar",
+      "timestamp_ms": 1706430208151,
+      "content": "Hi Team",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sravan Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/sravankumar_1183791129672719",
+  "magic_words": [
+    
+  ]
+}

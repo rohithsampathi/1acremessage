@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Yashwanth Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721450124517,
+      "content": "He'll help you with the listing.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721450115537,
+      "content": "Hi, Please contact Bharath \n7780122120",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yashwanth Reddy",
+      "timestamp_ms": 1721449341126,
+      "content": "For sale",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yashwanth Reddy",
+      "timestamp_ms": 1721449335876,
+      "content": "I have a plot in jadcherla, mahabubnagar",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721378645395,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yashwanth Reddy",
+      "timestamp_ms": 1721373660249,
+      "content": "Hi bro",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Yashwanth Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/yashwanthreddy_18024882914336328",
+  "magic_words": [
+    
+  ]
+}

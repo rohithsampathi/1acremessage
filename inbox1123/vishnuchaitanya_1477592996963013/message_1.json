@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Vishnu Chaitanya"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731171740535,
+      "content": "Please contact our team member ,pavan, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishnu Chaitanya",
+      "timestamp_ms": 1731158046206,
+      "content": "If you have any reasonable lands for my requirement for outrate or development purpose send me the details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishnu Chaitanya",
+      "timestamp_ms": 1731158008991,
+      "content": "I am looking for a land for apartment development in west side of Hyderabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishnu Chaitanya",
+      "timestamp_ms": 1731157989882,
+      "content": "I am vishnu",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishnu Chaitanya",
+      "timestamp_ms": 1731157986462,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vishnu Chaitanya",
+  "is_still_participant": true,
+  "thread_path": "inbox/vishnuchaitanya_1477592996963013",
+  "magic_words": [
+    
+  ]
+}

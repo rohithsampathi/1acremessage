@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Suresh Yadav-msy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1696672389508,
+      "content": "Please contact (+91 80744 50533) Vijay from 1acre.in for more details.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Suresh Yadav-msy",
+      "timestamp_ms": 1695520720510,
+      "content": "Sand me number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1695520685179,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Suresh Yadav-msy",
+      "timestamp_ms": 1695490549478,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Suresh Yadav-msy",
+  "is_still_participant": true,
+  "thread_path": "inbox/sureshyadavmsy_17955235136656035",
+  "magic_words": [
+    
+  ]
+}

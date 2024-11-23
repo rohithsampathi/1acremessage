@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Abhishek singh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Abhishek singh",
+      "timestamp_ms": 1717661559409,
+      "content": "Sir you can talk to word property what price",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717661389352,
+      "content": "Hi, which land are you referring to?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhishek singh",
+      "timestamp_ms": 1717657485641,
+      "content": "iam purchased land full information where is located lication and state name how can find price",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Abhishek singh",
+  "is_still_participant": true,
+  "thread_path": "inbox/abhisheksingh_18008126396591014",
+  "magic_words": [
+    
+  ]
+}

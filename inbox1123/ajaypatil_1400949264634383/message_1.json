@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Ajay Patil"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ajay Patil",
+      "timestamp_ms": 1717600167615,
+      "content": "Thanks alot.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717600147129,
+      "content": "Hi, Please contact Bharath \n7780122120. From the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717600128527,
+      "content": "Hi, 1acre.in is free for all the sellers and buyers.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, 1acre.in is free for all the sellers and buyers."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ajay Patil",
+      "timestamp_ms": 1717599649671,
+      "content": "Do u charge any amount to sell?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ajay Patil",
+      "timestamp_ms": 1717599628022,
+      "content": "Hey ...I want to sell my 5 acres of irrigation land.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ajay Patil",
+  "is_still_participant": true,
+  "thread_path": "inbox/ajaypatil_1400949264634383",
+  "magic_words": [
+    
+  ]
+}

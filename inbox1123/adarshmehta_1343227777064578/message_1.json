@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Adarsh Mehta"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720270160492,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Adarsh Mehta",
+      "timestamp_ms": 1720269717916,
+      "content": "Builder from MP. Want to discuss future possibilities with you. Text me. Thanks",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Adarsh Mehta",
+  "is_still_participant": true,
+  "thread_path": "inbox/adarshmehta_1343227777064578",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "M@llikar Juna Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720110756838,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "M@llikar Juna Reddy",
+      "timestamp_ms": 1720109730064,
+      "content": "Need land in 40 acres",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "M@llikar Juna Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/mllikarjunareddy_1511587440235743",
+  "magic_words": [
+    
+  ]
+}

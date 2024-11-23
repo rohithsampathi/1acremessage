@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "Haritha Chandra"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Haritha Chandra",
+      "timestamp_ms": 1720116296410,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720101966390,
+      "content": "Its available for sale only for full lot",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Haritha Chandra",
+      "timestamp_ms": 1720100374458,
+      "content": "In today\u00e2\u0080\u0099s listing, is there any minimum buy?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Haritha Chandra",
+      "timestamp_ms": 1720096550117,
+      "content": "Sure\u00e2\u0080\u00a6Will wait for Maharashtra",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1720098141
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720094636231,
+      "content": "Telangana is pricier.\nYou might get in Maharashtra.\n\nWe'll start listing Maharashtra soon.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720094601256,
+      "content": "Not really.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Haritha Chandra",
+      "timestamp_ms": 1720094480102,
+      "content": "Do we have any agricultural lands at 3-4 lakhs per acre?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Haritha Chandra",
+  "is_still_participant": true,
+  "thread_path": "inbox/harithachandra_1337242791008284",
+  "magic_words": [
+    
+  ]
+}

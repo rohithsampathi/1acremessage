@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Kungumakarthik"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711535323107,
+      "content": "Hi, we are currently listing only Telangana. Soon, we'll launch Karnataka. Will keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kungumakarthik",
+      "timestamp_ms": 1711534377232,
+      "content": "Cheapest lands near chikkabelapur\n\nOr coimbatore??",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709615291442,
+      "content": "Please contact Ratna Kiran \n9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kungumakarthik",
+      "timestamp_ms": 1709613636814,
+      "content": "Lands on Karnataka near chikkabelapur 2-4lakh per acre",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kungumakarthik",
+  "is_still_participant": true,
+  "thread_path": "inbox/kungumakarthik_1318101446248455",
+  "magic_words": [
+    
+  ]
+}

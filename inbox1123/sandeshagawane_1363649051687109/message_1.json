@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Sandesh Agawane"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sandesh Agawane",
+      "timestamp_ms": 1730102825402,
+      "content": "I\u00e2\u0080\u0099m looking for land in shirdi Maharashtra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sandesh Agawane",
+      "timestamp_ms": 1730102802362,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sandesh Agawane",
+  "is_still_participant": true,
+  "thread_path": "inbox/sandeshagawane_1363649051687109",
+  "magic_words": [
+    
+  ]
+}

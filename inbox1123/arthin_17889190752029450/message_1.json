@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "arth.in"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717318364570,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412\nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "arth.in",
+      "timestamp_ms": 1717316441489,
+      "content": "arth.in sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C7InZjuKaVo/?id=3371117601243112808_47651711013",
+        "share_text": "Further:\n15km away from the Upcoming Nagpur-Goa Shakthipeeth expressway. \nA new railway line between Nagpur and Nanded is underway. \n\n10 Acres - 1.5Cr\n\nThis transaction is facilitated by 1acre.in, till the process of registration. \nIf you are interested in buying, \nContact: 9959994737\n\n#1acre #1acre.in #beauty #landscapephotography",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "arth.in",
+      "timestamp_ms": 1717316433515,
+      "content": "I am interested to buy",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "arth.in",
+  "is_still_participant": true,
+  "thread_path": "inbox/arthin_17889190752029450",
+  "magic_words": [
+    
+  ]
+}

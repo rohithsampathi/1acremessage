@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Sai Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720221223282,
+      "content": "Check out www.1acre.in where you can explore 3000+ lands in telangana",
+      "share": {
+        "link": "http://www.1acre.in/",
+        "share_text": "Check out www.1acre.in where you can explore 3000+ lands in telangana"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Kumar",
+      "timestamp_ms": 1720209718458,
+      "content": "I need 1 acre land bro",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sai Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/saikumar_1539188354143705",
+  "magic_words": [
+    
+  ]
+}

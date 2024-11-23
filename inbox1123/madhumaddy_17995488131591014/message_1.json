@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Madhu Maddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Madhu Maddy",
+      "timestamp_ms": 1708146326901,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708143618818,
+      "content": "Sure. You can get in touch with Satish 7661933372. He'll help you with any details you need.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Madhu Maddy",
+      "timestamp_ms": 1708114430694,
+      "content": "Can I know more about it??",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Madhu Maddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/madhumaddy_17995488131591014",
+  "magic_words": [
+    
+  ]
+}

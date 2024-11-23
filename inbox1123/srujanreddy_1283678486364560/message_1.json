@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009d\u0093\u00a2\u00f0\u009d\u0093\u00bb\u00f0\u009d\u0093\u00be\u00f0\u009d\u0093\u00b3\u00f0\u009d\u0093\u00aa\u00f0\u009d\u0093\u00b7 \u00f0\u009d\u0093\u00bb\u00f0\u009d\u0093\u00ae\u00f0\u009d\u0093\u00ad\u00f0\u009d\u0093\u00ad\u00f0\u009d\u0094\u0082"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1698814496140,
+      "content": "hey srujan, how can we help you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0093\u00a2\u00f0\u009d\u0093\u00bb\u00f0\u009d\u0093\u00be\u00f0\u009d\u0093\u00b3\u00f0\u009d\u0093\u00aa\u00f0\u009d\u0093\u00b7 \u00f0\u009d\u0093\u00bb\u00f0\u009d\u0093\u00ae\u00f0\u009d\u0093\u00ad\u00f0\u009d\u0093\u00ad\u00f0\u009d\u0094\u0082",
+      "timestamp_ms": 1698751586421,
+      "content": "Hiii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00f0\u009d\u0093\u00a2\u00f0\u009d\u0093\u00bb\u00f0\u009d\u0093\u00be\u00f0\u009d\u0093\u00b3\u00f0\u009d\u0093\u00aa\u00f0\u009d\u0093\u00b7 \u00f0\u009d\u0093\u00bb\u00f0\u009d\u0093\u00ae\u00f0\u009d\u0093\u00ad\u00f0\u009d\u0093\u00ad\u00f0\u009d\u0094\u0082",
+  "is_still_participant": true,
+  "thread_path": "inbox/srujanreddy_1283678486364560",
+  "magic_words": [
+    
+  ]
+}

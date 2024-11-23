@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Harsha_KB"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Harsha_KB",
+      "timestamp_ms": 1721629555914,
+      "content": "Ok thank you sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721629498006,
+      "content": "Hi, Please talk to Sandeep, from the team.\n7702801301\nOr email at sandeep@1acre.in",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harsha_KB",
+      "timestamp_ms": 1721628838818,
+      "content": "Hi sir good morning,\n\nI am Harsha from Anantapur Andhra Pradesh, I stay in whitefeild , Bengaluru.  I am very passionate to work in Real estate field kindly let me know any jobs vacancy and my education qualification are as below \n\nDegree: BTech Cse 2016 passed out\nPG: MBA 2018 passed out \nEarlier work experience: worked as software engineer in a Wiculty learning solutions and in oracle \nSince I am very passionate to work and explore the Real field. I kindly request to prefer  a job in your organisation \n\nThank you \nHarsha Vardhan \n+91 9951218679",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Harsha_KB",
+  "is_still_participant": true,
+  "thread_path": "inbox/harsha_kb_1482687349794702",
+  "magic_words": [
+    
+  ]
+}

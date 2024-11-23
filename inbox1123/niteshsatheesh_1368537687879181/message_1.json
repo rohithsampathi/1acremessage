@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Nitesh Satheesh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nitesh Satheesh",
+      "timestamp_ms": 1711817016939,
+      "content": "Thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711817000717,
+      "content": "Hi, thanks for reaching out. You can contact Ratna Kiran \n9390155412, tomorrow.\nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nitesh Satheesh",
+      "timestamp_ms": 1711816579791,
+      "content": "Hi, interested in Karnataka investments. \nI noticed in a recent reel where you talk about having purchased 46 acres, could you share details and how one can participate?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nitesh Satheesh",
+  "is_still_participant": true,
+  "thread_path": "inbox/niteshsatheesh_1368537687879181",
+  "magic_words": [
+    
+  ]
+}

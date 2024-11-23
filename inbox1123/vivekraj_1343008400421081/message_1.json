@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Vivek Raj"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vivek Raj",
+      "timestamp_ms": 1720156012184,
+      "content": "Okay thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720101945201,
+      "content": "We currently only operate in telangana. \n\nWill keep you posted when we launch in karnataka",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vivek Raj",
+      "timestamp_ms": 1720100671527,
+      "content": "Can I get any options near banglore to Chitradurga near to highway",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vivek Raj",
+  "is_still_participant": true,
+  "thread_path": "inbox/vivekraj_1343008400421081",
+  "magic_words": [
+    
+  ]
+}

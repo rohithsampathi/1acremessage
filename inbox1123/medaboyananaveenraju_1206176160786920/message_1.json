@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Medaboyana Naveen Raju"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Medaboyana Naveen Raju",
+      "timestamp_ms": 1706100867113,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706096987477,
+      "content": "Hi, Please contact Ramakrishna \n7780122120",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Medaboyana Naveen Raju",
+      "timestamp_ms": 1706092694755,
+      "content": "Hi, I want to see my land at nearly 2 acres located near Shamirpet.\nPrice 3.2cr per acer negotiable",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Medaboyana Naveen Raju",
+  "is_still_participant": true,
+  "thread_path": "inbox/medaboyananaveenraju_1206176160786920",
+  "magic_words": [
+    
+  ]
+}

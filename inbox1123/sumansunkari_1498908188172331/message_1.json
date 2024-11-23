@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Suman Sunkari"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Suman Sunkari",
+      "timestamp_ms": 1721137430569,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721130199478,
+      "content": "1acre.in/subscribe  \nPlease explore.\n\nThere are 3000+ verified lands. \nYou can call the sellers directly.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Suman Sunkari",
+          "timestamp": 1721137430
+        }
+      ],
+      "share": {
+        "link": "http://1acre.in/subscribe",
+        "share_text": "1acre.in/subscribe  \nPlease explore.\n\nThere are 3000+ verified lands. \nYou can call the sellers directly."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Suman Sunkari",
+      "timestamp_ms": 1721120302045,
+      "content": "Hey hai do i get anything like 1/2 acre to 1acer land in Bhonagor or Ghatkesar or Bibinagar or Yadadri locations where our car should go directly to the land ? Within 30-35L budjet",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Suman Sunkari",
+  "is_still_participant": true,
+  "thread_path": "inbox/sumansunkari_1498908188172331",
+  "magic_words": [
+    
+  ]
+}

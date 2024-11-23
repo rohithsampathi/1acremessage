@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Garla Amit"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Garla Amit",
+      "timestamp_ms": 1722254103449,
+      "content": "Sure thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722253886716,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722253882977,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Garla Amit",
+      "timestamp_ms": 1722251385249,
+      "content": "Or other option of a farm land near Moinabad around 6-7 cr budget nearer to the highway",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Garla Amit",
+      "timestamp_ms": 1722251348087,
+      "content": "Hii looking for 500-600 Sq yards plots in Kokapet please let me know if any similar leads , price range around 130-150k",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Garla Amit",
+  "is_still_participant": true,
+  "thread_path": "inbox/garlaamit_1393837735339050",
+  "magic_words": [
+    
+  ]
+}

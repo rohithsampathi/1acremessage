@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Rohit Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1699163293565,
+      "content": "Yes we have,you can connect with our relationship manager PRATHEEk 9505778117,he can help you with this enquiry",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rohit Reddy",
+      "timestamp_ms": 1699122810106,
+      "content": "Hi , Do you have any lake facing lands closer to the city",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rohit Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/rohitreddy_1363443458387994",
+  "magic_words": [
+    
+  ]
+}

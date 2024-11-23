@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": ".."
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725855860640,
+      "content": "Please Leave your number here.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725855844223,
+      "content": "Will keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725855838490,
+      "content": "We are launching Maharashtra soon.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "..",
+      "timestamp_ms": 1725813183375,
+      "content": "Requirement 10 acres",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "..",
+      "timestamp_ms": 1725813171202,
+      "content": "Areas near junnar narayangoan khed",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "..",
+      "timestamp_ms": 1725813157142,
+      "content": "If any farming land is sale in Pune please tell",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "..",
+      "timestamp_ms": 1725813135664,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "..",
+  "is_still_participant": true,
+  "thread_path": "inbox/1537435917648877",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "Rahul Ajay"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708616393116,
+      "content": "https://www.1acre.in/subscribe",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "https://www.1acre.in/subscribe"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708616361545,
+      "content": "Hi, thanks for reaching out. \nYou can subscribe to 1acre premium \nhttps://www.1acre.in/subscribe\nYou'll get access to MapView. You can check all lands and prices in a single map. \nYou can contact the sellers directly. \nThanks",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "Hi, thanks for reaching out. \nYou can subscribe to 1acre premium \nhttps://www.1acre.in/subscribe\nYou'll get access to MapView. You can check all lands and prices in a single map. \nYou can contact the sellers directly. \nThanks"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rahul Ajay",
+      "timestamp_ms": 1708613875807,
+      "content": "Hlo bro i need guntas in nandigama kothur",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rahul Ajay",
+  "is_still_participant": true,
+  "thread_path": "inbox/rahulajay_1343155887080517",
+  "magic_words": [
+    
+  ]
+}

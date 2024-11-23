@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Nolan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730443398072,
+      "content": "Not yet",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nolan",
+      "timestamp_ms": 1730357628941,
+      "content": "Any land available in Nashik Maharashtra",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nolan",
+  "is_still_participant": true,
+  "thread_path": "inbox/nolan_18026357063591014",
+  "magic_words": [
+    
+  ]
+}

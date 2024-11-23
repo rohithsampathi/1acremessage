@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Krishna Rathi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Krishna Rathi",
+      "timestamp_ms": 1717945164005,
+      "content": "Regarding land deals",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717933561712,
+      "content": "Hi, Could you detail out a little better?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Krishna Rathi",
+      "timestamp_ms": 1717933417678,
+      "content": "For any collaboration \nPlease share the contact details for the respective person",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717932991382,
+      "content": "This is the team handling. Please let us know how we can help.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Krishna Rathi",
+      "timestamp_ms": 1717931568461,
+      "content": "I have texted you on whatsapp",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717930232723,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Krishna Rathi",
+      "timestamp_ms": 1717930167509,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Krishna Rathi",
+  "is_still_participant": true,
+  "thread_path": "inbox/krishnarathi_1383891936335709",
+  "magic_words": [
+    
+  ]
+}

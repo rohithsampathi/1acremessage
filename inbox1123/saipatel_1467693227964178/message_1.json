@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Sai Patel"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722014752682,
+      "content": "Please share your requirement so we can connect you to right person",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Patel",
+      "timestamp_ms": 1721998949764,
+      "content": "I need your number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721992979556,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Patel",
+      "timestamp_ms": 1721987094037,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sai Patel",
+  "is_still_participant": true,
+  "thread_path": "inbox/saipatel_1467693227964178",
+  "magic_words": [
+    
+  ]
+}

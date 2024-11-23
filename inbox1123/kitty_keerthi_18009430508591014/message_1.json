@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "kitty_keerthi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718597002324,
+      "content": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "kitty_keerthi",
+      "timestamp_ms": 1718590601318,
+      "content": "Available in Coimbatore",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "kitty_keerthi",
+      "timestamp_ms": 1718590593133,
+      "content": "16 arcs 17 cent unavailable in Coimbatore",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "kitty_keerthi",
+  "is_still_participant": true,
+  "thread_path": "inbox/kitty_keerthi_18009430508591014",
+  "magic_words": [
+    
+  ]
+}

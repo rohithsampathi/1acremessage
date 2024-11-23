@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Kanika Realty"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kanika Realty",
+      "timestamp_ms": 1722451575106,
+      "content": "Thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kanika Realty",
+      "timestamp_ms": 1722451572913,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722253867018,
+      "content": "Sorry we wont be able to do that \nThis is made by our in-house team",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kanika Realty",
+      "timestamp_ms": 1722251004728,
+      "content": "can you please share contact details of your editor ?? I also wanna edited one video like this for my layout",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kanika Realty",
+  "is_still_participant": true,
+  "thread_path": "inbox/kanikarealty_18014777327591014",
+  "magic_words": [
+    
+  ]
+}

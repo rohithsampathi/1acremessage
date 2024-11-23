@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "- Sri -"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706028247166,
+      "content": "Hi, Please contact Ramakrishna \n7780122120",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "- Sri -",
+      "timestamp_ms": 1706027083105,
+      "content": "How can I approach you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "- Sri -",
+      "timestamp_ms": 1706027073743,
+      "content": "I want sell my property",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "- Sri -",
+  "is_still_participant": true,
+  "thread_path": "inbox/sri_899729718282492",
+  "magic_words": [
+    
+  ]
+}

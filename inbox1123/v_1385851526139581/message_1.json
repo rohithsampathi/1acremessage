@@ -1,0 +1,76 @@
+{
+  "participants": [
+    {
+      "name": "V\u00f0\u009f\u0095\u00b7"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720963956618,
+      "content": "Sure. We'll reach out to you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "V\u00f0\u009f\u0095\u00b7",
+      "timestamp_ms": 1720963749926,
+      "content": "20acre \n80lakhs per acre \nMarket value upto 1cr per acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "V\u00f0\u009f\u0095\u00b7",
+      "timestamp_ms": 1718774284280,
+      "content": "https://goo.gl/maps/r3wygwihqsU63G3V6",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718774030481,
+      "content": "Meanwhile - plz send us location, extent and price. \nIn case someone asks, we'll reach out to you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "V\u00f0\u009f\u0095\u00b7",
+      "timestamp_ms": 1718773997948,
+      "content": "Alright let me know",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718773879258,
+      "content": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "V\u00f0\u009f\u0095\u00b7",
+      "timestamp_ms": 1718773251137,
+      "content": "Hey i got a agricultural land in thonugal,kovilpatti ,tamilnadu",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718773135294,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "V\u00f0\u009f\u0095\u00b7",
+      "timestamp_ms": 1718770363378,
+      "content": "Hey there",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "V\u00f0\u009f\u0095\u00b7",
+  "is_still_participant": true,
+  "thread_path": "inbox/v_1385851526139581",
+  "magic_words": [
+    
+  ]
+}

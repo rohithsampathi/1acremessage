@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Sagar Purushotham"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707294333426,
+      "content": "How would you like to participate?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707294322601,
+      "content": "Thank you. Sure, yes. We plan to launch in other states very soon.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sagar Purushotham",
+      "timestamp_ms": 1707290604306,
+      "content": "Would love to help you out if you want to expand to other states",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sagar Purushotham",
+      "timestamp_ms": 1707290478177,
+      "content": "Hi this is Sagar. Really impressed by your website idea . Do you any plans to operate in bangalore karnataka",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sagar Purushotham",
+  "is_still_participant": true,
+  "thread_path": "inbox/sagarpurushotham_1348581936541260",
+  "magic_words": [
+    
+  ]
+}

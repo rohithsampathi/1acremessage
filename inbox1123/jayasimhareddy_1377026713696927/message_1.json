@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Jayasimha Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707451300385,
+      "content": "Ok. Ramakrishna from the team, will call you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jayasimha Reddy",
+      "timestamp_ms": 1707444334222,
+      "content": "My number is 9704558718",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jayasimha Reddy",
+      "timestamp_ms": 1707444324010,
+      "content": "Am a Agent  CHEVELLA market  you want lands  contact me",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jayasimha Reddy",
+      "timestamp_ms": 1707444235183,
+      "content": "My self jayasimhareddy",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jayasimha Reddy",
+      "timestamp_ms": 1707444229523,
+      "content": "Hi sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Jayasimha Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/jayasimhareddy_1377026713696927",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Siddharth Koramoni"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706180326294,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Siddharth Koramoni",
+      "timestamp_ms": 1706179967207,
+      "content": "Please revert back if there is any",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Siddharth Koramoni",
+      "timestamp_ms": 1706179952886,
+      "content": "Looking for 30 to 100 aceres in south  telangana around 10 to 15 L per acere",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Siddharth Koramoni",
+      "timestamp_ms": 1706179886836,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Siddharth Koramoni",
+      "timestamp_ms": 1706179687447,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Siddharth Koramoni",
+  "is_still_participant": true,
+  "thread_path": "inbox/siddharthkoramoni_1167004824683088",
+  "magic_words": [
+    
+  ]
+}

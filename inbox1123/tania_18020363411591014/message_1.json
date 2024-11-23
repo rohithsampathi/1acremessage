@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Tania"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726203153640,
+      "content": "Hello Tania, \nUnfortunately, if you are a foreign national, you can not buy Agri land in India. But you can buy non agricultural land. \n\nPlease consult a legal expert for more detailed information",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tania",
+      "timestamp_ms": 1726199602215,
+      "content": "Hi\nI had a quick question.\nAs a person of Indian origin and a foreign national, am I allowed to buy farmlands in India. \n\nThank you\nTania",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Tania",
+  "is_still_participant": true,
+  "thread_path": "inbox/tania_18020363411591014",
+  "magic_words": [
+    
+  ]
+}

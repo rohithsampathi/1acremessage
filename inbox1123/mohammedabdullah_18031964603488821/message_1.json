@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Mohammed Abdullah"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721198844784,
+      "content": "Could you tell us which land?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammed Abdullah",
+      "timestamp_ms": 1721198002280,
+      "content": "I am interested in this land. Wud like further details. 9840922781 my number",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mohammed Abdullah",
+  "is_still_participant": true,
+  "thread_path": "inbox/mohammedabdullah_18031964603488821",
+  "magic_words": [
+    
+  ]
+}

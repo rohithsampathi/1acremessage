@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Lokesh Bishnoi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721221641994,
+      "content": "Theek hein.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lokesh Bishnoi",
+      "timestamp_ms": 1721219695213,
+      "content": "Madhya Pradesh ke Harda khandwa district me zamin khridne ke liye sampark kare 9926852138",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Lokesh Bishnoi",
+  "is_still_participant": true,
+  "thread_path": "inbox/lokeshbishnoi_1432769131450807",
+  "magic_words": [
+    
+  ]
+}

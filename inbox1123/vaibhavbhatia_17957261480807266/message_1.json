@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Vaibhav Bhatia"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725345216859,
+      "content": "We are starting soon.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725345211878,
+      "content": "No we didn't.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vaibhav Bhatia",
+      "timestamp_ms": 1725285378501,
+      "content": "6 to 10 acres in north India \nIn 1 cr",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vaibhav Bhatia",
+      "timestamp_ms": 1725285349743,
+      "content": "Did u deal in north India",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725281129379,
+      "content": "Hi, Please contact Srikar 8341149011, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725281118602,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vaibhav Bhatia",
+      "timestamp_ms": 1725279750234,
+      "content": "40 acres still available",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vaibhav Bhatia",
+  "is_still_participant": true,
+  "thread_path": "inbox/vaibhavbhatia_17957261480807266",
+  "magic_words": [
+    
+  ]
+}

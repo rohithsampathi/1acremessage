@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Hari Vardhan Domala"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Hari Vardhan Domala",
+      "timestamp_ms": 1702457243013,
+      "content": "H",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Hari Vardhan Domala",
+  "is_still_participant": true,
+  "thread_path": "inbox/harivardhandomala_1244420300283271",
+  "magic_words": [
+    
+  ]
+}

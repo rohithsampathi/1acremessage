@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Basalath Khan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726446452211,
+      "content": "Thank you for applying as a regional partner with 1acre.in.\nWe shall get back to you soon",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726446446100,
+      "content": "Basalath Khan replied to an ad. View ad(https://www.instagram.com/p/C_xWYoiMQ-v/)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Basalath Khan",
+      "timestamp_ms": 1726446444729,
+      "content": "Hello, Can I get more info on this?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Basalath Khan",
+  "is_still_participant": true,
+  "thread_path": "inbox/basalathkhan_1484603079599207",
+  "magic_words": [
+    
+  ]
+}

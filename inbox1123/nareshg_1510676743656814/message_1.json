@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Naresh G"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Naresh G",
+      "timestamp_ms": 1732009626479,
+      "content": "Ok. Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1732006337612,
+      "content": "Please call our team member Venu at +91 76749 01201\n\nHe shall help you list it and share other details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Naresh G",
+      "timestamp_ms": 1732000909582,
+      "content": "Hi Team, we have a total Seven acres of land for sale in Velamgudem, Nalgonda dist. Please let me know the process to advertise with you or help us to find the customer. \n\nhttps://maps.app.goo.gl/KMCMTZaEnkG8DxRR9",
+      "share": {
+        "link": "https://maps.app.goo.gl/KMCMTZaEnkG8DxRR9",
+        "share_text": "Hi Team, we have a total Seven acres of land for sale in Velamgudem, Nalgonda dist. Please let me know the process to advertise with you or help us to find the customer. \n\nhttps://maps.app.goo.gl/KMCMTZaEnkG8DxRR9"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Naresh G",
+  "is_still_participant": true,
+  "thread_path": "inbox/nareshg_1510676743656814",
+  "magic_words": [
+    
+  ]
+}

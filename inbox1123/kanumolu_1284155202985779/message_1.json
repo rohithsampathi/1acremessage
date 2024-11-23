@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "K Anumolu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702442677746,
+      "content": "Yes they are available , you can connect with pratheek  9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "K Anumolu",
+      "timestamp_ms": 1702415379110,
+      "content": "Any land available in acres at 1 cr around Hyderabad?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "K Anumolu",
+  "is_still_participant": true,
+  "thread_path": "inbox/kanumolu_1284155202985779",
+  "magic_words": [
+    
+  ]
+}

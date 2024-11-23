@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Abdul Kareem"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720345392518,
+      "content": "Hello \u00f0\u009f\u0091\u008b",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abdul Kareem",
+      "timestamp_ms": 1720340023368,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Abdul Kareem",
+  "is_still_participant": true,
+  "thread_path": "inbox/abdulkareem_17857088514207790",
+  "magic_words": [
+    
+  ]
+}

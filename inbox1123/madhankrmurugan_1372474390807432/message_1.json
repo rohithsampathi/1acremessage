@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Madhan Kr Murugan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Madhan Kr Murugan",
+      "timestamp_ms": 1721631255413,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721630279235,
+      "content": "TN will also start in a month or two. Will keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Madhan Kr Murugan",
+      "timestamp_ms": 1721630158234,
+      "content": "Looking for TN",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721629925338,
+      "content": "Right now. We are starting Andhra, Maharashtra and Karnataka soon.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Madhan Kr Murugan",
+      "timestamp_ms": 1721559307965,
+      "content": "Hi .. do you deal only Telangana?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Madhan Kr Murugan",
+  "is_still_participant": true,
+  "thread_path": "inbox/madhankrmurugan_1372474390807432",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Real Estate Service"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Real Estate Service",
+      "timestamp_ms": 1731420008278,
+      "content": "Real sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DCRAllViPy6/",
+        "share_text": "Plots Available in Sikri, Faridabad\u00f0\u009f\u008c\u009f\n\nDreaming of owning land in a prime location? We\u00e2\u0080\u0099ve got you covered! Plots available on NH2 Main Mathura Road near the upcoming Tikri Metro Station! Starting at just \u00e2\u0082\u00b912.50 lakhs, with options ranging from 50 to 1000 sq. yards.\n\n\u00f0\u009f\u009b\u00a3\u00ef\u00b8\u008f Main Road Access\n\u00f0\u009f\u008c\u00b3 Parks\n\u00f0\u009f\u0092\u00a1 Proper Lighting\n\u00f0\u009f\u009b\u0095Temples\n\u00f0\u009f\u0093\u00b9 CCTV Security\n\u00f0\u009f\u008f\u00a0 Clear Registration & Entry\nLimited plots, secure yours today! \u00f0\u009f\u0093\u009e Call us: 9958855167, 8887586393",
+        "original_content_owner": "gstinfratech_"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Real Estate Service",
+  "is_still_participant": true,
+  "thread_path": "inbox/realestateservice_17870624691227451",
+  "magic_words": [
+    
+  ]
+}

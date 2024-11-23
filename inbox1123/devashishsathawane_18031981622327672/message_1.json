@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Devashish Sathawane"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Devashish Sathawane",
+      "timestamp_ms": 1724639378936,
+      "content": "\u00f0\u009f\u0091\u008d\u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724638044234,
+      "content": "Will keep you posted",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724638034918,
+      "content": "We are launching soon in Maharashtra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724638001197,
+      "content": "Okay sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Devashish Sathawane",
+      "timestamp_ms": 1724592468284,
+      "content": "I am student but I know some lands which is for sell",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724387701515,
+      "content": "Are you An agent/land owner?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Devashish Sathawane",
+      "timestamp_ms": 1724385937903,
+      "content": "Start in Maharashtra Nagpur Vidharbha Side it will be helpful for us",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Devashish Sathawane",
+  "is_still_participant": true,
+  "thread_path": "inbox/devashishsathawane_18031981622327672",
+  "magic_words": [
+    
+  ]
+}

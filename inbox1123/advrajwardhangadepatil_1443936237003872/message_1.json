@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Adv. Rajwardhan Gade patil"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720240430075,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Adv. Rajwardhan Gade patil",
+      "timestamp_ms": 1720231966476,
+      "content": "Just 6 hrs of way to Telangana",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Adv. Rajwardhan Gade patil",
+      "timestamp_ms": 1720231890888,
+      "content": "150 acres of land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Adv. Rajwardhan Gade patil",
+      "timestamp_ms": 1720231876903,
+      "content": "Can you send your contact",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Adv. Rajwardhan Gade patil",
+      "timestamp_ms": 1720231864096,
+      "content": "I want to sell my land at yavatmal",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Adv. Rajwardhan Gade patil",
+  "is_still_participant": true,
+  "thread_path": "inbox/advrajwardhangadepatil_1443936237003872",
+  "magic_words": [
+    
+  ]
+}

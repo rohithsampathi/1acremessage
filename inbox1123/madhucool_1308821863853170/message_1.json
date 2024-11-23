@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Madhu Cool"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Madhu Cool",
+      "timestamp_ms": 1706761150302,
+      "content": "Ok Tnqqq",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706692988057,
+      "content": "He'll help you with listing the properties",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706692968746,
+      "content": "Hi, Please contact Ramakrishna \n7780122120",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706692963869,
+      "content": "Not needed.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Madhu Cool",
+      "timestamp_ms": 1706631053642,
+      "content": "Do we need any Registration for Agent\u00e2\u0080\u00a6to list the Properties",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706630885820,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Madhu Cool",
+      "timestamp_ms": 1706629296188,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Madhu Cool",
+  "is_still_participant": true,
+  "thread_path": "inbox/madhucool_1308821863853170",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Prakash Kannur"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724725876612,
+      "content": "How can we help you ??",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724725867471,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prakash Kannur",
+      "timestamp_ms": 1724697109591,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Prakash Kannur",
+  "is_still_participant": true,
+  "thread_path": "inbox/prakashkannur_1036668597845837",
+  "magic_words": [
+    
+  ]
+}

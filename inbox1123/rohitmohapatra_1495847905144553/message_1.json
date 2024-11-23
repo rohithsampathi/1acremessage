@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Rohit Mohapatra"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725019274330,
+      "content": "Hi, Please contact Srikar 8341149011, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rohit Mohapatra",
+      "timestamp_ms": 1725001375184,
+      "content": "if any similar also please share",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rohit Mohapatra",
+      "timestamp_ms": 1725001349347,
+      "content": "Could you please share more details on Yavatmal land.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rohit Mohapatra",
+      "timestamp_ms": 1725001316467,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rohit Mohapatra",
+  "is_still_participant": true,
+  "thread_path": "inbox/rohitmohapatra_1495847905144553",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Vedant Sri"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712491991382,
+      "content": "Hi, Please contact Harish\n9032114737, from the team, to discuss.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vedant Sri",
+      "timestamp_ms": 1712490947949,
+      "content": "Hello! I am based in Bangalore and wanted to know if any job opportunities are available.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vedant Sri",
+  "is_still_participant": true,
+  "thread_path": "inbox/vedantsri_1353934402665449",
+  "magic_words": [
+    
+  ]
+}

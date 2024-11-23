@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Ashish Sabharwal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705120498409,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ashish Sabharwal",
+      "timestamp_ms": 1705118798741,
+      "content": "Land bank Maharashtra 5000 acre\n Please contact",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ashish Sabharwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/ashishsabharwal_1323887055678842",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Pooja Gutti"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721104270044,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721104269316,
+      "content": "Hi, Please contact Vijay 9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pooja Gutti",
+      "timestamp_ms": 1720959793309,
+      "content": "Hi I am interested in this",
+      "share": {
+        "link": "https://www.instagram.com/p/C9UBKzZtEb-/"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Pooja Gutti",
+  "is_still_participant": true,
+  "thread_path": "inbox/poojagutti_18034235474092119",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "surya_naidu_only"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "surya_naidu_only",
+      "timestamp_ms": 1725967718713,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725958390352,
+      "content": "Hi, Please contact Srikar 8341149011, from the team. He'll help you with it.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "surya_naidu_only",
+          "timestamp": 1725967718
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "surya_naidu_only",
+      "timestamp_ms": 1725908208276,
+      "content": "Can you please share us the complete details for development.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "surya_naidu_only",
+      "timestamp_ms": 1725908207898,
+      "content": "surya_naidu_only sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C_XgxHHy-hJ/?id=3447368152165115977_47651711013",
+        "share_text": "Unique Opportunity for Developers \u00f0\u009f\u009a\u0080\n\n2 acres | \u00e2\u0082\u00b92.1 Cr per acre | Lake facing land near Ananthgiri Hills | Link in Bio \u00f0\u009f\u0094\u0097\n\nVerified and facilitated by 1acre.in \u00e2\u009c\u0085\n\n\u00f0\u009f\u0093\u008d Property Specs \u00f0\u009f\u0097\u00ba\u00ef\u00b8\u008f:\n\n\u00e2\u0080\u00a2 Lake-facing land with 50 feet Black Top road access\n\u00e2\u0080\u00a2 Surrounded by resorts and camping sites \u00f0\u009f\u008f\u0095\u00ef\u00b8\u008f\n\u00e2\u0080\u00a2 65 KM from TSPA exit and 15 KM from Bijapur Highway\n\u00e2\u0080\u00a2 Comes under the free zone\n\u00e2\u0080\u00a2 Ideal for a resort or a lake-facing studio \u00f0\u009f\u008f\u00a2\n\u00e2\u0080\u00a2 This land is located beyond FTL and buffer zone limits\n\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 9959994737\n\n\u00f0\u009f\u0092\u00ac DM us for more queries on buying, selling, or partnerships \u00f0\u009f\u00a4\u009d\n\n #landforsale #propertyforsale #realestate #land #lake #lakeland #telangana #vikarabad #ananthagirihills #telanaganarealestate #resort",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "surya_naidu_only",
+  "is_still_participant": true,
+  "thread_path": "inbox/surya_naidu_only_17891321250083093",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Waseem Khan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711590763527,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Waseem Khan",
+      "timestamp_ms": 1711579226569,
+      "content": "Isnapur chitkul village plot for sale just a walkable distance from Bombay highway 2 side road south east 200 square yards",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Waseem Khan",
+  "is_still_participant": true,
+  "thread_path": "inbox/waseemkhan_1284014292987505",
+  "magic_words": [
+    
+  ]
+}

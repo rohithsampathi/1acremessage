@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Ni Va"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727928242363,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ni Va",
+      "timestamp_ms": 1727873689816,
+      "content": "Is this available for development???",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ni Va",
+      "timestamp_ms": 1727873660428,
+      "content": "Ni sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C9cB_5hKwzX/?id=3412611406773292247_47651711013",
+        "share_text": "1800 Sq.Yds | \u00e2\u0082\u00b990,000 per Sq.Yd | Near Narsingi | Link in bio \u00f0\u009f\u008c\u009f\n\nVerified and facilitated by 1acre.in\nIdeal for apartments \nLocated in a low-density built area\nProximity to ORR, Kokapet and Financial District. \n\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 9959994737\n\n\u00f0\u009f\u0093\u00ac DM us for more queries on buying, selling, or partnerships",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ni Va",
+  "is_still_participant": true,
+  "thread_path": "inbox/niva_1486001826125302",
+  "magic_words": [
+    
+  ]
+}

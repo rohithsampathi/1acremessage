@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Kartik Kharde Patil"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kartik Kharde Patil",
+      "timestamp_ms": 1722249380884,
+      "content": "Hello sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722163215551,
+      "content": "How can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722163211024,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kartik Kharde Patil",
+      "timestamp_ms": 1722148782660,
+      "content": "Hello sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kartik Kharde Patil",
+  "is_still_participant": true,
+  "thread_path": "inbox/kartikkhardepatil_17950613060811674",
+  "magic_words": [
+    
+  ]
+}

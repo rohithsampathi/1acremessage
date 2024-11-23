@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Aditya Agarwal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aditya Agarwal",
+      "timestamp_ms": 1720973520164,
+      "content": "Okay\n Thankyou",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720964515152,
+      "content": "We are currently listing Telangana. We'll list other states soon. Will keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aditya Agarwal",
+      "timestamp_ms": 1720963411909,
+      "content": "Hii \nI am looking for land near lonavala (jabhulwadi area preffered) can you provide any land there?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Aditya Agarwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/adityaagarwal_1004622307709524",
+  "magic_words": [
+    
+  ]
+}

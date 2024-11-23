@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Manognya Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697870236385,
+      "content": "Hey Manogya , for more details please visit our website :https://www.1acre.in/, contact:7780122120",
+      "share": {
+        "link": "https://1acre.in/",
+        "share_text": "Looking to Buy land in Telangana? Get Exclusive Access to Verified Land Deals in Telangana and Protect Your Investment with our services like Free Verification, Surveying, Monitoring, and More!"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manognya Reddy",
+      "timestamp_ms": 1697851092225,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/manognyareddy_17915445272817230/photos/394597802_182276641589800_810562697084520169_n_182276638256467.jpg",
+          "creation_timestamp": 1697851091,
+          "backup_uri": "https://scontent.fmaa12-3.fna.fbcdn.net/v/t1.15752-9/394597802_182276641589800_810562697084520169_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=9f807c&_nc_ohc=GAiUQpYzRn0Q7kNvgHZ7yko&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fmaa12-3.fna&oh=03_Q7cD1QHcacCc-uu2GHbhzI_Cxdy6pVXm0XdENxaM3ZG9FRiKRw&oe=6766AEF7"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manognya Reddy",
+      "timestamp_ms": 1697851081237,
+      "content": "Location please",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Manognya Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/manognyareddy_17915445272817230",
+  "magic_words": [
+    
+  ]
+}

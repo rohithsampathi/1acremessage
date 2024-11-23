@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "mr_fayaz brs"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703039147358,
+      "content": "Hello, please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "mr_fayaz brs",
+      "timestamp_ms": 1703038246353,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "mr_fayaz brs",
+  "is_still_participant": true,
+  "thread_path": "inbox/mr_fayazbrs_18014455421083623",
+  "magic_words": [
+    
+  ]
+}

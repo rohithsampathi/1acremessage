@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Shreyas"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717598516085,
+      "content": "Hi, \n1acre.in is currently listing only for Telanagana.\nWe'll soon start Karnataka. \nWill keep you posted. \nThanks for reaching out.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, \n1acre.in is currently listing only for Telanagana.\nWe'll soon start Karnataka. \nWill keep you posted. \nThanks for reaching out."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shreyas",
+      "timestamp_ms": 1717596699286,
+      "content": "Not able to find Karnataka opportunities",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shreyas",
+      "timestamp_ms": 1717596684538,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shreyas",
+  "is_still_participant": true,
+  "thread_path": "inbox/shreyas_17866668762132108",
+  "magic_words": [
+    
+  ]
+}

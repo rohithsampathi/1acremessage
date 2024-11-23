@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Harish Pal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Harish Pal",
+      "timestamp_ms": 1722165433275,
+      "content": "In India",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harish Pal",
+      "timestamp_ms": 1722165425333,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722163332270,
+      "content": "We only deal in land.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harish Pal",
+      "timestamp_ms": 1722147341845,
+      "content": "Hoi good morning \nPls give me tips I'm in Abu Dhabi how to grow in green vegetables in Abu Dhabi to very Cheap expensis",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722132754499,
+      "content": "How may we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harish Pal",
+      "timestamp_ms": 1722110196184,
+      "content": "Pls reply",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harish Pal",
+      "timestamp_ms": 1722110117771,
+      "content": "Hiii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Harish Pal",
+  "is_still_participant": true,
+  "thread_path": "inbox/harishpal_1446804956720729",
+  "magic_words": [
+    
+  ]
+}

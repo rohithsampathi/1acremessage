@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Vinodkumar Nani"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716301255319,
+      "content": "Hello, Please tell",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vinodkumar Nani",
+      "timestamp_ms": 1716301235240,
+      "content": "Hii sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vinodkumar Nani",
+  "is_still_participant": true,
+  "thread_path": "inbox/vinodkumarnani_18027562406303995",
+  "magic_words": [
+    
+  ]
+}

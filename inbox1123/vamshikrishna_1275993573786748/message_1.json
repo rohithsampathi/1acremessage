@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Vamshi Krishna\u00f0\u009f\u0094\u00b1"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vamshi Krishna\u00f0\u009f\u0094\u00b1",
+      "timestamp_ms": 1719244210786,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719244114680,
+      "content": "Cool",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Vamshi Krishna\u00f0\u009f\u0094\u00b1",
+          "timestamp": 1719244210
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vamshi Krishna\u00f0\u009f\u0094\u00b1",
+      "timestamp_ms": 1719243938713,
+      "content": "Ok I\u00e2\u0080\u0099ll contact in morning 1st hour",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719243904786,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719243903995,
+      "content": "Hi, Please contact Vijay 9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719243887207,
+      "content": "You should start listing.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vamshi Krishna\u00f0\u009f\u0094\u00b1",
+      "timestamp_ms": 1719243642892,
+      "content": "Am from Hyderabad.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719243558226,
+      "content": "Hi, Thanks for reaching out. \nWhere are you from?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vamshi Krishna\u00f0\u009f\u0094\u00b1",
+      "timestamp_ms": 1719243423684,
+      "content": "Hello 1 acre.in \nAm Vamshi Krishna working agent in real estate I\u00e2\u0080\u0099ve seen your bio seen can be also a partner can I get more info on it",
+      "share": {
+        "link": "http://acre.in/",
+        "share_text": "Hello 1 acre.in \nAm Vamshi Krishna working agent in real estate I\u00e2\u0080\u0099ve seen your bio seen can be also a partner can I get more info on it"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vamshi Krishna\u00f0\u009f\u0094\u00b1",
+  "is_still_participant": true,
+  "thread_path": "inbox/vamshikrishna_1275993573786748",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "participants": [
+    {
+      "name": "Akmal Pasha"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Akmal Pasha",
+      "timestamp_ms": 1721789210343,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721788443798,
+      "content": "You can call the sellers directly.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Akmal Pasha",
+          "timestamp": 1721789210
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721788439671,
+      "content": "1acre.in/subscribe  Please explore.",
+      "share": {
+        "link": "http://1acre.in/subscribe",
+        "share_text": "1acre.in/subscribe  Please explore."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akmal Pasha",
+      "timestamp_ms": 1721784716519,
+      "content": "Around hyderabad or Vijayawada \nDo you have any leads?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akmal Pasha",
+      "timestamp_ms": 1721784703698,
+      "content": "I\u00e2\u0080\u0099m looking for lands within 10-15 lakhs",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akmal Pasha",
+      "timestamp_ms": 1721784694586,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Akmal Pasha",
+  "is_still_participant": true,
+  "thread_path": "inbox/akmalpasha_1455217242539138",
+  "magic_words": [
+    
+  ]
+}

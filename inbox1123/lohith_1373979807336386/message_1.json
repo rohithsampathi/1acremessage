@@ -1,0 +1,84 @@
+{
+  "participants": [
+    {
+      "name": "Lohith"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lohith",
+      "timestamp_ms": 1720037797208,
+      "content": "Any leads ??",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lohith",
+      "timestamp_ms": 1720037792681,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lohith",
+      "timestamp_ms": 1708530736188,
+      "content": "If loan is available then can extend",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lohith",
+      "timestamp_ms": 1708530729844,
+      "content": "Budget within 35-40 lakhs",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lohith",
+      "timestamp_ms": 1708530711409,
+      "content": "Sites also ok , land also ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708525636989,
+      "content": "We'll tell you if we get any. We are getting some flow of lands although we haven't opened listings.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708525602548,
+      "content": "But could you tell what you are looking for? Area/size/budget?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lohith",
+      "timestamp_ms": 1708525558258,
+      "content": "Ok cool",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708525127242,
+      "content": "Hi, thanks for reaching out. We are currently dealing with only Telangana. But soon, we'll launch other states and let you know.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lohith",
+      "timestamp_ms": 1708522191616,
+      "content": "Needed lands in Bangalore or its outskirts",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lohith",
+      "timestamp_ms": 1708522163346,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Lohith",
+  "is_still_participant": true,
+  "thread_path": "inbox/lohith_1373979807336386",
+  "magic_words": [
+    
+  ]
+}

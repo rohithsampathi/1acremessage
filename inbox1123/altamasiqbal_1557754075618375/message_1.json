@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "altamas iqbal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "altamas iqbal",
+      "timestamp_ms": 1732013513129,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731996769372,
+      "content": "We shall launch in couple of months",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731996762361,
+      "content": "Not yet",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "altamas iqbal",
+      "timestamp_ms": 1731951916228,
+      "content": "Do u have land in  Ranchi ??",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731950113753,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "altamas iqbal",
+      "timestamp_ms": 1731945953724,
+      "content": "Hlo",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "altamas iqbal",
+  "is_still_participant": true,
+  "thread_path": "inbox/altamasiqbal_1557754075618375",
+  "magic_words": [
+    
+  ]
+}

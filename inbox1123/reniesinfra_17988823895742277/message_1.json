@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Renies Infra"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Renies Infra",
+      "timestamp_ms": 1731751435286,
+      "content": "Regarding shadnagar property",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Renies Infra",
+      "timestamp_ms": 1731751415515,
+      "content": "Yesterday I have called you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Renies Infra",
+      "timestamp_ms": 1731751396164,
+      "content": "From Renies Infra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Renies Infra",
+      "timestamp_ms": 1731751389414,
+      "content": "This is Leela",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Renies Infra",
+      "timestamp_ms": 1731751373977,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731749900925,
+      "content": "What are you looking for ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Renies Infra",
+      "timestamp_ms": 1731721774665,
+      "content": "Call me",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731667737002,
+      "content": "How can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731667657417,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Renies Infra",
+      "timestamp_ms": 1731647735996,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Renies Infra",
+  "is_still_participant": true,
+  "thread_path": "inbox/reniesinfra_17988823895742277",
+  "magic_words": [
+    
+  ]
+}

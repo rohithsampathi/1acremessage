@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Money Purse {\u00e0\u00b0\u00ae\u00e0\u00b0\u00a8\u00e0\u00b1\u0080 \u00e0\u00b0\u00aa\u00e0\u00b0\u00b0\u00e0\u00b1\u008d\u00e0\u00b0\u00b8\u00e0\u00b1\u008d}"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1699700758033,
+      "content": "Hey , we are interested to work with you for a collaboration , can we connect ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Money Purse {\u00e0\u00b0\u00ae\u00e0\u00b0\u00a8\u00e0\u00b1\u0080 \u00e0\u00b0\u00aa\u00e0\u00b0\u00b0\u00e0\u00b1\u008d\u00e0\u00b0\u00b8\u00e0\u00b1\u008d}",
+  "is_still_participant": true,
+  "thread_path": "inbox/moneypursemanipars_1273777920687814",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "participants": [
+    {
+      "name": "Sohail Hajiani"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721188591001,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721188590305,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team.\nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721188562715,
+      "content": "Ohh, sorry about that.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sohail Hajiani",
+      "timestamp_ms": 1721186165960,
+      "content": "This is in Telangana only, 3 km from ORR near gandimaissamma",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721154447909,
+      "content": "We are currently listing Telangana. We'll list other states soon. Will keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sohail Hajiani",
+      "timestamp_ms": 1721150776788,
+      "content": "Gagilapur, 1861 Sq Yards, 48,000/- Sq Yard",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721148767040,
+      "content": "Could you tell us, \nLocation, extent and price?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sohail Hajiani",
+      "timestamp_ms": 1721145958133,
+      "content": "Hi, would like to post my property on the portal for sale",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704508735979,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sohail Hajiani",
+      "timestamp_ms": 1704504018325,
+      "content": "Pls share more details",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sohail Hajiani",
+  "is_still_participant": true,
+  "thread_path": "inbox/sohailhajiani_1187732495964987",
+  "magic_words": [
+    
+  ]
+}

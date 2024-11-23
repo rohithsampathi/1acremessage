@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "REAL PROPERTY"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "REAL PROPERTY",
+      "timestamp_ms": 1718815328511,
+      "content": "REAL sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C8Z13ZhvHGG/",
+        "share_text": "3acre 20guntas property for sale\n#realestate #property #sale #farmhouse #place #hyderabad #medchal #realproperty",
+        "original_content_owner": "realproperty_02"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "REAL PROPERTY",
+      "timestamp_ms": 1718552786031,
+      "content": "REAL sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C8JjOS4SUuF/?id=3389395108545252229_67451603255",
+        "share_text": "Plot for sale 300square yards \n#realestate #Hyderabad",
+        "original_content_owner": "realproperty_02"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "REAL PROPERTY",
+  "is_still_participant": true,
+  "thread_path": "inbox/realproperty_17842791621251256",
+  "magic_words": [
+    
+  ]
+}

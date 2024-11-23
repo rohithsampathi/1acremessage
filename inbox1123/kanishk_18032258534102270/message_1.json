@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Kanishk"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720053860088,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720053859252,
+      "content": "There isn't any website page link, as we are only listing lands from Telangana on 1acre.in, as of today.\n\nBut if you are looking to buy it and need more details, \nPlease contact Vijay\n9959994737, from the team.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "There isn't any website page link, as we are only listing lands from Telangana on 1acre.in, as of today.\n\nBut if you are looking to buy it and need more details, \nPlease contact Vijay\n9959994737, from the team."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kanishk",
+      "timestamp_ms": 1720024897668,
+      "content": "Hi, if this is still available can you share the website page link for this property please. Thanks in advance!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kanishk",
+      "timestamp_ms": 1720024897215,
+      "content": "Kanishk sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C7InZjuKaVo/?id=3371117601243112808_47651711013",
+        "share_text": "Further:\n15km away from the Upcoming Nagpur-Goa Shakthipeeth expressway. \nA new railway line between Nagpur and Nanded is underway. \n\n10 Acres - 1.5Cr\n\nThis transaction is facilitated by 1acre.in, till the process of registration. \nIf you are interested in buying, \nContact: 9959994737\n\n#1acre #1acre.in #beauty #landscapephotography",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kanishk",
+  "is_still_participant": true,
+  "thread_path": "inbox/kanishk_18032258534102270",
+  "magic_words": [
+    
+  ]
+}

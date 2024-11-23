@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "kanha sharma"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730256230085,
+      "content": "We will launch soon",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730256224120,
+      "content": "Not yet",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "kanha sharma",
+      "timestamp_ms": 1730013693343,
+      "content": "Are you available in mp",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722563539801,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "kanha sharma",
+      "timestamp_ms": 1722526808352,
+      "content": "Of   22000sq feet",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "kanha sharma",
+      "timestamp_ms": 1722526693833,
+      "content": "I need to sold my plot",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "kanha sharma",
+  "is_still_participant": true,
+  "thread_path": "inbox/kanhasharma_18015152924591014",
+  "magic_words": [
+    
+  ]
+}

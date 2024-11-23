@@ -1,0 +1,91 @@
+{
+  "participants": [
+    {
+      "name": "unholy priest"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "unholy priest",
+      "timestamp_ms": 1718016981404,
+      "content": "Thank you so much.. Appreciate your help",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1718017012
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718016962671,
+      "content": "Please contact Ratna Kiran \n9390155412\nHe'll help you with it",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718016938946,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "unholy priest",
+      "timestamp_ms": 1718016610091,
+      "content": "Commercial",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "unholy priest",
+      "timestamp_ms": 1718016602600,
+      "content": "It's near srinagar colony",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "unholy priest",
+      "timestamp_ms": 1718016594136,
+      "content": "Hyderabad telanagana",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718015274870,
+      "content": "This account is handled by the team and we'll connect you with the concerned person",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718015239109,
+      "content": "At least which state and extent?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "unholy priest",
+      "timestamp_ms": 1718015087192,
+      "content": "Yea sure I feel it's better if we had this conversation over the phone?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718014335995,
+      "content": "Could you tell us the details of the land? Location, price & extent?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "unholy priest",
+      "timestamp_ms": 1718014212086,
+      "content": "Hi team. I have a property for selling. To discuss further could you please help me with your contact details?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "unholy priest",
+  "is_still_participant": true,
+  "thread_path": "inbox/unholypriest_1402828211108838",
+  "magic_words": [
+    
+  ]
+}

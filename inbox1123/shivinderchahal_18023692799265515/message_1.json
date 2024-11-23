@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Shivinder Chahal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720236443495,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720236442748,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shivinder Chahal",
+      "timestamp_ms": 1720187971269,
+      "content": "Interested in 40 acre in Yavatmal",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shivinder Chahal",
+  "is_still_participant": true,
+  "thread_path": "inbox/shivinderchahal_18023692799265515",
+  "magic_words": [
+    
+  ]
+}

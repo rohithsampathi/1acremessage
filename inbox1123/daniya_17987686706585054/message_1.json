@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "daniya"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701368565195,
+      "content": "Hi , for more details please visit our website :https://www.1acre.in/, contact:9505778117",
+      "share": {
+        "link": "https://www.1acre.in/",
+        "share_text": "Hi , for more details please visit our website :https://www.1acre.in/, contact:9505778117"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "daniya",
+      "timestamp_ms": 1701362554515,
+      "content": "Please contact number",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "daniya",
+  "is_still_participant": true,
+  "thread_path": "inbox/daniya_17987686706585054",
+  "magic_words": [
+    
+  ]
+}

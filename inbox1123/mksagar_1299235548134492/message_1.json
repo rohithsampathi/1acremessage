@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "M K Sagar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "M K Sagar",
+      "timestamp_ms": 1719375247824,
+      "content": "Hlo",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708530749621,
+      "content": "Hi, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "M K Sagar",
+      "timestamp_ms": 1708527284625,
+      "content": "Hlo",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "M K Sagar",
+  "is_still_participant": true,
+  "thread_path": "inbox/mksagar_1299235548134492",
+  "magic_words": [
+    
+  ]
+}

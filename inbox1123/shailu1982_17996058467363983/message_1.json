@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Shailu1982"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shailu1982",
+      "timestamp_ms": 1701510294184,
+      "content": "Sorry sir.. just want to ask the lands that you are showing around hyderabad are with in the budget, how much time they give to clear the money..",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701500587069,
+      "content": "?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shailu1982",
+      "timestamp_ms": 1701493695432,
+      "content": ".",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shailu1982",
+  "is_still_participant": true,
+  "thread_path": "inbox/shailu1982_17996058467363983",
+  "magic_words": [
+    
+  ]
+}

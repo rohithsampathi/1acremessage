@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Sirisha Kanthi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707843378616,
+      "content": "Hi, thanks for reaching out.\nPlease contact Vijay\n9959994737. He'll help you with all the details.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sirisha Kanthi",
+      "timestamp_ms": 1707841514674,
+      "content": "What is the process to contact you to list a land for sale?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sirisha Kanthi",
+      "timestamp_ms": 1707841489494,
+      "content": "Hi there, do you also assist selling housing properties? If yes, do you work in certain areas or across Hyderabad",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sirisha Kanthi",
+  "is_still_participant": true,
+  "thread_path": "inbox/sirishakanthi_1300337728034880",
+  "magic_words": [
+    
+  ]
+}

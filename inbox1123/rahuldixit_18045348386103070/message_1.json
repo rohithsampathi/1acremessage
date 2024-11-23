@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Rahul Dixit \u00f0\u009f\u0094\u0096"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730781397068,
+      "content": "Which area are you looking at ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730781389845,
+      "content": "Right now we do not have many opportunities",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rahul Dixit \u00f0\u009f\u0094\u0096",
+      "timestamp_ms": 1730746491036,
+      "content": "North side me available nhi hai kya",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rahul Dixit \u00f0\u009f\u0094\u0096",
+  "is_still_participant": true,
+  "thread_path": "inbox/rahuldixit_18045348386103070",
+  "magic_words": [
+    
+  ]
+}

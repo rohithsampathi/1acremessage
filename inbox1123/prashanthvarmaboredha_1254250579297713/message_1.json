@@ -1,0 +1,90 @@
+{
+  "participants": [
+    {
+      "name": "Prashanth Varma Boredha"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Prashanth Varma Boredha",
+      "timestamp_ms": 1710519438938,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710519428852,
+      "content": "Please contact the number on the video.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prashanth Varma Boredha",
+      "timestamp_ms": 1710519170584,
+      "content": "Prashanth sent an attachment.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prashanth Varma Boredha",
+      "timestamp_ms": 1708714862436,
+      "content": "Prashanth sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C0Q6zYRyZA3/?id=3247353948793311287_47651711013",
+        "share_text": "Cheapest lands, closest to Hyderabad - A lot of our premium subscribers have asked us for this. We are actively trying to procure lands in Karnataka (Sedem, Gulbarga, Yadgir) closer to Telangana border, Where you should be able to reach in about 3hrs.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prashanth Varma Boredha",
+      "timestamp_ms": 1708265724649,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708264575879,
+      "content": "Please contact Ramakrishna \n7780122120, from the team. He'll help you with it.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Prashanth Varma Boredha",
+          "timestamp": 1708265724
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prashanth Varma Boredha",
+      "timestamp_ms": 1708264232234,
+      "content": "I want sale my land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708143999624,
+      "content": "May I know what you are looking for? I'll connect someone accordingly.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prashanth Varma Boredha",
+      "timestamp_ms": 1708107259092,
+      "content": "Please share your contact details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prashanth Varma Boredha",
+      "timestamp_ms": 1708107249875,
+      "content": "Hi 1@cre.in",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Prashanth Varma Boredha",
+  "is_still_participant": true,
+  "thread_path": "inbox/prashanthvarmaboredha_1254250579297713",
+  "magic_words": [
+    
+  ]
+}

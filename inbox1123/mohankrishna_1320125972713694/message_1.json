@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Mohan Krishna"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709370530457,
+      "content": "Hi, we generally don't.\nBut for our premium subscribers,\nWe do connect them to our empanelled lawyers, if they don't have any.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohan Krishna",
+      "timestamp_ms": 1709367670595,
+      "content": "Do you provide legal services as well..?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohan Krishna",
+      "timestamp_ms": 1709367648768,
+      "content": "Hi Team",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mohan Krishna",
+  "is_still_participant": true,
+  "thread_path": "inbox/mohankrishna_1320125972713694",
+  "magic_words": [
+    
+  ]
+}

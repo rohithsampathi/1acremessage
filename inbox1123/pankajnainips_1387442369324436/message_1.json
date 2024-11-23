@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Pankaj Nain IPS"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718780089478,
+      "content": "Ratna Kiran \n9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pankaj Nain IPS",
+      "timestamp_ms": 1718777694019,
+      "content": "Share contact",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Pankaj Nain IPS",
+  "is_still_participant": true,
+  "thread_path": "inbox/pankajnainips_1387442369324436",
+  "magic_words": [
+    
+  ]
+}

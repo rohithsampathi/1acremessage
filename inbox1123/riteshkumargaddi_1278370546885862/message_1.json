@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Ritesh Kumar Gaddi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708669044837,
+      "content": "Hi, Please contact Ramakrishna \n7780122120, from the team. He'll help you with the listing.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ritesh Kumar Gaddi",
+      "timestamp_ms": 1708668977383,
+      "content": "Per acre cost is 90lakhs",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ritesh Kumar Gaddi",
+      "timestamp_ms": 1708668961299,
+      "content": "Hi ,\nWe have a farm land to sell near parigi, land size of 3.5 acres",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ritesh Kumar Gaddi",
+  "is_still_participant": true,
+  "thread_path": "inbox/riteshkumargaddi_1278370546885862",
+  "magic_words": [
+    
+  ]
+}

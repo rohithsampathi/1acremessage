@@ -1,0 +1,72 @@
+{
+  "participants": [
+    {
+      "name": "Vitesh Khandelwal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707099362749,
+      "content": "Please explore the website and find whatever maybe relevant to you. You can call up the seller directly and enquire. I am afraid we might not have any available opportunities at this stage, that might fit your budget. We'll let you know as and when we have. Thank you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vitesh Khandelwal",
+      "timestamp_ms": 1707068412555,
+      "content": "10 to 15 lk",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707068381709,
+      "content": "What would be the size of investment approx?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vitesh Khandelwal",
+      "timestamp_ms": 1707068321605,
+      "content": "I m in Hyderabad so u suggest",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707068297832,
+      "content": "Where exactly?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vitesh Khandelwal",
+      "timestamp_ms": 1707068280366,
+      "content": "I would like to invest...please let  me know the further  course of action",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707068267624,
+      "content": "Yes?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707068264340,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vitesh Khandelwal",
+      "timestamp_ms": 1707068244404,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vitesh Khandelwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/viteshkhandelwal_1255328625856766",
+  "magic_words": [
+    
+  ]
+}

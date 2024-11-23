@@ -1,0 +1,69 @@
+{
+  "participants": [
+    {
+      "name": "Rehan Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720414078260,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720414077453,
+      "content": "Hi, Please contact Vijay 9959994737, from the team. He'll help you with the rest of the process.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720414044347,
+      "content": "1acre.in is a listing platform.\nWe verify lands before listing them on the website and it's free. \n\nWhen we facilitate a transaction - When the land owners approach us to actively sell, we do, If the opportunity is in general good for the buyer. There, we charge a 2%.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "1acre.in is a listing platform.\nWe verify lands before listing them on the website and it's free. \n\nWhen we facilitate a transaction - When the land owners approach us to actively sell, we do, If the opportunity is in general good for the buyer. There, we charge a 2%."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rehan Reddy",
+      "timestamp_ms": 1720374854114,
+      "content": "Could you walk me through the process",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rehan Reddy",
+      "timestamp_ms": 1720374843225,
+      "content": "We\u00e2\u0080\u0099re thinking of listing some of it",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rehan Reddy",
+      "timestamp_ms": 1720374829384,
+      "content": "It\u00e2\u0080\u0099s gonna be around 4-5 km from the new RRR exit and is situated on the highway",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rehan Reddy",
+      "timestamp_ms": 1720374782834,
+      "content": "We some commercial roadside land for sale",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rehan Reddy",
+      "timestamp_ms": 1720374765324,
+      "content": "Hey",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rehan Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/rehanreddy_1408025340591931",
+  "magic_words": [
+    
+  ]
+}

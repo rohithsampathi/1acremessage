@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Ali Mohammed"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729239663645,
+      "content": "We will digitise them once they are release them",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729239646072,
+      "content": "Musi details arent shared from govt yet",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ali Mohammed",
+      "timestamp_ms": 1727672371785,
+      "content": "Hey can you share buffer zone in moosi river map",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ali Mohammed",
+  "is_still_participant": true,
+  "thread_path": "inbox/alimohammed_1521892755873811",
+  "magic_words": [
+    
+  ]
+}

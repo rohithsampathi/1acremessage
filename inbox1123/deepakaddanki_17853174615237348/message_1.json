@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Deepak Addanki"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Deepak Addanki",
+      "timestamp_ms": 1721737975383,
+      "content": "Thank you",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1721741309
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721736610163,
+      "content": "Hi,\nRight now, we are not listing/dealing with lease, but Please talk Ratna Kiran (co-founder)\n9390155412, to check what can be done. Thanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Deepak Addanki",
+      "timestamp_ms": 1721735583595,
+      "content": "But in a leased land. I can also rent out a building if the owner of the land decides to construct one as per my design",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Deepak Addanki",
+      "timestamp_ms": 1721735553374,
+      "content": "I am.looking to establish one in hyderabad",
+      "share": {
+        "share_text": "I am.looking to establish one in hyderabad"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Deepak Addanki",
+      "timestamp_ms": 1721735544024,
+      "content": "I run schools in Andhra pradesh. My own schools . I have 3 in west godavari district",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Deepak Addanki",
+      "timestamp_ms": 1721735513746,
+      "content": "I am looking to lease a land, do you also have such data?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Deepak Addanki",
+      "timestamp_ms": 1721735484954,
+      "content": "Hi I have just taken a subscription",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721735473696,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Deepak Addanki",
+      "timestamp_ms": 1721734567534,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Deepak Addanki",
+  "is_still_participant": true,
+  "thread_path": "inbox/deepakaddanki_17853174615237348",
+  "magic_words": [
+    
+  ]
+}

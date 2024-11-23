@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Rakesh Mallula"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707708616034,
+      "content": "https://www.1acre.in/subscribe\n\nPlease go through. With the subscription, you can get the mapview and explore it yourself, better.",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "https://www.1acre.in/subscribe\n\nPlease go through. With the subscription, you can get the mapview and explore it yourself, better."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707708568991,
+      "content": "Hi, I am afraid you'll have to go farther than that, go get at 1cr/acre.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rakesh Mallula",
+      "timestamp_ms": 1707674520419,
+      "content": "Hi I am looking 1acre land towards Chevella , Moinabad , Shankarpalli for farm house purpose,\nMy budget is 1 cr \nPlz suggest me some locations",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rakesh Mallula",
+  "is_still_participant": true,
+  "thread_path": "inbox/rakeshmallula_1307555070636154",
+  "magic_words": [
+    
+  ]
+}

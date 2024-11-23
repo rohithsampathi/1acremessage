@@ -1,0 +1,89 @@
+{
+  "participants": [
+    {
+      "name": "Ranadheer Billa"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721469399312,
+      "content": "Hi, Please talk to Sandeep 9005464412, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ranadheer Billa",
+      "timestamp_ms": 1721469158326,
+      "content": "Still available",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ranadheer Billa",
+      "timestamp_ms": 1721469157889,
+      "content": "Ranadheer sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C9UBLDXtmaU/?carousel_share_child_media_id=3410355958192799596_47651711013",
+        "share_text": "",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ranadheer Billa",
+      "timestamp_ms": 1721378899554,
+      "content": "Listing associate",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ranadheer Billa",
+      "timestamp_ms": 1711040061858,
+      "content": "Ty sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711039959806,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team. \nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ranadheer Billa",
+      "timestamp_ms": 1711037072634,
+      "content": "Can't we apply in ccla ,rdo ,",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711036949357,
+      "content": "Only by exchanging and mutual cooperation.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ranadheer Billa",
+      "timestamp_ms": 1711031292531,
+      "content": "How can we  solve the survey number miss match sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ranadheer Billa",
+      "timestamp_ms": 1711031266841,
+      "content": "I need your suggestion",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ranadheer Billa",
+      "timestamp_ms": 1711031244515,
+      "content": "Good evening sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ranadheer Billa",
+  "is_still_participant": true,
+  "thread_path": "inbox/ranadheerbilla_1341405253922589",
+  "magic_words": [
+    
+  ]
+}

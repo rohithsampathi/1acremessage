@@ -1,0 +1,72 @@
+{
+  "participants": [
+    {
+      "name": "Namrata Patwari"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709615437130,
+      "content": "This is Satish.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Namrata Patwari",
+      "timestamp_ms": 1709615412859,
+      "content": "May I know with who I\u00e2\u0080\u0099m conversing right now ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Namrata Patwari",
+      "timestamp_ms": 1709615394266,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709615384085,
+      "content": "Please contact Vijay\n9959994737. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709615365385,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Namrata Patwari",
+      "timestamp_ms": 1709615331893,
+      "content": "I am looking to sell a part of our land in Moinabad.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709615270404,
+      "content": "Hi, may I know regarding what? I'll connect accordingly.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Namrata Patwari",
+      "timestamp_ms": 1709614795146,
+      "content": "How can I get in touch ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Namrata Patwari",
+      "timestamp_ms": 1709614785334,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Namrata Patwari",
+  "is_still_participant": true,
+  "thread_path": "inbox/namratapatwari_1354532199281325",
+  "magic_words": [
+    
+  ]
+}

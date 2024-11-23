@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Neerav Lingam"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Neerav Lingam",
+      "timestamp_ms": 1725216305757,
+      "content": "Sure, thank you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725210829888,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Neerav Lingam",
+      "timestamp_ms": 1725206479323,
+      "content": "Can you help me sell the plot",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Neerav Lingam",
+      "timestamp_ms": 1725206455594,
+      "content": "I have a 200 sq yard plot in patancheru muthangi behind sweet heart cafe",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Neerav Lingam",
+  "is_still_participant": true,
+  "thread_path": "inbox/neeravlingam_1484080216318564",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Celeste Farm Stories"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721980044494,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Celeste Farm Stories",
+      "timestamp_ms": 1721978261458,
+      "content": "I\u00e2\u0080\u0099m interested in 1acre land in vikarabad",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Celeste Farm Stories",
+  "is_still_participant": true,
+  "thread_path": "inbox/celestefarmstories_17874904032121114",
+  "magic_words": [
+    
+  ]
+}

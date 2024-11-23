@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Sai Teja Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726468509012,
+      "content": "Share your number and our team will call back",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726468491723,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Teja Reddy",
+      "timestamp_ms": 1726467192099,
+      "content": "Available?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Teja Reddy",
+      "timestamp_ms": 1726467191928,
+      "content": "Sai sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C_5YOEzy9ef/?id=3456900709336471455_47651711013",
+        "share_text": "15 guntas near Shabad | \u00e2\u0082\u00b9 1.8 Cr | Link in Bio \u00f0\u009f\u0094\u0097\n\nPreliminarily verified  by 1acre.in \u00e2\u009c\u0085\n\n\u00f0\u009f\u0093\u008d Property Specs \u00f0\u009f\u0097\u00ba\u00ef\u00b8\u008f: \n\n \u00e2\u0080\u00a2 3 KM from Shabad and 30 KM from Shamshabad ORR exit\n \u00e2\u0080\u00a2 60 feet road access\n \u00e2\u0080\u00a2 Comes under the conservation zone\n \u00e2\u0080\u00a2 Ideal for a commercial establishment\n\nInterested ?  Get in touch with the owner ! \u00f0\u009f\u0093\u009e +91  9700104841\n\n\u00f0\u009f\u0092\u00ac DM us for more queries on buying, selling, or partnerships \u00f0\u009f\u00a4\u009d\n\n#landforsale #propertyforsale #realestate #land #buyland  #telanganarealestate #commercialrealestate #acre #1acre",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sai Teja Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/saitejareddy_1494298248629293",
+  "magic_words": [
+    
+  ]
+}

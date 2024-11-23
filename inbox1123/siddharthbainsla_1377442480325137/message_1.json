@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Siddharth Bainsla"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720194898665,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Siddharth Bainsla",
+      "timestamp_ms": 1720192396131,
+      "content": "I want to buy land for a factory in Masuri, Dasna, Ghaziabad, Uttar Pradesh.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Siddharth Bainsla",
+      "timestamp_ms": 1720192394821,
+      "content": "Siddharth sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C8b3DPOSIxV/?id=3394548859216104533_47651711013",
+        "share_text": "Most problems are information problems. When we solve these problems, we unlock large parts of the economy.\n\nOn that note, Is land acquisition holding back India\u00e2\u0080\u0099s growth? Absolutely. \n\nEntrepreneurs can drive progress but get stuck in the land acquisition process, wasting time, effort, and money. \n\nHere are the 3 major problems:\n1. Discovery: Finding the right lands for sale.\n2. Price Validation: Determining the right price.\n3. Legalities: Ensuring the land title is clear.\n\nDespite government efforts, these challenges still persist. Streamlining them can boost India\u00e2\u0080\u0099s economy and we at 1acre.in want to solve these problems and help unlock our growth potential. \n\n#IndiaGrowth #LandAcquisition #1acrein\u00e2\u0080\u009d",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Siddharth Bainsla",
+  "is_still_participant": true,
+  "thread_path": "inbox/siddharthbainsla_1377442480325137",
+  "magic_words": [
+    
+  ]
+}

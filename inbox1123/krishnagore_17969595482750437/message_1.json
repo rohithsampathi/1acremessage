@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Krishna Gore \u00e2\u009d\u00a3"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Krishna Gore \u00e2\u009d\u00a3",
+      "timestamp_ms": 1720236722551,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720235697376,
+      "content": "We currently only operate in telangana. \n\nWill keep you posted when we launch in other states",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Krishna Gore \u00e2\u009d\u00a3",
+      "timestamp_ms": 1720230590453,
+      "content": "Above 40 acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Krishna Gore \u00e2\u009d\u00a3",
+      "timestamp_ms": 1720230574597,
+      "content": "I need a farm in maharashtra plz give me information about it",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Krishna Gore \u00e2\u009d\u00a3",
+      "timestamp_ms": 1720230545486,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Krishna Gore \u00e2\u009d\u00a3",
+  "is_still_participant": true,
+  "thread_path": "inbox/krishnagore_17969595482750437",
+  "magic_words": [
+    
+  ]
+}

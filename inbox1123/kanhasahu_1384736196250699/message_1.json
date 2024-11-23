@@ -1,0 +1,147 @@
+{
+  "participants": [
+    {
+      "name": "Kanha Sahu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kanha Sahu",
+      "timestamp_ms": 1730194095489,
+      "content": "9111114488",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1730194147
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730192596343,
+      "content": "Share your number and our team will call back to discuss further",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kanha Sahu",
+      "timestamp_ms": 1730188132519,
+      "content": "I m interested",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kanha Sahu",
+      "timestamp_ms": 1730188132152,
+      "content": "Kanha sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DBsr6qASdDg/?carousel_share_child_media_id=3489356951837079286_47651711013",
+        "share_text": "",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kanha Sahu",
+      "timestamp_ms": 1730188119038,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kanha Sahu",
+      "timestamp_ms": 1717691296648,
+      "content": "Okk",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717691272560,
+      "content": "You can start listings on 1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "You can start listings on 1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kanha Sahu",
+      "timestamp_ms": 1717691245607,
+      "content": "How can we ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717691219788,
+      "content": "Sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kanha Sahu",
+      "timestamp_ms": 1717690752887,
+      "content": "Can we join you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kanha Sahu",
+      "timestamp_ms": 1717690740126,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717690509470,
+      "content": "Hi, at 1acre.in, we are currently listint only Telangana.\nWe'll start other states soon. \nWe'll keep you posted.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Kanha Sahu",
+          "timestamp": 1717690740
+        }
+      ],
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, at 1acre.in, we are currently listint only Telangana.\nWe'll start other states soon. \nWe'll keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kanha Sahu",
+      "timestamp_ms": 1717689443021,
+      "content": "Can you please teach us how you can make this work\u00e2\u0080\u00a6.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kanha Sahu",
+      "timestamp_ms": 1717689405396,
+      "content": "We also have property in indore mp",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kanha Sahu",
+      "timestamp_ms": 1717689392320,
+      "content": "I like your work",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717689304000,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kanha Sahu",
+      "timestamp_ms": 1717687626818,
+      "content": "Hello sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kanha Sahu",
+  "is_still_participant": true,
+  "thread_path": "inbox/kanhasahu_1384736196250699",
+  "magic_words": [
+    
+  ]
+}

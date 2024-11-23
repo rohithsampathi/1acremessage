@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Vaishnav"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726032345429,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vaishnav",
+      "timestamp_ms": 1725960079588,
+      "content": "What is the price?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vaishnav",
+      "timestamp_ms": 1725960075760,
+      "content": "I want to promote my property",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vaishnav",
+      "timestamp_ms": 1725960069775,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vaishnav",
+  "is_still_participant": true,
+  "thread_path": "inbox/vaishnav_1322745135777222",
+  "magic_words": [
+    
+  ]
+}

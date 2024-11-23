@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "kamala"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729751561953,
+      "content": "Please contact our team member ,pavan, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "kamala",
+      "timestamp_ms": 1729685304026,
+      "content": "Hi, I'm interested in kondapur 300 sqyrds property , when can we site visit and what about the clearances?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "kamala",
+  "is_still_participant": true,
+  "thread_path": "inbox/kamala_18012697265640489",
+  "magic_words": [
+    
+  ]
+}

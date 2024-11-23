@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "Mohammed Abdul Basith"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705019971957,
+      "content": "https://www.1acre.in/subscribe\n\nPlease go through and subscribe (or) click 'talk to us->' at the end of the page and fill in the form. We'll get back to you.",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "https://www.1acre.in/subscribe\n\nPlease go through and subscribe (or) click 'talk to us->' at the end of the page and fill in the form. We'll get back to you."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammed Abdul Basith",
+      "timestamp_ms": 1705005708449,
+      "content": "Interested, can you share more details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammed Abdul Basith",
+      "timestamp_ms": 1705005707699,
+      "content": "Mohammed sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C14M__6tVQP/?id=3276425903427900431_47651711013",
+        "share_text": "Missed the boat with Telangana land prices? \u00f0\u009f\u0093\u0088\nLands starting at Rs 2.5L/acre only. Buy large land parcels bordering Telangana only a 5 hour drive from Hyderabad. \n\nGet access to 1acre Premium that offers you: \n\u00f0\u009f\u00a4\u009d Hand Holding and Investment Guidance \n\u00f0\u009f\u008f\u009c\u00ef\u00b8\u008f Curated Land Parcels just for you \n\u00f0\u009f\u0091\u0081\u00ef\u00b8\u008f Access lands in Karnataka & Maharastra\n\u00f0\u009f\u0093\u008d Map view to see all lands available at a glance \n\nLife time membership for Rs 5000 only.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mohammed Abdul Basith",
+  "is_still_participant": true,
+  "thread_path": "inbox/mohammedabdulbasith_1332247934841370",
+  "magic_words": [
+    
+  ]
+}

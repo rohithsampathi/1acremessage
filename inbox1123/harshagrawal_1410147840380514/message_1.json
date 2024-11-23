@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Harsh Agrawal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Harsh Agrawal",
+      "timestamp_ms": 1719758906671,
+      "content": "suree",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719757255440,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harsh Agrawal",
+      "timestamp_ms": 1719748913281,
+      "content": "heyy need any property in himachal? do you deal over there?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Harsh Agrawal",
+  "is_still_participant": true,
+  "thread_path": "inbox/harshagrawal_1410147840380514",
+  "magic_words": [
+    
+  ]
+}

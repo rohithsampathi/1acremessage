@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Chandresh Jindal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Chandresh Jindal",
+      "timestamp_ms": 1731163248089,
+      "content": "9669620789",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730192820804,
+      "content": "Please share your number so our team can get back to you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730192801403,
+      "content": "We haven\u00e2\u0080\u0099t launched in MP yet \nWe shall keep you updated once we launch there",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chandresh Jindal",
+      "timestamp_ms": 1730149217318,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729661729921,
+      "content": "You are looking to sell ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chandresh Jindal",
+      "timestamp_ms": 1729606352563,
+      "content": "32 acre for sale at 10 lac per acre near Khandwa",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Chandresh Jindal",
+  "is_still_participant": true,
+  "thread_path": "inbox/chandreshjindal_1520927059306282",
+  "magic_words": [
+    
+  ]
+}

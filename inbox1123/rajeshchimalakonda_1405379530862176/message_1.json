@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Rajesh Chimalakonda"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709188709469,
+      "content": "Hi, Please contact Pratheek \n9390674324, from the team. He'll explain you the details.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rajesh Chimalakonda",
+      "timestamp_ms": 1709186443322,
+      "content": "Please can you shed some more light?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rajesh Chimalakonda",
+      "timestamp_ms": 1709186422604,
+      "content": "Interested in the land banks you are aquiring in Maharastra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rajesh Chimalakonda",
+      "timestamp_ms": 1709186401027,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rajesh Chimalakonda",
+  "is_still_participant": true,
+  "thread_path": "inbox/rajeshchimalakonda_1405379530862176",
+  "magic_words": [
+    
+  ]
+}

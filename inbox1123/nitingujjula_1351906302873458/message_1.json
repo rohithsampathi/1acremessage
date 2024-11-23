@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Nitin Gujjula"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704710253988,
+      "content": "https://www.1acre.in/subscribe\n\nPlease go through and fill in the form at the end of the page. We'll get back to you.",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "https://www.1acre.in/subscribe\n\nPlease go through and fill in the form at the end of the page. We'll get back to you."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nitin Gujjula",
+      "timestamp_ms": 1704706989362,
+      "content": "Would be great if you could put me in touch with available options",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nitin Gujjula",
+      "timestamp_ms": 1704706954881,
+      "content": "Been actively looking for 1-2 acres of farm lands around Hyd.\n\nPreferably towards the South (near Maheshwaram) or East (near Shankerpally)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nitin Gujjula",
+      "timestamp_ms": 1704706894349,
+      "content": "This is Nitin, live in Kokapet, Hyd",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nitin Gujjula",
+      "timestamp_ms": 1704706882464,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nitin Gujjula",
+  "is_still_participant": true,
+  "thread_path": "inbox/nitingujjula_1351906302873458",
+  "magic_words": [
+    
+  ]
+}

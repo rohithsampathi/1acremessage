@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Mohammed Azmath"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705998561568,
+      "content": "3cr per acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammed Azmath",
+      "timestamp_ms": 1705995135636,
+      "content": "Per acre?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammed Azmath",
+      "timestamp_ms": 1705995130105,
+      "content": "Price for this property",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammed Azmath",
+      "timestamp_ms": 1705995117750,
+      "content": "Mohammed sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C2AaHfgyD0q/?id=3278735392807337258_47651711013",
+        "share_text": "1acre facilitated property:\n5 acre land, very close to the city\nAt Mudimyal, 22km from ORR (APPA junction).\nJust 500mt away from the Highway. \nAvailable as 1/2 acre & 1 acre units or as a whole. \n\nYou can get in touch with us at: 9959994737",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mohammed Azmath",
+  "is_still_participant": true,
+  "thread_path": "inbox/mohammedazmath_1315921053142362",
+  "magic_words": [
+    
+  ]
+}

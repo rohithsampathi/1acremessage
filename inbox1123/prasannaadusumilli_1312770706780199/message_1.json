@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Prasanna Adusumilli"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Prasanna Adusumilli",
+      "timestamp_ms": 1706880374766,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706879608340,
+      "content": "Hi, Please contact Harish\n9989738297",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Prasanna Adusumilli",
+          "timestamp": 1706880374
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prasanna Adusumilli",
+      "timestamp_ms": 1706876929689,
+      "content": "Hi , please send me your number . I would like to personally talk to you .  Thank you",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Prasanna Adusumilli",
+  "is_still_participant": true,
+  "thread_path": "inbox/prasannaadusumilli_1312770706780199",
+  "magic_words": [
+    
+  ]
+}

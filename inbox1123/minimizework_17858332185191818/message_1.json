@@ -1,0 +1,76 @@
+{
+  "participants": [
+    {
+      "name": "minimizework"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719479283642,
+      "content": "Please share your product and portfolio links to sandeep@1acre.in \n\nWe shall check and get back to you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "minimizework",
+      "timestamp_ms": 1719479041136,
+      "content": "I like to discuss further about it further in a google meet call. What would you say?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "minimizework",
+      "timestamp_ms": 1719479031196,
+      "content": "Our Ai business model helps your agency to minimize your workload and help you save time that was spent in scheduling calls, sales, and so many other features.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "minimizework",
+      "timestamp_ms": 1719478841573,
+      "content": "Sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719477886345,
+      "content": "Also, other test cases.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719477877015,
+      "content": "Could you tell us a little more on how it can help 1acre.in?",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Could you tell us a little more on how it can help 1acre.in?"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "minimizework",
+      "timestamp_ms": 1719477586295,
+      "content": "I just wanna tell you that, \nAt MinimizeWork, we have an AI business model designed to enhance your company\u00e2\u0080\u0099s KPIs through cutting-edge AI solutions and automations.\n\nI look forward to schedule a call with you and your team to discuss about this in detail.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "minimizework",
+      "timestamp_ms": 1719477584637,
+      "content": "I\u00e2\u0080\u0099ve been checking out your page, and you guys are doing an amazing job!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "minimizework",
+      "timestamp_ms": 1719477579408,
+      "content": "Hey!",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "minimizework",
+  "is_still_participant": true,
+  "thread_path": "inbox/minimizework_17858332185191818",
+  "magic_words": [
+    
+  ]
+}

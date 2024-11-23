@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Nithin Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707308997355,
+      "content": "7661933372 this is my WhatsApp number.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707308892950,
+      "content": "Hi, sure. could you send me the location and some pics/videos?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nithin Reddy",
+      "timestamp_ms": 1707306802978,
+      "content": "I have 2 acres land in Karnataka with amazing lake view. Right infront of a huge reservoir. I wanted to list it for sale immediately. I am going to sell one acre only and . Legal survey done. I am trying to find a buyer for 15 lakhs. How can I list this? Give me a call if possible to discuss 8507175555",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nithin Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/nithinreddy_1239762447427104",
+  "magic_words": [
+    
+  ]
+}

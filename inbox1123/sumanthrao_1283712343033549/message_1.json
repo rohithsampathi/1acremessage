@@ -1,0 +1,73 @@
+{
+  "participants": [
+    {
+      "name": "Sumanth Rao"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumanth Rao",
+      "timestamp_ms": 1718713647680,
+      "content": "I shared info to +91 99599 94737",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1718714888
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718713082979,
+      "content": "What would be good time to contact you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sumanth Rao",
+      "timestamp_ms": 1718678402384,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718672035288,
+      "content": "Sure. We'll reach out to you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sumanth Rao",
+      "timestamp_ms": 1718645998383,
+      "content": "+1 505 289 7822",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718644584135,
+      "content": "Hi, can you give us your number? \nWe'll reach out and help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sumanth Rao",
+      "timestamp_ms": 1718643732738,
+      "content": "I\u00e2\u0080\u0099m trying to add my land in your app but it\u00e2\u0080\u0099s not working",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sumanth Rao",
+      "timestamp_ms": 1718643719138,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sumanth Rao",
+  "is_still_participant": true,
+  "thread_path": "inbox/sumanthrao_1283712343033549",
+  "magic_words": [
+    
+  ]
+}

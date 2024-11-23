@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Harsh Goyal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Harsh Goyal",
+      "timestamp_ms": 1717643316456,
+      "content": "Thankyou",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717643028381,
+      "content": "Hi, \nWe are not aware of any agents or platforms. \nWe'll be launching Maharashtra soon.\nWill keep you posted. Thanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harsh Goyal",
+      "timestamp_ms": 1717642586093,
+      "content": "Hello,\nCan you suggeste any such platforms for Maharashtra as well? Mainly near Vasai?\nOr some good agents?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Harsh Goyal",
+  "is_still_participant": true,
+  "thread_path": "inbox/harshgoyal_1401602361238168",
+  "magic_words": [
+    
+  ]
+}

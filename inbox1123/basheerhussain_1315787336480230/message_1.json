@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Basheer hussain"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Basheer hussain",
+      "timestamp_ms": 1710948343582,
+      "content": "Sure thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710939578995,
+      "content": "Please contact Harish\n9032114737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710939572125,
+      "content": "Hello Basheer",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Basheer hussain",
+      "timestamp_ms": 1710937819134,
+      "content": "Hi good evening \nThis is Basheer from Sangareddy \nJust curious to know can I work with you \nFor this region \nHow does it work",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Basheer hussain",
+  "is_still_participant": true,
+  "thread_path": "inbox/basheerhussain_1315787336480230",
+  "magic_words": [
+    
+  ]
+}

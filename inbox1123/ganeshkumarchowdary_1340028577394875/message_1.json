@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Ganesh Kumar Chowdary"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703589564419,
+      "content": "Hi , you can connect with pratheek  9390674324,",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ganesh Kumar Chowdary",
+      "timestamp_ms": 1703491656123,
+      "content": "Ganesh sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C0tHPJxNkYb/?id=3255289933265782299_47651711013",
+        "share_text": "Premium land opportunities available bordering Telangana. Great opportunity to buy acres of land for the price of 1. \n\nGet included in the upper echelon of land buying.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ganesh Kumar Chowdary",
+  "is_still_participant": true,
+  "thread_path": "inbox/ganeshkumarchowdary_1340028577394875",
+  "magic_words": [
+    
+  ]
+}

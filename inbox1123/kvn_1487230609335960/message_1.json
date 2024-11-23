@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Kvn"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721322925315,
+      "content": "1acre.in/subscribe  Please explore.",
+      "share": {
+        "link": "http://1acre.in/subscribe",
+        "share_text": "1acre.in/subscribe  Please explore."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kvn",
+      "timestamp_ms": 1721322082945,
+      "content": "Looking for lands around airport",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kvn",
+      "timestamp_ms": 1721322064898,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kvn",
+  "is_still_participant": true,
+  "thread_path": "inbox/kvn_1487230609335960",
+  "magic_words": [
+    
+  ]
+}

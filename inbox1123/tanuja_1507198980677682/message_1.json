@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Tanuja"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanuja",
+      "timestamp_ms": 1723487742512,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723483344116,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Tanuja",
+          "timestamp": 1723487742
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723483338100,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tanuja",
+      "timestamp_ms": 1723475539939,
+      "content": "Is this still available?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tanuja",
+      "timestamp_ms": 1723475534270,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tanuja",
+      "timestamp_ms": 1723475528485,
+      "content": "Tanuja sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C-coYZQy6HJ/?id=3430794614402687433_47651711013",
+        "share_text": "2 plots of 267 Sq Yds each near Mokila \u00f0\u009f\u008c\u009f | \u00e2\u0082\u00b980,000 per Sq Yd \u00f0\u009f\u0092\u00b0 | Just off proposed 100\u00e2\u0080\u0099 road \u00f0\u009f\u009a\u0097 | Link in bio \u00f0\u009f\u0094\u0097\n\nVerified and facilitated by 1acre.in \u00e2\u009c\u0085\n\nIdeal for villa construction \u00f0\u009f\u008f\u00a1\n\nLocation:\n\u00f0\u009f\u0093\u008d Surrounded by multiple villa communities\n\u00f0\u009f\u0093\u008d 6 km from Kollur ORR exit\n\u00f0\u009f\u0093\u008d 2 km from Hyderabad-Shankarpally road\n\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 8341149011\nDM us for more queries on buying, selling, or partnerships.\n#landforsale #mokila #land #investment #propertyforsale #realestate",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Tanuja",
+  "is_still_participant": true,
+  "thread_path": "inbox/tanuja_1507198980677682",
+  "magic_words": [
+    
+  ]
+}

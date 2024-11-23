@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "SANKALP SHINDE"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719561529573,
+      "content": "This is Ratna Kiran's number. \n9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SANKALP SHINDE",
+      "timestamp_ms": 1719551402370,
+      "content": "Hello sir \nWe have villa project in igatpuri. Let\u00e2\u0080\u0099s have a meet.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "SANKALP SHINDE",
+  "is_still_participant": true,
+  "thread_path": "inbox/sankalpshinde_1348054933251789",
+  "magic_words": [
+    
+  ]
+}

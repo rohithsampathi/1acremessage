@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Vishal jadhav"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1696672351349,
+      "content": "Please contact (+91 80744 50533) Vijay from 1acre.in for more details.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishal jadhav",
+      "timestamp_ms": 1695102579182,
+      "videos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/vishaljadhav_1218632536194092/videos/378295373_254416897018560_6517840870317078690_n_254416890351894",
+          "creation_timestamp": 1695102577,
+          "backup_uri": "https://video.fmaa12-1.fna.fbcdn.net/v/t42.3356-2/378295373_254416897018560_6517840870317078690_n.mp4/video-5cadd275-b82f-41f3-b5fb-2eb18d54e1a5-1695102578.mp4?_nc_cat=102&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=f_3uYriwQqkQ7kNvgH4T7al&_nc_zt=28&_nc_ht=video.fmaa12-1.fna&_nc_gid=A8BGZRO9WXTOLVr2ZHmrpyD&oh=03_Q7cD1QFp1u3ScrE2MYGYKq7W0OOQQlrrhkkKqrWn7VJlC9WOHg&oe=67408A02&dl=1"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishal jadhav",
+      "timestamp_ms": 1695102530521,
+      "content": "Land : 4 acers \nRate : 2350000/-per acer\nWater : 1 (bore)\nRoad : Dambar road bit \nNaryankhed to 14km distance",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishal jadhav",
+      "timestamp_ms": 1695102512980,
+      "content": "https://maps.google.com/?q=18.100674,77.677002",
+      "share": {
+        "link": "https://maps.google.com/?q=18.100674,77.677002",
+        "share_text": "https://maps.google.com/?q=18.100674,77.677002"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishal jadhav",
+      "timestamp_ms": 1695102484161,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vishal jadhav",
+  "is_still_participant": true,
+  "thread_path": "inbox/vishaljadhav_1218632536194092",
+  "magic_words": [
+    
+  ]
+}

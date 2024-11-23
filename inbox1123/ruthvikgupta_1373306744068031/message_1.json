@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Ruthvik Gupta"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707645151795,
+      "content": "Hi, thanks for reaching out. If you are a premium subscriber, you'll have access to the map view, which will enable you to check this information much better.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ruthvik Gupta",
+      "timestamp_ms": 1707642160880,
+      "content": "Hi,\n\nIm one of your followers,\n\nCan u please let me know the land rate in Nagar Duda near Vardhaman Engineering College?\n\nWill be awaiting your response!",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ruthvik Gupta",
+  "is_still_participant": true,
+  "thread_path": "inbox/ruthvikgupta_1373306744068031",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "rahul davala"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727620176587,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "rahul davala",
+      "timestamp_ms": 1727620113194,
+      "content": "I shall discuss in my community and confirm",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "rahul davala",
+      "timestamp_ms": 1727620102435,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727620065387,
+      "content": "Hii, sure. We would have to commision a GIS expert. It would be at cost 5000.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "rahul davala",
+      "timestamp_ms": 1727616456053,
+      "content": "Can you help me?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "rahul davala",
+      "timestamp_ms": 1727616451350,
+      "content": "Need your expertise regarding venna cheruvu in kompally",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "rahul davala",
+      "timestamp_ms": 1727616423905,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "rahul davala",
+  "is_still_participant": true,
+  "thread_path": "inbox/rahuldavala_1541755747224600",
+  "magic_words": [
+    
+  ]
+}

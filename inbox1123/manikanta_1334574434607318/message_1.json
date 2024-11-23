@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Manikanta"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704380620394,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manikanta",
+      "timestamp_ms": 1704377272007,
+      "content": "Hi Team, Are you helping in selling open plots in hyderabad nearby locations apart from farm lands",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Manikanta",
+  "is_still_participant": true,
+  "thread_path": "inbox/manikanta_1334574434607318",
+  "magic_words": [
+    
+  ]
+}

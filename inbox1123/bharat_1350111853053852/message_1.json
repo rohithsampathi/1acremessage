@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Bharat"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708091114041,
+      "content": "Hi, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bharat",
+      "timestamp_ms": 1708090186526,
+      "content": "Bharat sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C3NyiVgtfnG/?id=3300516363817580998_47651711013",
+        "share_text": "Thinking about purchasing land in Telangana? \n\nGet access to 1acre Premium that offers you: \n\u00f0\u009f\u00a4\u009d Hand Holding and Investment Guidance \n\u00f0\u009f\u008f\u009c\u00ef\u00b8\u008f Curated Land Parcels just for you \n\u00f0\u009f\u0091\u0081\u00ef\u00b8\u008f Access lands in Karnataka & Maharastra\n\u00f0\u009f\u0093\u008d Map view to see all lands available at a glance \n\nLife time membership for Rs 5000 only.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Bharat",
+  "is_still_participant": true,
+  "thread_path": "inbox/bharat_1350111853053852",
+  "magic_words": [
+    
+  ]
+}

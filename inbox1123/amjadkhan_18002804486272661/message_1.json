@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Amjad Khan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701093965503,
+      "content": "Hy how can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Amjad Khan",
+      "timestamp_ms": 1701091177243,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Amjad Khan",
+  "is_still_participant": true,
+  "thread_path": "inbox/amjadkhan_18002804486272661",
+  "magic_words": [
+    
+  ]
+}

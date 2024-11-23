@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "sandeepdhaliwa1"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720226536019,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "sandeepdhaliwa1",
+      "timestamp_ms": 1720222756755,
+      "content": "Hey interested in 40 acres in Yavatmal",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "sandeepdhaliwa1",
+  "is_still_participant": true,
+  "thread_path": "inbox/sandeepdhaliwa1_1416765026384594",
+  "magic_words": [
+    
+  ]
+}

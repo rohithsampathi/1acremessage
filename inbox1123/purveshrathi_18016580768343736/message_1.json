@@ -1,0 +1,90 @@
+{
+  "participants": [
+    {
+      "name": "Purvesh Rathi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Purvesh Rathi",
+      "timestamp_ms": 1719212121402,
+      "content": "First, can you provide me the above data?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719211402638,
+      "content": "Location \nExtent \nPrice",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719211397322,
+      "content": "Where is your land?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Purvesh Rathi",
+      "timestamp_ms": 1719210927144,
+      "content": "Could me provide me some data in detail, like how much deals have you done priorly",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Purvesh Rathi",
+      "timestamp_ms": 1719210901914,
+      "content": "What is your conversation rate ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719210871798,
+      "content": "Yes, we charge 2% for the transaction, if we facilitate.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Purvesh Rathi",
+      "timestamp_ms": 1719210791182,
+      "content": "So, you are acting like a broker?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Purvesh Rathi",
+      "timestamp_ms": 1719210782153,
+      "content": "I have a agricultural land, I want to promote it through you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719191715141,
+      "content": "May I know what you are looking for?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719191703874,
+      "content": "It's not an advertisement.\nIt's the lands that we facilitate.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Purvesh Rathi",
+      "timestamp_ms": 1719164198913,
+      "content": "For a reel",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Purvesh Rathi",
+      "timestamp_ms": 1719164193579,
+      "content": "Advertisement cost?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Purvesh Rathi",
+  "is_still_participant": true,
+  "thread_path": "inbox/purveshrathi_18016580768343736",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Sunnie Jayaraj"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sunnie Jayaraj",
+      "timestamp_ms": 1703333124136,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703320125151,
+      "content": "Hi , you can connect with vijay, 7780122120",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Sunnie Jayaraj",
+          "timestamp": 1703333124
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sunnie Jayaraj",
+      "timestamp_ms": 1703268823397,
+      "content": "Hi started following your page on Instagram. As I am from Tandur If you are looking for lands near Tandur, yalal, kodangal and surrounding areas I have a team here in Tandur working as full time realtors for best prices with clean properties. If you are looking around to invest we can help you out.\n\nRegards\nJayaraj D\nContact Details\n9949083978",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sunnie Jayaraj",
+  "is_still_participant": true,
+  "thread_path": "inbox/sunniejayaraj_1223050932417217",
+  "magic_words": [
+    
+  ]
+}

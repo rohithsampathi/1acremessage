@@ -1,0 +1,87 @@
+{
+  "participants": [
+    {
+      "name": "M Shiva Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716112877281,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716112876094,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "M Shiva Reddy",
+      "timestamp_ms": 1716111285413,
+      "content": "Hom much rate",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "M Shiva Reddy",
+      "timestamp_ms": 1716111277819,
+      "content": "Near vikarabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716107170789,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "M Shiva Reddy",
+      "timestamp_ms": 1716105412767,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1696401928278,
+      "content": "+91 80744 50533 Vijay 1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "+91 80744 50533 Vijay 1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1696401924841,
+      "content": "Please call Vijay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "M Shiva Reddy",
+      "timestamp_ms": 1696311313763,
+      "content": "Price 30 to 40",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "M Shiva Reddy",
+      "timestamp_ms": 1696311266785,
+      "content": "Near vikarabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "M Shiva Reddy",
+      "timestamp_ms": 1696311099601,
+      "content": "I want 40 acers",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "M Shiva Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/mshivareddy_1239819177410757",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "_- R\u00c3\u00a4m -_"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "_- R\u00c3\u00a4m -_",
+      "timestamp_ms": 1719122441041,
+      "content": "Sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "_- R\u00c3\u00a4m -_",
+      "timestamp_ms": 1719122438901,
+      "content": "OK",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719122410516,
+      "content": "We are currently operational only in Telangana.\nWe'll start MP soon. \nWe'll inform you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "_- R\u00c3\u00a4m -_",
+      "timestamp_ms": 1719122328585,
+      "content": "Location chaiye to me de sakta hu",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "_- R\u00c3\u00a4m -_",
+      "timestamp_ms": 1719122263379,
+      "content": "Madhya Pradesh ka land sale",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719122251171,
+      "content": "Namaste",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "_- R\u00c3\u00a4m -_",
+      "timestamp_ms": 1719122188293,
+      "content": "Namaste sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "_- R\u00c3\u00a4m -_",
+  "is_still_participant": true,
+  "thread_path": "inbox/_ram__1431805831553185",
+  "magic_words": [
+    
+  ]
+}

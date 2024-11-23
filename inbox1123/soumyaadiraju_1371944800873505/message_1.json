@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Soumya Adiraju"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710774521986,
+      "content": "Hi, no. What exactly happened?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Soumya Adiraju",
+      "timestamp_ms": 1710772629868,
+      "content": "8801029999 - is it one acre.in POC",
+      "share": {
+        "link": "http://acre.in/",
+        "share_text": "8801029999 - is it one acre.in POC"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Soumya Adiraju",
+      "timestamp_ms": 1710772600361,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710462297692,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Soumya Adiraju",
+      "timestamp_ms": 1710440071802,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Soumya Adiraju",
+  "is_still_participant": true,
+  "thread_path": "inbox/soumyaadiraju_1371944800873505",
+  "magic_words": [
+    
+  ]
+}

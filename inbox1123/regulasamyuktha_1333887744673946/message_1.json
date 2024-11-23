@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Regula Samyuktha"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Regula Samyuktha",
+      "timestamp_ms": 1704113812283,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Regula Samyuktha",
+      "timestamp_ms": 1704113808376,
+      "content": "Sure yeah",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704113805373,
+      "content": "Please whatsapp the details to Vijay \n7780122120",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Regula Samyuktha",
+          "timestamp": 1704113812
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704113765512,
+      "content": "Hi, thanks for reaching out to us. Currently, we are only dealing with the Telangana market. However, it gets us interested when you mentioned lake view. Could you send more details - like location, pics, expected price, extent etc., so we can see if someone would be interested?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Regula Samyuktha",
+      "timestamp_ms": 1704106509968,
+      "content": "Hi we have land to sell in Tamilnadu Chennai \nIt\u00e2\u0080\u0099s my ancestral property looking for buyers..\nLet me know if you will be interested and help in selling \nIt\u00e2\u0080\u0099s a total of 9 grounds with lake view",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Regula Samyuktha",
+  "is_still_participant": true,
+  "thread_path": "inbox/regulasamyuktha_1333887744673946",
+  "magic_words": [
+    
+  ]
+}

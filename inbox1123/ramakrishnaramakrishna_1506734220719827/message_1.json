@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Rama Krishna Rama Krishna"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728543999660,
+      "content": "Please call our team member Venu at +91 76749 01201\n\nHe shall help you list it and share other details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rama Krishna Rama Krishna",
+      "timestamp_ms": 1728542043967,
+      "content": "Iam the Mediater on Real Estate \nI want to sell the propertys",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728536641745,
+      "content": "What kind of business are you looking for ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rama Krishna Rama Krishna",
+      "timestamp_ms": 1728515158063,
+      "content": "What details I have to share with 1 acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728503854278,
+      "content": "Please share more details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rama Krishna Rama Krishna",
+      "timestamp_ms": 1728479447454,
+      "content": "I want to start a business with 1 acre",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rama Krishna Rama Krishna",
+  "is_still_participant": true,
+  "thread_path": "inbox/ramakrishnaramakrishna_1506734220719827",
+  "magic_words": [
+    
+  ]
+}

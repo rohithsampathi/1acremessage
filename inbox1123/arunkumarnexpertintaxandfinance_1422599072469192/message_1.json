@@ -1,0 +1,69 @@
+{
+  "participants": [
+    {
+      "name": "Arun Kumar N | Expert in Tax and Finance"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720792066714,
+      "content": "Hi, Please talk to Sandeep 9005464412, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Arun Kumar N | Expert in Tax and Finance",
+      "timestamp_ms": 1720790627582,
+      "content": "I am interested",
+      "share": {
+        "link": "https://www.instagram.com/p/C9UBKzVt_9s/"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Arun Kumar N | Expert in Tax and Finance",
+      "timestamp_ms": 1720149544147,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720149506789,
+      "content": "We'll be launching the demo for everyone soon.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Arun Kumar N | Expert in Tax and Finance",
+      "timestamp_ms": 1720146713684,
+      "content": "Can I have a demo before taking subscription",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720146646888,
+      "content": "Hello Arun , \nWe believe its very fairly priced, so at this moment we cannot give any discounts (edited)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720146640010,
+      "content": "Hello Arun , \nWe believe its very fairly priced, so at this moment we cannot give any",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Arun Kumar N | Expert in Tax and Finance",
+      "timestamp_ms": 1720117282445,
+      "content": "can i get any discount on life time subscription ..?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Arun Kumar N | Expert in Tax and Finance",
+  "is_still_participant": true,
+  "thread_path": "inbox/arunkumarnexpertintaxandfinance_1422599072469192",
+  "magic_words": [
+    
+  ]
+}

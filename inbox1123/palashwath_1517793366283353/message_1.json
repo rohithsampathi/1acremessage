@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Palash Wath"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726108565169,
+      "content": "We currently only operate in telangana and andhra\n\nWill keep you posted when we launch in other states",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Palash Wath",
+      "timestamp_ms": 1726106751287,
+      "content": "Aap bade kheti me kaam karte ho kay muzay samrudhi road se 1km dur 500-1000 Acer jaga hona hai 5-6 lakh pr Acer pe",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Palash Wath",
+  "is_still_participant": true,
+  "thread_path": "inbox/palashwath_1517793366283353",
+  "magic_words": [
+    
+  ]
+}

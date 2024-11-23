@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009d\u0099\u00bc\u00f0\u009d\u009a\u008d \u00f0\u009d\u009a\u0082\u00f0\u009d\u009a\u0091\u00f0\u009d\u009a\u008a\u00f0\u009d\u009a\u008f\u00f0\u009d\u009a\u0092"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727550989941,
+      "content": "Sure, we would have to commission an urban planner and GIS expert to create a KML. Would be 5000 at cost",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0099\u00bc\u00f0\u009d\u009a\u008d \u00f0\u009d\u009a\u0082\u00f0\u009d\u009a\u0091\u00f0\u009d\u009a\u008a\u00f0\u009d\u009a\u008f\u00f0\u009d\u009a\u0092",
+      "timestamp_ms": 1727549270024,
+      "content": "Hi this is shafi\nI want to know about ftl and buffer zone area near to mir alam tank lake in the areas of Ntr nagar, mahmood nagar and hasan nagar as my home is very near to mir alam tank lake i worried about my land so im requesting you to give measurements near to this areas thank you.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00f0\u009d\u0099\u00bc\u00f0\u009d\u009a\u008d \u00f0\u009d\u009a\u0082\u00f0\u009d\u009a\u0091\u00f0\u009d\u009a\u008a\u00f0\u009d\u009a\u008f\u00f0\u009d\u009a\u0092",
+  "is_still_participant": true,
+  "thread_path": "inbox/mdshafi_1491156972272876",
+  "magic_words": [
+    
+  ]
+}

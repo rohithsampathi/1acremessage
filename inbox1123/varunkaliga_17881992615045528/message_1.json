@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Varun Kaliga"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Varun Kaliga",
+      "timestamp_ms": 1714020842530,
+      "content": "Team!!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Varun Kaliga",
+      "timestamp_ms": 1714020838131,
+      "content": "Thank you!!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1714008497398,
+      "content": "Hi, Thanks for reaching out. \nThis account is handled by the team. \nHere is Ratna's number -\n9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Varun Kaliga",
+      "timestamp_ms": 1713989238460,
+      "content": "Hey Ratna Kiran!\u00f0\u009f\u0098\u008a\nHope you\u00e2\u0080\u0099re doing well. I\u00e2\u0080\u0099ve been following your work in land dealings and I\u00e2\u0080\u0099m really impressed! I run a page focused on the residential sector here in Hyderabad and I think there could be some exciting opportunities for collaboration between us. \nWould love to meet up sometime at your office for a chat and to explore potential synergies. Let me know when you\u00e2\u0080\u0099re free! \u00f0\u009f\u008f\u00a0\u00e2\u009c\u00a8\n\nLooking forward to connecting,\nVarun Kaliga.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Varun Kaliga",
+  "is_still_participant": true,
+  "thread_path": "inbox/varunkaliga_17881992615045528",
+  "magic_words": [
+    
+  ]
+}

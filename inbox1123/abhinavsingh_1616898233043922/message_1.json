@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Abhinav Singh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730876212641,
+      "content": "Do check our site for available listings\n\nwww.1acre.in",
+      "share": {
+        "link": "http://www.1acre.in/",
+        "share_text": "Do check our site for available listings\n\nwww.1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730876187350,
+      "content": "We do not currently have many options yet near pune",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhinav Singh",
+      "timestamp_ms": 1730824143649,
+      "content": "Pls share the options",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhinav Singh",
+      "timestamp_ms": 1730824135501,
+      "content": "Buy",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730806387119,
+      "content": "Are you looking to buy or sell ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730806378844,
+      "content": "Yes \nWe recently launched in pune",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhinav Singh",
+      "timestamp_ms": 1730798576598,
+      "content": "hi, are you also working in/around Pune?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Abhinav Singh",
+  "is_still_participant": true,
+  "thread_path": "inbox/abhinavsingh_1616898233043922",
+  "magic_words": [
+    
+  ]
+}

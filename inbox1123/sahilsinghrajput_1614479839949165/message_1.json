@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Sahil Singh Rajput"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729751663554,
+      "content": "We will update once we launch",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729751647915,
+      "content": "Not yet",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sahil Singh Rajput",
+      "timestamp_ms": 1729745704352,
+      "content": "Hi, do you deal in uttarakhand land also?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sahil Singh Rajput",
+  "is_still_participant": true,
+  "thread_path": "inbox/sahilsinghrajput_1614479839949165",
+  "magic_words": [
+    
+  ]
+}

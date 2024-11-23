@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Snehith"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723987988411,
+      "content": "Hi, Please contact Srikar 8341149011, from the team.\nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Snehith",
+      "timestamp_ms": 1723987478825,
+      "content": "Hi, can I get a link of this location? And link on your website for this plot?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Snehith",
+      "timestamp_ms": 1723987478465,
+      "content": "Snehith sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C-z0vRdyyDk/?id=3437322887601266916_47651711013",
+        "share_text": "10 Investor Plots | \u00e2\u0082\u00b913,000 per sq yard | In Proposed Smartcity at Mucherla\n\n \u00e2\u009c\u0085 Verified and facilitated by 1acre.in\n\n\u00f0\u009f\u0093\u008d Location Highlights:\n\nJust 2 minutes drive from Srisailam Highway\n23 km from Thukkuguda ORR exit\nLocated in R3 zone\n\n\u00f0\u009f\u0094\u008d Price Details:\n\nRetail price: \u00e2\u0082\u00b918,000 per sq yard\nInvestor price: \u00e2\u0082\u00b913,000 per sq yard\n\nIdeal for investment\u00f0\u009f\u0092\u00b0\n\nInterested? Reach out now! \u00f0\u009f\u0093\u009e +91 8341149011\n\nDM us for more queries on buying, selling, or partnerships.\n\n#investorplots #smartcity #mucherla #landforsale #propertyinvestment #realestate",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Snehith",
+  "is_still_participant": true,
+  "thread_path": "inbox/snehith_17873913519118920",
+  "magic_words": [
+    
+  ]
+}

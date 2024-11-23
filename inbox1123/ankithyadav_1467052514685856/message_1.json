@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Ankith Yadav"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726564448914,
+      "content": "Our team will get back to you shortly \u00f0\u009f\u0099\u0082",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ankith Yadav",
+      "timestamp_ms": 1726564440440,
+      "content": "Do send details of this land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ankith Yadav",
+      "timestamp_ms": 1726564439754,
+      "content": "Ankith sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C9uREyMSw3O/?id=3417744262782717390_47651711013",
+        "share_text": "5 acres in 3 parcels | \u00e2\u0082\u00b975 Lakhs per acre | Overlooking Singur Reservoir | Link in bio \u00f0\u009f\u008c\u009f\n\n- Verified and facilitated by 1acre.in\n- Located in three parcels\n- 56 km from ORR Patancheru exit\n- 12 km from Mumbai highway\n- Waterfront access, ideal for a farmhouse\n\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 9390155412\n\n\u00f0\u009f\u0093\u00ac DM us for more queries on buying, selling, or partnerships",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ankith Yadav",
+  "is_still_participant": true,
+  "thread_path": "inbox/ankithyadav_1467052514685856",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "RAHUL REDDY"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725876596474,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "RAHUL REDDY",
+      "timestamp_ms": 1725864443144,
+      "content": "Interested. Contact number 9399933326",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "RAHUL REDDY",
+      "timestamp_ms": 1725864442741,
+      "content": "RAHUL sent an attachment.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "RAHUL REDDY",
+  "is_still_participant": true,
+  "thread_path": "inbox/rahulreddy_1431145521621503",
+  "magic_words": [
+    
+  ]
+}

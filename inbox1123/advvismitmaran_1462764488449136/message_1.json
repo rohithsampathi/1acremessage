@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Adv. Vismit Maran"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726539713798,
+      "content": "Sure \nPlease share your number and our team will get back to you shortly",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Adv. Vismit Maran",
+      "timestamp_ms": 1726492065840,
+      "content": "\u00e2\u0080\u009cHello I am vismit maran from Bhopal Madhya Pradesh , I am interested in forming a partnership with you in Madhya Pradesh. We have a family-owned real estate business with more than 50 properties. If you\u00e2\u0080\u0099re interested, please let me know.\u00e2\u0080\u009d",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Adv. Vismit Maran",
+  "is_still_participant": true,
+  "thread_path": "inbox/advvismitmaran_1462764488449136",
+  "magic_words": [
+    
+  ]
+}

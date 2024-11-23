@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Akshay Rajasekharan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Akshay Rajasekharan",
+      "timestamp_ms": 1714483666515,
+      "content": "Thank you for your response. \nWill get in touch with Ratna. \nRegards,",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akshay Rajasekharan",
+      "timestamp_ms": 1714483643732,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1714480657078,
+      "content": "If the opportunity is good for the buyer, we can still consider.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1714480637508,
+      "content": "Hi, thanks for reaching out. \nWe are currently listing only for Telangana. \nYou can still, talk to Ratna Kiran \n9390155412, to see if there's scope.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Akshay Rajasekharan",
+          "timestamp": 1714483643
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akshay Rajasekharan",
+      "timestamp_ms": 1714478843507,
+      "content": "Hi, \nLove the work and the platform for land sales. Came across this through a friend. \n\nI have a few acres of land in Coorg. That I wish to get sold or invested in. \n\nDo you operate in Karnataka as well? \n\nRegards, \nAkshay",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Akshay Rajasekharan",
+  "is_still_participant": true,
+  "thread_path": "inbox/akshayrajasekharan_1383270336404470",
+  "magic_words": [
+    
+  ]
+}

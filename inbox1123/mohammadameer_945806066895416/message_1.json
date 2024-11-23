@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Mohammad Ameer"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708685722579,
+      "content": "Are you interested in purchasing this half-acre plot in Ananthagiri Hills?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708685722509,
+      "content": "Please tap on one of the options provided to answer this question.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammad Ameer",
+      "timestamp_ms": 1708685722078,
+      "content": "N",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mohammad Ameer",
+  "is_still_participant": true,
+  "thread_path": "inbox/mohammadameer_945806066895416",
+  "magic_words": [
+    
+  ]
+}

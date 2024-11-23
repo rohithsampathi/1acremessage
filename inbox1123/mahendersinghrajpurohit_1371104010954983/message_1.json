@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Mahender Singh Rajpurohit"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mahender Singh Rajpurohit",
+      "timestamp_ms": 1712056676154,
+      "content": "Mahender sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/_u/dravosclothing",
+        "profile_share_username": "dravosclothing",
+        "profile_share_name": "DRAVOS CLOTHING PVT LTD"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mahender Singh Rajpurohit",
+  "is_still_participant": true,
+  "thread_path": "inbox/mahendersinghrajpurohit_1371104010954983",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Chandra"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Chandra",
+      "timestamp_ms": 1701263717759,
+      "content": "Sure, thank you",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1701319120
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701262403668,
+      "content": "You can contact to PRATHEEK , 9505778117 , he can help you with your enquiries.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chandra",
+      "timestamp_ms": 1701242441431,
+      "content": "Will you please help in verifying if the land is safe to purchase?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chandra",
+      "timestamp_ms": 1701242423598,
+      "content": "We're planning to purchase a 111GO land in Mudimyal, Moinabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chandra",
+      "timestamp_ms": 1701242391049,
+      "content": "Hi Team",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Chandra",
+  "is_still_participant": true,
+  "thread_path": "inbox/chandra_1285418916185376",
+  "magic_words": [
+    
+  ]
+}

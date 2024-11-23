@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Mohammed Shoeb"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mohammed Shoeb",
+      "timestamp_ms": 1729754408309,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729752769708,
+      "content": "We are not sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammed Shoeb",
+      "timestamp_ms": 1729751816038,
+      "content": "For rental properties any suggestions which page??",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammed Shoeb",
+      "timestamp_ms": 1729751781131,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729751597969,
+      "content": "Currently we do not list any rental properties",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammed Shoeb",
+      "timestamp_ms": 1729693987963,
+      "content": "I have wear house available for rent",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammed Shoeb",
+      "timestamp_ms": 1729693968424,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mohammed Shoeb",
+  "is_still_participant": true,
+  "thread_path": "inbox/mohammedshoeb_18023589056440676",
+  "magic_words": [
+    
+  ]
+}

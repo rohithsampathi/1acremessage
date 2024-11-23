@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Anil Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anil Kumar",
+      "timestamp_ms": 1701779721199,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701757970070,
+      "content": "Sure our team will connect with you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anil Kumar",
+      "timestamp_ms": 1701701534897,
+      "content": "+15102989181",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anil Kumar",
+      "timestamp_ms": 1701701528047,
+      "content": "Hello, Sure, you can call me on WhatsApp on this number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701675268607,
+      "content": "Hy anil , can we have your contact number our team will connect with you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anil Kumar",
+      "timestamp_ms": 1701666789749,
+      "content": "In telangana",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anil Kumar",
+      "timestamp_ms": 1701666778881,
+      "content": "I am planning to buy lands that can double in atleast 4-5 years from now",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anil Kumar",
+      "timestamp_ms": 1701666752570,
+      "content": "Hi, how much do charge for an investment of 1 crore",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Anil Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/anilkumar_1256902915712924",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "participants": [
+    {
+      "name": "Faraan SRokadia"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730442991698,
+      "content": "www.1acre.in",
+      "share": {
+        "link": "http://www.1acre.in/",
+        "share_text": "www.1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730442969085,
+      "content": "Explore our website where we have 3500+ lands in Telangana \n\nWe have also have a mapview where you can find right lands much more clearly and easily.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Faraan SRokadia",
+      "timestamp_ms": 1730365056307,
+      "content": "Hi do you have any land in the Jalpally or Mamidpally area of around himayatsagar",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711070699707,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Faraan SRokadia",
+      "timestamp_ms": 1711053288204,
+      "content": "Give me more details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Faraan SRokadia",
+      "timestamp_ms": 1711053271793,
+      "content": "Faraan sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C1phjLHyPvy/?id=3272294156919700466_47651711013",
+        "share_text": "Missed the bus in Telangana. \nA lot of us have this feeling - We missed the bus in Telangana. We share that feeling with you. We wanted to find the next growth pockets and spent the last one year venturing out, researching and buying some lands (registering them). We aspire to aquire 1000 acres and would want to expand it to 5000 acres if others want to join in. Ping us, if you want to pick AT LEAST 100 acres at 2.5-4 lakh per acre. We\u00e2\u0080\u0099ll see how we can accommodate.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Faraan SRokadia",
+  "is_still_participant": true,
+  "thread_path": "inbox/faraansrokadia_1156519762420320",
+  "magic_words": [
+    
+  ]
+}

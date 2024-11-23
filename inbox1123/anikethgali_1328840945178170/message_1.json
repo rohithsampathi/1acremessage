@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Aniketh Gali"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aniketh Gali",
+      "timestamp_ms": 1706119256589,
+      "content": "Thanks for your reply. Will reach out to Pratheek.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1706147894
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706113443432,
+      "content": "Sure. Please contact Pratheek \n9390674324 and tell him your requirement in detail. We'll check how we can help.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aniketh Gali",
+      "timestamp_ms": 1706105206315,
+      "content": "Hi Aniketh here, just wanted to check if you have come across anyone who is planning to lease 2-3 acres of land around Hyderabad to start a school.?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Aniketh Gali",
+  "is_still_participant": true,
+  "thread_path": "inbox/anikethgali_1328840945178170",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Avi Singhvi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Avi Singhvi",
+      "timestamp_ms": 1717647145757,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717646925656,
+      "content": "Hello avi \nThanks for reaching out .\n\nWe currently operate only in Telangana for now. Will keep you posted when we launch in tamilnadu",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Avi Singhvi",
+      "timestamp_ms": 1717646640584,
+      "content": "Hi. \n\nI have a land for sale. Shed constructed, it\u00e2\u0080\u0099s 3 acre land in Chennai. It had admin office constructed it. It\u00e2\u0080\u0099s on the bank of cooum river in Chennai",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Avi Singhvi",
+  "is_still_participant": true,
+  "thread_path": "inbox/avisinghvi_1441408153925461",
+  "magic_words": [
+    
+  ]
+}

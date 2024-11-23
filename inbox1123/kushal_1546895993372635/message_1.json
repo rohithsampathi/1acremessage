@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "kushal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720328323582,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "kushal",
+      "timestamp_ms": 1720327706231,
+      "content": "At low price",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "kushal",
+      "timestamp_ms": 1720327699334,
+      "content": "Bangalore",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "kushal",
+      "timestamp_ms": 1720327694756,
+      "content": "Require 1 acre farm land within 20km from blore",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "kushal",
+  "is_still_participant": true,
+  "thread_path": "inbox/kushal_1546895993372635",
+  "magic_words": [
+    
+  ]
+}

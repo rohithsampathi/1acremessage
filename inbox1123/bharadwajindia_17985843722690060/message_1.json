@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Bharadwaj India"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720417717789,
+      "content": "Can you be more specific, Where and how much?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bharadwaj India",
+      "timestamp_ms": 1720417360871,
+      "content": "Land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720416924342,
+      "content": "May we know what you are looking for?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bharadwaj India",
+      "timestamp_ms": 1720416843884,
+      "content": "I need you number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720416820950,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bharadwaj India",
+      "timestamp_ms": 1720416403107,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Bharadwaj India",
+  "is_still_participant": true,
+  "thread_path": "inbox/bharadwajindia_17985843722690060",
+  "magic_words": [
+    
+  ]
+}

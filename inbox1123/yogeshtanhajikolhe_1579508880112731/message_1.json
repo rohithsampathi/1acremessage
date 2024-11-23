@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Yogesh Tanhaji Kolhe"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731303154612,
+      "content": "Our team will call you today",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yogesh Tanhaji Kolhe",
+      "timestamp_ms": 1731301115713,
+      "content": "Will you have any update on this",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yogesh Tanhaji Kolhe",
+      "timestamp_ms": 1731301102884,
+      "content": "Hello team",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yogesh Tanhaji Kolhe",
+      "timestamp_ms": 1731155695977,
+      "content": "9172392984",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731150865000,
+      "content": "Share your number and our team will get back",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yogesh Tanhaji Kolhe",
+      "timestamp_ms": 1731097414547,
+      "content": "Hello i have plots in Maharashtra can you sell it on demands",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Yogesh Tanhaji Kolhe",
+  "is_still_participant": true,
+  "thread_path": "inbox/yogeshtanhajikolhe_1579508880112731",
+  "magic_words": [
+    
+  ]
+}

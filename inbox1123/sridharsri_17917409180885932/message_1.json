@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "sridhar( sri)"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "sridhar( sri)",
+      "timestamp_ms": 1715255100797,
+      "content": "No response",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715254476721,
+      "content": "Hi, Please talk to Vijay\n9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "sridhar( sri)",
+      "timestamp_ms": 1715254439530,
+      "content": "Looking for a small and nice farm house near to city limits",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "sridhar( sri)",
+      "timestamp_ms": 1710140233501,
+      "content": "Pls call 9949177111 for purchase of farm land",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "sridhar( sri)",
+  "is_still_participant": true,
+  "thread_path": "inbox/sridharsri_17917409180885932",
+  "magic_words": [
+    
+  ]
+}

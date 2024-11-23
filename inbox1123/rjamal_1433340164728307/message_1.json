@@ -1,0 +1,73 @@
+{
+  "participants": [
+    {
+      "name": "RJ Amal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "RJ Amal",
+      "timestamp_ms": 1720020746945,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "RJ Amal",
+      "timestamp_ms": 1719996271327,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719985623453,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "RJ Amal",
+          "timestamp": 1719996271
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "RJ Amal",
+      "timestamp_ms": 1719932644493,
+      "content": "Moderately populated area",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "RJ Amal",
+      "timestamp_ms": 1719932617457,
+      "content": "it\u00e2\u0080\u0099s located 1 km from State highway",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "RJ Amal",
+      "timestamp_ms": 1719932562962,
+      "content": "I have 4 acres of land and planted rubber plan before 3 years located in kerala, actual kollam district",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719932409346,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "RJ Amal",
+      "timestamp_ms": 1719930181844,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "RJ Amal",
+  "is_still_participant": true,
+  "thread_path": "inbox/rjamal_1433340164728307",
+  "magic_words": [
+    
+  ]
+}

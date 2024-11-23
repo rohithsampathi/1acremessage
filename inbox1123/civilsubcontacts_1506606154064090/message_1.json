@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Civil Sub Contacts"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Civil Sub Contacts",
+      "timestamp_ms": 1727940714030,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727940704729,
+      "content": "Our team will call you back",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727940689485,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Civil Sub Contacts",
+      "timestamp_ms": 1727940540874,
+      "content": "+91 83330 05577",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Civil Sub Contacts",
+  "is_still_participant": true,
+  "thread_path": "inbox/civilsubcontacts_1506606154064090",
+  "magic_words": [
+    
+  ]
+}

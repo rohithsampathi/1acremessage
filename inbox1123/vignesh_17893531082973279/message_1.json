@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Vignesh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708143507726,
+      "content": "Hi, thanks for reaching out. You can WhatsApp 7661933372 (Satish). He'll help you with any other details you need.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vignesh",
+      "timestamp_ms": 1708135130686,
+      "content": "Need more details please",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vignesh",
+      "timestamp_ms": 1708135130421,
+      "content": "Vignesh sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C3akRPJSMmQ/?id=3304112790797076880_47651711013",
+        "share_text": "\u00f0\u009f\u008c\u00bf Welcome to 1acre.in,Explore a stunning half-acre plot in a 50-acre sustainable farm community on Ananthegiri hills. \u00f0\u009f\u008f\u009e\u00ef\u00b8\u008f Surrounded by 3000 acres of lush Ananthagiri forest, find tranquility like never before.\n\nAs an owner, enjoy exclusive access to a charming clubhouse and cozy hobbit cottages. With underground power and water supply, rainwater harvesting, and security provided, embrace a sustainable lifestyle amidst nature\u00e2\u0080\u0099s embrace. \u00f0\u009f\u008c\u00b3\u00f0\u009f\u0092\u00a7\u00f0\u009f\u008f\u00a1\n\nSeeking more than an investment? Build your dream farmhouse and live in harmony with nature. \u00f0\u009f\u008c\u00bf\n\nInterested? Contact us today! Price: 1.1 crore for the entire property. \u00f0\u009f\u0092\u00b0 #AnanthegiriLiving #1acre #SustainableCommunity #NatureRetreat \u00f0\u009f\u009a\u0080",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vignesh",
+  "is_still_participant": true,
+  "thread_path": "inbox/vignesh_17893531082973279",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Umesh Rathore"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729661871151,
+      "content": "What details are you looking for ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Umesh Rathore",
+      "timestamp_ms": 1729615646904,
+      "content": "Detail",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Umesh Rathore",
+  "is_still_participant": true,
+  "thread_path": "inbox/umeshrathore_1099451964911790",
+  "magic_words": [
+    
+  ]
+}

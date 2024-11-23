@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "\u00e0\u00b0\u00ad\u00e0\u00b0\u00b0\u00e0\u00b0\u00a4\u00e0\u00b1\u008d \u00e0\u00b0\u00aa\u00e0\u00b1\u0081\u00e0\u00b0\u00b8\u00e0\u00b1\u0081\u00e0\u00b0\u00b2\u00e0\u00b1\u0082\u00e0\u00b0\u00b0\u00e0\u00b0\u00bf"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718797841205,
+      "content": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start AP very soon. \nWe'll keep you posted.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start AP very soon. \nWe'll keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00e0\u00b0\u00ad\u00e0\u00b0\u00b0\u00e0\u00b0\u00a4\u00e0\u00b1\u008d \u00e0\u00b0\u00aa\u00e0\u00b1\u0081\u00e0\u00b0\u00b8\u00e0\u00b1\u0081\u00e0\u00b0\u00b2\u00e0\u00b1\u0082\u00e0\u00b0\u00b0\u00e0\u00b0\u00bf",
+      "timestamp_ms": 1718793405247,
+      "content": "Do you have any Field Suggestion in Amaravathi Andhrapradesh",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00e0\u00b0\u00ad\u00e0\u00b0\u00b0\u00e0\u00b0\u00a4\u00e0\u00b1\u008d \u00e0\u00b0\u00aa\u00e0\u00b1\u0081\u00e0\u00b0\u00b8\u00e0\u00b1\u0081\u00e0\u00b0\u00b2\u00e0\u00b1\u0082\u00e0\u00b0\u00b0\u00e0\u00b0\u00bf",
+      "timestamp_ms": 1718793386180,
+      "content": "Hiii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00e0\u00b0\u00ad\u00e0\u00b0\u00b0\u00e0\u00b0\u00a4\u00e0\u00b1\u008d \u00e0\u00b0\u00aa\u00e0\u00b1\u0081\u00e0\u00b0\u00b8\u00e0\u00b1\u0081\u00e0\u00b0\u00b2\u00e0\u00b1\u0082\u00e0\u00b0\u00b0\u00e0\u00b0\u00bf",
+  "is_still_participant": true,
+  "thread_path": "inbox/bharatpusuluri_1345863583483186",
+  "magic_words": [
+    
+  ]
+}

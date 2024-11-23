@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Rathnadeep Rao"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716252690505,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team. \nHe'll help you with the details.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rathnadeep Rao",
+      "timestamp_ms": 1716223290902,
+      "content": "Please share details and location If the 10 acr land",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rathnadeep Rao",
+  "is_still_participant": true,
+  "thread_path": "inbox/rathnadeeprao_1308096827254989",
+  "magic_words": [
+    
+  ]
+}

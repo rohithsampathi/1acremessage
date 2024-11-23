@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Nithin Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nithin Kumar",
+      "timestamp_ms": 1711452885991,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nithin Kumar",
+      "timestamp_ms": 1711452883295,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711452874614,
+      "content": "Hi, not yet. Only in Telangana. Will launch other states soon.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Nithin Kumar",
+          "timestamp": 1711452883
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nithin Kumar",
+      "timestamp_ms": 1711452508896,
+      "content": "Is this in Bangalore?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nithin Kumar",
+      "timestamp_ms": 1711452504582,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nithin Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/nithinkumar_1362989995101870",
+  "magic_words": [
+    
+  ]
+}

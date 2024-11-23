@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Revanth Dannapaneni"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721290874325,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412\nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Revanth Dannapaneni",
+      "timestamp_ms": 1721288943730,
+      "content": "It\u00e2\u0080\u0099s in Andhra Pradesh",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Revanth Dannapaneni",
+      "timestamp_ms": 1721288877906,
+      "content": "30 km from Vijayawada \n24 acres with Palm oil plantation with 5 bores \n50 lakhs per acre\nNear to nsp canal",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721288350059,
+      "content": "Could you tell us, \nLocation, extent and price?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Revanth Dannapaneni",
+      "timestamp_ms": 1721288072021,
+      "content": "I have a farm land to sell",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Revanth Dannapaneni",
+      "timestamp_ms": 1721288054998,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Revanth Dannapaneni",
+  "is_still_participant": true,
+  "thread_path": "inbox/revanthdannapaneni_1518674572865122",
+  "magic_words": [
+    
+  ]
+}

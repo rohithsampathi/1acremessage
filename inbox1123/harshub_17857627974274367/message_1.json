@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "harshub"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "harshub",
+      "timestamp_ms": 1729333611108,
+      "content": "harshub sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DBTVq_RiVDY/?id=3482222250022228184_176447506",
+        "share_text": "Nifty - Bull or Bear ?? \n\n24 hours to go for 5000 shares\n\nLet's see \u00f0\u009f\u0092\u00ab",
+        "original_content_owner": "harshubh"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "harshub",
+  "is_still_participant": true,
+  "thread_path": "inbox/harshub_17857627974274367",
+  "magic_words": [
+    
+  ]
+}

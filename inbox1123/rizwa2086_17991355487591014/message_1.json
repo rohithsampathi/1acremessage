@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "rizwa2086"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705071529335,
+      "content": "Hi, Please contact Vijay\n9959994737. He'll help you, if you want to list them or find suitable buyers.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "rizwa2086",
+      "timestamp_ms": 1705069815343,
+      "content": "Hi sir we have farm lands  in moinabad and chevella",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "rizwa2086",
+  "is_still_participant": true,
+  "thread_path": "inbox/rizwa2086_17991355487591014",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "participants": [
+    {
+      "name": "Alekhya Darsi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alekhya Darsi",
+      "timestamp_ms": 1728906401368,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Alekhya Darsi",
+      "timestamp_ms": 1728906392942,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728904948120,
+      "content": "9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728904923811,
+      "content": "You can call Ratna kiran, our Co-Founder to discuss further.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Alekhya Darsi",
+      "timestamp_ms": 1728903144288,
+      "content": "But no response from them",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Alekhya Darsi",
+      "timestamp_ms": 1728903129510,
+      "content": "We tried going to that irrigation office",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Alekhya Darsi",
+      "timestamp_ms": 1728903105696,
+      "content": "They are not giving the needed information",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728816214713,
+      "content": "Need to contact irrigation department for exact nala boundaries \n\nThe data is not publicly available",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Alekhya Darsi",
+      "timestamp_ms": 1728814247657,
+      "content": "How to know whether property is not constructed by occupying nala",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728810065363,
+      "content": "Hello Alekya , \n\nNALA dimensions data has to be taken from irrigation department and is not available publicly. \n\nOnce we establish the dimensions of NALA, the buffer area would be 9m from the Nala if it\u00e2\u0080\u0099s a big Nala and 2m from Nala for a small NALA\n\nHope this helps",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Alekhya Darsi",
+      "timestamp_ms": 1728801250364,
+      "content": "Hi,I want help in ruling out a property in manikonda,puppalaguda.There is a Nala beside the property,so please let me know how to know whether the property is constructed without closing Nala.\nDetails\nPuppalaguda ,gandipet Mandal\nSurvey number 447",
+      "share": {
+        "share_text": "Hi,I want help in ruling out a property in manikonda,puppalaguda.There is a Nala beside the property,so please let me know how to know whether the property is constructed without closing Nala.\nDetails\nPuppalaguda ,gandipet Mandal\nSurvey number 447"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Alekhya Darsi",
+  "is_still_participant": true,
+  "thread_path": "inbox/alekhyadarsi_18024126074591014",
+  "magic_words": [
+    
+  ]
+}

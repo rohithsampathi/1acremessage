@@ -1,0 +1,86 @@
+{
+  "participants": [
+    {
+      "name": "Doraemon"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Doraemon",
+      "timestamp_ms": 1718552797328,
+      "content": "Yeah i am looking",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718552779818,
+      "content": "Would recommend you to first go through the website.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718552745556,
+      "content": "You can also get access to the Mapview at \n1acre.in/subscribe",
+      "share": {
+        "link": "http://1acre.in/subscribe",
+        "share_text": "You can also get access to the Mapview at \n1acre.in/subscribe"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718552722457,
+      "content": "1acre.in is a listing platform for verified lands (2500+). You can call the sellers directly.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "1acre.in is a listing platform for verified lands (2500+). You can call the sellers directly."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Doraemon",
+      "timestamp_ms": 1718552691534,
+      "content": "And safe lands ,without litigation",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Doraemon",
+      "timestamp_ms": 1718552669959,
+      "content": "With 10 to20 lakhs max per acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Doraemon",
+      "timestamp_ms": 1718552658088,
+      "content": "I want many acres of land like 40-50 in telangana region",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718552616002,
+      "content": "It would help if you could be specific on where you are looking to buy and what's the budget. We could guide you accordingly.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718552557604,
+      "content": "There are of course land ceilings for each state and some states have some exemptions.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Doraemon",
+      "timestamp_ms": 1718550867988,
+      "content": "Hi i am interested in buying many acres of land but i want to know how many acres of land  a person can buy ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Doraemon",
+  "is_still_participant": true,
+  "thread_path": "inbox/doraemon_18005187527558679",
+  "magic_words": [
+    
+  ]
+}

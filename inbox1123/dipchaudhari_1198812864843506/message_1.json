@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Dip Chaudhari"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dip Chaudhari",
+      "timestamp_ms": 1695127495949,
+      "content": "Where are you from",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1695120254943,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dip Chaudhari",
+      "timestamp_ms": 1695117932566,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Dip Chaudhari",
+  "is_still_participant": true,
+  "thread_path": "inbox/dipchaudhari_1198812864843506",
+  "magic_words": [
+    
+  ]
+}

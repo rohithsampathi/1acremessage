@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Abdul Rahman"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717463441951,
+      "content": "You can go to our website www.1acre.in and check for available lands and prices near that area.",
+      "share": {
+        "link": "http://www.1acre.in/",
+        "share_text": "You can go to our website www.1acre.in and check for available lands and prices near that area."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abdul Rahman",
+      "timestamp_ms": 1717440428954,
+      "content": "Hi, Hope you're doing well. I'm located in the U.S. Can you let me know the actual market value of Land (Per sq. Yard ) which is located within kilometer away from warangal highway i.e Narapally, Uppal?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Abdul Rahman",
+  "is_still_participant": true,
+  "thread_path": "inbox/abdulrahman_17938695899832144",
+  "magic_words": [
+    
+  ]
+}

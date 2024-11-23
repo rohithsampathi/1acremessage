@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Jaswant Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jaswant Reddy",
+      "timestamp_ms": 1705397172419,
+      "content": "Ok will get in touch with him",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705397118865,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jaswant Reddy",
+      "timestamp_ms": 1705391895299,
+      "content": "Hi how do I get in touch with you for a call can I get any number",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Jaswant Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/jaswantreddy_1339121314152110",
+  "magic_words": [
+    
+  ]
+}

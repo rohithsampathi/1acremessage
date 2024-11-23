@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "shahmaan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730690609248,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "shahmaan",
+      "timestamp_ms": 1730661366111,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "shahmaan",
+  "is_still_participant": true,
+  "thread_path": "inbox/shahmaan_18041361647165254",
+  "magic_words": [
+    
+  ]
+}

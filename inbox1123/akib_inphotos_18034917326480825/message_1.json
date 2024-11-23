@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Akib _in photos\u00f0\u009f\u0092\u009c"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723280997658,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akib _in photos\u00f0\u009f\u0092\u009c",
+      "timestamp_ms": 1723280850542,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Akib _in photos\u00f0\u009f\u0092\u009c",
+  "is_still_participant": true,
+  "thread_path": "inbox/akib_inphotos_18034917326480825",
+  "magic_words": [
+    
+  ]
+}

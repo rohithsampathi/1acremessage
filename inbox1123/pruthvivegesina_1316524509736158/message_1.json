@@ -1,0 +1,81 @@
+{
+  "participants": [
+    {
+      "name": "Pruthvi Vegesina"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pruthvi Vegesina",
+      "timestamp_ms": 1716705805829,
+      "content": "Thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716705603449,
+      "content": "Sure. We'll call you in a while.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pruthvi Vegesina",
+      "timestamp_ms": 1716705259720,
+      "content": "Cal me pls",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716449039946,
+      "content": "Our team will get back to you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716449029228,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pruthvi Vegesina",
+      "timestamp_ms": 1716392761355,
+      "content": "Is that land still available ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716389550000,
+      "content": "Sure. We'll give you a call.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pruthvi Vegesina",
+      "timestamp_ms": 1716389297672,
+      "content": "Or pls send me contact number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pruthvi Vegesina",
+      "timestamp_ms": 1716389268121,
+      "content": "Hi pls cal me on 99490 56789",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pruthvi Vegesina",
+      "timestamp_ms": 1716389193373,
+      "content": "Iam interested in this land",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3373573828072004236"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Pruthvi Vegesina",
+  "is_still_participant": true,
+  "thread_path": "inbox/pruthvivegesina_1316524509736158",
+  "magic_words": [
+    
+  ]
+}

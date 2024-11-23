@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Vineet Goud Talla"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720431557143,
+      "content": "Please contact Ramakrishna from the team. \n+918247575837\nHe'll help you with the listing.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vineet Goud Talla",
+      "timestamp_ms": 1720431374828,
+      "content": "250Syrds",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vineet Goud Talla",
+      "timestamp_ms": 1720431347652,
+      "content": "Syd",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vineet Goud Talla",
+      "timestamp_ms": 1720431341722,
+      "content": "17000\u00e2\u0082\u00b9",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vineet Goud Talla",
+      "timestamp_ms": 1720431334767,
+      "content": "Moninabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720430145485,
+      "content": "Location, size and price?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vineet Goud Talla",
+      "timestamp_ms": 1720429590166,
+      "content": "I want to sell my plot",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vineet Goud Talla",
+      "timestamp_ms": 1720429584959,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vineet Goud Talla",
+  "is_still_participant": true,
+  "thread_path": "inbox/vineetgoudtalla_1457113735684551",
+  "magic_words": [
+    
+  ]
+}

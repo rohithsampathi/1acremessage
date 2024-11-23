@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "RK Bhanoori"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709716696103,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412\nHe'll help you with the details. \nIf you are still planning, yes you can visit today. We'll inform at the site.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "RK Bhanoori",
+      "timestamp_ms": 1709703697649,
+      "content": "Interested in Ananthagiri Hills farmland. Please share more details. Can I visit today?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "RK Bhanoori",
+  "is_still_participant": true,
+  "thread_path": "inbox/rkbhanoori_1344130720314876",
+  "magic_words": [
+    
+  ]
+}

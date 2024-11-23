@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Hemanth Veera"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716181220406,
+      "content": "1acre.in/subscribe",
+      "share": {
+        "link": "http://1acre.in/subscribe",
+        "share_text": "1acre.in/subscribe"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hemanth Veera",
+      "timestamp_ms": 1716180249812,
+      "content": "Hemanth sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C6_u8yftRJq/?id=3368617533823586922_47651711013",
+        "share_text": "Land is the most opaque market. And 1acre.in wants to be the center of all information in this opaque market.\n\nWith 2500+ listings and growing, our Premium Subscription and MapView Feature provide unparalleled access to land information. Simplify your land search now.\n\nDon\u00e2\u0080\u0099t miss out on this revolutionary approach to the hidden market information. Lifetime access for the first 1 Lakh premium subscribers at just INR 5000!\n\nSubscribe Here: https://www.1acre.in/subscribe\n\n#realestate #landpurchase #1acre #acre #plots #hyderabad #telangana #vikarabad #landinfo #propertyinvestment #landdeals #landownership #transparency #realestateinnovation #futureofland #exclusiveaccess #subscribe",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Hemanth Veera",
+  "is_still_participant": true,
+  "thread_path": "inbox/hemanthveera_1403712081024512",
+  "magic_words": [
+    
+  ]
+}

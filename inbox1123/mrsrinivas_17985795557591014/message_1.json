@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "M r srinivas"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "M r srinivas",
+      "timestamp_ms": 1701455076005,
+      "content": "Congratulations Ratna",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "M r srinivas",
+  "is_still_participant": true,
+  "thread_path": "inbox/mrsrinivas_17985795557591014",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "SAI_YADAV\u00f0\u009f\u0092\u009d"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728708333226,
+      "content": "Please call our team member Venu at +91 76749 01201\n\nHe shall help you list it and share other details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SAI_YADAV\u00f0\u009f\u0092\u009d",
+      "timestamp_ms": 1728704733771,
+      "content": "I have to sale my land",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "SAI_YADAV\u00f0\u009f\u0092\u009d",
+  "is_still_participant": true,
+  "thread_path": "inbox/sai_yadav_18023979494591014",
+  "magic_words": [
+    
+  ]
+}

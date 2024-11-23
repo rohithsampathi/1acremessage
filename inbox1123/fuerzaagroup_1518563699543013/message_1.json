@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Fuerzaa Group"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Fuerzaa Group",
+      "timestamp_ms": 1724745959565,
+      "content": "Noted",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724745702430,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724745701677,
+      "content": "Please contact Vijay\n9959994737, from the team. \nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724745652870,
+      "content": "Hi, thanks for getting in touch.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Fuerzaa Group",
+      "timestamp_ms": 1724698569579,
+      "content": "Hello. How are you? Can we get in touch in person. We are a builder and look out for buying properties around ORR",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Fuerzaa Group",
+  "is_still_participant": true,
+  "thread_path": "inbox/fuerzaagroup_1518563699543013",
+  "magic_words": [
+    
+  ]
+}

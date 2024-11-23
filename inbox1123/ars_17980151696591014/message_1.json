@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "A R S"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1698132935941,
+      "content": "Hey Abdul , for more details please visit our website :https://www.1acre.in/, contact:7780122120",
+      "share": {
+        "link": "https://www.1acre.in/",
+        "share_text": "Hey Abdul , for more details please visit our website :https://www.1acre.in/, contact:7780122120"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "A R S",
+      "timestamp_ms": 1698088449800,
+      "content": "A R sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/CydGTBhNv_z/?carousel_share_child_media_id=3214753384535340012_47651711013",
+        "share_text": "Stop buying plots. Own 10 acres at the cost of one. Larger chunks of land available at good prices.\n...\n\u00f0\u009f\u0091\u0089 Get access to premium opportunities: https://www.1acre.in/subscribe",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "A R S",
+  "is_still_participant": true,
+  "thread_path": "inbox/ars_17980151696591014",
+  "magic_words": [
+    
+  ]
+}

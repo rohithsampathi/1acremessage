@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Carpe diem!!"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707361079832,
+      "content": "Hi, sure. May I know what you are referring to, so I can connect with someone from the team, accordingly?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Carpe diem!!",
+      "timestamp_ms": 1707338670612,
+      "content": "Hi..interested in getting more info",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Carpe diem!!",
+  "is_still_participant": true,
+  "thread_path": "inbox/carpediem_17994450191591014",
+  "magic_words": [
+    
+  ]
+}

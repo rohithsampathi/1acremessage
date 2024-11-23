@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Gaurav"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gaurav",
+      "timestamp_ms": 1720194781602,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720194779191,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720194778457,
+      "content": "Hi, Please contact Vijay 9959994737, from the team.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Gaurav",
+          "timestamp": 1720194781
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gaurav",
+      "timestamp_ms": 1720194302150,
+      "content": "Hi want to know the details  40 acre land in yavatmal 7 lac per acre",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Gaurav",
+  "is_still_participant": true,
+  "thread_path": "inbox/gaurav_17883751077066476",
+  "magic_words": [
+    
+  ]
+}

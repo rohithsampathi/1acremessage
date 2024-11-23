@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Mohammed Tanzeem"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708591256756,
+      "content": "Hi, thanks for reaching out. Currently, we are not listing outside Telangana. We'll get back to you if we get any. Thanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammed Tanzeem",
+      "timestamp_ms": 1708578808556,
+      "content": "I need 10 to 15 acres in Nandi Hills inner side location or Devanhalli dodbalapur sorroundings for my client",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mohammed Tanzeem",
+  "is_still_participant": true,
+  "thread_path": "inbox/mohammedtanzeem_1325316118862824",
+  "magic_words": [
+    
+  ]
+}

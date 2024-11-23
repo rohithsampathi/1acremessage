@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Praful C Chandra"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Praful C Chandra",
+      "timestamp_ms": 1700561648022,
+      "content": "We want to buy 1 acer",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Praful C Chandra",
+      "timestamp_ms": 1700561633858,
+      "content": "May I know your mobile number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Praful C Chandra",
+      "timestamp_ms": 1700561623713,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Praful C Chandra",
+  "is_still_participant": true,
+  "thread_path": "inbox/prafulcchandra_1254182529307112",
+  "magic_words": [
+    
+  ]
+}

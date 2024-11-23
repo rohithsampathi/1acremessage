@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Fazal Qureshi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719037484502,
+      "content": "Hi, we are listing Telangana for now.\nWe'll start other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Fazal Qureshi",
+      "timestamp_ms": 1719036708490,
+      "content": "Only 9 kms from city.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Fazal Qureshi",
+      "timestamp_ms": 1719036653538,
+      "content": "https://maps.app.goo.gl/qE5RWdScvr3m6C2p7?g_st=com.google.maps.preview.copy",
+      "share": {
+        "link": "https://maps.app.goo.gl/qE5RWdScvr3m6C2p7?g_st=com.google.maps.preview.copy",
+        "share_text": "https://maps.app.goo.gl/qE5RWdScvr3m6C2p7?g_st=com.google.maps.preview.copy"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Fazal Qureshi",
+      "timestamp_ms": 1719036592033,
+      "content": "Fazal warehouse , jabalpur m.p. - 482021\nTotal 15 acre land \n12.5 acre agriculture land \n2.5 acre comercial land \n15000 mt warehouse, 12000 bird broiler poultry farm and labour sheds  constructed in commercial land \n1500\n1 borewell\nPersonal transformer \nAnd 24 hrs electricity available.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719036194879,
+      "content": "Can we know the location, extent and price?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Fazal Qureshi",
+      "timestamp_ms": 1719035106017,
+      "content": "Want to sell my property.!",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Fazal Qureshi",
+  "is_still_participant": true,
+  "thread_path": "inbox/fazalqureshi_1420872345978343",
+  "magic_words": [
+    
+  ]
+}

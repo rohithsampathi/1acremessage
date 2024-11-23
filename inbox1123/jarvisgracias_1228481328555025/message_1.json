@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Jarvis Gracias"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1700452555400,
+      "content": "https://www.1acre.in/",
+      "share": {
+        "link": "https://www.1acre.in/",
+        "share_text": "https://www.1acre.in/"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1700452539703,
+      "content": "Yes,we have few properties in Maharashtra please go through the link mentioned, you can find properties in premium section.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jarvis Gracias",
+      "timestamp_ms": 1700452190631,
+      "content": "Anything in Maharashtra?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Jarvis Gracias",
+  "is_still_participant": true,
+  "thread_path": "inbox/jarvisgracias_1228481328555025",
+  "magic_words": [
+    
+  ]
+}

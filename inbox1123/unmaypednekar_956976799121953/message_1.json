@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Unmay Pednekar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706231412962,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Unmay Pednekar",
+      "timestamp_ms": 1706210528927,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Unmay Pednekar",
+  "is_still_participant": true,
+  "thread_path": "inbox/unmaypednekar_956976799121953",
+  "magic_words": [
+    
+  ]
+}

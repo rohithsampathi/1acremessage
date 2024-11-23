@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Simran Guliani"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725630196937,
+      "content": "What about the Satellite?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Simran Guliani",
+      "timestamp_ms": 1725621436040,
+      "content": "I\u00e2\u0080\u0099ll let you know",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725620870306,
+      "content": "Which property are you interested in ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Simran Guliani",
+      "timestamp_ms": 1725620848740,
+      "content": "Thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Simran Guliani",
+      "timestamp_ms": 1725620846525,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725620835377,
+      "content": "These are drone shots",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Simran Guliani",
+      "timestamp_ms": 1725620062903,
+      "content": "Before that I want to know that these clips are shot on drone or these are satellite clips?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Simran Guliani",
+      "timestamp_ms": 1725620042970,
+      "content": "Hey,I was interested in one of your property",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Simran Guliani",
+  "is_still_participant": true,
+  "thread_path": "inbox/simranguliani_1426197335437218",
+  "magic_words": [
+    
+  ]
+}

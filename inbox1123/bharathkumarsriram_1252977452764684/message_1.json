@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Bharath Kumar Sriram"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bharath Kumar Sriram",
+      "timestamp_ms": 1697612972054,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697611165174,
+      "content": "Please contact (+91 80744 50533) Vijay from 1acre.in for more details.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Please contact (+91 80744 50533) Vijay from 1acre.in for more details."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697611149941,
+      "content": "Currently, we are listing lands only in Telangana.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bharath Kumar Sriram",
+      "timestamp_ms": 1697427766280,
+      "content": "Any lands in Andhra Pradesh",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Bharath Kumar Sriram",
+  "is_still_participant": true,
+  "thread_path": "inbox/bharathkumarsriram_1252977452764684",
+  "magic_words": [
+    
+  ]
+}

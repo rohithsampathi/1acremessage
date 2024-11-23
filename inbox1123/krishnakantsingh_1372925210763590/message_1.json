@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Krishna Kant Singh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Krishna Kant Singh",
+      "timestamp_ms": 1719191837623,
+      "content": "About your business",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718929223300,
+      "content": "singhkrishnakant0021 wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718929222921,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Krishna Kant Singh",
+      "timestamp_ms": 1718928884748,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Krishna Kant Singh",
+  "is_still_participant": true,
+  "thread_path": "inbox/krishnakantsingh_1372925210763590",
+  "magic_words": [
+    
+  ]
+}

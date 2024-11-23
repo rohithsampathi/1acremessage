@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Venkatesh Babu Chunduri"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710784833234,
+      "content": "venkateshbabuchunduri wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710784832846,
+      "content": "Plz call the number given in the video",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Venkatesh Babu Chunduri",
+      "timestamp_ms": 1710783455470,
+      "content": "Let me know about that. Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Venkatesh Babu Chunduri",
+      "timestamp_ms": 1710783437186,
+      "content": "I want know about freelance job which you posted.. Is this opportunity still exists?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Venkatesh Babu Chunduri",
+  "is_still_participant": true,
+  "thread_path": "inbox/venkateshbabuchunduri_1346547326740065",
+  "magic_words": [
+    
+  ]
+}

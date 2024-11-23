@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Ravi Yalagala"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ravi Yalagala",
+      "timestamp_ms": 1708390531080,
+      "content": "Never mind, I thought it was a 50A land. Thanks for responding",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708144504843,
+      "content": "Satish",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708144502070,
+      "content": "If you need any further details, you can contact 7661933372",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708144480157,
+      "content": "Hi, it's an entire project. The land to be sold is only half acre.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravi Yalagala",
+      "timestamp_ms": 1708104989491,
+      "content": "Can you please let me know the details of 50A land in Ananthagiri hills?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravi Yalagala",
+      "timestamp_ms": 1708104949397,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ravi Yalagala",
+  "is_still_participant": true,
+  "thread_path": "inbox/raviyalagala_951767102945739",
+  "magic_words": [
+    
+  ]
+}

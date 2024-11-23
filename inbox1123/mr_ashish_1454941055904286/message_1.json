@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Mr_Ashish"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721474202740,
+      "content": "Could you send us location, extent and price?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mr_Ashish",
+      "timestamp_ms": 1721472974269,
+      "content": "I got agricultural land next to NH44. We are interested in selling!? Near piparwada \nWould you be interested ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mr_Ashish",
+      "timestamp_ms": 1721472913027,
+      "content": "Hey",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mr_Ashish",
+  "is_still_participant": true,
+  "thread_path": "inbox/mr_ashish_1454941055904286",
+  "magic_words": [
+    
+  ]
+}

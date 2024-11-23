@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "<AB  Hi> \u00ef\u00a3\u00bf"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "<AB  Hi> \u00ef\u00a3\u00bf",
+      "timestamp_ms": 1718531755849,
+      "content": "abhisg20@gmail.com",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "<AB  Hi> \u00ef\u00a3\u00bf",
+      "timestamp_ms": 1718531749308,
+      "content": "How can I join the team ... If you have any vacancies in bringing 1acre.in to Karnataka then I interested.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "How can I join the team ... If you have any vacancies in bringing 1acre.in to Karnataka then I interested."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718521974125,
+      "content": "Yes \nWe shall launch in Karnataka soon :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "<AB  Hi> \u00ef\u00a3\u00bf",
+      "timestamp_ms": 1718510853433,
+      "content": "I'm from Karnataka n I'm interested to join ur team. I'm abhishek singri. Engineering graduate and have experience of 1 year in IT(Java full stack developer) but currently I am in real estate business. so I think no one are fit as like me for you to extend your business in Karnataka too.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "<AB  Hi> \u00ef\u00a3\u00bf",
+      "timestamp_ms": 1718510565974,
+      "content": "Can you extend your business to Karnataka too?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "<AB  Hi> \u00ef\u00a3\u00bf",
+  "is_still_participant": true,
+  "thread_path": "inbox/abhi_1365536358170854",
+  "magic_words": [
+    
+  ]
+}

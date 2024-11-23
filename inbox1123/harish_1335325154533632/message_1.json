@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Hari.sh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Hari.sh",
+      "timestamp_ms": 1706694284294,
+      "content": "\u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706691370127,
+      "content": "Sure. He'll call back.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hari.sh",
+      "timestamp_ms": 1706686656393,
+      "content": "Hi I have contacted the ramakrishna but not lifting the call",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hari.sh",
+      "timestamp_ms": 1706607002727,
+      "content": "Sure\u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706606479724,
+      "content": "Hi, Please contact Ramakrishna \n7780122120",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hari.sh",
+      "timestamp_ms": 1706606073457,
+      "content": "Hi I'm having 1 acre near kamkol zaheerabad i would like to sell it , so pls let me know the details for selling..",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Hari.sh",
+  "is_still_participant": true,
+  "thread_path": "inbox/harish_1335325154533632",
+  "magic_words": [
+    
+  ]
+}

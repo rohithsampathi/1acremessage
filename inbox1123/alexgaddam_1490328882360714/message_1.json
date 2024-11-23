@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Alex Gaddam"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alex Gaddam",
+      "timestamp_ms": 1723881249997,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723881103194,
+      "content": "Hi, Please contact Venu \n7674901201, from the team. \nHe'll help you with the listing.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Alex Gaddam",
+      "timestamp_ms": 1723879786234,
+      "content": "I dint remember the exact location but it is somewhere in Telangana n Andra border i guess",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723879742619,
+      "content": "Where?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Alex Gaddam",
+      "timestamp_ms": 1723876300701,
+      "content": "14 acres in total, a farmland",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723876105291,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Alex Gaddam",
+      "timestamp_ms": 1723875858235,
+      "content": "I'll give u details by today evening",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Alex Gaddam",
+      "timestamp_ms": 1723875781070,
+      "content": "Owner",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723875769409,
+      "content": "Are you and agent or the owner? \nAnd from where is this land?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Alex Gaddam",
+      "timestamp_ms": 1723875164863,
+      "content": "I got a land can you help me get it sold",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Alex Gaddam",
+  "is_still_participant": true,
+  "thread_path": "inbox/alexgaddam_1490328882360714",
+  "magic_words": [
+    
+  ]
+}

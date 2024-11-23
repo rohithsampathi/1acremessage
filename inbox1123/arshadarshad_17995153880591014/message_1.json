@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Arshad Arshad"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707871198408,
+      "content": "Hi, may I know what you are looking for?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Arshad Arshad",
+      "timestamp_ms": 1707859356579,
+      "content": "How to buy",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Arshad Arshad",
+  "is_still_participant": true,
+  "thread_path": "inbox/arshadarshad_17995153880591014",
+  "magic_words": [
+    
+  ]
+}

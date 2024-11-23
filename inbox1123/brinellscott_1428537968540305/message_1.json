@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Brinell Scott"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716383182541,
+      "content": "Hi, Thanks for getting in touch. Please give us your number. We'll WhatsApp you the details.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Brinell Scott",
+      "timestamp_ms": 1716381470131,
+      "content": "Pls send me details",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Brinell Scott",
+  "is_still_participant": true,
+  "thread_path": "inbox/brinellscott_1428537968540305",
+  "magic_words": [
+    
+  ]
+}

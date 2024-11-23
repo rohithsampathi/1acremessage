@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Anil Pateliya"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717137666012,
+      "content": "Please check 1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Please check 1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717137658398,
+      "content": "Hi, currently we are listing only for sale. Maybe if you like any land, you can call the sellers and ask them directly.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anil Pateliya",
+      "timestamp_ms": 1717136137570,
+      "content": "We want agriculture land on lease base it\u00e2\u0080\u0099s possible \n100-150 acres with best irrigation",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Anil Pateliya",
+  "is_still_participant": true,
+  "thread_path": "inbox/anilpateliya_1474144627314596",
+  "magic_words": [
+    
+  ]
+}

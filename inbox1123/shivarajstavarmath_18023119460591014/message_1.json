@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Shivaraj Stavarmath"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728269198072,
+      "content": "How can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shivaraj Stavarmath",
+      "timestamp_ms": 1728122273127,
+      "content": "Hi sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shivaraj Stavarmath",
+      "timestamp_ms": 1728122254383,
+      "content": "Hi sor",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shivaraj Stavarmath",
+  "is_still_participant": true,
+  "thread_path": "inbox/shivarajstavarmath_18023119460591014",
+  "magic_words": [
+    
+  ]
+}

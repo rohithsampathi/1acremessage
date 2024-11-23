@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Sai VikAs"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717606164943,
+      "content": "Please call vijay at 9959994737 for more details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai VikAs",
+      "timestamp_ms": 1717602115364,
+      "content": "Exact location",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai VikAs",
+      "timestamp_ms": 1717602108389,
+      "content": "Send more details pls",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai VikAs",
+      "timestamp_ms": 1717602099036,
+      "content": "Sai sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C71RfasyOs1/?id=3383687620801915701_47651711013",
+        "share_text": "Comment \u00e2\u0080\u0098Details\u00e2\u0080\u0099 to get in touch with us instantly \u00f0\u009f\u0093\u009e\nOr\nCheck Link in bio.\n\n9.17 acres | \u00e2\u0082\u00b94.5 Cr/acre | Shamirpet | Link in bio \u00f0\u009f\u008c\u009f\n\n- Verified and facilitated by 1acre.in\n- Fully developed plotted layout with a secured boundary wall\n- Facing an 80\u00e2\u0080\u0099 black top road\n- Just 10km from the Shamirpet ORR exit\n- Ideal for group buying with friends and family.\n\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 9959994737 \n\n#GroupBuying #ShamirpetLand #RealEstate #PrimeLocation #1acre.in",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sai VikAs",
+  "is_still_participant": true,
+  "thread_path": "inbox/saivikas_1476578403741497",
+  "magic_words": [
+    
+  ]
+}

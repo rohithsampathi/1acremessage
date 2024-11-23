@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Imran Ahmed"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710567949798,
+      "content": "Hi, Thanks for reaching out. Please contact on the same number. If it's busy, Please drop a message. He'll get back to you. Thanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Imran Ahmed",
+      "timestamp_ms": 1710567423065,
+      "content": "Hello,\n\nI hope you are doing well!\n\nI came across the freelance job post and interested to more details about it.\n\nTried to contact the number provided but to connect as it\u00e2\u0080\u0099s super busy and might because of lot of enquiries on the same.  \n\nPlease do let me know the process in detail.\n\nWill look forward to hearing from you \n\nThanks \n\nImran Ahmed \n9966373783",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Imran Ahmed",
+  "is_still_participant": true,
+  "thread_path": "inbox/imranahmed_1250882816299208",
+  "magic_words": [
+    
+  ]
+}

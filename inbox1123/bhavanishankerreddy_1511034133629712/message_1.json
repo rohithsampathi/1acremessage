@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Bhavani Shanker Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721493910748,
+      "content": "He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721493903244,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bhavani Shanker Reddy",
+      "timestamp_ms": 1721486209757,
+      "content": "It is a plot in kismatpur Area, 250 sq yards and the price would be around 70000 per sq yard",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721485965669,
+      "content": "Could you tell us, \nLocation, extent and price?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bhavani Shanker Reddy",
+      "timestamp_ms": 1721485340549,
+      "content": "Hi I want to list my property",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Bhavani Shanker Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/bhavanishankerreddy_1511034133629712",
+  "magic_words": [
+    
+  ]
+}

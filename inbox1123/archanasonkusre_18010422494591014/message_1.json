@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Archana Sonkusre"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719316011199,
+      "content": "We currently only operate in telangana. \n\nWill keep you posted when we launch in other states",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Archana Sonkusre",
+      "timestamp_ms": 1719315197836,
+      "content": "Can you tell the price per sqf of ahmedabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Archana Sonkusre",
+      "timestamp_ms": 1719315145148,
+      "content": "Buyer",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719312427133,
+      "content": "Not yet, but soon. \nAre you a seller/buyer/agent?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Archana Sonkusre",
+      "timestamp_ms": 1719312123569,
+      "content": "Do you sell lands in Gujarat",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Archana Sonkusre",
+  "is_still_participant": true,
+  "thread_path": "inbox/archanasonkusre_18010422494591014",
+  "magic_words": [
+    
+  ]
+}

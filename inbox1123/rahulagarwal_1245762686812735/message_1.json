@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "RahulAgarwal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707475255818,
+      "content": "Let me know what you are looking for and I'll connect you accordingly.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "RahulAgarwal",
+      "timestamp_ms": 1707474250411,
+      "content": "Please share WhatsApp contact",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707472936477,
+      "content": "Hello. Please tell",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "RahulAgarwal",
+      "timestamp_ms": 1707471340210,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "RahulAgarwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/rahulagarwal_1245762686812735",
+  "magic_words": [
+    
+  ]
+}

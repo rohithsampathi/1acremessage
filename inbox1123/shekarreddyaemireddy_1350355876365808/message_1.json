@@ -1,0 +1,80 @@
+{
+  "participants": [
+    {
+      "name": "Shekar Reddy Aemireddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707455517757,
+      "content": "https://www.1acre.in/subscribe\n\nPlease go through and subscribe (or) click 'talk to us->' at the end of the page and fill in the form. We'll get back to you.",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "https://www.1acre.in/subscribe\n\nPlease go through and subscribe (or) click 'talk to us->' at the end of the page and fill in the form. We'll get back to you."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shekar Reddy Aemireddy",
+      "timestamp_ms": 1707455178625,
+      "content": "Can you send me the options",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shekar Reddy Aemireddy",
+      "timestamp_ms": 1707455168790,
+      "content": "In 1cr",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shekar Reddy Aemireddy",
+      "timestamp_ms": 1707455161468,
+      "content": "I am looking for 1acre land around hyderabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shekar Reddy Aemireddy",
+      "timestamp_ms": 1707454754328,
+      "content": "Thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707454130241,
+      "content": "If you are looking for anything specific, do let us know.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707454104790,
+      "content": "1acre.in Please check the website. We are a listing platform.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "1acre.in Please check the website. We are a listing platform."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shekar Reddy Aemireddy",
+      "timestamp_ms": 1707454021786,
+      "content": "Can I know the price ranges for 1acre lands",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shekar Reddy Aemireddy",
+      "timestamp_ms": 1707453986730,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shekar Reddy Aemireddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/shekarreddyaemireddy_1350355876365808",
+  "magic_words": [
+    
+  ]
+}

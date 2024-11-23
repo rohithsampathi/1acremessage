@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Santosh Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Santosh Reddy",
+      "timestamp_ms": 1721484051314,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721484034423,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721484033740,
+      "content": "Hi, Please contact Vijay 9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Santosh Reddy",
+      "timestamp_ms": 1721483170526,
+      "content": "We need marketing for our hmda layout, can you workout any plans",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Santosh Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/santoshreddy_1458384805559015",
+  "magic_words": [
+    
+  ]
+}

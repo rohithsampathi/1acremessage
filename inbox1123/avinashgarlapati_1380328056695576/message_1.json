@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Avinash Garlapati"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Avinash Garlapati",
+      "timestamp_ms": 1716273172334,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716273151034,
+      "content": "Hi, Please talk to Ratna Kiran \n9390155412.\nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Avinash Garlapati",
+      "timestamp_ms": 1716273033312,
+      "content": "Is a site visit possible?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Avinash Garlapati",
+      "timestamp_ms": 1716273015827,
+      "content": "Does it come under Telangana?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Avinash Garlapati",
+      "timestamp_ms": 1716273005172,
+      "content": "Would like more info regarding the land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Avinash Garlapati",
+      "timestamp_ms": 1716272998315,
+      "content": "Hi I came across the 10 acre plot in your reel near tipeshwar.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Avinash Garlapati",
+  "is_still_participant": true,
+  "thread_path": "inbox/avinashgarlapati_1380328056695576",
+  "magic_words": [
+    
+  ]
+}

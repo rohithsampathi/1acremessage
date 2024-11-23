@@ -1,0 +1,100 @@
+{
+  "participants": [
+    {
+      "name": "\u00c3\u00admteyaz ahm\u00c3\u00a8d"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00c3\u00admteyaz ahm\u00c3\u00a8d",
+      "timestamp_ms": 1723520238307,
+      "content": "That\u00e2\u0080\u0099s great",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00c3\u00admteyaz ahm\u00c3\u00a8d",
+      "timestamp_ms": 1723520232532,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723514912402,
+      "content": "1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723514906702,
+      "content": "Do check the website.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723514891931,
+      "content": "We have started listings in Andhra.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00c3\u00admteyaz ahm\u00c3\u00a8d",
+      "timestamp_ms": 1723479994261,
+      "content": "Kakinada and Vijayawada and nearby villages of Vijayawada is what I\u00e2\u0080\u0099ve been looking for.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00c3\u00admteyaz ahm\u00c3\u00a8d",
+      "timestamp_ms": 1723479948837,
+      "content": "Okay, that sounds nice",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723425235152,
+      "content": "Which city are you looking for?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723425205269,
+      "content": "We are starting other cities.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00c3\u00admteyaz ahm\u00c3\u00a8d",
+      "timestamp_ms": 1723399682094,
+      "content": "I\u00e2\u0080\u0099ve come across your Instagram account, that shows mostly about the lands and sites available in Hyderabad. \n\nI was just wanting to know, if you focus primarily on Hyderabad city or any other cities also ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723378191337,
+      "content": "How can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723378186794,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00c3\u00admteyaz ahm\u00c3\u00a8d",
+      "timestamp_ms": 1723360482345,
+      "content": "Hello \u00f0\u009f\u0091\u008b",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00c3\u00admteyaz ahm\u00c3\u00a8d",
+  "is_still_participant": true,
+  "thread_path": "inbox/imteyazahmed_18031776671488618",
+  "magic_words": [
+    
+  ]
+}

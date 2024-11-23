@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "Madina_Mehraj"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729574428285,
+      "content": "Check www.1acre.in/lakes",
+      "share": {
+        "link": "http://www.1acre.in/lakes",
+        "share_text": "Check www.1acre.in/lakes"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Madina_Mehraj",
+      "timestamp_ms": 1729536077960,
+      "content": "Please help us find FTL land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Madina_Mehraj",
+      "timestamp_ms": 1729536054575,
+      "content": "Madina_Mehraj sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DAdiWBsyusS/?id=3467078335380253458_47651711013",
+        "share_text": "We hope this video helps in understanding FTL & buffer zones.\n\nDM us if you need more details and we will try to help you the best we can. \n\nDo comment what you think about the current situation with HYDRA. \n\n#hyderabad #realestate #hydra #demolition #land #lake",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Madina_Mehraj",
+  "is_still_participant": true,
+  "thread_path": "inbox/madina_mehraj_1578960990168655",
+  "magic_words": [
+    
+  ]
+}

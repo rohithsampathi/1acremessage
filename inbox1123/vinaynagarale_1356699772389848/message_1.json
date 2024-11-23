@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Vinay Nagarale"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vinay Nagarale",
+      "timestamp_ms": 1726220405437,
+      "content": "You have pending appointment request",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726145221933,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vinay Nagarale",
+      "timestamp_ms": 1726134003354,
+      "content": "You can now schedule and manage appointments in chat. Learn More.(https://help.instagram.com/1043402509628629)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vinay Nagarale",
+      "timestamp_ms": 1726134003215,
+      "content": "Boduppal land sale",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vinay Nagarale",
+  "is_still_participant": true,
+  "thread_path": "inbox/vinaynagarale_1356699772389848",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Shashank"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719039382136,
+      "content": "Hi, Please contact Bharath \n7780122120, from the team. \nHe'll help you with the listing.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shashank",
+      "timestamp_ms": 1719038490790,
+      "content": "Hello , I have a agricultural land property in Jedcharla . I would like to know how you will be helpful for me in selling. Kindly respond.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shashank",
+  "is_still_participant": true,
+  "thread_path": "inbox/shashank_1367090078013810",
+  "magic_words": [
+    
+  ]
+}

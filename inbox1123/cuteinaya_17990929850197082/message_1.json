@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "cute Inaya"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "cute Inaya",
+      "timestamp_ms": 1695009169592,
+      "content": "Do u have buyers",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1694998230224,
+      "content": "No",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "cute Inaya",
+      "timestamp_ms": 1694995807815,
+      "content": "Creator",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "cute Inaya",
+      "timestamp_ms": 1694995803622,
+      "content": "R u a video creatoe",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1694995766098,
+      "content": "inayaaffy7 wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1694995765633,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "cute Inaya",
+      "timestamp_ms": 1694995493517,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "cute Inaya",
+  "is_still_participant": true,
+  "thread_path": "inbox/cuteinaya_17990929850197082",
+  "magic_words": [
+    
+  ]
+}

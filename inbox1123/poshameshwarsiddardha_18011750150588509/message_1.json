@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Posham Eshwar Siddardha"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720253426942,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Posham Eshwar Siddardha",
+      "timestamp_ms": 1720249952616,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Posham Eshwar Siddardha",
+  "is_still_participant": true,
+  "thread_path": "inbox/poshameshwarsiddardha_18011750150588509",
+  "magic_words": [
+    
+  ]
+}

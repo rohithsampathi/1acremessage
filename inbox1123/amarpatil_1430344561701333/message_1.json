@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Amar Patil"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Amar Patil",
+      "timestamp_ms": 1723708666824,
+      "content": "Koppal",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723567310931,
+      "content": "By the way, Where's your land?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723567295927,
+      "content": "We are launching Karnataka soon.\nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Amar Patil",
+      "timestamp_ms": 1723562505318,
+      "content": "I need to know how much is price value for 1 acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Amar Patil",
+      "timestamp_ms": 1723562488171,
+      "content": "I have a land in Karnataka",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Amar Patil",
+      "timestamp_ms": 1723562480388,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Amar Patil",
+  "is_still_participant": true,
+  "thread_path": "inbox/amarpatil_1430344561701333",
+  "magic_words": [
+    
+  ]
+}

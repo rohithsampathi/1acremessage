@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "aditipriya539"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718641931658,
+      "content": "Please let us know - location, price and extent. We'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718641894990,
+      "content": "For the buyers, we do facilitate.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718641880388,
+      "content": "Hi, 1acre.in is a listing platform for verified lands, free for both buyers and sellers. \nYou can list with us, on the website.\nIf we feel its a good opportunity",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, 1acre.in is a listing platform for verified lands, free for both buyers and sellers. \nYou can list with us, on the website.\nIf we feel its a good opportunity"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "aditipriya539",
+      "timestamp_ms": 1718638812072,
+      "content": "I actually want to sell a land do you do paid promotion for my land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "aditipriya539",
+      "timestamp_ms": 1718638742557,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "aditipriya539",
+  "is_still_participant": true,
+  "thread_path": "inbox/aditipriya539_17842816761252443",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "participants": [
+    {
+      "name": "Anil Kumar Kirti"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anil Kumar Kirti",
+      "timestamp_ms": 1729271121559,
+      "content": "I appreciate you sending the digital HMDA lakes maps.\nThanks a lot.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729239296072,
+      "content": "Do share with others who need this :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729239287675,
+      "content": "You can know check directly at www.1acre.in/lakes for free",
+      "share": {
+        "link": "http://www.1acre.in/lakes",
+        "share_text": "You can know check directly at www.1acre.in/lakes for free"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anil Kumar Kirti",
+      "timestamp_ms": 1727695595004,
+      "content": "If required I will give you coordinates of my home.pl do the needful",
+      "share": {
+        "link": "http://home.pl/",
+        "share_text": "If required I will give you coordinates of my home.pl do the needful"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anil Kumar Kirti",
+      "timestamp_ms": 1727695476743,
+      "content": "Kindly provide me the map of Oora Cheruvu ( ID 2735) showing the cadastral map superimposed by the google maps to find out the plots in FTL and Buffer zone.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Anil Kumar Kirti",
+  "is_still_participant": true,
+  "thread_path": "inbox/anilkumarkirti_1463060258417904",
+  "magic_words": [
+    
+  ]
+}

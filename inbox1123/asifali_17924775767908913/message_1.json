@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Asif Ali"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717679057651,
+      "content": "Also we do not buy lands \nWe only facilitate the transaction",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717679030261,
+      "content": "We currently only operate in telangana. \n\nWill keep you posted when we launch in other states",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Asif Ali",
+      "timestamp_ms": 1717677987964,
+      "content": "Are you interested to buy property in Kerala",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Asif Ali",
+      "timestamp_ms": 1717677977551,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Asif Ali",
+  "is_still_participant": true,
+  "thread_path": "inbox/asifali_17924775767908913",
+  "magic_words": [
+    
+  ]
+}

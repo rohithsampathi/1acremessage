@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "\u00ef\u00bc\u00b3\u00ef\u00bc\u00b5\u00ef\u00bc\u00a6\u00ef\u00bc\u00a9\u00ef\u00bc\u00b9\u00ef\u00bc\u00a1\u00ef\u00bc\u00ae"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719755710121,
+      "content": "Hi, Please contact Bharath \n7780122120, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00ef\u00bc\u00b3\u00ef\u00bc\u00b5\u00ef\u00bc\u00a6\u00ef\u00bc\u00a9\u00ef\u00bc\u00b9\u00ef\u00bc\u00a1\u00ef\u00bc\u00ae",
+      "timestamp_ms": 1719747036500,
+      "content": "I want to sell my plot",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00ef\u00bc\u00b3\u00ef\u00bc\u00b5\u00ef\u00bc\u00a6\u00ef\u00bc\u00a9\u00ef\u00bc\u00b9\u00ef\u00bc\u00a1\u00ef\u00bc\u00ae",
+      "timestamp_ms": 1719747031335,
+      "content": "Hii sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00ef\u00bc\u00b3\u00ef\u00bc\u00b5\u00ef\u00bc\u00a6\u00ef\u00bc\u00a9\u00ef\u00bc\u00b9\u00ef\u00bc\u00a1\u00ef\u00bc\u00ae",
+  "is_still_participant": true,
+  "thread_path": "inbox/sufiyan_17905275560993382",
+  "magic_words": [
+    
+  ]
+}

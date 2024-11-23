@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "REAL ESTATE BABAI"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721741355669,
+      "content": "We don't promote. \nWe are a listing platform. \nWe make videos of those lands that transact through us.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "REAL ESTATE BABAI",
+      "timestamp_ms": 1721738422356,
+      "content": "Insta id unda ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "REAL ESTATE BABAI",
+      "timestamp_ms": 1721738413238,
+      "content": "U Donno ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721736732055,
+      "content": "Hi, Please talk to Ramakrishna, from the team. \n+91 82475 75837",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "REAL ESTATE BABAI",
+      "timestamp_ms": 1721736219680,
+      "content": "Hi , do u promote private properties?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "REAL ESTATE BABAI",
+  "is_still_participant": true,
+  "thread_path": "inbox/realestatebabai_18014068688591014",
+  "magic_words": [
+    
+  ]
+}

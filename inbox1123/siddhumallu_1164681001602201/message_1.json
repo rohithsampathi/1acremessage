@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "siddhu.mallu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1699163116271,
+      "content": "Sure sir,you can find those lands in our premium section,  visit our website :https://www.1acre.in/, contact:9505778117",
+      "share": {
+        "link": "https://www.1acre.in/",
+        "share_text": "Sure sir,you can find those lands in our premium section,  visit our website :https://www.1acre.in/, contact:9505778117"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "siddhu.mallu",
+      "timestamp_ms": 1699106458138,
+      "content": "Please share the link of lakeside hilltop land. I\u00e2\u0080\u0099ve subscribed. 9885478900",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "siddhu.mallu",
+  "is_still_participant": true,
+  "thread_path": "inbox/siddhumallu_1164681001602201",
+  "magic_words": [
+    
+  ]
+}

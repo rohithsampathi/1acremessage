@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Vikas Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721183995092,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721183994046,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vikas Reddy",
+      "timestamp_ms": 1721158596288,
+      "content": "From this lot",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vikas Reddy",
+      "timestamp_ms": 1721158583864,
+      "content": "Can I get 300 sq yards",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vikas Reddy",
+      "timestamp_ms": 1721158571750,
+      "content": "Vikas sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C9cB_5hKwzX/?id=3412611406773292247_47651711013",
+        "share_text": "1800 Sq.Yds | \u00e2\u0082\u00b990,000 per Sq.Yd | Near Narsingi | Link in bio \u00f0\u009f\u008c\u009f\n\nVerified and facilitated by 1acre.in\nIdeal for apartments \nLocated in a low-density built area\nProximity to ORR, Kokapet and Financial District. \n\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 9959994737\n\n\u00f0\u009f\u0093\u00ac DM us for more queries on buying, selling, or partnerships",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vikas Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/vikasreddy_1450976872964202",
+  "magic_words": [
+    
+  ]
+}

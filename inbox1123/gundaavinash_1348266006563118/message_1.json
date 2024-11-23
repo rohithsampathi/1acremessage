@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Gunda Avinash"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717468281003,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717468280188,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team. \nHe'll help you with the listing.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gunda Avinash",
+      "timestamp_ms": 1717424509953,
+      "content": "What is the process of listing it",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gunda Avinash",
+      "timestamp_ms": 1717424494050,
+      "content": "It's 8 acres",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gunda Avinash",
+      "timestamp_ms": 1717424490198,
+      "content": "Hi, I have my land near pharma city",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Gunda Avinash",
+  "is_still_participant": true,
+  "thread_path": "inbox/gundaavinash_1348266006563118",
+  "magic_words": [
+    
+  ]
+}

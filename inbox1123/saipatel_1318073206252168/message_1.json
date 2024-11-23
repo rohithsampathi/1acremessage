@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Sai Patel"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707758073591,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Patel",
+      "timestamp_ms": 1707755486436,
+      "content": "Customers unte chepandi sir \n9542919006",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Patel",
+      "timestamp_ms": 1707755193313,
+      "content": "Hi sir\n\u00ef\u00bf\u00bc Land undi madhi kontara sir \nMoinabad lo 2.22 guntas",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sai Patel",
+  "is_still_participant": true,
+  "thread_path": "inbox/saipatel_1318073206252168",
+  "magic_words": [
+    
+  ]
+}

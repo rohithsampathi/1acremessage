@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Amith Reddy Orthopaedic Surgeon"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708670923945,
+      "content": "Sure. Someone from the team will call you to discuss.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Amith Reddy Orthopaedic Surgeon",
+      "timestamp_ms": 1708670325589,
+      "content": "9666593987",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Amith Reddy Orthopaedic Surgeon",
+      "timestamp_ms": 1708670321222,
+      "content": "I am interested in the muchintal land pls share details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708525174038,
+      "content": "Sure. Someone form the team will get in touch with you. Thanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Amith Reddy Orthopaedic Surgeon",
+      "timestamp_ms": 1708519217191,
+      "content": "Looking to buy land. My contact no 9666593987",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Amith Reddy Orthopaedic Surgeon",
+  "is_still_participant": true,
+  "thread_path": "inbox/amithreddyorthopaedicsurgeon_1291224162269160",
+  "magic_words": [
+    
+  ]
+}

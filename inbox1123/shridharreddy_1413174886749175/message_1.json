@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Shridhar Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718725807069,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shridhar Reddy",
+      "timestamp_ms": 1718723938936,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shridhar Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/shridharreddy_1413174886749175",
+  "magic_words": [
+    
+  ]
+}

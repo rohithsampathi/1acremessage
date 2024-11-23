@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Shaik Rafi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711684496302,
+      "content": "Hi, may I know what you are referring to?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shaik Rafi",
+      "timestamp_ms": 1711684038930,
+      "content": "Intrested",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shaik Rafi",
+  "is_still_participant": true,
+  "thread_path": "inbox/shaikrafi_1352994426095589",
+  "magic_words": [
+    
+  ]
+}

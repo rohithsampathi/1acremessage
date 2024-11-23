@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Kovidh Surapaneni"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kovidh Surapaneni",
+      "timestamp_ms": 1707121749796,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707121386643,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Kovidh Surapaneni",
+          "timestamp": 1707121749
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kovidh Surapaneni",
+      "timestamp_ms": 1707120865656,
+      "content": "I\u00e2\u0080\u0099m interested",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kovidh Surapaneni",
+      "timestamp_ms": 1707120855207,
+      "content": "Kovidh sent an attachment.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kovidh Surapaneni",
+  "is_still_participant": true,
+  "thread_path": "inbox/kovidhsurapaneni_1216158149789106",
+  "magic_words": [
+    
+  ]
+}

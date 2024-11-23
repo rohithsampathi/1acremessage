@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Lalith Narayan Kashyap"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lalith Narayan Kashyap",
+      "timestamp_ms": 1722246442180,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722245605205,
+      "content": "We currently only operate in telangana. \n\nWill keep you posted when we launch in other states",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Lalith Narayan Kashyap",
+          "timestamp": 1722246442
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lalith Narayan Kashyap",
+      "timestamp_ms": 1722233552929,
+      "content": "Yes, something in Bangalore",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lalith Narayan Kashyap",
+      "timestamp_ms": 1722233551916,
+      "content": "Lalith sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C95J5j8t-8E/?id=3420808929993027332_47651711013",
+        "share_text": "Are you looking for cheapest and best lands near Hyderabad,  or Amaravati?\n\nAccess 3000+ verified lands, all over Telangana, Karnataka, Andhra Pradesh and Karnataka, in one single Map. Quickly spot the best opportunities matching your criteria. Few questions (and many more) the MapView can answer in less than 10 minutes\n\n1. Where can I get large land parcels for a cheap price?\n2. Wha are the prices of lands in the area of your interest (Ex: Chevalla)\n3. Can you find lands close to the ORR, in less than 1-2Cr?\n\nThe MapView makes accessing the data a thousand times easier. You don\u00e2\u0080\u0099t just save a ton of time, You should also save a good amount of money, by landing at the best opportunity, matching your criteria. \n\nFinding cheapest lands now simplified with 1acre.in MapView. Subscribe to premium and try today - https://www.1acre.in/subscribe\n\n#1acre #realestate #buylands #telangana #hyderabad #orr #selllands #lands #property #estate",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Lalith Narayan Kashyap",
+  "is_still_participant": true,
+  "thread_path": "inbox/lalithnarayankashyap_1460092152051322",
+  "magic_words": [
+    
+  ]
+}

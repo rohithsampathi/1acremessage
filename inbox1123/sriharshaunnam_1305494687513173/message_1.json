@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Sri Harsha Unnam"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sri Harsha Unnam",
+      "timestamp_ms": 1704365695481,
+      "content": "Ok.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704256353719,
+      "content": "Hi, we are a platform for buyers and Sellers of lands. As such, we don't market a particular land or a plot. If you have any specific requirement, you can connect with Vijay 9959994737. He'll help you accordingly.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sri Harsha Unnam",
+      "timestamp_ms": 1704255955230,
+      "content": "Hi, do you only market land in acres, or you also sell plots?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sri Harsha Unnam",
+  "is_still_participant": true,
+  "thread_path": "inbox/sriharshaunnam_1305494687513173",
+  "magic_words": [
+    
+  ]
+}

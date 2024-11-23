@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Fazil Sharafudeen"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717660597197,
+      "content": "We currently operate only in Telangana \n\nWill launch in other states soon",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Fazil Sharafudeen",
+      "timestamp_ms": 1717659197671,
+      "content": "Do u have any buyer for cashew factory in Kerala",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Fazil Sharafudeen",
+      "timestamp_ms": 1717659173733,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Fazil Sharafudeen",
+  "is_still_participant": true,
+  "thread_path": "inbox/fazilsharafudeen_1340584297331182",
+  "magic_words": [
+    
+  ]
+}

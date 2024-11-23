@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Vidya Srinath"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721614137373,
+      "content": "We are currently listing only Telangana. We'll list other states soon. Will keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vidya Srinath",
+      "timestamp_ms": 1721594879041,
+      "content": "Anything near bangalore pls",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vidya Srinath",
+      "timestamp_ms": 1721594877879,
+      "content": "Vidya sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C9mtWdXSM8I/?id=3415616822857748232_47651711013",
+        "share_text": "Check link in bio to subscribe!",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vidya Srinath",
+  "is_still_participant": true,
+  "thread_path": "inbox/vidyasrinath_1369025071167411",
+  "magic_words": [
+    
+  ]
+}

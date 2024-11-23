@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Kallem Giri Goud"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718850319289,
+      "content": "Hi, Please contact Bharath \n7780122120\nFrom our team. \nHe'll help you with the listing.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kallem Giri Goud",
+      "timestamp_ms": 1718849919106,
+      "content": "Yadagirigutta temple to site 7km",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kallem Giri Goud",
+      "timestamp_ms": 1718849906357,
+      "content": "Village masaipet",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kallem Giri Goud",
+      "timestamp_ms": 1718849825290,
+      "content": "Off acre land for sale",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718836520365,
+      "content": "kallemgirigoud wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718836520143,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kallem Giri Goud",
+      "timestamp_ms": 1718818394954,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kallem Giri Goud",
+  "is_still_participant": true,
+  "thread_path": "inbox/kallemgirigoud_1317514992986175",
+  "magic_words": [
+    
+  ]
+}

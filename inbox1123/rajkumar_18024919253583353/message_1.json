@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Raj Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727810744788,
+      "content": "Hello , \n\nDue to unforeseen demand , we are not able to address each request so we have decided to digitise all lakes around hyderabad and make it accessible for free \n\nTo help prioritise the digitisation process, fill the following form with your requirements. We will inform you once your required lake is digitised. \nRequirement form : https://forms.gle/LFThdXChRzH8Uz6M6 \n\nThanks for your patience.",
+      "share": {
+        "link": "https://forms.gle/LFThdXChRzH8Uz6M6",
+        "share_text": "Hello , \n\nDue to unforeseen demand , we are not able to address each request so we have decided to digitise all lakes around hyderabad and make it accessible for free \n\nTo help prioritise the digitisation process, fill the following form with your requirements. We will inform you once your required lake is digitised. \nRequirement form : https://forms.gle/LFThdXChRzH8Uz6M6 \n\nThanks for your patience."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raj Kumar",
+      "timestamp_ms": 1727798971562,
+      "content": "My location is at red mark so I want to know. Do I be safe or not?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raj Kumar",
+      "timestamp_ms": 1727798944330,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raj Kumar",
+      "timestamp_ms": 1727798933317,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raj Kumar",
+      "timestamp_ms": 1727798875946,
+      "content": "I need help.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Raj Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/rajkumar_18024919253583353",
+  "magic_words": [
+    
+  ]
+}

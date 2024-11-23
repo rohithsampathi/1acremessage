@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "LitPrnv2K"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720107664637,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "LitPrnv2K",
+      "timestamp_ms": 1720103066249,
+      "content": "But I have doubts",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "LitPrnv2K",
+      "timestamp_ms": 1720103060338,
+      "content": "I want those plots near maharashtra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "LitPrnv2K",
+      "timestamp_ms": 1720103048119,
+      "content": "Bro",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "LitPrnv2K",
+  "is_still_participant": true,
+  "thread_path": "inbox/litprnv2k_17937289280845534",
+  "magic_words": [
+    
+  ]
+}

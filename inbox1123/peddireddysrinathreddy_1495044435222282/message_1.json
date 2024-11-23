@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Peddireddy srinath Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729239418712,
+      "content": "Please check www.1acre.in/lakes \n\nHimayat sagar map isnt there on HMDA website , rest should be there",
+      "share": {
+        "link": "http://www.1acre.in/lakes",
+        "share_text": "Please check www.1acre.in/lakes \n\nHimayat sagar map isnt there on HMDA website , rest should be there"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Peddireddy srinath Reddy",
+      "timestamp_ms": 1727689415333,
+      "content": "Can you send ftl and buffer details of himayat and osman sagar and peeramcheruvu lake",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Peddireddy srinath Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/peddireddysrinathreddy_1495044435222282",
+  "magic_words": [
+    
+  ]
+}

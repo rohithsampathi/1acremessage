@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Harinath Goud"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Harinath Goud",
+      "timestamp_ms": 1703414275220,
+      "content": "Need 1 to 2 acres of land \nContact me 92463 66670",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703221536139,
+      "content": "Hi , you can connect with pratheek  9390674324,",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harinath Goud",
+      "timestamp_ms": 1703220931885,
+      "content": "Hi 1acre.in share your contact details",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi 1acre.in share your contact details"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703213465767,
+      "content": "You can contact to seller of this land directly at (9949941474)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harinath Goud",
+      "timestamp_ms": 1703187340383,
+      "content": "Hi\nDetails plz",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3262441259268829133"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Harinath Goud",
+  "is_still_participant": true,
+  "thread_path": "inbox/harinathgoud_1377508316976912",
+  "magic_words": [
+    
+  ]
+}

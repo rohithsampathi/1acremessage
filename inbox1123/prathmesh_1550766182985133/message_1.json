@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "PRATHMESH\u00f0\u009f\u009a\u00a9\u00f0\u009f\u009a\u00a9"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "PRATHMESH\u00f0\u009f\u009a\u00a9\u00f0\u009f\u009a\u00a9",
+      "timestamp_ms": 1731172219925,
+      "content": "For sure sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731171804992,
+      "content": "Will let you know once we start there",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731171796308,
+      "content": "We haven\u00e2\u0080\u0099t launched in UP yet",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "PRATHMESH\u00f0\u009f\u009a\u00a9\u00f0\u009f\u009a\u00a9",
+      "timestamp_ms": 1731151499390,
+      "content": "Hello sir i want to sell my 5bigha land and cost of 5 bigha land is 1cr75lacs in lucknow",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "PRATHMESH\u00f0\u009f\u009a\u00a9\u00f0\u009f\u009a\u00a9",
+  "is_still_participant": true,
+  "thread_path": "inbox/prathmesh_1550766182985133",
+  "magic_words": [
+    
+  ]
+}

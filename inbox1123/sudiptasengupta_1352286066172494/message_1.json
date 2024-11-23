@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Sudipta Sengupta"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sudipta Sengupta",
+      "timestamp_ms": 1706089078228,
+      "content": "Sure. Will connect",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706088981980,
+      "content": "You can connect with Satish  7661933372",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sudipta Sengupta",
+      "timestamp_ms": 1706088592631,
+      "content": "Yes, it certainly would be for a news story. I am still exploring the angle. Wish to speak to you (or someone from the team) regarding land values, availability, demand etc.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706088458245,
+      "content": "Hello Sudipta, sure. We can get on a call. \nWould this be for an article on lands? If you can give me a little more context, I'll connect with the right person from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sudipta Sengupta",
+      "timestamp_ms": 1706087911364,
+      "content": "Hi. I am Sudipta Sengupta from The Times of India and wished to connect with you as I write extensively on real estate. Please let  me know if we can get on a call sometime -- Regards.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sudipta Sengupta",
+  "is_still_participant": true,
+  "thread_path": "inbox/sudiptasengupta_1352286066172494",
+  "magic_words": [
+    
+  ]
+}

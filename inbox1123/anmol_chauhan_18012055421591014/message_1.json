@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "#Anmol_Chauhan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "#Anmol_Chauhan",
+      "timestamp_ms": 1720456658341,
+      "content": "Ok Thank you so much",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720455980573,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "#Anmol_Chauhan",
+      "timestamp_ms": 1720451367109,
+      "content": "In front of National highway Panchkula to yamunanagar",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "#Anmol_Chauhan",
+      "timestamp_ms": 1720451173409,
+      "content": "Yes sir\nLocation is VPO Pathreri, Tehsil - Naraingarh, District - Ambala, State - Haryana , Pin Code 134202\n2 Acre Land \nDemand is 7 Crore",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720450918207,
+      "content": "Could you send us location, extent and price?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "#Anmol_Chauhan",
+      "timestamp_ms": 1720448092200,
+      "content": "Hi Sir\ni want to advertise my land for sale in front of national highway 73 and national highway 72....",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "#Anmol_Chauhan",
+  "is_still_participant": true,
+  "thread_path": "inbox/anmol_chauhan_18012055421591014",
+  "magic_words": [
+    
+  ]
+}

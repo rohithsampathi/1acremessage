@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Awais Hussain"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1698749246648,
+      "content": "Hey Hussain, for more details please visit our website :https://www.1acre.in/, contact:7780122120",
+      "share": {
+        "link": "https://1acre.in/",
+        "share_text": "Looking to Buy land in Telangana? Get Exclusive Access to Verified Land Deals in Telangana and Protect Your Investment with our services like Free Verification, Surveying, Monitoring, and More!"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Awais Hussain",
+      "timestamp_ms": 1698740680086,
+      "content": "Brought send me your mobile number",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Awais Hussain",
+  "is_still_participant": true,
+  "thread_path": "inbox/awaishussain_1189824879072066",
+  "magic_words": [
+    
+  ]
+}

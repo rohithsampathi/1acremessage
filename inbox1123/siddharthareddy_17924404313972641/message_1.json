@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Siddhartha Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Siddhartha Reddy",
+      "timestamp_ms": 1730202175888,
+      "content": "8142004516",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730194447080,
+      "content": "Share your number and if we have any opportunity, we will let you know",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Siddhartha Reddy",
+      "timestamp_ms": 1730137266610,
+      "content": "If you could negotiate for  development plot in Hyderabad particularly in Kismatpur ,bnreddy area as good gesture u can expect a good will",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Siddhartha Reddy",
+      "timestamp_ms": 1730137064283,
+      "content": "If there is any plot in kismatpur, Bandlaguda jagir for sale or development please let me know",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Siddhartha Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/siddharthareddy_17924404313972641",
+  "magic_words": [
+    
+  ]
+}

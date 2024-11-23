@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Vishnu yadav"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719811077452,
+      "content": "Hi, Please contact Bharath \n7780122120",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishnu yadav",
+      "timestamp_ms": 1719803156873,
+      "content": "Vishnu sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C8rL8WmN5Bo/?id=3398862869724893288_47651711013",
+        "share_text": "Inviting Real Estate Agents dealing with lands to join 1acre.in community.\n\nBenefits:\n1.\u00e2\u0081\u00a0 \u00e2\u0081\u00a0Properties listed with your number directly - Free of cost. \n2.\u00e2\u0081\u00a0 \u00e2\u0081\u00a0\u00e2\u0081\u00a0Dedicated profile with shareable listing pages\n3.\u00e2\u0081\u00a0 \u00e2\u0081\u00a0\u00e2\u0081\u00a0Preliminary Verification Certificate for each listing\n\nJoin 1000+ Agents who are reaping long-term benefits with 1acre.in Agent Network\n\n#realestate #buylands #selllands #1acre #hyderabad #telangana",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vishnu yadav",
+  "is_still_participant": true,
+  "thread_path": "inbox/vishnuyadav_17892353898042923",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "QAIR . . ."
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716296844799,
+      "content": "He'll help you with the details.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716296830803,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716296829992,
+      "content": "Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716296815211,
+      "content": "It's the total price",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "QAIR . . .",
+      "timestamp_ms": 1716296408367,
+      "content": "Is that the total price of the land? \nHow far is it from Hyderabad in kms? \nExact location?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "QAIR . . .",
+      "timestamp_ms": 1716296408008,
+      "content": "QAIR sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C7InZjuKaVo/?id=3371117601243112808_47651711013",
+        "share_text": "Further:\n15km away from the Upcoming Nagpur-Goa Shakthipeeth expressway. \nA new railway line between Nagpur and Nanded is underway. \n\n10 Acres - 1.5Cr\n\nThis transaction is facilitated by 1acre.in, till the process of registration. \nIf you are interested in buying, \nContact: 9959994737\n\n#1acre #1acre.in #beauty #landscapephotography",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "QAIR . . .",
+  "is_still_participant": true,
+  "thread_path": "inbox/qair_1294555631932329",
+  "magic_words": [
+    
+  ]
+}

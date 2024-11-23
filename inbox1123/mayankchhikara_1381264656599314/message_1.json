@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Mayank Chhikara"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717660569068,
+      "content": "We'll keep you posted, once we launch there.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mayank Chhikara",
+      "timestamp_ms": 1717659255262,
+      "content": "Yes, I have quite a wide variety of land in Gurgaon and Jhajjar. The land currently is rural and urban agricultural land for industrial, residential, and commercial purposes. I'm exploring opportunities to monetise these assets.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717652336583,
+      "content": "Do you buy/sell/deal land?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717652318839,
+      "content": "Hi, yes. Definitely.\nWe'll soon start other states. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mayank Chhikara",
+      "timestamp_ms": 1717651022460,
+      "content": "Any plans to explore NCR market?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mayank Chhikara",
+  "is_still_participant": true,
+  "thread_path": "inbox/mayankchhikara_1381264656599314",
+  "magic_words": [
+    
+  ]
+}

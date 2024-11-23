@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "ad.12.8\u00f0\u009f\u0090\u00bc\u00f0\u009f\u008e\u00ad"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719893052407,
+      "content": "Hi. \nPlease let us know how we can help.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "ad.12.8\u00f0\u009f\u0090\u00bc\u00f0\u009f\u008e\u00ad",
+      "timestamp_ms": 1719886505205,
+      "content": "ad.12.8\u00f0\u009f\u0090\u00bc\u00f0\u009f\u008e\u00ad sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C8mK8BgSVSE/?id=3397451074146751620_47651711013",
+        "share_text": "8 acres | 85 Lakhs per acre | Vikarabad | Link in bio \u00f0\u009f\u008c\u009f\n\n- Verified and facilitated by 1acre.in\n- Pure red soil mango farm\n- Within Vikarabad municipal limits\n- Surrounded by active vegetable cultivation and hillocks\n\nInterested? Get in touch now! \n\u00f0\u009f\u0093\u009e +91 9959994737",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "ad.12.8\u00f0\u009f\u0090\u00bc\u00f0\u009f\u008e\u00ad",
+  "is_still_participant": true,
+  "thread_path": "inbox/ad128_18032182487492561",
+  "magic_words": [
+    
+  ]
+}

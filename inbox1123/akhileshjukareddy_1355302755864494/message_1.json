@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Akhilesh Jukareddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Akhilesh Jukareddy",
+      "timestamp_ms": 1711357847433,
+      "content": "Thank you, have messaged prateek. Will keep you posted. Thank you!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711329945498,
+      "content": "Hi, Please contact Pratheek \n9390674324, from the team. He'll arrange for a meet.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akhilesh Jukareddy",
+      "timestamp_ms": 1711314791601,
+      "content": "Hi, hope you are doing.\nThis is Akhilesh, i live in Zurich, Switzerland.\nI am in Hyderabad, this month end.\nDo you have an office in Hyd? Possible to meet?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Akhilesh Jukareddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/akhileshjukareddy_1355302755864494",
+  "magic_words": [
+    
+  ]
+}

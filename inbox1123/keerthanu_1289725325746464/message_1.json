@@ -1,0 +1,76 @@
+{
+  "participants": [
+    {
+      "name": "Keerthan U"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717570295263,
+      "content": "Sure. We'll let you know.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Keerthan U",
+      "timestamp_ms": 1717570042878,
+      "content": "If a buyer comes forward and is willing to do a solar plant project, we would love to partner as well. Or sell the entire piece.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Keerthan U",
+      "timestamp_ms": 1717569990010,
+      "content": "We have 10 acres near Guntakal. The plan was to build a solar plant in the 10 acres. There are 2 land parcels next to each other 3 acres and 7 acres.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717566535759,
+      "content": "Acres, location and price.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717566528403,
+      "content": "Also, Please send us the details, so if there's anyone interested, we can connect.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717566495164,
+      "content": "Hi, we are currently listing only Telanagana. Please check 1acre.in\nWe'll soon start listing AP and Karnataka. We'll keep you posted.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, we are currently listing only Telanagana. Please check 1acre.in\nWe'll soon start listing AP and Karnataka. We'll keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Keerthan U",
+      "timestamp_ms": 1717530271321,
+      "content": "How can you help me sell them?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Keerthan U",
+      "timestamp_ms": 1717530252551,
+      "content": "Have properties near Bellary and Guntakal. Looking to sell them",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Keerthan U",
+      "timestamp_ms": 1717530215753,
+      "content": "Hey",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Keerthan U",
+  "is_still_participant": true,
+  "thread_path": "inbox/keerthanu_1289725325746464",
+  "magic_words": [
+    
+  ]
+}

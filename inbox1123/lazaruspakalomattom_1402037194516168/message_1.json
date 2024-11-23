@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Lazarus Pakalomattom"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721666687948,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lazarus Pakalomattom",
+      "timestamp_ms": 1721666058983,
+      "content": "Chennai and Banglore",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721665020526,
+      "content": "Which state are you looking for?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lazarus Pakalomattom",
+      "timestamp_ms": 1721663461499,
+      "content": "thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721662660312,
+      "content": "We are currently listing Telangana.  We'll list other states soon.  Will keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lazarus Pakalomattom",
+      "timestamp_ms": 1721660524164,
+      "content": "do you have land only in hyderabad?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Lazarus Pakalomattom",
+  "is_still_participant": true,
+  "thread_path": "inbox/lazaruspakalomattom_1402037194516168",
+  "magic_words": [
+    
+  ]
+}

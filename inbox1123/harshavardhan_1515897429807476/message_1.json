@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Harshavardhan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727625735518,
+      "content": "Hello Mr Harshavardhan, We can commision a GIS expert to be able to prepare the map. He would charge 5000 for the same. But you can follow the instructions given in the reel to know it yourself",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harshavardhan",
+      "timestamp_ms": 1727622287529,
+      "content": "As you have mentioned in the recent video - I can see that if needed more info reach out to you like that. So, can you please let me know if you can help ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harshavardhan",
+      "timestamp_ms": 1727622236530,
+      "content": "Hello Team,\nI have purchased a property in \u00e2\u0080\u009cThe Drizzle\u00e2\u0080\u009d Project. \nProject is located in Narsingi and Neknampur village.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Harshavardhan",
+  "is_still_participant": true,
+  "thread_path": "inbox/harshavardhan_1515897429807476",
+  "magic_words": [
+    
+  ]
+}

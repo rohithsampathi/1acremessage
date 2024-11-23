@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "|| C H A N D U ||"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703081114548,
+      "content": "Hy , you can connect with pratheek  9390674324,",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "|| C H A N D U ||",
+      "timestamp_ms": 1703064920629,
+      "content": "??",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "|| C H A N D U ||",
+      "timestamp_ms": 1703057107917,
+      "content": "I'm looking for 3,4 acres agriculture land with road facility (budget around 10 to 20 lac)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "|| C H A N D U ||",
+      "timestamp_ms": 1703057013594,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "|| C H A N D U ||",
+  "is_still_participant": true,
+  "thread_path": "inbox/chandu_1147677926618182",
+  "magic_words": [
+    
+  ]
+}

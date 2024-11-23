@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Santosh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722917019279,
+      "content": "Please call our team member Venu at +91 76749 01201\n\nHe shall help you list it and share other details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Santosh",
+      "timestamp_ms": 1722862159390,
+      "content": "How to check my add in 1 acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Santosh",
+      "timestamp_ms": 1722862150020,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Santosh",
+      "timestamp_ms": 1721641429333,
+      "content": "I spoke to him",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Santosh",
+      "timestamp_ms": 1721641424543,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721630637382,
+      "content": "Hi, Please contact Bharath \n8341127911",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Santosh",
+      "timestamp_ms": 1721528282794,
+      "content": "Hi.. can I have ur no.. I want to sell my house and couple of plots",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Santosh",
+  "is_still_participant": true,
+  "thread_path": "inbox/santosh_18015859703585986",
+  "magic_words": [
+    
+  ]
+}

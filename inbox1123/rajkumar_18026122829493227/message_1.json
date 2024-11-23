@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Raj Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717752185251,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raj Kumar",
+      "timestamp_ms": 1717750462980,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Raj Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/rajkumar_18026122829493227",
+  "magic_words": [
+    
+  ]
+}

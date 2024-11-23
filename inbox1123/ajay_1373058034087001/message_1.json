@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Ajay"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717762302429,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717762301714,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ajay",
+      "timestamp_ms": 1717760374462,
+      "content": "Can we buy half acre ?",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3385138294819517703"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ajay",
+  "is_still_participant": true,
+  "thread_path": "inbox/ajay_1373058034087001",
+  "magic_words": [
+    
+  ]
+}

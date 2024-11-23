@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "bantai_arif 09"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717606249867,
+      "content": "Hello there !",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "bantai_arif 09",
+      "timestamp_ms": 1717605009057,
+      "content": "Hy",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "bantai_arif 09",
+  "is_still_participant": true,
+  "thread_path": "inbox/bantai_arif09_1464414624955066",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Vaibhav Deshmukh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723259732054,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vaibhav Deshmukh",
+      "timestamp_ms": 1723223087059,
+      "content": "Where it is near Yavatmal plz tell me?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vaibhav Deshmukh",
+  "is_still_participant": true,
+  "thread_path": "inbox/vaibhavdeshmukh_1382988506423356",
+  "magic_words": [
+    
+  ]
+}

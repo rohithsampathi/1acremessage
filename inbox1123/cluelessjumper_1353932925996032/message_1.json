@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009f\u0087\u00a8\u00f0\u009f\u0087\u00a6CluelessJumper\u00f0\u009f\u0087\u00b6\u00f0\u009f\u0087\u00a6"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717520895596,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u0087\u00a8\u00f0\u009f\u0087\u00a6CluelessJumper\u00f0\u009f\u0087\u00b6\u00f0\u009f\u0087\u00a6",
+      "timestamp_ms": 1717520423715,
+      "content": "Are all these land legit ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716252361895,
+      "content": "Thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u0087\u00a8\u00f0\u009f\u0087\u00a6CluelessJumper\u00f0\u009f\u0087\u00b6\u00f0\u009f\u0087\u00a6",
+      "timestamp_ms": 1716237674831,
+      "content": "Dope",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00f0\u009f\u0087\u00a8\u00f0\u009f\u0087\u00a6CluelessJumper\u00f0\u009f\u0087\u00b6\u00f0\u009f\u0087\u00a6",
+  "is_still_participant": true,
+  "thread_path": "inbox/cluelessjumper_1353932925996032",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "vishal raj"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "vishal raj",
+      "timestamp_ms": 1715413720029,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715409592336,
+      "content": "Hi, Please talk to Ratna Kiran \n9390155412\nHe'll help you with it. Thanks.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "vishal raj",
+          "timestamp": 1715413720
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "vishal raj",
+      "timestamp_ms": 1715406765888,
+      "content": "Interested",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "vishal raj",
+      "timestamp_ms": 1715406730037,
+      "content": "vishal sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C6srakJNoKv/?id=3363253963254563503_47651711013",
+        "share_text": "2 acre lake-facing land, along with Permissions to build 100 lake-facing studios at 2.5Cr per acre.\nAnantagiri Hills, Vikarabad. \n\nTransaction facilitated by 1acre.in \nIf interested, get in touch with us. \n\nContact: 9959994737",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "vishal raj",
+  "is_still_participant": true,
+  "thread_path": "inbox/vishalraj_1300025184735065",
+  "magic_words": [
+    
+  ]
+}

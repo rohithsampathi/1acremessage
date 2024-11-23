@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "KRUSHI KRANTI"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717332819109,
+      "content": "This is an agricultural land. There's Naksha road for it. Land is just adjacent to the forest.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "KRUSHI KRANTI",
+      "timestamp_ms": 1717330206683,
+      "content": "Sir forest chi jaga asel tr rasta bheto kaa?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "KRUSHI KRANTI",
+      "timestamp_ms": 1717330171955,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "KRUSHI KRANTI",
+  "is_still_participant": true,
+  "thread_path": "inbox/krushikranti_18007666016591014",
+  "magic_words": [
+    
+  ]
+}

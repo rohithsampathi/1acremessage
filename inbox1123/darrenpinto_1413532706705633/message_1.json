@@ -1,0 +1,72 @@
+{
+  "participants": [
+    {
+      "name": "Darren Pinto"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Darren Pinto",
+      "timestamp_ms": 1721055967779,
+      "content": "Thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721055590673,
+      "content": "We can't, as we are utilizing the full resource and don't know more. You could hire some agency, who could advise/connect.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Darren Pinto",
+      "timestamp_ms": 1721051333100,
+      "content": "Can you share please ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Darren Pinto",
+      "timestamp_ms": 1721041575336,
+      "content": "Could you pass on the contact I'm looking for someone who does this \u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721041509736,
+      "content": "Regarding the videos - we just hire external teams to do it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Darren Pinto",
+      "timestamp_ms": 1721039948970,
+      "content": "Yes, I'm into properties from karnataka : Udupi\n& Dubai",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721037014519,
+      "content": "And where from?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721037007073,
+      "content": "Are you into land?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Darren Pinto",
+      "timestamp_ms": 1721031109533,
+      "content": "Hey, \n\nI love your videos. I would want to have it for my business as well, could you help ? \n\nThanks \nDarren pinto",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Darren Pinto",
+  "is_still_participant": true,
+  "thread_path": "inbox/darrenpinto_1413532706705633",
+  "magic_words": [
+    
+  ]
+}

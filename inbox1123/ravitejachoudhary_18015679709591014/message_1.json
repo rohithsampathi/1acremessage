@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Raviteja Choudhary"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Raviteja Choudhary",
+      "timestamp_ms": 1722920868907,
+      "content": "Sir mai bhi es field mein kam karna chahta hu you help me",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722913399826,
+      "content": "How can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722913392813,
+      "content": "Hello \u00f0\u009f\u0091\u008b",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raviteja Choudhary",
+      "timestamp_ms": 1722911926066,
+      "content": "Hey \u00f0\u009f\u0091\u008b Sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Raviteja Choudhary",
+  "is_still_participant": true,
+  "thread_path": "inbox/ravitejachoudhary_18015679709591014",
+  "magic_words": [
+    
+  ]
+}

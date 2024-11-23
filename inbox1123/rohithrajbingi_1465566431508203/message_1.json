@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Rohith Raj Bingi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721037023264,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721037022199,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rohith Raj Bingi",
+      "timestamp_ms": 1721031716800,
+      "content": "Hello, can I get more info on this?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rohith Raj Bingi",
+      "timestamp_ms": 1721031716442,
+      "content": "Rohith sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C9UBLDXtmaU/?carousel_share_child_media_id=3410355958192799596_47651711013",
+        "share_text": "",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rohith Raj Bingi",
+  "is_still_participant": true,
+  "thread_path": "inbox/rohithrajbingi_1465566431508203",
+  "magic_words": [
+    
+  ]
+}

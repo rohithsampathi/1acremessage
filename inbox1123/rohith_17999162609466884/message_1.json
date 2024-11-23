@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Rohith"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rohith",
+      "timestamp_ms": 1701845130950,
+      "content": "Okay thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701845114303,
+      "content": "Hi Rohit we deal with agriculture lands , if you are looking for agriculture lands you can connect with,  pratheek 9390674324,he can help you with your enquiries.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rohith",
+      "timestamp_ms": 1701843294886,
+      "content": "Any outskirts of city. For investment purpose",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rohith",
+      "timestamp_ms": 1701843063547,
+      "content": "30 lakhs near to hyd. 200-300 yeards? Is it possible sir?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rohith",
+  "is_still_participant": true,
+  "thread_path": "inbox/rohith_17999162609466884",
+  "magic_words": [
+    
+  ]
+}

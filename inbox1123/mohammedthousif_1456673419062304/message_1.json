@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Mohammed Thousif"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721613340042,
+      "content": "Listing on the Website is free. 1acre.in \n\nIf we take extra effort - like putting it on insta or others, we charge 2%.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Listing on the Website is free. 1acre.in \n\nIf we take extra effort - like putting it on insta or others, we charge 2%."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammed Thousif",
+      "timestamp_ms": 1721534561093,
+      "content": "Do you charge commission?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammed Thousif",
+      "timestamp_ms": 1721534547184,
+      "content": "Then",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721514907384,
+      "content": "We don't promote property. Thanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammed Thousif",
+      "timestamp_ms": 1721496162830,
+      "content": "How much do you charge for promotion of property ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mohammed Thousif",
+  "is_still_participant": true,
+  "thread_path": "inbox/mohammedthousif_1456673419062304",
+  "magic_words": [
+    
+  ]
+}

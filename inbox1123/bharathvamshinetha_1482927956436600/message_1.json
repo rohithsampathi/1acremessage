@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Bharath Vamshi Netha"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723624539422,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bharath Vamshi Netha",
+      "timestamp_ms": 1723605701439,
+      "content": "Price",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bharath Vamshi Netha",
+      "timestamp_ms": 1723605700734,
+      "content": "Bharath sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C-m8ZuvykK6/?id=3433697416888074938_47651711013",
+        "share_text": "1450 sq yards in  Manchirevula | Link in bio \u00f0\u009f\u008c\u009f\n\nIdeal for mid-rise apartments or splitting into 2-3 plots for individual residences.\n\n- Close to Narsingi and Kokapet\n- Many high-rises coming up in the vicinity\n- 40\u00e2\u0080\u0099 roads on east and north\n\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 8341149011\n\nDM us for more queries on buying, selling, or partnerships.\n\n#landforsale #manchirevula #investment #propertyforsale #realestate",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Bharath Vamshi Netha",
+  "is_still_participant": true,
+  "thread_path": "inbox/bharathvamshinetha_1482927956436600",
+  "magic_words": [
+    
+  ]
+}

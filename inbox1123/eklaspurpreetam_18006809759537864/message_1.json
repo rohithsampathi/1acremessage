@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Eklaspur Preetam"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721484063401,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721484061474,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Eklaspur Preetam",
+      "timestamp_ms": 1721480929693,
+      "content": "Send me more details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Eklaspur Preetam",
+      "timestamp_ms": 1721480926170,
+      "content": "Hello am interested in the yavatmal land.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Eklaspur Preetam",
+  "is_still_participant": true,
+  "thread_path": "inbox/eklaspurpreetam_18006809759537864",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "ramya veena"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708408464735,
+      "content": "Let's organize this info. We'll see how we can help best.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708408447893,
+      "content": "Hmmm. Let me get back on that. There are lands outside but they are usually bigger chunks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "ramya veena",
+      "timestamp_ms": 1708404684548,
+      "content": "Don't mind investment Lil far to hyd pr other states too",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708401261847,
+      "content": "I am afraid that might be a low budget for finding good opportunities around Hyderabad.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "ramya veena",
+      "timestamp_ms": 1708358803335,
+      "content": "Any land investments.in around hyd in budget of 10 - 15 lakhs ?",
+      "share": {
+        "link": "http://investments.in/",
+        "share_text": "Any land investments.in around hyd in budget of 10 - 15 lakhs ?"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "ramya veena",
+      "timestamp_ms": 1708358767072,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "ramya veena",
+  "is_still_participant": true,
+  "thread_path": "inbox/ramyaveena_1297440544979989",
+  "magic_words": [
+    
+  ]
+}

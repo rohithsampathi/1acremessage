@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Srikanth Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Srikanth Reddy",
+      "timestamp_ms": 1711652503383,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711647228229,
+      "content": "Plz call the number given in the video.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Srikanth Reddy",
+          "timestamp": 1711652503
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srikanth Reddy",
+      "timestamp_ms": 1711646360712,
+      "content": "I am interested to join",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srikanth Reddy",
+      "timestamp_ms": 1711646337508,
+      "content": "Hi I am srikanth reddy from nagole still hiring is going on ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Srikanth Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/srikanthreddy_1359454592117607",
+  "magic_words": [
+    
+  ]
+}

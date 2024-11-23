@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Yemme Mahendra Kuruma"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708426933553,
+      "content": "Hi, may I know what you are looking for? I'll connect accordingly.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yemme Mahendra Kuruma",
+      "timestamp_ms": 1708425787685,
+      "content": "8125888207",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yemme Mahendra Kuruma",
+      "timestamp_ms": 1708425783225,
+      "content": "Can you call me",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yemme Mahendra Kuruma",
+      "timestamp_ms": 1708425771253,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Yemme Mahendra Kuruma",
+  "is_still_participant": true,
+  "thread_path": "inbox/yemmemahendrakuruma_1340386110690327",
+  "magic_words": [
+    
+  ]
+}

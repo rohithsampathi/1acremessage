@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Shlok Agarwal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shlok Agarwal",
+      "timestamp_ms": 1727167146261,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727167105910,
+      "content": "Hi, Please contact Srikar\n8341149011, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shlok Agarwal",
+      "timestamp_ms": 1727165715253,
+      "content": "These 2 plots are just adjacent",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shlok Agarwal",
+      "timestamp_ms": 1727165696052,
+      "content": "I have total 2 plots of 2600 sq yard each , Both are on sale. Please recommend whether keeping both on your site will be beneficial or only one we shall do first then the other?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shlok Agarwal",
+      "timestamp_ms": 1727165477498,
+      "content": "1,10,000/- per sq yard negotiable",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shlok Agarwal",
+      "timestamp_ms": 1727165456796,
+      "content": "2600 Sq Yards",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shlok Agarwal",
+      "timestamp_ms": 1727165449201,
+      "content": "Rampally main Road",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727164958882,
+      "content": "Could you tell us location, extent and price?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shlok Agarwal",
+      "timestamp_ms": 1727158333593,
+      "content": "I wanted to list my property for sale at 1 acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shlok Agarwal",
+      "timestamp_ms": 1727158311231,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shlok Agarwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/shlokagarwal_1420497492679926",
+  "magic_words": [
+    
+  ]
+}

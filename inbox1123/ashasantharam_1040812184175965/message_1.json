@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Asha Santharam"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729240133980,
+      "content": "NALA dimensions data has to be taken from irrigation department and is not available publicly. Once we establish the dimensions of NALA, the buffer area would be 9m from the Nala if it\u00e2\u0080\u0099s a big Nala and 2m from Nala for a small NALA",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Asha Santharam",
+      "timestamp_ms": 1728374325041,
+      "content": "As applied for survey and nothing is happening there",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Asha Santharam",
+      "timestamp_ms": 1728374277849,
+      "content": "Is there any way I get the official information in this regard",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Asha Santharam",
+      "timestamp_ms": 1728374252048,
+      "content": "As got information that there is a naala in my survey numbers but physically not there",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Asha Santharam",
+      "timestamp_ms": 1728374215904,
+      "content": "Can I get a information of my land in Kondapur village of ghatkesar",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Asha Santharam",
+      "timestamp_ms": 1728374184901,
+      "content": "Hello gud mrng",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Asha Santharam",
+  "is_still_participant": true,
+  "thread_path": "inbox/ashasantharam_1040812184175965",
+  "magic_words": [
+    
+  ]
+}

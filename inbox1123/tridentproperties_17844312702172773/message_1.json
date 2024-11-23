@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Trident Properties"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Trident Properties",
+      "timestamp_ms": 1723958131035,
+      "content": "Trident sent an attachment.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Trident Properties",
+      "timestamp_ms": 1710657145354,
+      "content": "Trident sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C4mvkAHvRWC/?id=3325554557076706690_65058868772",
+        "share_text": "20 Guntas Mango Farm for same near Zaheerabad\n2kms from National Highway\nBore with Full Water \nFully Fenced with gate\nContact @trident_properties_\n9032790428\n#farmland #agricultureland #realestate #real #hyderabad #nimz",
+        "original_content_owner": "trident_properties_"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709351973695,
+      "content": "Hi, Please contact Ramakrishna \n7780122120, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709351953315,
+      "content": "Hi, Sorry lost track of this message.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Trident Properties",
+      "timestamp_ms": 1709048804322,
+      "content": "Trident sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C3zJ5qGh3tx/?id=3311033695682919281_65058868772",
+        "share_text": "*6 Acres Mango Farm House @Zaheerabad\n*8 Years old Mango Plantation \n*Fully Fenced with Security\n*Bore with 4 Inch water\n*Surrounded by major farm houses\n*10 Mins drive from National Highway \n*For More information Contact 9032790428.\n\nFor more Farm/Agriculture lands like and subscribe @trident_properties_ \n\n#farmhouse\n#farmlands\n#agriculture \n#landscape \n#mangofarm \n#zaheerabad \n#realestate \n#hyderabad",
+        "original_content_owner": "trident_properties_"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Trident Properties",
+  "is_still_participant": true,
+  "thread_path": "inbox/tridentproperties_17844312702172773",
+  "magic_words": [
+    
+  ]
+}

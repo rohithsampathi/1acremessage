@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "vikky"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723202895183,
+      "content": "Share your resume to sandeep@1acre.in \n\nWe shall assess and get back to you:)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "vikky",
+      "timestamp_ms": 1723172431572,
+      "content": "Hi sir I\u00e2\u0080\u0099m Saikumar .. i have 4years Realestate experience in Hyderabad.. Appartment, villa, farmlands , square yards .. so present I\u00e2\u0080\u0099m looking job sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "vikky",
+  "is_still_participant": true,
+  "thread_path": "inbox/vikky_18016025915591014",
+  "magic_words": [
+    
+  ]
+}

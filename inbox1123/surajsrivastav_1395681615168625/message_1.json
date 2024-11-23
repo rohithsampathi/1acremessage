@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Suraj Srivastav"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Suraj Srivastav",
+      "timestamp_ms": 1723199433242,
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Suraj Srivastav",
+  "is_still_participant": true,
+  "thread_path": "inbox/surajsrivastav_1395681615168625",
+  "magic_words": [
+    
+  ]
+}

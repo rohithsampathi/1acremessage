@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "praveen_official"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716181231952,
+      "content": "Message him. He'll call back.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "praveen_official",
+      "timestamp_ms": 1716180159497,
+      "content": "Hello..\n\nHello is not picking the call..",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "praveen_official",
+      "timestamp_ms": 1716170146074,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716166789479,
+      "content": "9032114737\nYou can talk to Bharath, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "praveen_official",
+      "timestamp_ms": 1716143573066,
+      "content": "How to join in this??",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "praveen_official",
+      "timestamp_ms": 1716143572166,
+      "content": "praveen_official sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C4j3HBRt6Vt/?id=3324743324894995821_47651711013",
+        "share_text": "9032114737\n\nPlease call Bharath, from the team.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "praveen_official",
+  "is_still_participant": true,
+  "thread_path": "inbox/praveen_official_1345769463480527",
+  "magic_words": [
+    
+  ]
+}

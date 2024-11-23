@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Sai Chandra Malladi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731466876061,
+      "content": "How can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731466865000,
+      "content": "Hello Sai chandra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702016868064,
+      "content": "Hi,how can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Chandra Malladi",
+      "timestamp_ms": 1702015564251,
+      "content": "Hi sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sai Chandra Malladi",
+  "is_still_participant": true,
+  "thread_path": "inbox/saichandramalladi_1331415564921522",
+  "magic_words": [
+    
+  ]
+}

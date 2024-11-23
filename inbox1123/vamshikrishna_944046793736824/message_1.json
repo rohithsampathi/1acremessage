@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "VAMSHI KRISHNA"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712987647540,
+      "content": "Plz call the number given in the video.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "VAMSHI KRISHNA",
+      "timestamp_ms": 1712987556761,
+      "content": "Intrested In freelancing",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "VAMSHI KRISHNA",
+      "timestamp_ms": 1712987538950,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706158745089,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "VAMSHI KRISHNA",
+      "timestamp_ms": 1706156986130,
+      "content": "How much do you charge for promoting a site",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "VAMSHI KRISHNA",
+  "is_still_participant": true,
+  "thread_path": "inbox/vamshikrishna_944046793736824",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "keerthi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701525002605,
+      "content": "Hi Keerti , you can contact to PRATHEEK,9505778117",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "keerthi",
+      "timestamp_ms": 1701515590154,
+      "content": "Hi can you share contact number",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "keerthi",
+  "is_still_participant": true,
+  "thread_path": "inbox/keerthi_1306739834056906",
+  "magic_words": [
+    
+  ]
+}

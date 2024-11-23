@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Bubbee"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716166757514,
+      "content": "We are a listing platform. Please check 1acre.in you'll find lands in Karimnagar. You can contact the sellers directly.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "We are a listing platform. Please check 1acre.in you'll find lands in Karimnagar. You can contact the sellers directly."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bubbee",
+      "timestamp_ms": 1716144302036,
+      "content": "Any lands in Karimnagar district?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bubbee",
+      "timestamp_ms": 1716144293571,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Bubbee",
+  "is_still_participant": true,
+  "thread_path": "inbox/bubbee_1437733810960628",
+  "magic_words": [
+    
+  ]
+}

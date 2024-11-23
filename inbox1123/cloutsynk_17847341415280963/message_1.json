@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "CloutSynk"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724725859482,
+      "content": "Please share the costs and other details to sandeep@1acre.in",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "CloutSynk",
+      "timestamp_ms": 1724694142417,
+      "content": "And in contact with 30k screens in 13 major cities of India",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "CloutSynk",
+      "timestamp_ms": 1724694134418,
+      "content": "I have wide range of Influencers",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "CloutSynk",
+      "timestamp_ms": 1724694127803,
+      "content": "Are you interested?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "CloutSynk",
+      "timestamp_ms": 1724694124983,
+      "content": "Regarding Promotion",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "CloutSynk",
+  "is_still_participant": true,
+  "thread_path": "inbox/cloutsynk_17847341415280963",
+  "magic_words": [
+    
+  ]
+}

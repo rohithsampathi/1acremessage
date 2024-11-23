@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Raghavender Chary"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711638170494,
+      "content": "Plz tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raghavender Chary",
+      "timestamp_ms": 1711632293404,
+      "content": "Hlo",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Raghavender Chary",
+  "is_still_participant": true,
+  "thread_path": "inbox/raghavenderchary_1381526003243972",
+  "magic_words": [
+    
+  ]
+}

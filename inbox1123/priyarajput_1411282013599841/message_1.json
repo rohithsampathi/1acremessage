@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Priya Rajput"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720146905847,
+      "content": "We currently only operate in telangana. \n\nWill keep you posted when we launch in other states",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Priya Rajput",
+      "timestamp_ms": 1720110776746,
+      "content": "Is there properties on nagpur highway or in gujarat which is 1 or 3 acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720110737379,
+      "content": "Hello \u00f0\u009f\u0091\u008b \nHow may we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Priya Rajput",
+      "timestamp_ms": 1720110264740,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Priya Rajput",
+  "is_still_participant": true,
+  "thread_path": "inbox/priyarajput_1411282013599841",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Shashaank Mudigonda"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shashaank Mudigonda",
+      "timestamp_ms": 1724393895328,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724393138172,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shashaank Mudigonda",
+      "timestamp_ms": 1724333839789,
+      "content": "Can it be working out with you in deal making.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shashaank Mudigonda",
+      "timestamp_ms": 1724333793030,
+      "content": "I have 1acre land looking for potential buyers",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shashaank Mudigonda",
+      "timestamp_ms": 1724333748147,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shashaank Mudigonda",
+  "is_still_participant": true,
+  "thread_path": "inbox/shashaankmudigonda_1468323537895354",
+  "magic_words": [
+    
+  ]
+}

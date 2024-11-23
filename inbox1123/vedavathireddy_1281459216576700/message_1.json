@@ -1,0 +1,56 @@
+{
+  "participants": [
+    {
+      "name": "Vedavathi Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711966956391,
+      "content": "Please contact Ratna Kiran \n9390155412\nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vedavathi Reddy",
+      "timestamp_ms": 1711966556065,
+      "content": "Can you send me the details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vedavathi Reddy",
+      "timestamp_ms": 1711966542343,
+      "content": "For how much 1 acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711966513236,
+      "content": "1.1cr incl everything.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vedavathi Reddy",
+      "timestamp_ms": 1711965277545,
+      "content": "Price",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vedavathi Reddy",
+      "timestamp_ms": 1711965277389,
+      "share": {
+        "link": "https://www.instagram.com/p/C3t28m8N2Gf/"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vedavathi Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/vedavathireddy_1281459216576700",
+  "magic_words": [
+    
+  ]
+}

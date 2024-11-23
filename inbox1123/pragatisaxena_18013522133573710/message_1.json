@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Pragati Saxena"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pragati Saxena",
+      "timestamp_ms": 1724671968090,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724637739403,
+      "content": "We currently only operate in telangana and Andhra\n\nWill keep you posted when we launch in other states",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Pragati Saxena",
+          "timestamp": 1724671968
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pragati Saxena",
+      "timestamp_ms": 1724596346773,
+      "content": "I\u00e2\u0080\u0099m interested in buying a farm land with ready set up for hydroponics. Preferably in mp. Let me know if you have any options",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Pragati Saxena",
+  "is_still_participant": true,
+  "thread_path": "inbox/pragatisaxena_18013522133573710",
+  "magic_words": [
+    
+  ]
+}

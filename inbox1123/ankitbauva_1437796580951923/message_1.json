@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Ankit Bauva \u00f0\u009f\u00a5\u00b1"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718722354247,
+      "content": "We currently only operate in telangana. \n\nWill keep you posted when we launch in other states",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ankit Bauva \u00f0\u009f\u00a5\u00b1",
+      "timestamp_ms": 1718720934716,
+      "content": "Any plot in Goa",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ankit Bauva \u00f0\u009f\u00a5\u00b1",
+  "is_still_participant": true,
+  "thread_path": "inbox/ankitbauva_1437796580951923",
+  "magic_words": [
+    
+  ]
+}

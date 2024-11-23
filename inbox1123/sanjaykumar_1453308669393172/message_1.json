@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Sanjay Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721189880114,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721189879405,
+      "content": "Please contact Vijay 9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sanjay Kumar",
+      "timestamp_ms": 1721189175801,
+      "content": "Bro",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sanjay Kumar",
+      "timestamp_ms": 1721189174440,
+      "content": "Ma land kuda etla chepiyal bri",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sanjay Kumar",
+      "timestamp_ms": 1721189160285,
+      "content": "Bro",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sanjay Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/sanjaykumar_1453308669393172",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Gaurav Jha"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704876072052,
+      "content": "https://www.1acre.in/subscribe\n\nPlease go through and fill in the form at the end of the page. We'll get back to you.",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "https://www.1acre.in/subscribe\n\nPlease go through and fill in the form at the end of the page. We'll get back to you."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gaurav Jha",
+      "timestamp_ms": 1704875603711,
+      "content": "Interested in investing in Maharashtra",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Gaurav Jha",
+  "is_still_participant": true,
+  "thread_path": "inbox/gauravjha_1291326655595968",
+  "magic_words": [
+    
+  ]
+}

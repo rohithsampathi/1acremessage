@@ -1,0 +1,81 @@
+{
+  "participants": [
+    {
+      "name": "Naushad Samnani"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Naushad Samnani",
+      "timestamp_ms": 1710412562094,
+      "content": "ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710403860403,
+      "content": "1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710403852732,
+      "content": "We don't track that. We are a listing platform. Please check on the website.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Naushad Samnani",
+      "timestamp_ms": 1710403771118,
+      "content": "And do you have any small investment plots in Hyderabad?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Naushad Samnani",
+      "timestamp_ms": 1710403707516,
+      "content": "Ok.. Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710248498631,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412. \nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Naushad Samnani",
+      "timestamp_ms": 1710241848596,
+      "content": "Naushad sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C4HqTD5ScXh/?id=3316805678387545569_47651711013",
+        "share_text": "\u00f0\u009f\u008c\u00b3 Dive into this breathtaking property! Today, we unveil a stunning ten-acre plot, nestled between a serene lake and 10,000 acres of lush forest, all for just 15 lakhs an acre. Located in Yavatmal, Maharashtra, only an hour from Adilabad  and 45 minutes from the Tipeshwar Tiger Reserve, it\u00e2\u0080\u0099s easily accessible, just 5.5 hours from Hyderabad.\n\nThis gem boasts proximity to the upcoming Nagpur to Goa Shakthipeth Expressway, a mere 15 kilometers away, and sits a mere 200 meters from the Yavatmal state highway. Plus, with a new railway line between Nagpur and Nanded underway, just 20 km from the land, the potential is limitless.\n\nReady to make this paradise yours? #1acre ensures all legalities and registrations are taken care of. Contact us today to seize this incredible opportunity! \u00f0\u009f\u009a\u009c\u00f0\u009f\u0092\u00bc #YavatmalProperty #ForestViews #InvestmentOpportunity #1acre.in",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Naushad Samnani",
+      "timestamp_ms": 1710241839743,
+      "content": "I am interested in yavatmal side land, that you have posted a few days back",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Naushad Samnani",
+      "timestamp_ms": 1710241792251,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Naushad Samnani",
+  "is_still_participant": true,
+  "thread_path": "inbox/naushadsamnani_1347253913334457",
+  "magic_words": [
+    
+  ]
+}

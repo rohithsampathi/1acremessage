@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Geus"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Geus",
+      "timestamp_ms": 1718867453435,
+      "content": "Get updates",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718850425169,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718850423941,
+      "content": "You sent a private reply to a comment on your Instagram post.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Geus",
+  "is_still_participant": true,
+  "thread_path": "inbox/geus_17867359452119346",
+  "magic_words": [
+    
+  ]
+}

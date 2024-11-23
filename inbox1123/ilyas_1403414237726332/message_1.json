@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Ilyas"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ilyas",
+      "timestamp_ms": 1716254748813,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716252431081,
+      "content": "ily5lv4sha7 wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716252429868,
+      "content": "9032114737\nYou can talk to Bharath, from the team.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Ilyas",
+          "timestamp": 1716254748
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ilyas",
+      "timestamp_ms": 1716226153301,
+      "content": "Tell me more",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ilyas",
+      "timestamp_ms": 1716226152197,
+      "content": "Ilyas sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C4j3HBRt6Vt/?id=3324743324894995821_47651711013",
+        "share_text": "9032114737\n\nPlease call Bharath, from the team.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ilyas",
+  "is_still_participant": true,
+  "thread_path": "inbox/ilyas_1403414237726332",
+  "magic_words": [
+    
+  ]
+}

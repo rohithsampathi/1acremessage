@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "THE PHENOM."
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701877865574,
+      "content": "Hi you can connect to this number,he can give you further details of the property, 891-9398258",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "THE PHENOM.",
+      "timestamp_ms": 1701872530357,
+      "content": "Would like to know further details",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3251715016760203012"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "THE PHENOM.",
+  "is_still_participant": true,
+  "thread_path": "inbox/thephenom_1147444239973219",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Sainath Bijjala"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725610008058,
+      "content": "Ok. He'll revert on that.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sainath Bijjala",
+      "timestamp_ms": 1725606680877,
+      "content": "Regarding Land requirment for Lease about 2500 sq yards with good Road facing",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sainath Bijjala",
+      "timestamp_ms": 1725606655110,
+      "content": "Spoken to Vijay garu over phone",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725605706668,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sainath Bijjala",
+      "timestamp_ms": 1725599616433,
+      "content": "Hi Team",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sainath Bijjala",
+  "is_still_participant": true,
+  "thread_path": "inbox/sainathbijjala_1537008007694565",
+  "magic_words": [
+    
+  ]
+}

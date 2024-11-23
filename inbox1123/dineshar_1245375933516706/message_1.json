@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Dinesh AR"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704348763111,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dinesh AR",
+      "timestamp_ms": 1704347597413,
+      "content": "Hi, we are keen to purchase 100 acres. My contact is 8008923344. Please WhatsApp me as I generally do not receive unknown calls",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Dinesh AR",
+  "is_still_participant": true,
+  "thread_path": "inbox/dineshar_1245375933516706",
+  "magic_words": [
+    
+  ]
+}

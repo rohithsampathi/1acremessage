@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Jyo Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jyo Reddy",
+      "timestamp_ms": 1704381255252,
+      "content": "Interested in acre land",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Jyo Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/jyoreddy_17987492798568412",
+  "magic_words": [
+    
+  ]
+}

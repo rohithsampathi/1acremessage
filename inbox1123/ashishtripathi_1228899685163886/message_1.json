@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Ashish Tripathi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ashish Tripathi",
+      "timestamp_ms": 1705074900477,
+      "content": "Thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ashish Tripathi",
+      "timestamp_ms": 1705074897872,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705071636570,
+      "content": "Usually yes. Please contact Pratheek \n9390674324. He'll address any queries you may have.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ashish Tripathi",
+      "timestamp_ms": 1705071187916,
+      "content": "Hi, does it have to be a minimum 100 acres of purchase?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ashish Tripathi",
+  "is_still_participant": true,
+  "thread_path": "inbox/ashishtripathi_1228899685163886",
+  "magic_words": [
+    
+  ]
+}

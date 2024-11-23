@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Sumanth Ramineni"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumanth Ramineni",
+      "timestamp_ms": 1702387127193,
+      "content": "Thank you!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702387109835,
+      "content": "Sure , you can connect with pratheek  9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sumanth Ramineni",
+      "timestamp_ms": 1702386880228,
+      "content": "Anywhere",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sumanth Ramineni",
+      "timestamp_ms": 1702386867256,
+      "content": "I am looking for 1 acre land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sumanth Ramineni",
+      "timestamp_ms": 1702386840708,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sumanth Ramineni",
+  "is_still_participant": true,
+  "thread_path": "inbox/sumanthramineni_1315429329857413",
+  "magic_words": [
+    
+  ]
+}

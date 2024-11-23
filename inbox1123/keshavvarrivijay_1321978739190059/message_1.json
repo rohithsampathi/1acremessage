@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "keshav varri vijay"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717776029853,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "keshav varri vijay",
+      "timestamp_ms": 1717774895010,
+      "content": "21 acres bibi nagar",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "keshav varri vijay",
+      "timestamp_ms": 1717774880131,
+      "content": "You missed an audio call",
+      "call_duration": 0,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "keshav varri vijay",
+      "timestamp_ms": 1717774871334,
+      "content": "keshav.v.v99 started an audio call",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "keshav varri vijay",
+  "is_still_participant": true,
+  "thread_path": "inbox/keshavvarrivijay_1321978739190059",
+  "magic_words": [
+    
+  ]
+}

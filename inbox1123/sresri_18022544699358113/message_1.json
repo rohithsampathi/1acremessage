@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "sresri"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722995314727,
+      "content": "He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722995287200,
+      "content": "Hi, Please contact Srikar\n8341149011",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "sresri",
+      "timestamp_ms": 1722974305885,
+      "content": "Hi I am looking for land in Hyderabad area may I know what was good place to invest",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "sresri",
+  "is_still_participant": true,
+  "thread_path": "inbox/sresri_18022544699358113",
+  "magic_words": [
+    
+  ]
+}

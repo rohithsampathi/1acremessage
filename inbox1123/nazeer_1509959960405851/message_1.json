@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Nazeer"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722320069843,
+      "content": "How can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722320064895,
+      "content": "Hello \u00f0\u009f\u0091\u008b",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nazeer",
+      "timestamp_ms": 1722310764611,
+      "content": "Good Morning sir..",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nazeer",
+  "is_still_participant": true,
+  "thread_path": "inbox/nazeer_1509959960405851",
+  "magic_words": [
+    
+  ]
+}

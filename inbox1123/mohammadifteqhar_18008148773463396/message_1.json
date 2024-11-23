@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Mohammad Ifteqhar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708833239173,
+      "content": "Are you interested in purchasing this half-acre plot in Ananthagiri Hills?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708833239097,
+      "content": "Please tap on one of the options provided to answer this question.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammad Ifteqhar",
+      "timestamp_ms": 1708833237121,
+      "content": "Mohammad sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C3tkXhXPRnK/?id=3309461247232907722_58424761525",
+        "share_text": "In sha Allah \u00f0\u009f\u0098\u008c\u00e2\u009c\u00a8\u00e2\u009d\u00a4\u00ef\u00b8\u008f\n#islamicwaqiya #instagram #instagood #islamickhayalat786editing #shabebaratmubarak",
+        "original_content_owner": "islamic_khayalat786"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mohammad Ifteqhar",
+  "is_still_participant": true,
+  "thread_path": "inbox/mohammadifteqhar_18008148773463396",
+  "magic_words": [
+    
+  ]
+}

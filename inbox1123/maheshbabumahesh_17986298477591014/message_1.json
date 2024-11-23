@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Mahesh Babu Mahesh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701841126129,
+      "content": "Our team will connect with you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mahesh Babu Mahesh",
+      "timestamp_ms": 1701776097674,
+      "content": "9866367400",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701768222796,
+      "content": "Sure, can we have your contact number our team will connect with you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mahesh Babu Mahesh",
+      "timestamp_ms": 1701761436584,
+      "content": "Nh 163 land details send me",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mahesh Babu Mahesh",
+  "is_still_participant": true,
+  "thread_path": "inbox/maheshbabumahesh_17986298477591014",
+  "magic_words": [
+    
+  ]
+}

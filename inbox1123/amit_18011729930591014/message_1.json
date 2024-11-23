@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "amit"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "amit",
+      "timestamp_ms": 1720242748817,
+      "content": "K",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720235685138,
+      "content": "We currently only operate in telangana. \n\nWill keep you posted when we launch in other states",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "amit",
+      "timestamp_ms": 1720229941334,
+      "content": "Any investment property in mp??",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "amit",
+  "is_still_participant": true,
+  "thread_path": "inbox/amit_18011729930591014",
+  "magic_words": [
+    
+  ]
+}

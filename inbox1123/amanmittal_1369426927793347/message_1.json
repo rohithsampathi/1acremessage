@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Aman Mittal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aman Mittal",
+      "timestamp_ms": 1720259858256,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720240533798,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aman Mittal",
+      "timestamp_ms": 1720207699246,
+      "content": "Near mayali hill station",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aman Mittal",
+      "timestamp_ms": 1720207682208,
+      "content": "I m interested in selling 1.12 acre land at jashpur district near kunkuri city suitable for resorts,farm house",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Aman Mittal",
+  "is_still_participant": true,
+  "thread_path": "inbox/amanmittal_1369426927793347",
+  "magic_words": [
+    
+  ]
+}

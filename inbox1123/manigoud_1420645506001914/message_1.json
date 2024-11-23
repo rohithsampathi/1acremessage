@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "mani goud"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "mani goud",
+      "timestamp_ms": 1719038187381,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719012434995,
+      "content": "Hi, Please contact Ratna Kiran  9390155412. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "mani goud",
+      "timestamp_ms": 1718992156882,
+      "content": "Hi we have a land of 6.5 acres near ramoji flim city which is for sale",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "mani goud",
+  "is_still_participant": true,
+  "thread_path": "inbox/manigoud_1420645506001914",
+  "magic_words": [
+    
+  ]
+}

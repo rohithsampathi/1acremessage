@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Shivansh Shrivastava"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708143457320,
+      "content": "https://www.1acre.in/subscribe\n\nPlease go through and subscribe (or) click 'talk to us->' at the end of the page and fill in the form. We'll get back to you.",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "https://www.1acre.in/subscribe\n\nPlease go through and subscribe (or) click 'talk to us->' at the end of the page and fill in the form. We'll get back to you."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708143447213,
+      "content": "Hi, thanks for reaching out.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shivansh Shrivastava",
+      "timestamp_ms": 1708141603798,
+      "content": "Like 50-100 acres",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shivansh Shrivastava",
+      "timestamp_ms": 1708141594082,
+      "content": "I wanted leads for buying big parcel land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shivansh Shrivastava",
+      "timestamp_ms": 1708141569459,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shivansh Shrivastava",
+  "is_still_participant": true,
+  "thread_path": "inbox/shivanshshrivastava_1296699435055627",
+  "magic_words": [
+    
+  ]
+}

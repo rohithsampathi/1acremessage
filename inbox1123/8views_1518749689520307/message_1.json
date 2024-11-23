@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "8 Views"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728544175915,
+      "content": "Please contact sandeep at 9005464412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "8 Views",
+      "timestamp_ms": 1728544091323,
+      "content": "Kindly share your contact will call you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728503954002,
+      "content": "We are not interested",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "8 Views",
+      "timestamp_ms": 1728445527043,
+      "content": "Hi , \n\nI hope this message finds you well! My name is Architha Kurreli, and I am reaching out on behalf of 8 Views. We are a 100 member marketing company that has worked with 250+ brands in the last 8 years.\n\nWe've been looking at your content and are impressed with the authentic connection you have with your audience.\n\nWe are currently exploring potential collaborations with influential voices like yours to drive value for the brands we manage which will be mutually beneficial.\n\nBefore we delve deeper into the specifics, we'd love to learn more about your collaboration costs which will help us practically plan which brand could be suitable.\n\nIt would be great if you could help us with your contact number to discuss further.\n\nThanks & Regards \nArchitha Kurreli \n8 Views",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "8 Views",
+  "is_still_participant": true,
+  "thread_path": "inbox/8views_1518749689520307",
+  "magic_words": [
+    
+  ]
+}

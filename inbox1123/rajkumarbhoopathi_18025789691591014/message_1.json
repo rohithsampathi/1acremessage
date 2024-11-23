@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Rajkumar Bhoopathi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rajkumar Bhoopathi",
+      "timestamp_ms": 1730048068637,
+      "content": "Ok \nThank you sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730047685925,
+      "content": "Premiere pro and after effects",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rajkumar Bhoopathi",
+      "timestamp_ms": 1730040390892,
+      "content": "Miru videos dentlo editing chestunaru",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730040197638,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rajkumar Bhoopathi",
+      "timestamp_ms": 1729966013867,
+      "content": "Hiii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rajkumar Bhoopathi",
+  "is_still_participant": true,
+  "thread_path": "inbox/rajkumarbhoopathi_18025789691591014",
+  "magic_words": [
+    
+  ]
+}

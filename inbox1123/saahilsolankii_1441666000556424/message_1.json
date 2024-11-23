@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Saahil Solankii"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723624518881,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Saahil Solankii",
+      "timestamp_ms": 1723606511511,
+      "content": "1450 sqyrd asking price",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Saahil Solankii",
+  "is_still_participant": true,
+  "thread_path": "inbox/saahilsolankii_1441666000556424",
+  "magic_words": [
+    
+  ]
+}

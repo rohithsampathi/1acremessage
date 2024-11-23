@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Avi Azad Yadav"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Avi Azad Yadav",
+      "timestamp_ms": 1730968445599,
+      "content": "I will share",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730955448841,
+      "content": "Share your contact \nOur team will get in touch",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Avi Azad Yadav",
+      "timestamp_ms": 1730929824967,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730872066701,
+      "content": "Are you dealing in lands?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730872066048,
+      "content": "Soon",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Avi Azad Yadav",
+      "timestamp_ms": 1730866124086,
+      "content": "Are you working in bihar ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730855263431,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Avi Azad Yadav",
+      "timestamp_ms": 1730848726779,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Avi Azad Yadav",
+  "is_still_participant": true,
+  "thread_path": "inbox/aviazadyadav_1556428412419341",
+  "magic_words": [
+    
+  ]
+}

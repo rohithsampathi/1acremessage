@@ -1,0 +1,62 @@
+{
+  "participants": [
+    {
+      "name": "Fouzan Syed"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1698042965569,
+      "content": "Hey Fouzan , for more details please visit our website :https://www.1acre.in/, contact:7780122120",
+      "share": {
+        "link": "https://www.1acre.in/",
+        "share_text": "Hey Fouzan , for more details please visit our website :https://www.1acre.in/, contact:7780122120"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Fouzan Syed",
+      "timestamp_ms": 1697899361320,
+      "content": "Wer is it located",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Fouzan Syed",
+      "timestamp_ms": 1697899360733,
+      "content": "Fouzan sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/CydGTBhNv_z/?carousel_share_child_media_id=3214753383847347580_47651711013",
+        "share_text": "Stop buying plots. Own 10 acres at the cost of one. Larger chunks of land available at good prices.\n...\n\u00f0\u009f\u0091\u0089 Get access to premium opportunities: https://www.1acre.in/subscribe",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Fouzan Syed",
+      "timestamp_ms": 1697899352846,
+      "content": "How much",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Fouzan Syed",
+      "timestamp_ms": 1697899352235,
+      "content": "Fouzan sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/CydGTBhNv_z/?carousel_share_child_media_id=3214753383847347580_47651711013",
+        "share_text": "Stop buying plots. Own 10 acres at the cost of one. Larger chunks of land available at good prices.\n...\n\u00f0\u009f\u0091\u0089 Get access to premium opportunities: https://www.1acre.in/subscribe",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Fouzan Syed",
+  "is_still_participant": true,
+  "thread_path": "inbox/fouzansyed_1263653941701283",
+  "magic_words": [
+    
+  ]
+}

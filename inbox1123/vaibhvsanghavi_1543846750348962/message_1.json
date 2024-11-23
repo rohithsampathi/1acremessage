@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Vaibhv Sanghavi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vaibhv Sanghavi",
+      "timestamp_ms": 1730475158310,
+      "content": "Thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730462236072,
+      "content": "Please contact our team member ,pavan, at 83411 49011\n\nHe will see if we can help you:)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vaibhv Sanghavi",
+      "timestamp_ms": 1730458046503,
+      "content": "north of Mumbai..",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vaibhv Sanghavi",
+      "timestamp_ms": 1730457996569,
+      "content": "looking to buy 50 acres are 5-6 lacs/ acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vaibhv Sanghavi",
+      "timestamp_ms": 1730457978896,
+      "content": "Hi,",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vaibhv Sanghavi",
+  "is_still_participant": true,
+  "thread_path": "inbox/vaibhvsanghavi_1543846750348962",
+  "magic_words": [
+    
+  ]
+}

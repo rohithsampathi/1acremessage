@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Sonia"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709618419474,
+      "content": "1acre.in/logout",
+      "share": {
+        "link": "http://1acre.in/logout",
+        "share_text": "1acre.in/logout"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709618409946,
+      "content": "Use this link",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709618405674,
+      "content": "Plz logout and login back and check",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709618394466,
+      "content": "I belive this.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709618386911,
+      "content": "+919000523619",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709618137871,
+      "content": "Can we have your number? We'll resolve it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sonia",
+      "timestamp_ms": 1709616864759,
+      "content": "I have subscribed to 1 acre but don\u00e2\u0080\u0099t see an access",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sonia",
+  "is_still_participant": true,
+  "thread_path": "inbox/sonia_1319577472767124",
+  "magic_words": [
+    
+  ]
+}

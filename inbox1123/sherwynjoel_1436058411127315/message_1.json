@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Sherwyn Joel"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719508320332,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sherwyn Joel",
+      "timestamp_ms": 1719506820569,
+      "content": "Excuse me",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sherwyn Joel",
+  "is_still_participant": true,
+  "thread_path": "inbox/sherwynjoel_1436058411127315",
+  "magic_words": [
+    
+  ]
+}

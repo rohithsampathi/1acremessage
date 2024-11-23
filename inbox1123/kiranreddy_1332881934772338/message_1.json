@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Kiran Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717462427364,
+      "content": "samakiran.kittu wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717462426803,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kiran Reddy",
+      "timestamp_ms": 1717443929838,
+      "content": "Hi sar",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707067778384,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kiran Reddy",
+      "timestamp_ms": 1707067679466,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kiran Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/kiranreddy_1332881934772338",
+  "magic_words": [
+    
+  ]
+}

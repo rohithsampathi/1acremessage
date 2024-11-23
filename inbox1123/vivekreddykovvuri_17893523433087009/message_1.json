@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Vivek Reddy Kovvuri"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728618597237,
+      "content": "Please contact our team member ,pavan, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vivek Reddy Kovvuri",
+      "timestamp_ms": 1728565182508,
+      "content": "We have a plot for sale",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vivek Reddy Kovvuri",
+      "timestamp_ms": 1728565176008,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vivek Reddy Kovvuri",
+  "is_still_participant": true,
+  "thread_path": "inbox/vivekreddykovvuri_17893523433087009",
+  "magic_words": [
+    
+  ]
+}

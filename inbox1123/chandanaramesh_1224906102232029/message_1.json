@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "ChandanaRamesh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703133735684,
+      "content": "Hy , you can connect with pratheek  9390674324,",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "ChandanaRamesh",
+      "timestamp_ms": 1703126588781,
+      "content": "This is Chandana..Do you have any sites near within Hyderabad?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "ChandanaRamesh",
+      "timestamp_ms": 1703126545176,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "ChandanaRamesh",
+  "is_still_participant": true,
+  "thread_path": "inbox/chandanaramesh_1224906102232029",
+  "magic_words": [
+    
+  ]
+}

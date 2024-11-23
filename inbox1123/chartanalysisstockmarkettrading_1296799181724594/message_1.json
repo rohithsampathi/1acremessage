@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Chart Analysis | Stock Market Trading"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719311873743,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719311843419,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chart Analysis | Stock Market Trading",
+      "timestamp_ms": 1719308062157,
+      "content": "Any land u have in Rajasthan",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chart Analysis | Stock Market Trading",
+      "timestamp_ms": 1719308048404,
+      "content": "Hii buddy",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Chart Analysis | Stock Market Trading",
+  "is_still_participant": true,
+  "thread_path": "inbox/chartanalysisstockmarkettrading_1296799181724594",
+  "magic_words": [
+    
+  ]
+}

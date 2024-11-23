@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "D\u00c3\u00aa\u00c3\u00abp\u00c3\u00a5k J\u00c3\u00a4tt B\u00c3\u00b8x\u00c3\u00aar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722665033991,
+      "content": "We currently operate only on lands",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "D\u00c3\u00aa\u00c3\u00abp\u00c3\u00a5k J\u00c3\u00a4tt B\u00c3\u00b8x\u00c3\u00aar",
+      "timestamp_ms": 1722659089687,
+      "content": "I want to sell my Farm house",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722616948927,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "D\u00c3\u00aa\u00c3\u00abp\u00c3\u00a5k J\u00c3\u00a4tt B\u00c3\u00b8x\u00c3\u00aar",
+      "timestamp_ms": 1722614691119,
+      "content": "Hloo",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "D\u00c3\u00aa\u00c3\u00abp\u00c3\u00a5k J\u00c3\u00a4tt B\u00c3\u00b8x\u00c3\u00aar",
+  "is_still_participant": true,
+  "thread_path": "inbox/deepakjattboxer_18037001930078546",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Sarala"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706692232486,
+      "content": "Hi, may I know what you are looking for?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sarala",
+      "timestamp_ms": 1706639525652,
+      "content": "Hello andi can you share the contact number",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sarala",
+  "is_still_participant": true,
+  "thread_path": "inbox/sarala_1268346144555675",
+  "magic_words": [
+    
+  ]
+}

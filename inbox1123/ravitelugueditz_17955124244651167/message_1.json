@@ -1,0 +1,79 @@
+{
+  "participants": [
+    {
+      "name": "Ravi Telugu Editz \u00f0\u009f\u0091\u0081\u00ef\u00b8\u008f\u00e2\u0080\u008d\u00f0\u009f\u0097\u00a8\u00ef\u00b8\u008f"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ravi Telugu Editz \u00f0\u009f\u0091\u0081\u00ef\u00b8\u008f\u00e2\u0080\u008d\u00f0\u009f\u0097\u00a8\u00ef\u00b8\u008f",
+      "timestamp_ms": 1698065224809,
+      "content": "Yes",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1698065818
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1698065215600,
+      "content": "Sure , can we schedule a call now",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravi Telugu Editz \u00f0\u009f\u0091\u0081\u00ef\u00b8\u008f\u00e2\u0080\u008d\u00f0\u009f\u0097\u00a8\u00ef\u00b8\u008f",
+      "timestamp_ms": 1698065200378,
+      "content": "Pin me before u call",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravi Telugu Editz \u00f0\u009f\u0091\u0081\u00ef\u00b8\u008f\u00e2\u0080\u008d\u00f0\u009f\u0097\u00a8\u00ef\u00b8\u008f",
+      "timestamp_ms": 1698065192690,
+      "content": "7981522832",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravi Telugu Editz \u00f0\u009f\u0091\u0081\u00ef\u00b8\u008f\u00e2\u0080\u008d\u00f0\u009f\u0097\u00a8\u00ef\u00b8\u008f",
+      "timestamp_ms": 1698065186665,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1698042630937,
+      "content": "We are a property listing platform, we have been following for a while, we would like to collaborate with you for reel, can we schedule a call ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravi Telugu Editz \u00f0\u009f\u0091\u0081\u00ef\u00b8\u008f\u00e2\u0080\u008d\u00f0\u009f\u0097\u00a8\u00ef\u00b8\u008f",
+      "timestamp_ms": 1697897025742,
+      "content": "About what ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravi Telugu Editz \u00f0\u009f\u0091\u0081\u00ef\u00b8\u008f\u00e2\u0080\u008d\u00f0\u009f\u0097\u00a8\u00ef\u00b8\u008f",
+      "timestamp_ms": 1697897022800,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697871151727,
+      "content": "Hey, can we collaborate for a reel?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ravi Telugu Editz \u00f0\u009f\u0091\u0081\u00ef\u00b8\u008f\u00e2\u0080\u008d\u00f0\u009f\u0097\u00a8\u00ef\u00b8\u008f",
+  "is_still_participant": true,
+  "thread_path": "inbox/ravitelugueditz_17955124244651167",
+  "magic_words": [
+    
+  ]
+}

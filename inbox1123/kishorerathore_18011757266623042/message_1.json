@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Kishore Rathore"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kishore Rathore",
+      "timestamp_ms": 1724301663252,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724301595689,
+      "content": "This is made by in-house team.\nSorry we cannot share the reference. Hope you understand",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kishore Rathore",
+      "timestamp_ms": 1724299467712,
+      "content": "Can I get video creator reference?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kishore Rathore",
+  "is_still_participant": true,
+  "thread_path": "inbox/kishorerathore_18011757266623042",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Subrahmanyam Boddu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704472233776,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Subrahmanyam Boddu",
+      "timestamp_ms": 1704470422944,
+      "content": "How to contact you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704347589749,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Subrahmanyam Boddu",
+      "timestamp_ms": 1704338309159,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Subrahmanyam Boddu",
+  "is_still_participant": true,
+  "thread_path": "inbox/subrahmanyamboddu_1328615158531684",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Srinivas Bannu Duvvuri"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721275566462,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srinivas Bannu Duvvuri",
+      "timestamp_ms": 1721246707667,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Srinivas Bannu Duvvuri",
+  "is_still_participant": true,
+  "thread_path": "inbox/srinivasbannuduvvuri_1477994230263120",
+  "magic_words": [
+    
+  ]
+}

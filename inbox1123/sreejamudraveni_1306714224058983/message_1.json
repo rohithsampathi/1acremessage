@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Sreeja Mudraveni"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702360072182,
+      "content": "You can with pratheek ,9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sreeja Mudraveni",
+      "timestamp_ms": 1702319804639,
+      "content": "I am looking for a investment purpose",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sreeja Mudraveni",
+      "timestamp_ms": 1702319786558,
+      "content": "Can you please suggest where I can get in Hyderabad area",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sreeja Mudraveni",
+      "timestamp_ms": 1702319761738,
+      "content": "I am looking for a land around 30 lakhs",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sreeja Mudraveni",
+      "timestamp_ms": 1702319750621,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sreeja Mudraveni",
+  "is_still_participant": true,
+  "thread_path": "inbox/sreejamudraveni_1306714224058983",
+  "magic_words": [
+    
+  ]
+}

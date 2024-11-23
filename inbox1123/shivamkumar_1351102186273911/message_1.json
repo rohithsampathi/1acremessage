@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "S H I V A M   K U M A R \u00e2\u0099\u00a0\u00ef\u00b8\u008f"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "S H I V A M   K U M A R \u00e2\u0099\u00a0\u00ef\u00b8\u008f",
+      "timestamp_ms": 1730780678709,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730724043927,
+      "content": "\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bc",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "S H I V A M   K U M A R \u00e2\u0099\u00a0\u00ef\u00b8\u008f",
+          "timestamp": 1730780678
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "S H I V A M   K U M A R \u00e2\u0099\u00a0\u00ef\u00b8\u008f",
+      "timestamp_ms": 1730706090121,
+      "content": "9608218163\nShivam",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730704755915,
+      "content": "Please send your number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730192546322,
+      "content": "Share your number and our team will get call you to discuss further",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "S H I V A M   K U M A R \u00e2\u0099\u00a0\u00ef\u00b8\u008f",
+      "timestamp_ms": 1730188462284,
+      "content": "Want to be partner \nI am from Bihar patna",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "S H I V A M   K U M A R \u00e2\u0099\u00a0\u00ef\u00b8\u008f",
+  "is_still_participant": true,
+  "thread_path": "inbox/shivamkumar_1351102186273911",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "John Smith"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "John Smith",
+      "timestamp_ms": 1731335595527,
+      "content": "I am doing real estate and marketing in Kerala",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "John Smith",
+      "timestamp_ms": 1731335580829,
+      "content": "About 1 acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731333438088,
+      "content": "Sorry what do you want to know about ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "John Smith",
+      "timestamp_ms": 1731318317993,
+      "content": "I want to know about it",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "John Smith",
+  "is_still_participant": true,
+  "thread_path": "inbox/johnsmith_1531461604915185",
+  "magic_words": [
+    
+  ]
+}

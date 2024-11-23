@@ -1,0 +1,116 @@
+{
+  "participants": [
+    {
+      "name": "Shardul R. Vichare"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shardul R. Vichare",
+      "timestamp_ms": 1719030881511,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719030871384,
+      "content": "Definitely. If you happen to be here or if we happen to come to Mumbai, we'll catchup.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Shardul R. Vichare",
+          "timestamp": 1719030881
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shardul R. Vichare",
+      "timestamp_ms": 1719030827932,
+      "content": "Agreed",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shardul R. Vichare",
+      "timestamp_ms": 1719030820760,
+      "content": "Just followed your profile. Do let me know if your team is interested in a casual meeting. Shardul Ram Vichare from Navi Mumbai.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719030792624,
+      "content": "Yes, even Hyderabad is nearing that situation, although Mumbai prices are way too high.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shardul R. Vichare",
+      "timestamp_ms": 1719030729324,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shardul R. Vichare",
+      "timestamp_ms": 1719030726761,
+      "content": "There\u00e2\u0080\u0099s a lot of scope here in plotted developments as land rates are super high in the city. Construction Costs have increased a lot so even big developers are going ahead with plotted developments in Mumbai outskirts, in Pune they have been there since the last 20 years.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719030668681,
+      "content": "BTW, we are starting Maharashtra next week.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Shardul R. Vichare",
+          "timestamp": 1719030729
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719030645948,
+      "content": "Thanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719030634364,
+      "content": "Hi, nice to know.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shardul R. Vichare",
+      "timestamp_ms": 1719028716986,
+      "content": "Liked the way you present lands and your ads",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shardul R. Vichare",
+      "timestamp_ms": 1719028678702,
+      "content": "I\u00e2\u0080\u0099m from Mumbai. Family business of land acquisition and real estate. Many land parcels acquired and continuing ahead",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719012367925,
+      "content": "Right now, we are only in Telangana.\nStarting Maharashtra soon. \nWhy?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shardul R. Vichare",
+      "timestamp_ms": 1718989752118,
+      "content": "What kind of an operation do you have in Pune and Mumbai",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shardul R. Vichare",
+  "is_still_participant": true,
+  "thread_path": "inbox/shardulrvichare_1407032600689439",
+  "magic_words": [
+    
+  ]
+}

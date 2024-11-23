@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Karthik Rao"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704347699246,
+      "content": "you can connect with pratheek, 9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Karthik Rao",
+      "timestamp_ms": 1704328386040,
+      "content": "I am interested in buying 100 acres @ 3 lacs. Could you share the details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Karthik Rao",
+      "timestamp_ms": 1704328305862,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Karthik Rao",
+  "is_still_participant": true,
+  "thread_path": "inbox/karthikrao_1211451466908857",
+  "magic_words": [
+    
+  ]
+}

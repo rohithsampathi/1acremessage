@@ -1,0 +1,72 @@
+{
+  "participants": [
+    {
+      "name": "Shailesh Kendre"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shailesh Kendre",
+      "timestamp_ms": 1706942193254,
+      "content": "90lkahs max",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706941357714,
+      "content": "Total budget",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706941355022,
+      "content": "What budget are you thinking of?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706941345394,
+      "content": "And a minimum of 100 acres.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706941327014,
+      "content": "That's in maharashtra. 2.5-5lakh per acre.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shailesh Kendre",
+      "timestamp_ms": 1706940840338,
+      "content": "How can I invest in them",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shailesh Kendre",
+      "timestamp_ms": 1706940831936,
+      "content": "I saw some of your videos, where you mentioned there are lands with 2 to 3 lakhs per acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706940780784,
+      "content": "May I know which details?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shailesh Kendre",
+      "timestamp_ms": 1706938670539,
+      "content": "Hi can you share the details",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shailesh Kendre",
+  "is_still_participant": true,
+  "thread_path": "inbox/shaileshkendre_1323595815705905",
+  "magic_words": [
+    
+  ]
+}

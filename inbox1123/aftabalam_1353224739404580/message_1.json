@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Aftab Alam"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713142750188,
+      "content": "May I know what you are looking for? I'll connect with someone from the team accordingly?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aftab Alam",
+      "timestamp_ms": 1713124789073,
+      "content": "Sir hello send ur number",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Aftab Alam",
+  "is_still_participant": true,
+  "thread_path": "inbox/aftabalam_1353224739404580",
+  "magic_words": [
+    
+  ]
+}

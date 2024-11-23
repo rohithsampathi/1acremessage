@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Tittu Vinay"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tittu Vinay",
+      "timestamp_ms": 1708971316590,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708969851936,
+      "content": "You can directly contact the seller",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708969847346,
+      "content": "1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708969840344,
+      "content": "Hi, Please check on the website.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tittu Vinay",
+      "timestamp_ms": 1708965351309,
+      "content": "Hello brother,\nI hope you\u00e2\u0080\u0099re doing well!\nI am looking for a land in Telangana state .\nDo you have any 1acr land below 35lakhs \nIf you have any lands please let me know.\n\nThank you and have a great day.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Tittu Vinay",
+  "is_still_participant": true,
+  "thread_path": "inbox/tittuvinay_1335739417821297",
+  "magic_words": [
+    
+  ]
+}

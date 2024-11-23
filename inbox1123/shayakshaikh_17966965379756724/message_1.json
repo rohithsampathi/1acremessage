@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Shayak Shaikh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720262440188,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720262439465,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shayak Shaikh",
+      "timestamp_ms": 1720262158638,
+      "content": "Yavatmal Maharashtra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shayak Shaikh",
+      "timestamp_ms": 1720262121765,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shayak Shaikh",
+  "is_still_participant": true,
+  "thread_path": "inbox/shayakshaikh_17966965379756724",
+  "magic_words": [
+    
+  ]
+}

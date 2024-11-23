@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Dr.srinath"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706158723123,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dr.srinath",
+      "timestamp_ms": 1706156594224,
+      "content": "Exact location of property?",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3287355062892438603"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Dr.srinath",
+  "is_still_participant": true,
+  "thread_path": "inbox/drsrinath_1286466586079956",
+  "magic_words": [
+    
+  ]
+}

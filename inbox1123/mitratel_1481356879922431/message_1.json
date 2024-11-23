@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "\u00d0\u00bc\u00ce\u00b9\u00d1\u0082 \u00cf\u0081\u00ce\u00b1\u00d1\u0082\u00ce\u00b5\u00e2\u0084\u0093"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725548846643,
+      "content": "How can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725548842190,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00d0\u00bc\u00ce\u00b9\u00d1\u0082 \u00cf\u0081\u00ce\u00b1\u00d1\u0082\u00ce\u00b5\u00e2\u0084\u0093",
+      "timestamp_ms": 1725544464470,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00d0\u00bc\u00ce\u00b9\u00d1\u0082 \u00cf\u0081\u00ce\u00b1\u00d1\u0082\u00ce\u00b5\u00e2\u0084\u0093",
+  "is_still_participant": true,
+  "thread_path": "inbox/mitratel_1481356879922431",
+  "magic_words": [
+    
+  ]
+}

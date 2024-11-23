@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Sai Teja"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sai Teja",
+      "timestamp_ms": 1710937355594,
+      "content": "I need a job",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Teja",
+      "timestamp_ms": 1710937350215,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sai Teja",
+  "is_still_participant": true,
+  "thread_path": "inbox/saiteja_1322546202470818",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "anuraag"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "anuraag",
+      "timestamp_ms": 1709702890638,
+      "content": "Okay \nThank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709701991643,
+      "content": "Currently, we are not listing lands yet, in Karnataka. \nThat said, you will get lands at that price but probably farther or with not so good access. As of date, best thing we advise would be, to find a good agent, through a known reference.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "anuraag",
+      "timestamp_ms": 1709696792102,
+      "content": "Hello \nAny ideas if we get lands for 5-6 lakhs in Karnataka?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "anuraag",
+  "is_still_participant": true,
+  "thread_path": "inbox/anuraag_1350176803046704",
+  "magic_words": [
+    
+  ]
+}

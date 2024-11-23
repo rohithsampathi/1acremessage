@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Ajay Kumar Ch"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ajay Kumar Ch",
+      "timestamp_ms": 1707786762939,
+      "content": "Need info about farm agriculture lands",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707786638496,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ajay Kumar Ch",
+      "timestamp_ms": 1707765152735,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ajay Kumar Ch",
+  "is_still_participant": true,
+  "thread_path": "inbox/ajaykumarch_1243531630369050",
+  "magic_words": [
+    
+  ]
+}

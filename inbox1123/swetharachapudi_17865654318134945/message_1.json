@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "swetha.rachapudi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717067092709,
+      "content": "Satish, co-founder\n7661933372",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "swetha.rachapudi",
+      "timestamp_ms": 1717066226760,
+      "content": "Hi, i would like to invest and grow the company. Who do I contact?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "swetha.rachapudi",
+  "is_still_participant": true,
+  "thread_path": "inbox/swetharachapudi_17865654318134945",
+  "magic_words": [
+    
+  ]
+}

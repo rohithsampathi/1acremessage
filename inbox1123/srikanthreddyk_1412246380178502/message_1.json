@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Srikanth Reddy K"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Srikanth Reddy K",
+      "timestamp_ms": 1722256522895,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722253812487,
+      "content": "Are you an agent ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srikanth Reddy K",
+      "timestamp_ms": 1722251223153,
+      "content": "I am Srikanth reddy Kalwakurthy real estate",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722250721755,
+      "content": "How can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722250716073,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srikanth Reddy K",
+      "timestamp_ms": 1722248651568,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Srikanth Reddy K",
+  "is_still_participant": true,
+  "thread_path": "inbox/srikanthreddyk_1412246380178502",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "IAM JATAVATH VENKATESH NAIK"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705833469310,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "IAM JATAVATH VENKATESH NAIK",
+      "timestamp_ms": 1705823761291,
+      "content": "Hello sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "IAM JATAVATH VENKATESH NAIK",
+  "is_still_participant": true,
+  "thread_path": "inbox/iamjatavathvenkateshnaik_17996455775390565",
+  "magic_words": [
+    
+  ]
+}

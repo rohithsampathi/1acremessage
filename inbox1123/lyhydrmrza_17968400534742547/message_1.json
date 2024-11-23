@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "\u00d8\u00b9\u00d9\u0084\u00db\u008c \u00d8\u00ad\u00db\u008c\u00d8\u00af\u00d8\u00b1 \u00d9\u0085\u00d8\u00b1\u00d8\u00b2\u00d8\u00a7"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718355080433,
+      "content": "Sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00d8\u00b9\u00d9\u0084\u00db\u008c \u00d8\u00ad\u00db\u008c\u00d8\u00af\u00d8\u00b1 \u00d9\u0085\u00d8\u00b1\u00d8\u00b2\u00d8\u00a7",
+      "timestamp_ms": 1718354861882,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00d8\u00b9\u00d9\u0084\u00db\u008c \u00d8\u00ad\u00db\u008c\u00d8\u00af\u00d8\u00b1 \u00d9\u0085\u00d8\u00b1\u00d8\u00b2\u00d8\u00a7",
+      "timestamp_ms": 1718354857045,
+      "content": "Whan you start contact us",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00d8\u00b9\u00d9\u0084\u00db\u008c \u00d8\u00ad\u00db\u008c\u00d8\u00af\u00d8\u00b1 \u00d9\u0085\u00d8\u00b1\u00d8\u00b2\u00d8\u00a7",
+      "timestamp_ms": 1718354818202,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718354758802,
+      "content": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00d8\u00b9\u00d9\u0084\u00db\u008c \u00d8\u00ad\u00db\u008c\u00d8\u00af\u00d8\u00b1 \u00d9\u0085\u00d8\u00b1\u00d8\u00b2\u00d8\u00a7",
+      "timestamp_ms": 1718354337830,
+      "content": "My contact no. 8532065512",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00d8\u00b9\u00d9\u0084\u00db\u008c \u00d8\u00ad\u00db\u008c\u00d8\u00af\u00d8\u00b1 \u00d9\u0085\u00d8\u00b1\u00d8\u00b2\u00d8\u00a7",
+      "timestamp_ms": 1718354301340,
+      "content": "Please contact with us",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00d8\u00b9\u00d9\u0084\u00db\u008c \u00d8\u00ad\u00db\u008c\u00d8\u00af\u00d8\u00b1 \u00d9\u0085\u00d8\u00b1\u00d8\u00b2\u00d8\u00a7",
+      "timestamp_ms": 1718354266505,
+      "content": "About 1000 acres",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00d8\u00b9\u00d9\u0084\u00db\u008c \u00d8\u00ad\u00db\u008c\u00d8\u00af\u00d8\u00b1 \u00d9\u0085\u00d8\u00b1\u00d8\u00b2\u00d8\u00a7",
+      "timestamp_ms": 1718354213058,
+      "content": "I have land for sale in delhi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00d8\u00b9\u00d9\u0084\u00db\u008c \u00d8\u00ad\u00db\u008c\u00d8\u00af\u00d8\u00b1 \u00d9\u0085\u00d8\u00b1\u00d8\u00b2\u00d8\u00a7",
+      "timestamp_ms": 1718354193637,
+      "content": "Hello sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00e2\u0080\u008e\u00d8\u00b9\u00d9\u0084\u00db\u008c \u00d8\u00ad\u00db\u008c\u00d8\u00af\u00d8\u00b1 \u00d9\u0085\u00d8\u00b1\u00d8\u00b2\u00d8\u00a7\u00e2\u0080\u008e",
+  "is_still_participant": true,
+  "thread_path": "inbox/lyhydrmrza_17968400534742547",
+  "magic_words": [
+    
+  ]
+}

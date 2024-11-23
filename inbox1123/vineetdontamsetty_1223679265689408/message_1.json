@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Vineet Dontamsetty"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701681697473,
+      "content": "Hi Vineet our team will  connect with you shortly, I had informed them.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vineet Dontamsetty",
+      "timestamp_ms": 1701678383835,
+      "content": "Hi, i am Vineet. I just subscribed. Ph: 6302544346. I am looking to buy an acre land inside the new RRR around Hyderabad. Could you help me further",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vineet Dontamsetty",
+  "is_still_participant": true,
+  "thread_path": "inbox/vineetdontamsetty_1223679265689408",
+  "magic_words": [
+    
+  ]
+}

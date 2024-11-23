@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "P Ugandhar N Varma"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702442642259,
+      "content": "If you have any enquiries you can connect with pratheek  9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "P Ugandhar N Varma",
+      "timestamp_ms": 1702431649387,
+      "content": "P Ugandhar sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1702442614
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/C0viixCyuSO/?id=3255972978315945102_47651711013",
+        "share_text": "Urgent requirement land sale - A lot of times, a lot of us will have some need, for which, we want to dispose off some land. Usually we show it to a limited set of people and the chances of transaction are low. With 1acre.in, if we feel your price/rate is 15-20% lesser than the surrounding market price, we mark it as chance on our website. There will be thousands of visitors daily plus our premium subscribers. So instead of showing it to 4-5 people, with 1acre.in, you can reach out to thousands of potential buyers within days.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "P Ugandhar N Varma",
+  "is_still_participant": true,
+  "thread_path": "inbox/pugandharnvarma_17927888909798498",
+  "magic_words": [
+    
+  ]
+}

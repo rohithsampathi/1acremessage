@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "mpyproparties"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713090261921,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "mpyproparties",
+      "timestamp_ms": 1713081827888,
+      "content": "mpyproparties sent an attachment.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "mpyproparties",
+  "is_still_participant": true,
+  "thread_path": "inbox/mpyproparties_17850077304181551",
+  "magic_words": [
+    
+  ]
+}

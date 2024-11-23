@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Sree Ved"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701489758510,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sree Ved",
+      "timestamp_ms": 1701454906388,
+      "content": "Very useful information",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sree Ved",
+  "is_still_participant": true,
+  "thread_path": "inbox/sreeved_1290872868974078",
+  "magic_words": [
+    
+  ]
+}

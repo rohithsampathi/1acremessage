@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Shankar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711124997224,
+      "content": "Not yet.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shankar",
+      "timestamp_ms": 1711111333669,
+      "content": "Anything in Kerala Karnataka Border ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708600794822,
+      "content": "Currently only in Telangana",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shankar",
+      "timestamp_ms": 1708600249724,
+      "content": "anything in palakkad ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shankar",
+  "is_still_participant": true,
+  "thread_path": "inbox/shankar_1382934203107926",
+  "magic_words": [
+    
+  ]
+}

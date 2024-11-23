@@ -1,0 +1,77 @@
+{
+  "participants": [
+    {
+      "name": "MeeraReddy A"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "MeeraReddy A",
+      "timestamp_ms": 1721475754381,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721475588161,
+      "content": "1acre.in/subscribe  Please explore.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "MeeraReddy A",
+          "timestamp": 1721475754
+        }
+      ],
+      "share": {
+        "link": "http://1acre.in/subscribe",
+        "share_text": "1acre.in/subscribe  Please explore."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "MeeraReddy A",
+      "timestamp_ms": 1721475203256,
+      "content": "At mokila",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "MeeraReddy A",
+      "timestamp_ms": 1721475198230,
+      "content": "With price of 35k per square yard",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "MeeraReddy A",
+      "timestamp_ms": 1721475182440,
+      "content": "And tellapur",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "MeeraReddy A",
+      "timestamp_ms": 1721475173549,
+      "content": "At mokila",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "MeeraReddy A",
+      "timestamp_ms": 1721475163684,
+      "content": "Is there any open plots with 267 square yards",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "MeeraReddy A",
+      "timestamp_ms": 1721475145394,
+      "content": "Hi team",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "MeeraReddy A",
+  "is_still_participant": true,
+  "thread_path": "inbox/meerareddya_1427832231943862",
+  "magic_words": [
+    
+  ]
+}

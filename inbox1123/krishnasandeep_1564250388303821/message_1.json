@@ -1,0 +1,70 @@
+{
+  "participants": [
+    {
+      "name": "Krishna Sandeep"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Krishna Sandeep",
+      "timestamp_ms": 1731466734266,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731466722173,
+      "content": "After verification, we can post in this group with your number so buyers can reach out \n\nhttps://chat.whatsapp.com/E3ugM6b0IpzLwggHmWrEL2",
+      "share": {
+        "link": "https://chat.whatsapp.com/E3ugM6b0IpzLwggHmWrEL2",
+        "share_text": "After verification, we can post in this group with your number so buyers can reach out \n\nhttps://chat.whatsapp.com/E3ugM6b0IpzLwggHmWrEL2"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731466589993,
+      "content": "Please call our team member Venu at +91 76749 01201\n\nHe shall help you list it and share other details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Krishna Sandeep",
+      "timestamp_ms": 1731466510293,
+      "content": "Andhra pradesh vijayawada",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731466472795,
+      "content": "May we know the state and region ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Krishna Sandeep",
+      "timestamp_ms": 1731424585480,
+      "content": "Will you sell it",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Krishna Sandeep",
+      "timestamp_ms": 1731424581140,
+      "content": "I want to sell my farm land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Krishna Sandeep",
+      "timestamp_ms": 1731424575215,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Krishna Sandeep",
+  "is_still_participant": true,
+  "thread_path": "inbox/krishnasandeep_1564250388303821",
+  "magic_words": [
+    
+  ]
+}

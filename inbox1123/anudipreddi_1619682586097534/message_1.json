@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "\u00e0\u00b0\u0085\u00e0\u00b0\u00a8\u00e0\u00b1\u0081\u00e0\u00b0\u00a6\u00e0\u00b1\u0080\u00e0\u00b0\u00aa\u00e0\u00b1\u008d \u00e0\u00b0\u00b0\u00e0\u00b1\u0086\u00e0\u00b0\u00a1\u00e0\u00b1\u008d\u00e0\u00b0\u00a1\u00e0\u00b0\u00bf"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00e0\u00b0\u0085\u00e0\u00b0\u00a8\u00e0\u00b1\u0081\u00e0\u00b0\u00a6\u00e0\u00b1\u0080\u00e0\u00b0\u00aa\u00e0\u00b1\u008d \u00e0\u00b0\u00b0\u00e0\u00b1\u0086\u00e0\u00b0\u00a1\u00e0\u00b1\u008d\u00e0\u00b0\u00a1\u00e0\u00b0\u00bf",
+      "timestamp_ms": 1722320251720,
+      "content": "Cool. My bad I didn't explore your site at all. I'll do that.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1722323957
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722320212656,
+      "content": "Hello Mr anudeep \nYou can access our website and explore lands in a listing view for free and using filters you can check number of listings and prices in area of your interest. \n\nMap view is only for more intuitive and faster understanding of data. \n\nHope this helps :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00e0\u00b0\u0085\u00e0\u00b0\u00a8\u00e0\u00b1\u0081\u00e0\u00b0\u00a6\u00e0\u00b1\u0080\u00e0\u00b0\u00aa\u00e0\u00b1\u008d \u00e0\u00b0\u00b0\u00e0\u00b1\u0086\u00e0\u00b0\u00a1\u00e0\u00b1\u008d\u00e0\u00b0\u00a1\u00e0\u00b0\u00bf",
+      "timestamp_ms": 1722307744480,
+      "content": "Great attempt tho....kudos. wish you luck in getting sign ups from both ends.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00e0\u00b0\u0085\u00e0\u00b0\u00a8\u00e0\u00b1\u0081\u00e0\u00b0\u00a6\u00e0\u00b1\u0080\u00e0\u00b0\u00aa\u00e0\u00b1\u008d \u00e0\u00b0\u00b0\u00e0\u00b1\u0086\u00e0\u00b0\u00a1\u00e0\u00b1\u008d\u00e0\u00b0\u00a1\u00e0\u00b0\u00bf",
+      "timestamp_ms": 1722307603872,
+      "content": "Please tell me how many acres of land is listed within the RR district on your sute...I'll consider signing up. It is hard to pay 5000 rs by looking at the number of dots seen in the reel/advert.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00e0\u00b0\u0085\u00e0\u00b0\u00a8\u00e0\u00b1\u0081\u00e0\u00b0\u00a6\u00e0\u00b1\u0080\u00e0\u00b0\u00aa\u00e0\u00b1\u008d \u00e0\u00b0\u00b0\u00e0\u00b1\u0086\u00e0\u00b0\u00a1\u00e0\u00b1\u008d\u00e0\u00b0\u00a1\u00e0\u00b0\u00bf",
+  "is_still_participant": true,
+  "thread_path": "inbox/anudipreddi_1619682586097534",
+  "magic_words": [
+    
+  ]
+}

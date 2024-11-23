@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Srinivas Kasulla - BIOGAS"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Srinivas Kasulla - BIOGAS",
+      "timestamp_ms": 1709564781930,
+      "content": "Brother I want to buy 2 and 4 acres of land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705195061622,
+      "content": "Sure. We'll keep it noted and inform you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srinivas Kasulla - BIOGAS",
+      "timestamp_ms": 1705169271979,
+      "content": "Brother get me 2-4 acres of land in low budget plz",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702702827885,
+      "content": "you can connect with pratheek  9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srinivas Kasulla - BIOGAS",
+      "timestamp_ms": 1702658829006,
+      "content": "I want 2 and 4 acres two bits in 10-12 lac per acre budget",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697004020686,
+      "content": "Please contact (+91 80744 50533) Vijay from 1acre.in for more details.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Please contact (+91 80744 50533) Vijay from 1acre.in for more details."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srinivas Kasulla - BIOGAS",
+      "timestamp_ms": 1696944281063,
+      "content": "I want 2 acres",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Srinivas Kasulla - BIOGAS",
+  "is_still_participant": true,
+  "thread_path": "inbox/srinivaskasullabiogas_1244987553562395",
+  "magic_words": [
+    
+  ]
+}

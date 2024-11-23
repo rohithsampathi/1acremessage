@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Hyshem"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722616036591,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722616031100,
+      "content": "Depends on the land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hyshem",
+      "timestamp_ms": 1722599328069,
+      "content": "We have a land for sale, do you guys do brokering?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722598347713,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hyshem",
+      "timestamp_ms": 1722502721301,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Hyshem",
+  "is_still_participant": true,
+  "thread_path": "inbox/hyshem_1458556412205735",
+  "magic_words": [
+    
+  ]
+}

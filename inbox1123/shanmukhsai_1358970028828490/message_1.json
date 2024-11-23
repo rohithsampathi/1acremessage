@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "shanmukh sai"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "shanmukh sai",
+      "timestamp_ms": 1716519025686,
+      "content": "That person can u speak in telugu",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716518534560,
+      "content": "9032114737\nYou can talk to Bharath, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "shanmukh sai",
+      "timestamp_ms": 1716483192477,
+      "content": "I am interested",
+      "share": {
+        "link": "https://www.instagram.com/p/C4j3HBRt6Vt/"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "shanmukh sai",
+  "is_still_participant": true,
+  "thread_path": "inbox/shanmukhsai_1358970028828490",
+  "magic_words": [
+    
+  ]
+}

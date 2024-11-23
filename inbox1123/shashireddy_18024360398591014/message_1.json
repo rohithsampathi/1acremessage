@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Shashireddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shashireddy",
+      "timestamp_ms": 1728963509629,
+      "content": "Thumkunta Shamirpet mandal",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shashireddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/shashireddy_18024360398591014",
+  "magic_words": [
+    
+  ]
+}

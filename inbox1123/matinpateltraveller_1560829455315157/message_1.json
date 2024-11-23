@@ -1,0 +1,85 @@
+{
+  "participants": [
+    {
+      "name": "Matin Patel | Traveller \u00f0\u009f\u0087\u00ae\u00f0\u009f\u0087\u00b3"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Matin Patel | Traveller \u00f0\u009f\u0087\u00ae\u00f0\u009f\u0087\u00b3",
+      "timestamp_ms": 1731172309797,
+      "content": "Dream Home By Patel",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1731174430
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Matin Patel | Traveller \u00f0\u009f\u0087\u00ae\u00f0\u009f\u0087\u00b3",
+      "timestamp_ms": 1731172300711,
+      "content": "7743944404/8830620460",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Matin Patel | Traveller \u00f0\u009f\u0087\u00ae\u00f0\u009f\u0087\u00b3",
+      "timestamp_ms": 1731172275143,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731171768503,
+      "content": "Share your number and our team will call you to discuss",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Matin Patel | Traveller \u00f0\u009f\u0087\u00ae\u00f0\u009f\u0087\u00b3",
+      "timestamp_ms": 1731156139043,
+      "content": "If anything you need help from this side",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Matin Patel | Traveller \u00f0\u009f\u0087\u00ae\u00f0\u009f\u0087\u00b3",
+      "timestamp_ms": 1731156101265,
+      "content": "In Aurangabad Maharashtra Area",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Matin Patel | Traveller \u00f0\u009f\u0087\u00ae\u00f0\u009f\u0087\u00b3",
+      "timestamp_ms": 1731156084962,
+      "content": "M working in lands",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731150787654,
+      "content": "How can we help you ??",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731150783306,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Matin Patel | Traveller \u00f0\u009f\u0087\u00ae\u00f0\u009f\u0087\u00b3",
+      "timestamp_ms": 1731053997908,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Matin Patel | Traveller \u00f0\u009f\u0087\u00ae\u00f0\u009f\u0087\u00b3",
+  "is_still_participant": true,
+  "thread_path": "inbox/matinpateltraveller_1560829455315157",
+  "magic_words": [
+    
+  ]
+}

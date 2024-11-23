@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Srikanth Reddy Gudepu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726645854091,
+      "content": "Our team will get back to you shortly \u00f0\u009f\u0099\u0082",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srikanth Reddy Gudepu",
+      "timestamp_ms": 1726645846300,
+      "content": "14 acres near medak pls send the location",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Srikanth Reddy Gudepu",
+  "is_still_participant": true,
+  "thread_path": "inbox/srikanthreddygudepu_1339542300764434",
+  "magic_words": [
+    
+  ]
+}

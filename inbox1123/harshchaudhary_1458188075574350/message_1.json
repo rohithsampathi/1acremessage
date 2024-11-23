@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Harsh Chaudhary"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Harsh Chaudhary",
+      "timestamp_ms": 1724508351459,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724508250328,
+      "content": "We currently only operate in telangana and andhra \n\nWill keep you posted when we launch in other states",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Harsh Chaudhary",
+          "timestamp": 1724508351
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harsh Chaudhary",
+      "timestamp_ms": 1724501285242,
+      "content": "Ggn",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724498469528,
+      "content": "Which state is this ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harsh Chaudhary",
+      "timestamp_ms": 1724489682944,
+      "content": "Hello we have 2 acre of land asking 40cr in sec84 just near DLF residencial if interested do contact 9992898889\nAlso available on finder fee nd comission",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harsh Chaudhary",
+      "timestamp_ms": 1724489668267,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Harsh Chaudhary",
+  "is_still_participant": true,
+  "thread_path": "inbox/harshchaudhary_1458188075574350",
+  "magic_words": [
+    
+  ]
+}

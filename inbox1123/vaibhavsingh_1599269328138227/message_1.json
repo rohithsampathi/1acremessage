@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Vaibhav Singh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730732501826,
+      "content": "Do you deal in land?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730732495510,
+      "content": "We'll start from this month.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vaibhav Singh",
+      "timestamp_ms": 1730728411002,
+      "content": "Or Himachal ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vaibhav Singh",
+      "timestamp_ms": 1730728406522,
+      "content": "Why are you hits not working in Uttrakhand ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vaibhav Singh",
+  "is_still_participant": true,
+  "thread_path": "inbox/vaibhavsingh_1599269328138227",
+  "magic_words": [
+    
+  ]
+}

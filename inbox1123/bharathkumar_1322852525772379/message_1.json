@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Bharath Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713709148828,
+      "content": "Hi, Please talk to Ratna Kiran \n9390155412\nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bharath Kumar",
+      "timestamp_ms": 1713707984598,
+      "content": "Details. N price",
+      "share": {
+        "link": "https://www.instagram.com/p/C3t28m8N2Gf/"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Bharath Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/bharathkumar_1322852525772379",
+  "magic_words": [
+    
+  ]
+}

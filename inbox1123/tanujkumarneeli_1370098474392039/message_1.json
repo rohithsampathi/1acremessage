@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Tanuj Kumar Neeli"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717577013278,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tanuj Kumar Neeli",
+      "timestamp_ms": 1717576460763,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703589555751,
+      "content": "Hi , you can connect with pratheek  9390674324,",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tanuj Kumar Neeli",
+      "timestamp_ms": 1703575618170,
+      "content": "Is it available",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tanuj Kumar Neeli",
+      "timestamp_ms": 1703575608116,
+      "content": "5 Lakhs one acre around Telangana",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Tanuj Kumar Neeli",
+  "is_still_participant": true,
+  "thread_path": "inbox/tanujkumarneeli_1370098474392039",
+  "magic_words": [
+    
+  ]
+}

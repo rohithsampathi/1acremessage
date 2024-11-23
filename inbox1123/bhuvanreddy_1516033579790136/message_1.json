@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Bhuvan Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729319833480,
+      "content": "Hello how can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bhuvan Reddy",
+      "timestamp_ms": 1729300048763,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Bhuvan Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/bhuvanreddy_1516033579790136",
+  "magic_words": [
+    
+  ]
+}

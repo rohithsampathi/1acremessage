@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "RadhaKrisna"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730648475955,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DBtxyYSp2SH/?id=3489664252617647239_64764462564",
+        "share_text": "Mom hack I wish I knew sooner! #myworld #momof2 #mommasboy #covidbaby #mommylife #novemberbaby #infant #momadvice #parentingtips",
+        "original_content_owner": "wonderbabyusa"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "RadhaKrisna",
+      "timestamp_ms": 1729785795570,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729785126049,
+      "content": "Not yet",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "RadhaKrisna",
+      "timestamp_ms": 1729760054303,
+      "content": "Hi\nR u dealing lease or rent agricultural lands?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "RadhaKrisna",
+  "is_still_participant": true,
+  "thread_path": "inbox/radhakrisna_18025475432591014",
+  "magic_words": [
+    
+  ]
+}

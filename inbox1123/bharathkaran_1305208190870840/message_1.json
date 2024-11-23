@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "Bharath Karan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bharath Karan",
+      "timestamp_ms": 1718366201211,
+      "content": "Details",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3390214681611892414"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bharath Karan",
+      "timestamp_ms": 1707835473206,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707835405798,
+      "content": "Hi, Please contact Ramakrishna \n7780122120",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bharath Karan",
+      "timestamp_ms": 1707835305703,
+      "content": "Hi sir my self bharath is there requirement in ur company",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Bharath Karan",
+  "is_still_participant": true,
+  "thread_path": "inbox/bharathkaran_1305208190870840",
+  "magic_words": [
+    
+  ]
+}

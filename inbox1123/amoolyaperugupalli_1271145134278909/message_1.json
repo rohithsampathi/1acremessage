@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Amoolya Perugupalli"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Amoolya Perugupalli",
+      "timestamp_ms": 1700302114946,
+      "content": "Thank you!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1700302101034,
+      "content": "You can contact to Pratheek 9505778117 , he will help you with your enquiry",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Amoolya Perugupalli",
+      "timestamp_ms": 1700299213447,
+      "content": "Can you please help?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Amoolya Perugupalli",
+      "timestamp_ms": 1700299199564,
+      "content": "I\u00e2\u0080\u0099m looking to buy a land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Amoolya Perugupalli",
+      "timestamp_ms": 1700299192683,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Amoolya Perugupalli",
+  "is_still_participant": true,
+  "thread_path": "inbox/amoolyaperugupalli_1271145134278909",
+  "magic_words": [
+    
+  ]
+}

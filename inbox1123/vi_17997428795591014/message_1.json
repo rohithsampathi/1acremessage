@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "vi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "vi",
+      "timestamp_ms": 1709618336068,
+      "content": "Ok thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709618118896,
+      "content": "We are currently only in Telangana. Launching karnataka soon. Will let you know.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "vi",
+      "timestamp_ms": 1709617266324,
+      "content": "Anything near Bangalore ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "vi",
+  "is_still_participant": true,
+  "thread_path": "inbox/vi_17997428795591014",
+  "magic_words": [
+    
+  ]
+}

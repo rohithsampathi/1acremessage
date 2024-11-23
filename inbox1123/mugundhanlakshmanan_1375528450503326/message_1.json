@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Mugundhan Lakshmanan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722357144714,
+      "content": "Soon",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mugundhan Lakshmanan",
+      "timestamp_ms": 1722348869687,
+      "content": "Hi when tamil nadu ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mugundhan Lakshmanan",
+  "is_still_participant": true,
+  "thread_path": "inbox/mugundhanlakshmanan_1375528450503326",
+  "magic_words": [
+    
+  ]
+}

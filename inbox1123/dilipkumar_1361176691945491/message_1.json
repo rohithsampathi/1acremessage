@@ -1,0 +1,121 @@
+{
+  "participants": [
+    {
+      "name": "Dilip kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dilip kumar",
+      "timestamp_ms": 1707374639127,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707374638739,
+      "content": "Satish",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707374635377,
+      "content": "7661933372",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Dilip kumar",
+          "timestamp": 1707374639
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dilip kumar",
+      "timestamp_ms": 1707374616573,
+      "content": "9945227313",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dilip kumar",
+      "timestamp_ms": 1707374610172,
+      "content": "Share ur whatzup no.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dilip kumar",
+      "timestamp_ms": 1707374602193,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707374594059,
+      "content": "Can you send me location and price? If for now, Some builder wants, I can refer.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dilip kumar",
+      "timestamp_ms": 1707374588236,
+      "content": "Prime location",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dilip kumar",
+      "timestamp_ms": 1707374582662,
+      "content": "Yea",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707374571781,
+      "content": "Is it inside the city?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707374563547,
+      "content": "But we'll soon",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707374558435,
+      "content": "We are currently not dealing in Bangalore.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dilip kumar",
+      "timestamp_ms": 1707374548437,
+      "content": "How are you?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707374543283,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dilip kumar",
+      "timestamp_ms": 1707373719945,
+      "content": "I have a land fr sale in bangalore",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dilip kumar",
+      "timestamp_ms": 1707373703104,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Dilip kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/dilipkumar_1361176691945491",
+  "magic_words": [
+    
+  ]
+}

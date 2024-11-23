@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Sai Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725104357124,
+      "content": "Hi, Please contact Srikar 8341149011, from the team. He'll help you with all the details.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Kumar",
+      "timestamp_ms": 1725095023659,
+      "content": "We are interested in 900 square yards land at Boduppal..can you share some details regarding the land is it still available..",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sai Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/saikumar_1343265937078215",
+  "magic_words": [
+    
+  ]
+}

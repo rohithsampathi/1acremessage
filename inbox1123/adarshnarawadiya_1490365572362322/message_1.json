@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Adarsh Narawadiya"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Adarsh Narawadiya",
+      "timestamp_ms": 1720242790999,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720240128832,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Adarsh Narawadiya",
+      "timestamp_ms": 1720238124057,
+      "content": "Wardha",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Adarsh Narawadiya",
+      "timestamp_ms": 1720238121765,
+      "content": "Maharashtra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720236398410,
+      "content": "Which state?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Adarsh Narawadiya",
+      "timestamp_ms": 1720188772542,
+      "content": "I also walt to list my property for sell 7 acers",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Adarsh Narawadiya",
+      "timestamp_ms": 1720188735542,
+      "content": "Hii I want to your policy",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Adarsh Narawadiya",
+  "is_still_participant": true,
+  "thread_path": "inbox/adarshnarawadiya_1490365572362322",
+  "magic_words": [
+    
+  ]
+}

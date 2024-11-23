@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Saikumar Kammari"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Saikumar Kammari",
+      "timestamp_ms": 1708586221366,
+      "content": "7780711357",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708543959468,
+      "content": "Can we have your number? We'll reach out to discuss.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708543937827,
+      "content": "sai_kumar_kammari wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708543937505,
+      "content": "Hi, thanks for reaching out.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Saikumar Kammari",
+      "timestamp_ms": 1708532175199,
+      "content": "Could please share to buyer",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Saikumar Kammari",
+      "timestamp_ms": 1708532159010,
+      "content": "Land mark vattinagula palli wipro office opposite",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Saikumar Kammari",
+      "timestamp_ms": 1708532117228,
+      "content": "I have property  near gachibowli  one acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Saikumar Kammari",
+      "timestamp_ms": 1708532092429,
+      "content": "Hi iam saikumar",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Saikumar Kammari",
+  "is_still_participant": true,
+  "thread_path": "inbox/saikumarkammari_1313409600051603",
+  "magic_words": [
+    
+  ]
+}

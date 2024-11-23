@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Kirubakaran K"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720417736887,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kirubakaran K",
+      "timestamp_ms": 1720365966204,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kirubakaran K",
+  "is_still_participant": true,
+  "thread_path": "inbox/kirubakarank_1466988841363320",
+  "magic_words": [
+    
+  ]
+}

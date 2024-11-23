@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Balam Santosh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Balam Santosh",
+      "timestamp_ms": 1707048247094,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707047947505,
+      "content": "Please contact Ramakrishna \n7780122120. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Balam Santosh",
+      "timestamp_ms": 1707047393182,
+      "content": "I hv property's",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Balam Santosh",
+      "timestamp_ms": 1707046973785,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707046964334,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Balam Santosh",
+      "timestamp_ms": 1707046607946,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Balam Santosh",
+  "is_still_participant": true,
+  "thread_path": "inbox/balamsantosh_1190236559028677",
+  "magic_words": [
+    
+  ]
+}

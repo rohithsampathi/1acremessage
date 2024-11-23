@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "shabbir"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723432948960,
+      "content": "Hello  \nYou can access our website, 1acre.in  and explore lands in a listing view for free and using filters you can check number of listings and prices in area of your interest. \n\nThere is a premium Map view feature for more intuitive and faster understanding of data. \n\nHope this helps :)",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hello  \nYou can access our website, 1acre.in  and explore lands in a listing view for free and using filters you can check number of listings and prices in area of your interest. \n\nThere is a premium Map view feature for more intuitive and faster understanding of data. \n\nHope this helps :)"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "shabbir",
+      "timestamp_ms": 1723406464157,
+      "content": "R1 zone area land available",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "shabbir",
+  "is_still_participant": true,
+  "thread_path": "inbox/shabbir_1280763449974214",
+  "magic_words": [
+    
+  ]
+}

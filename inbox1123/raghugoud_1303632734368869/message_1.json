@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Raghu Goud"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703911264476,
+      "content": "you can connect with pratheek, 9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raghu Goud",
+      "timestamp_ms": 1703906583276,
+      "content": "Could you please let us know \u00e2\u0080\u00a6 the details of the Karnataka lands available below 10L",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raghu Goud",
+      "timestamp_ms": 1703906510047,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Raghu Goud",
+  "is_still_participant": true,
+  "thread_path": "inbox/raghugoud_1303632734368869",
+  "magic_words": [
+    
+  ]
+}

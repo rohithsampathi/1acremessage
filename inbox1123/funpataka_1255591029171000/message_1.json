@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "FunPataka"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697115298523,
+      "content": "Hey, can we collaborate for a reel?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "FunPataka",
+  "is_still_participant": true,
+  "thread_path": "inbox/funpataka_1255591029171000",
+  "magic_words": [
+    
+  ]
+}

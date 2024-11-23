@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "SDR"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703827468398,
+      "content": "Hi ,how can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SDR",
+      "timestamp_ms": 1703785620704,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "SDR",
+  "is_still_participant": true,
+  "thread_path": "inbox/sdr_1323109079089930",
+  "magic_words": [
+    
+  ]
+}

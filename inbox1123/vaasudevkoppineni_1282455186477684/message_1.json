@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Vaasudev Koppineni"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701500561116,
+      "content": "Our team connects with you shortly",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vaasudev Koppineni",
+      "timestamp_ms": 1701492359338,
+      "content": "9959402470",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701490197089,
+      "content": "Yes we can help you , can we have your contact number, our team will connect with you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vaasudev Koppineni",
+      "timestamp_ms": 1701489295943,
+      "content": "Is there a possibility for 1acre.in to help me with this",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Is there a possibility for 1acre.in to help me with this"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vaasudev Koppineni",
+      "timestamp_ms": 1701489277655,
+      "content": "I am looking for a property which is facing a water body around Hyderabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vaasudev Koppineni",
+      "timestamp_ms": 1701489257025,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vaasudev Koppineni",
+  "is_still_participant": true,
+  "thread_path": "inbox/vaasudevkoppineni_1282455186477684",
+  "magic_words": [
+    
+  ]
+}

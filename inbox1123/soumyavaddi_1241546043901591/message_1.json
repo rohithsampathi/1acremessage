@@ -1,0 +1,84 @@
+{
+  "participants": [
+    {
+      "name": "Soumya Vaddi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Soumya Vaddi",
+      "timestamp_ms": 1715168692414,
+      "content": "Sure thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Soumya Vaddi",
+      "timestamp_ms": 1715168688114,
+      "content": "Do you know what is the current price at vastunagar mangalaplly hyderabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715168676055,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team. \nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Soumya Vaddi",
+      "timestamp_ms": 1715168651144,
+      "content": "How to add details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Soumya Vaddi",
+      "timestamp_ms": 1715168643771,
+      "content": "I want to sell my plot",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715168639677,
+      "content": "Are you looking to sell?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Soumya Vaddi",
+      "timestamp_ms": 1715168632581,
+      "content": "Oky",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715168623775,
+      "content": "soumya_vaddi23 wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715168623251,
+      "content": "We are starting the plots listing soon.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Soumya Vaddi",
+      "timestamp_ms": 1715168230336,
+      "content": "Do you sell plots also??",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Soumya Vaddi",
+      "timestamp_ms": 1715168220041,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Soumya Vaddi",
+  "is_still_participant": true,
+  "thread_path": "inbox/soumyavaddi_1241546043901591",
+  "magic_words": [
+    
+  ]
+}

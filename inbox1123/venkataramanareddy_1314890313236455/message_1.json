@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Venkata Ramana Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Venkata Ramana Reddy",
+      "timestamp_ms": 1709234792706,
+      "content": "Thank u !!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709179251833,
+      "content": "Hi, thanks for reaching out. Yes, we are a listing platform for only lands. \nTbh, we have very little idea as of date on the commercial investments side. So, it's not right for us to advise.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Venkata Ramana Reddy",
+      "timestamp_ms": 1709164094242,
+      "content": "I see all your postings around the land , is there an approach for commercial investment like for showrooms etc ?? How do you suggest we can start on that  segment as I am struck with all the websites crowded with just office lease and so how did not like their idea.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Venkata Ramana Reddy",
+      "timestamp_ms": 1709163939920,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Venkata Ramana Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/venkataramanareddy_1314890313236455",
+  "magic_words": [
+    
+  ]
+}

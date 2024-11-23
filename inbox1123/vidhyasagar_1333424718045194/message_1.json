@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "V I D H Y A    S A G A R"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721103255464,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721103254826,
+      "content": "Hi, Please contact Vijay 9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "V I D H Y A    S A G A R",
+      "timestamp_ms": 1721103136513,
+      "content": "Hello, can I get more info on this?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "V I D H Y A    S A G A R",
+      "timestamp_ms": 1721103135499,
+      "share": {
+        "link": "https://www.instagram.com/p/C9UBKzatrsk/"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "V I D H Y A    S A G A R",
+  "is_still_participant": true,
+  "thread_path": "inbox/vidhyasagar_1333424718045194",
+  "magic_words": [
+    
+  ]
+}

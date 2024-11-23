@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Venkat Reddy Malhar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Venkat Reddy Malhar",
+      "timestamp_ms": 1717588794537,
+      "content": "K sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717588632375,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717588631312,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Venkat Reddy Malhar",
+      "timestamp_ms": 1717586804717,
+      "content": "170km Hydrabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Venkat Reddy Malhar",
+      "timestamp_ms": 1717586714522,
+      "content": "Yadgir dist Karnataka 100acer land avilbale sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Venkat Reddy Malhar",
+  "is_still_participant": true,
+  "thread_path": "inbox/venkatreddymalhar_1274214867298309",
+  "magic_words": [
+    
+  ]
+}

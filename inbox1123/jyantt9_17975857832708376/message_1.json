@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "jyantt9"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720963346133,
+      "content": "1acre.in/subscribe\nPlease explore.\nYou call the sellers directly.",
+      "share": {
+        "link": "http://1acre.in/subscribe",
+        "share_text": "1acre.in/subscribe\nPlease explore.\nYou call the sellers directly."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "jyantt9",
+      "timestamp_ms": 1720960286949,
+      "content": "Hi, can I contact someone for information?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "jyantt9",
+      "timestamp_ms": 1720703031690,
+      "content": "Hello, I am following if you have any agricultural land in Hyderabad?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "jyantt9",
+      "timestamp_ms": 1720531540554,
+      "content": "7 lakhs per acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "jyantt9",
+      "timestamp_ms": 1720531495930,
+      "content": "Hyderabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720315327544,
+      "content": "Please share more details of tour requirement such as use case , budget, area , price per acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "jyantt9",
+      "timestamp_ms": 1720294488230,
+      "content": "Hello, I am interested in purchasing agricultural 1 acre close to hyoerbad",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "jyantt9",
+  "is_still_participant": true,
+  "thread_path": "inbox/jyantt9_17975857832708376",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Shiva Sathineni"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shiva Sathineni",
+      "timestamp_ms": 1725718585131,
+      "content": "Yeah had a call with him, thanks",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1725718649
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725718545692,
+      "content": "Hi, Please contact Srikar 8341149011, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shiva Sathineni",
+      "timestamp_ms": 1725689441957,
+      "content": "Prime Opportunity: 10 Acre Agriculture Land for Sale at Mucherla Revenue, Future City, Hyderabad!\n\n\u00f0\u009f\u0091\u0089 DM Me or call on 8341061262 for more details or to schedule a visit!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shiva Sathineni",
+      "timestamp_ms": 1725689376511,
+      "content": "Hello 1acre team ,\nI am looking to sell my land.\nCan you help me how to proceed further ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shiva Sathineni",
+  "is_still_participant": true,
+  "thread_path": "inbox/shivasathineni_1547089973358206",
+  "magic_words": [
+    
+  ]
+}

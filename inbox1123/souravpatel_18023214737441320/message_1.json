@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Sourav Patel"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729574469155,
+      "content": "Please contact our team member ,pavan, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sourav Patel",
+      "timestamp_ms": 1729527222227,
+      "content": "Interested in 32acres land",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sourav Patel",
+  "is_still_participant": true,
+  "thread_path": "inbox/souravpatel_18023214737441320",
+  "magic_words": [
+    
+  ]
+}

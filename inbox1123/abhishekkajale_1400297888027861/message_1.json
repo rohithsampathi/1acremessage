@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Abhishek Kajale"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Abhishek Kajale",
+      "timestamp_ms": 1720604368260,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720221372064,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Abhishek Kajale",
+          "timestamp": 1720604368
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720221367798,
+      "content": "Few talks are in progress but yes its still available",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhishek Kajale",
+      "timestamp_ms": 1720205793045,
+      "content": "Yavatmal property is available??",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhishek Kajale",
+      "timestamp_ms": 1720205766954,
+      "content": "Hey",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Abhishek Kajale",
+  "is_still_participant": true,
+  "thread_path": "inbox/abhishekkajale_1400297888027861",
+  "magic_words": [
+    
+  ]
+}

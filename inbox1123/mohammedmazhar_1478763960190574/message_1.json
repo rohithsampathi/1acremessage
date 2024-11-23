@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Mohammed Mazhar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715676366360,
+      "content": "Plz message him. He'll call back.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammed Mazhar",
+      "timestamp_ms": 1715676238950,
+      "content": "Hello sir! Bharath is not responding please share another number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715582141951,
+      "content": "9032114737\nYou can talk to Bharath, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammed Mazhar",
+      "timestamp_ms": 1715451231969,
+      "content": "Hello sir iam interested I lives Sangareddy near by Hyderabad my number is 9676942458 please hire me",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammed Mazhar",
+      "timestamp_ms": 1715451231107,
+      "content": "Mohammed sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C4j3HBRt6Vt/?id=3324743324894995821_47651711013",
+        "share_text": "9032114737\n\nPlease call Bharath, from the team.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mohammed Mazhar",
+  "is_still_participant": true,
+  "thread_path": "inbox/mohammedmazhar_1478763960190574",
+  "magic_words": [
+    
+  ]
+}

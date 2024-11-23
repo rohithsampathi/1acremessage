@@ -1,0 +1,65 @@
+{
+  "participants": [
+    {
+      "name": "Sai Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sai Kumar",
+      "timestamp_ms": 1715410795778,
+      "content": "Ok sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715410770725,
+      "content": "He'll call back.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Kumar",
+      "timestamp_ms": 1715409688050,
+      "content": "I call that number but no one is responding",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Kumar",
+      "timestamp_ms": 1715409668926,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715409608715,
+      "content": "9032114737\nYou can talk to Bharath, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Kumar",
+      "timestamp_ms": 1715406347816,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Kumar",
+      "timestamp_ms": 1715406347164,
+      "content": "Sai sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C4j3HBRt6Vt/?id=3324743324894995821_47651711013",
+        "share_text": "9032114737\n\nPlease call Bharath, from the team.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sai Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/saikumar_1246766796708312",
+  "magic_words": [
+    
+  ]
+}

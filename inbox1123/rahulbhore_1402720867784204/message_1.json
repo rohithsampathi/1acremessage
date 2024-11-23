@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "R   A  H  U  L  B  H  O  R  E"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "R   A  H  U  L  B  H  O  R  E",
+      "timestamp_ms": 1721640320715,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721629816338,
+      "content": "We are currently listing Telangana. We'll start Maharashtra soon. Will keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "R   A  H  U  L  B  H  O  R  E",
+      "timestamp_ms": 1721578444478,
+      "content": "If you have investors those wants to invest in pune maharashtra we have the properties with 10 acres and 15 acres at prime locations please let us know if anyone is interested thanks \nRahul Bhore",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "R   A  H  U  L  B  H  O  R  E",
+  "is_still_participant": true,
+  "thread_path": "inbox/rahulbhore_1402720867784204",
+  "magic_words": [
+    
+  ]
+}

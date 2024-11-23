@@ -1,0 +1,141 @@
+{
+  "participants": [
+    {
+      "name": "Vishal Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707094142514,
+      "content": "Cool",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishal Reddy",
+      "timestamp_ms": 1707071874692,
+      "content": "Thanks i am able to access it now",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishal Reddy",
+      "timestamp_ms": 1706909128161,
+      "content": "Ok yea i live in canada",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706904632457,
+      "content": "Tomorrow, you can check it again.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706904587885,
+      "content": "We'll manually mark this number as premium.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706904565532,
+      "content": "Or since you live in the US,",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706904526952,
+      "content": "Ok. We'll fix it. We'll reach out to you tomorrow.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishal Reddy",
+      "timestamp_ms": 1706904200645,
+      "content": "Tried logging in twice but still yhe same",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706890773273,
+      "content": "Plz logout And login again",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706890766376,
+      "content": "1acre.in/logout",
+      "share": {
+        "link": "http://1acre.in/logout",
+        "share_text": "1acre.in/logout"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706890754440,
+      "content": "Hi, Sorry for the trouble. It usually takes some time.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishal Reddy",
+      "timestamp_ms": 1706887314345,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/vishalreddy_1247508456639328/photos/421687596_1843637932725118_1087813830058041367_n_1843637929391785.jpg",
+          "creation_timestamp": 1706887313,
+          "backup_uri": "https://scontent.fmaa12-2.fna.fbcdn.net/v/t1.15752-9/421687596_1843637932725118_1087813830058041367_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=9f807c&_nc_ohc=PHnyhfv9mqYQ7kNvgFNaYHB&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fmaa12-2.fna&oh=03_Q7cD1QH14oBh6d7x8TGTsX5eRw2YsSjavrGlU8AmRS4YnEFppA&oe=6766CE30"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishal Reddy",
+      "timestamp_ms": 1706887300648,
+      "content": "My number in the account in +15197105281",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishal Reddy",
+      "timestamp_ms": 1706887283838,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishal Reddy",
+      "timestamp_ms": 1706887217376,
+      "content": "After paying premium also i am not able to get map view its still says subscribe \nDo we need to wait for a day for it to get activated ?",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3293884298281267657"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishal Reddy",
+      "timestamp_ms": 1703785172109,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703782911239,
+      "content": "Hi, yes. Very soon. Working on it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishal Reddy",
+      "timestamp_ms": 1703779154551,
+      "content": "Hi \nA qq \nWhy only get otp for indian number why not for nris ?\nI think platforms like this are really needed for nris",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3267178893710869446"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vishal Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/vishalreddy_1247508456639328",
+  "magic_words": [
+    
+  ]
+}

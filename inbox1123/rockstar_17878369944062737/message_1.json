@@ -1,0 +1,72 @@
+{
+  "participants": [
+    {
+      "name": "Rock Star"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rock Star",
+      "timestamp_ms": 1713746705756,
+      "content": "\u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713746193201,
+      "content": "Please talk to Vijay\n9959994737, from the team. He'll answer any questions you have.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rock Star",
+      "timestamp_ms": 1713746183456,
+      "content": "Any leads",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713746151253,
+      "content": "Hi, we are a listing platform only for land.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rock Star",
+      "timestamp_ms": 1713745949221,
+      "content": "We can pay for it",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rock Star",
+      "timestamp_ms": 1713745944250,
+      "content": "We have 3 villas in Hyderabad we need your help in making a video and getting some leads",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713745911114,
+      "content": "rockstar_reddyy wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713745910615,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rock Star",
+      "timestamp_ms": 1713719130754,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rock Star",
+  "is_still_participant": true,
+  "thread_path": "inbox/rockstar_17878369944062737",
+  "magic_words": [
+    
+  ]
+}

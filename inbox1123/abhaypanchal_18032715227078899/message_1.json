@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Abhay Panchal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Abhay Panchal",
+      "timestamp_ms": 1720162844426,
+      "content": "\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720161409509,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhay Panchal",
+      "timestamp_ms": 1720155200874,
+      "content": "Rajasthan",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhay Panchal",
+      "timestamp_ms": 1720155190614,
+      "content": "Any property in Udaipur - salumber",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Abhay Panchal",
+  "is_still_participant": true,
+  "thread_path": "inbox/abhaypanchal_18032715227078899",
+  "magic_words": [
+    
+  ]
+}

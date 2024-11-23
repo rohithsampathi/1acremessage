@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Anil Karpe"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1694966334574,
+      "content": "+91 80744 50533 Vijay 1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "+91 80744 50533 Vijay 1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anil Karpe",
+      "timestamp_ms": 1694887661149,
+      "content": "7038167222",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Anil Karpe",
+  "is_still_participant": true,
+  "thread_path": "inbox/anilkarpe_1272872530776257",
+  "magic_words": [
+    
+  ]
+}

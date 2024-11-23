@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Abdul Khadar Tasleem"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726050993225,
+      "content": "How can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726050988398,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abdul Khadar Tasleem",
+      "timestamp_ms": 1726046165545,
+      "content": "Hi!",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Abdul Khadar Tasleem",
+  "is_still_participant": true,
+  "thread_path": "inbox/abdulkhadartasleem_1487369152656723",
+  "magic_words": [
+    
+  ]
+}

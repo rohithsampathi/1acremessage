@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Reddy Veera"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729402815087,
+      "content": "Not currently. Sorry.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Reddy Veera",
+      "timestamp_ms": 1729355248520,
+      "content": "Hi , can you help me invest in a loan sanctioned plot or property",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Reddy Veera",
+  "is_still_participant": true,
+  "thread_path": "inbox/reddyveera_1482255013176560",
+  "magic_words": [
+    
+  ]
+}

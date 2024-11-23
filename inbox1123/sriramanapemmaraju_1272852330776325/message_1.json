@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Sri Ramana Pemmaraju"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703213545308,
+      "content": "Sure,you can connect with pratheek  9390674324,",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sri Ramana Pemmaraju",
+      "timestamp_ms": 1703176482669,
+      "content": "Im interested in 1 acre land for 15-17 lakhs pl\nReach out to my no 9676795218",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sri Ramana Pemmaraju",
+      "timestamp_ms": 1703176457008,
+      "content": "Hello sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sri Ramana Pemmaraju",
+  "is_still_participant": true,
+  "thread_path": "inbox/sriramanapemmaraju_1272852330776325",
+  "magic_words": [
+    
+  ]
+}

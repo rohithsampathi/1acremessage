@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Asthetic"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Asthetic",
+      "timestamp_ms": 1730732244007,
+      "content": "\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb\u00e2\u009c\u0094\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730728250146,
+      "content": "Please call our team member Venu at +91 76749 01201\n\nHe shall help you list it and share other details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Asthetic",
+      "timestamp_ms": 1730721963360,
+      "content": "What's the process to move with your team",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Asthetic",
+      "timestamp_ms": 1730721886728,
+      "content": "Hello, I have a property in andhra pradesh, amalapuram",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Asthetic",
+  "is_still_participant": true,
+  "thread_path": "inbox/asthetic_18021692960545119",
+  "magic_words": [
+    
+  ]
+}

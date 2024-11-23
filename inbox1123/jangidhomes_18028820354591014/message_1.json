@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "JANGID HOMES"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "JANGID HOMES",
+      "timestamp_ms": 1732102152191,
+      "content": "9694896933",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1732100023941,
+      "content": "Share your contact number and our team will get in touch",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1732100013413,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "JANGID HOMES",
+      "timestamp_ms": 1732095329877,
+      "content": "Hey 1acre we are jangid homes and we are covering the Rajasthan in real state. We have multiple lands and heritage property like hotels. Available for sale currently we are focusing on Jaipur & udaipur. If you are interested then we can connect \n\nThanks &  Regards \nKRISHNA SHARMA",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "JANGID HOMES",
+  "is_still_participant": true,
+  "thread_path": "inbox/jangidhomes_18028820354591014",
+  "magic_words": [
+    
+  ]
+}

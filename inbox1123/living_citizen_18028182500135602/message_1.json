@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "living_citizen"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721117218472,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "living_citizen",
+      "timestamp_ms": 1720254517569,
+      "content": "Hey i need to talk",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "living_citizen",
+  "is_still_participant": true,
+  "thread_path": "inbox/living_citizen_18028182500135602",
+  "magic_words": [
+    
+  ]
+}

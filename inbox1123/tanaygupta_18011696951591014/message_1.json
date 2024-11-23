@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Tanay Gupta"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanay Gupta",
+      "timestamp_ms": 1720249468173,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720240559508,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tanay Gupta",
+      "timestamp_ms": 1720202769556,
+      "content": "I have a warehouse up for sale at Amravati district Maharashtra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tanay Gupta",
+      "timestamp_ms": 1720202745994,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Tanay Gupta",
+  "is_still_participant": true,
+  "thread_path": "inbox/tanaygupta_18011696951591014",
+  "magic_words": [
+    
+  ]
+}

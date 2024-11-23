@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Konte Tarun"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720221442919,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Konte Tarun",
+      "timestamp_ms": 1720203378267,
+      "content": "What will be the closing cost including registration?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Konte Tarun",
+      "timestamp_ms": 1720203323846,
+      "content": "I mean yes per acre, sorry for confusion",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720146421048,
+      "content": "Its 7 lakhs per acre price to buy (edited)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720146386888,
+      "content": "Its 7 lakhs per acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Konte Tarun",
+      "timestamp_ms": 1720119254989,
+      "content": "7 lakhs is downpayment for 40 acres land?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Konte Tarun",
+  "is_still_participant": true,
+  "thread_path": "inbox/kontetarun_1414471513278605",
+  "magic_words": [
+    
+  ]
+}

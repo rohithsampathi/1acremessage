@@ -1,0 +1,100 @@
+{
+  "participants": [
+    {
+      "name": "Tej"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tej",
+      "timestamp_ms": 1716441831295,
+      "content": "let me check",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tej",
+      "timestamp_ms": 1716441827693,
+      "content": "tq",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716441300256,
+      "content": "We are a listing platform. \n1acre.in \nPlease do your search and if you like any land, call the sellers directly. \nIf you want access to MapView, you can subscribe.\n1acre.in/subscribe",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "We are a listing platform. \n1acre.in \nPlease do your search and if you like any land, call the sellers directly. \nIf you want access to MapView, you can subscribe.\n1acre.in/subscribe"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tej",
+      "timestamp_ms": 1716439973763,
+      "content": "pratheek shared one of ur employee number but no issues",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tej",
+      "timestamp_ms": 1716439949995,
+      "content": "i enquired for 3-5 acres in jangaon near by 20-25 km but still I'm searching",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716439864513,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tej",
+      "timestamp_ms": 1716439381636,
+      "content": "hai",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tej",
+      "timestamp_ms": 1702869162260,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702867101972,
+      "content": "kalyantej_ wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702867101601,
+      "content": "Hi, you can connect with Pratheek  9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tej",
+      "timestamp_ms": 1702798860952,
+      "content": "I'm looking for 3-5 acres in jangaon district within 20-28 L per acre do you have any ???",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702798298443,
+      "content": "Hi , how can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tej",
+      "timestamp_ms": 1702797230693,
+      "content": "Hai",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Tej",
+  "is_still_participant": true,
+  "thread_path": "inbox/tej_1303169544412736",
+  "magic_words": [
+    
+  ]
+}

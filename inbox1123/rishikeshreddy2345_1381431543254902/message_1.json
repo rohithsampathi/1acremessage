@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "rishikeshreddy2345"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "rishikeshreddy2345",
+      "timestamp_ms": 1716204144545,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716204135041,
+      "content": "2 days",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "rishikeshreddy2345",
+          "timestamp": 1716204144
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "rishikeshreddy2345",
+      "timestamp_ms": 1716203477128,
+      "content": "Launched plots on your website ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "rishikeshreddy2345",
+      "timestamp_ms": 1714106092138,
+      "content": "Thank you for the reply",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1714055586371,
+      "content": "Probably in 7-10 days.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "rishikeshreddy2345",
+      "timestamp_ms": 1714018962451,
+      "content": "When you are going to introduce plots",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "rishikeshreddy2345",
+      "timestamp_ms": 1714018948872,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "rishikeshreddy2345",
+  "is_still_participant": true,
+  "thread_path": "inbox/rishikeshreddy2345_1381431543254902",
+  "magic_words": [
+    
+  ]
+}

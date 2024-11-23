@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Toni&Guy Malkajgiri"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715921880967,
+      "content": "Hi, Please talk to Ratna Kiran \n9390155412\nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Toni&Guy Malkajgiri",
+      "timestamp_ms": 1715921364766,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Toni&Guy Malkajgiri",
+      "timestamp_ms": 1715921364374,
+      "content": "Toni&Guy sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C6srakJNoKv/?id=3363253963254563503_47651711013",
+        "share_text": "2 acre lake-facing land, along with Permissions to build 100 lake-facing studios at 2.5Cr per acre.\nAnantagiri Hills, Vikarabad. \n\nTransaction facilitated by 1acre.in \nIf interested, get in touch with us. \n\nContact: 9959994737",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Toni&Guy Malkajgiri",
+      "timestamp_ms": 1715921358914,
+      "content": "Hello, can I get more info on this?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Toni&Guy Malkajgiri",
+      "timestamp_ms": 1715921358045,
+      "content": "Toni&Guy sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C6srakJNoKv/?id=3363253963254563503_47651711013",
+        "share_text": "2 acre lake-facing land, along with Permissions to build 100 lake-facing studios at 2.5Cr per acre.\nAnantagiri Hills, Vikarabad. \n\nTransaction facilitated by 1acre.in \nIf interested, get in touch with us. \n\nContact: 9959994737",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Toni&Guy Malkajgiri",
+  "is_still_participant": true,
+  "thread_path": "inbox/toniguymalkajgiri_18005777468591014",
+  "magic_words": [
+    
+  ]
+}

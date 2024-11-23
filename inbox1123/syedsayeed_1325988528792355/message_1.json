@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Syed Sayeed"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713599155123,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Syed Sayeed",
+      "timestamp_ms": 1713597342626,
+      "content": "Cheapest land near manikonda , alkapur , puppalguda , tolichowki",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Syed Sayeed",
+  "is_still_participant": true,
+  "thread_path": "inbox/syedsayeed_1325988528792355",
+  "magic_words": [
+    
+  ]
+}

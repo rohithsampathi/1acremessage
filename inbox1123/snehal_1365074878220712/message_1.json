@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Snehal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Snehal",
+      "timestamp_ms": 1712688951169,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712677771813,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412\nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Snehal",
+      "timestamp_ms": 1712672425371,
+      "content": "Can you please share more details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Snehal",
+      "timestamp_ms": 1712672417769,
+      "content": "Yavatmal forest land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712657383750,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Snehal",
+      "timestamp_ms": 1712648792438,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Snehal",
+  "is_still_participant": true,
+  "thread_path": "inbox/snehal_1365074878220712",
+  "magic_words": [
+    
+  ]
+}

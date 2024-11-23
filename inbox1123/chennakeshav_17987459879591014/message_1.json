@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "chenna keshav"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702541199774,
+      "content": "you can connect with pratheek  9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "chenna keshav",
+      "timestamp_ms": 1702518691201,
+      "content": "Can you share your number please sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "chenna keshav",
+  "is_still_participant": true,
+  "thread_path": "inbox/chennakeshav_17987459879591014",
+  "magic_words": [
+    
+  ]
+}

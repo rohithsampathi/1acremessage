@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Anirudh Boein"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705416581419,
+      "content": "Not sure. You can tell us if we can do anything better and if you can do that for us.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anirudh Boein",
+      "timestamp_ms": 1705416537498,
+      "content": "Any other requirements you have?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anirudh Boein",
+      "timestamp_ms": 1705416528685,
+      "content": "Okay!! :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705416503098,
+      "content": "We have a digital marketing consultant already.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anirudh Boein",
+      "timestamp_ms": 1705416457216,
+      "content": "I\u00e2\u0080\u0099m into digital marketing, can help generate leads using online platforms.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705416429290,
+      "content": "You tell us.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anirudh Boein",
+      "timestamp_ms": 1705415909027,
+      "content": "What can I do as a marketing guy?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Anirudh Boein",
+  "is_still_participant": true,
+  "thread_path": "inbox/anirudhboein_1245429396846642",
+  "magic_words": [
+    
+  ]
+}

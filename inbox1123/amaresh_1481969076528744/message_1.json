@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "amaresh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726221935379,
+      "content": "Can you share your number \nOur team will get back",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726168652781,
+      "content": "amaresh replied to an ad. View ad(https://www.instagram.com/p/C_xgHQQMrPy/)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "amaresh",
+      "timestamp_ms": 1726168651080,
+      "content": "Hello, Can I get more info on this?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "amaresh",
+  "is_still_participant": true,
+  "thread_path": "inbox/amaresh_1481969076528744",
+  "magic_words": [
+    
+  ]
+}

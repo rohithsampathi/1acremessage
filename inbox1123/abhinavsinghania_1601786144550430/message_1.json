@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Abhinav Singhania"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730876150661,
+      "content": "Sorry we do not offer this service yet",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhinav Singhania",
+      "timestamp_ms": 1730829548390,
+      "content": "Hi , I have a few lands available in Mumbai City for leasing, would you be willing to work on it in return for a 1 month brokerage?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Abhinav Singhania",
+  "is_still_participant": true,
+  "thread_path": "inbox/abhinavsinghania_1601786144550430",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Govind\u00f0\u009f\u0098\u008e\u00f0\u009f\u00a4\u0098"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1700015093252,
+      "content": "We want you help in reaching out to more people, so more people can benefit. Both sellers and buyers.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1700015079916,
+      "content": "We have setup a platform called 1acre.in to help people with buying and selling of lands in telanagna. We verify all the lands that are listed. Buyers can contact the sellers directly. We don\u00e2\u0080\u0099t charge a commission.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "We have setup a platform called 1acre.in to help people with buying and selling of lands in telanagna. We verify all the lands that are listed. Buyers can contact the sellers directly. We don\u00e2\u0080\u0099t charge a commission."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1700015048155,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Govind\u00f0\u009f\u0098\u008e\u00f0\u009f\u00a4\u0098",
+      "timestamp_ms": 1700015042849,
+      "content": "First tell me details about your product",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1700015042516,
+      "content": "I\u00e2\u0080\u0099m Pratheek",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Govind\u00f0\u009f\u0098\u008e\u00f0\u009f\u00a4\u0098",
+      "timestamp_ms": 1700014991630,
+      "content": "Your name?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1700014908719,
+      "content": "We are interested in a collaboration , can we connect",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1700014867548,
+      "content": "Hy",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Govind\u00f0\u009f\u0098\u008e\u00f0\u009f\u00a4\u0098",
+      "timestamp_ms": 1700014800234,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1699701676631,
+      "content": "Hey , we are interested to work with you for a collaboration , can we connect ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Govind\u00f0\u009f\u0098\u008e\u00f0\u009f\u00a4\u0098",
+  "is_still_participant": true,
+  "thread_path": "inbox/govind_17982874877591014",
+  "magic_words": [
+    
+  ]
+}

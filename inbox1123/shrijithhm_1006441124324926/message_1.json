@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Shrijith H M"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shrijith H M",
+      "timestamp_ms": 1720005085710,
+      "content": "\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720005061483,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shrijith H M",
+      "timestamp_ms": 1720004292455,
+      "content": "Karnataka state chickmagalur dist (coffee estates )",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719886408408,
+      "content": "Hi, which state are the lands in?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shrijith H M",
+      "timestamp_ms": 1719883956876,
+      "content": "Hi gm.. How to upload our properties to sell",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shrijith H M",
+  "is_still_participant": true,
+  "thread_path": "inbox/shrijithhm_1006441124324926",
+  "magic_words": [
+    
+  ]
+}

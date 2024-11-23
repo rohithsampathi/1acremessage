@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "\u00ef\u00bc\u00a1\u00ef\u00bc\u00ab\u00ef\u00bc\u00b3\u00ef\u00bc\u00a8\u00ef\u00bc\u00a1\u00ef\u00bc\u00b9    \u00ef\u00bc\u00ab\u00ef\u00bc\u00af\u00ef\u00bc\u00b6\u00ef\u00bc\u00a9"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707809967682,
+      "content": "Hi, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00ef\u00bc\u00a1\u00ef\u00bc\u00ab\u00ef\u00bc\u00b3\u00ef\u00bc\u00a8\u00ef\u00bc\u00a1\u00ef\u00bc\u00b9    \u00ef\u00bc\u00ab\u00ef\u00bc\u00af\u00ef\u00bc\u00b6\u00ef\u00bc\u00a9",
+      "timestamp_ms": 1707799841495,
+      "content": "\u00ef\u00bc\u00a1\u00ef\u00bc\u00ab\u00ef\u00bc\u00b3\u00ef\u00bc\u00a8\u00ef\u00bc\u00a1\u00ef\u00bc\u00b9 sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C3NyqnetCKp/?id=3300516932867072681_47651711013",
+        "share_text": "\u00f0\u009f\u008c\u00b3 Invest in your dream land with us in India! Get lifetime membership for Rs.5000 only! Hand holding, curated parcels & map view available at a glance. DM to know more! #LandInHyderabad #ORR #PremiumSubscribers",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00ef\u00bc\u00a1\u00ef\u00bc\u00ab\u00ef\u00bc\u00b3\u00ef\u00bc\u00a8\u00ef\u00bc\u00a1\u00ef\u00bc\u00b9    \u00ef\u00bc\u00ab\u00ef\u00bc\u00af\u00ef\u00bc\u00b6\u00ef\u00bc\u00a9",
+  "is_still_participant": true,
+  "thread_path": "inbox/akshaykovi_1336464074414084",
+  "magic_words": [
+    
+  ]
+}

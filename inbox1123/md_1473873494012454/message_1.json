@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "md"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721396189106,
+      "content": "You can see the prices in that area.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721396175612,
+      "content": "1acre.in/subscribe  Please explore.",
+      "share": {
+        "link": "http://1acre.in/subscribe",
+        "share_text": "1acre.in/subscribe  Please explore."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "md",
+      "timestamp_ms": 1721395982027,
+      "content": "Thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "md",
+      "timestamp_ms": 1721395971766,
+      "content": "\u00d9\u0087\u00d8\u00b0\u00d8\u00a7 \u00d8\u00b1\u00d9\u0082\u00d9\u0085\u00d9\u008a \u00d9\u0084\u00d9\u0084\u00d8\u00aa\u00d9\u0088\u00d8\u00a7\u00d8\u00b5\u00d9\u0084 \u00d8\u00b9\u00d9\u0084\u00d9\u0089 \u00d8\u00a7\u00d9\u0084\u00d9\u0088\u00d8\u00a7\u00d8\u00aa\u00d8\u00b3 \u00d9\u0088\u00d8\u00a7\u00d9\u0084\u00d8\u00a8\u00d9\u0088\u00d8\u00aa\u00d9\u008a\u00d9\u0085 +971562538850",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "md",
+      "timestamp_ms": 1721395918451,
+      "content": "I want to know the value of the land in the Anajpur area. It is 4 kilometers away from the main road. It is registered in real estate and has a permit for Elliot and Hoda.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "md",
+      "timestamp_ms": 1721395797752,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "md",
+  "is_still_participant": true,
+  "thread_path": "inbox/md_1473873494012454",
+  "magic_words": [
+    
+  ]
+}

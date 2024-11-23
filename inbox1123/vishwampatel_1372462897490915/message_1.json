@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Vishwam Patel"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vishwam Patel",
+      "timestamp_ms": 1723909189619,
+      "content": "Thanks for the support.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723905953921,
+      "content": "Satish \n76619 33372",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishwam Patel",
+      "timestamp_ms": 1723898698166,
+      "content": "As we have a solution which is a best suited for you for land selling. And we would also like to explore opportunities together.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishwam Patel",
+      "timestamp_ms": 1723898590746,
+      "content": "I would like to get in touch with the team of 1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "I would like to get in touch with the team of 1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishwam Patel",
+      "timestamp_ms": 1723898575136,
+      "content": "Hey",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vishwam Patel",
+  "is_still_participant": true,
+  "thread_path": "inbox/vishwampatel_1372462897490915",
+  "magic_words": [
+    
+  ]
+}

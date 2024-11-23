@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "MUKESH KARWASRA"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "MUKESH KARWASRA",
+      "timestamp_ms": 1727063907868,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727062588373,
+      "content": "Our team will get back to you shortly \u00f0\u009f\u0099\u0082",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "MUKESH KARWASRA",
+          "timestamp": 1727063907
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "MUKESH KARWASRA",
+      "timestamp_ms": 1727062580040,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "MUKESH KARWASRA",
+  "is_still_participant": true,
+  "thread_path": "inbox/mukeshkarwasra_1051529973026667",
+  "magic_words": [
+    
+  ]
+}

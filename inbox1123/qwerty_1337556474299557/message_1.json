@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "QWERTY\u00f0\u009f\u0094\u00a5"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "QWERTY\u00f0\u009f\u0094\u00a5",
+      "timestamp_ms": 1724815461300,
+      "content": "Like town side side\n\nSivaganga district",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "QWERTY\u00f0\u009f\u0094\u00a5",
+      "timestamp_ms": 1724815439484,
+      "content": "In tamilandu",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "QWERTY\u00f0\u009f\u0094\u00a5",
+      "timestamp_ms": 1724814627129,
+      "content": "I have 20 avre land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716472286219,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "QWERTY\u00f0\u009f\u0094\u00a5",
+      "timestamp_ms": 1716470595737,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "QWERTY\u00f0\u009f\u0094\u00a5",
+  "is_still_participant": true,
+  "thread_path": "inbox/qwerty_1337556474299557",
+  "magic_words": [
+    
+  ]
+}

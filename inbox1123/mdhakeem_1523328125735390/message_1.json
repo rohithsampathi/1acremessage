@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Md Hakeem"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Md Hakeem",
+      "timestamp_ms": 1728728991583,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728703253992,
+      "content": "Yes. Currently not available. We'll make it live in a couple of days.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Md Hakeem",
+      "timestamp_ms": 1728703117573,
+      "content": "Not available",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728703006003,
+      "content": "It will come in the same link.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728702999394,
+      "content": "1acre.in/lakes",
+      "share": {
+        "link": "http://1acre.in/lakes",
+        "share_text": "1acre.in/lakes"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Md Hakeem",
+      "timestamp_ms": 1728702837529,
+      "content": "Regional ring road map",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Md Hakeem",
+  "is_still_participant": true,
+  "thread_path": "inbox/mdhakeem_1523328125735390",
+  "magic_words": [
+    
+  ]
+}

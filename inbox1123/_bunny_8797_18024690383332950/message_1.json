@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "_bunny_8797\u00f0\u009f\u0094\u00b1"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719324037720,
+      "content": "You can call the sellers directly.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719324028044,
+      "content": "Please check the website.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719324022652,
+      "content": "1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "_bunny_8797\u00f0\u009f\u0094\u00b1",
+      "timestamp_ms": 1719321585403,
+      "content": "Can we get land 30 to 40 lak in near to hyd",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "_bunny_8797\u00f0\u009f\u0094\u00b1",
+  "is_still_participant": true,
+  "thread_path": "inbox/_bunny_8797_18024690383332950",
+  "magic_words": [
+    
+  ]
+}

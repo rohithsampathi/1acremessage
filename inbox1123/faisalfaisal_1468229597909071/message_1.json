@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Faisal Faisal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718928972913,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Faisal Faisal",
+      "timestamp_ms": 1718905663898,
+      "content": "Can I get ur contact number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Faisal Faisal",
+      "timestamp_ms": 1718905656783,
+      "content": "I want the details about 3 acres land",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Faisal Faisal",
+  "is_still_participant": true,
+  "thread_path": "inbox/faisalfaisal_1468229597909071",
+  "magic_words": [
+    
+  ]
+}

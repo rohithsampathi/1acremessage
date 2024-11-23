@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Anavv Jain"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anavv Jain",
+      "timestamp_ms": 1720241028797,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720240250802,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anavv Jain",
+      "timestamp_ms": 1720174189238,
+      "content": "Kindly help if you have any options",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anavv Jain",
+      "timestamp_ms": 1720174164429,
+      "content": "Hi, I\u00e2\u0080\u0099m looking for 40-50acres min land in states like haryana, western up, Rajasthan, west/north MP, gujrat, near a canal or a river. For a dedicated bio-ethanol plant.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Anavv Jain",
+  "is_still_participant": true,
+  "thread_path": "inbox/anavvjain_1448037383262625",
+  "magic_words": [
+    
+  ]
+}

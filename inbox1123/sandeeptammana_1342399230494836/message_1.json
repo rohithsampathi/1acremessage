@@ -1,0 +1,166 @@
+{
+  "participants": [
+    {
+      "name": "Sandeep Tammana"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707870768907,
+      "content": "Sure. We'll definitely implement that. Plus We'll also bring in private listings. For now, isn't the colour coding helping you to an extent?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sandeep Tammana",
+      "timestamp_ms": 1707856619041,
+      "content": "It works for me now. A small suggestion.\n\nOn the map view can we apply filters? Like show only lands in the range of $X and $Y and size of so and so acres? Access road? It ocean of lands and unless we click on each one and go through details its not easy understand details. This will make the process easy.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707646204257,
+      "content": "Sure. Thanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sandeep Tammana",
+      "timestamp_ms": 1707645920791,
+      "content": "I just logged out - will check tomorrow and confirm. Thanks for fixing it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707645768086,
+      "content": "It's done. Could you logout and check again?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sandeep Tammana",
+      "timestamp_ms": 1707645052555,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707645042101,
+      "content": "Yes yes. Working on it. Plz feel free to give whatever feedback you feel like. We are fixing up this premium flow as well.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Sandeep Tammana",
+          "timestamp": 1707645052
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sandeep Tammana",
+      "timestamp_ms": 1707644972244,
+      "content": "Just an humble feedback - its a great idea but website needs some work and refinement",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707644970326,
+      "content": "Got it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sandeep Tammana",
+      "timestamp_ms": 1707644925944,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707644901286,
+      "content": "Ok. Will manually mark it and get back to you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sandeep Tammana",
+      "timestamp_ms": 1707644835761,
+      "content": "My number is +1 (903) 617-7444",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sandeep Tammana",
+      "timestamp_ms": 1707644805671,
+      "content": "Yes i am in the premium section and it says subscribe",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707644763246,
+      "content": "Or red dot?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707644757749,
+      "content": "Do you see the yellow premium in the footer?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sandeep Tammana",
+      "timestamp_ms": 1707644678675,
+      "content": "I tried logging out and logging in - no luck",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707644623773,
+      "content": "You should have access to the mapview, in the premium section.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707644606431,
+      "content": "Please use the above link to logout. And login back and check.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707644585610,
+      "content": "1acre.in/logout",
+      "share": {
+        "link": "http://1acre.in/logout",
+        "share_text": "1acre.in/logout"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707644575918,
+      "content": "Meanwhile",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707644573112,
+      "content": "We'll give you a call tomorrow, to discuss in detail",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707644536573,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sandeep Tammana",
+      "timestamp_ms": 1707644513410,
+      "content": "Hi - i am a premier subscriber and i am not able to find map view. Can you detail the steps please.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sandeep Tammana",
+  "is_still_participant": true,
+  "thread_path": "inbox/sandeeptammana_1342399230494836",
+  "magic_words": [
+    
+  ]
+}

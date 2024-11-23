@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "\u00ef\u00a3\u00bf Shishpal rathore \u00ef\u00a3\u00bf"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717652774903,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717652616184,
+      "content": "Abhi hum Telangana mein listings Kar raha hein. \nBaaki states shuru karenge ek do mahine mein. \nAapko inform rakhenge. \nThanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717652234363,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00ef\u00a3\u00bf Shishpal rathore \u00ef\u00a3\u00bf",
+      "timestamp_ms": 1717652077284,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00ef\u00a3\u00bf Shishpal rathore \u00ef\u00a3\u00bf",
+  "is_still_participant": true,
+  "thread_path": "inbox/shishpalrathore_18000701060555682",
+  "magic_words": [
+    
+  ]
+}

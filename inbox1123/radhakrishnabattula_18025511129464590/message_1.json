@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Radha Krishna Battula"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Radha Krishna Battula",
+      "timestamp_ms": 1723410873926,
+      "content": "Sure thank you. Will await your response. Also what is the least price for 1 acre of land.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723383179988,
+      "content": "I am afraid no such lands are available right now. Will keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Radha Krishna Battula",
+      "timestamp_ms": 1723293017834,
+      "content": "Hi 1acre team, I am looking to buy 1 acre with in 3 or 4 lakhs. Can you please help or suggest if you have such lands. If it's for a group, I can check with few of my friends as well for their investment for ~1 acre of land each.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Radha Krishna Battula",
+  "is_still_participant": true,
+  "thread_path": "inbox/radhakrishnabattula_18025511129464590",
+  "magic_words": [
+    
+  ]
+}

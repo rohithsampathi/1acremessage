@@ -1,0 +1,79 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009d\u0098\u00bc\u00f0\u009d\u0098\u00bd\u00f0\u009d\u0098\u00bd\u00f0\u009d\u0099\u0090 \u00f0\u009f\u0096\u00a4"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00f0\u009d\u0098\u00bc\u00f0\u009d\u0098\u00bd\u00f0\u009d\u0098\u00bd\u00f0\u009d\u0099\u0090 \u00f0\u009f\u0096\u00a4",
+      "timestamp_ms": 1725974826338,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725958368972,
+      "content": "Hi, Please contact Srikar 8341149011, from the team.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "\u00f0\u009d\u0098\u00bc\u00f0\u009d\u0098\u00bd\u00f0\u009d\u0098\u00bd\u00f0\u009d\u0099\u0090 \u00f0\u009f\u0096\u00a4",
+          "timestamp": 1725974826
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0098\u00bc\u00f0\u009d\u0098\u00bd\u00f0\u009d\u0098\u00bd\u00f0\u009d\u0099\u0090 \u00f0\u009f\u0096\u00a4",
+      "timestamp_ms": 1725954065870,
+      "content": "Tekulapally",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0098\u00bc\u00f0\u009d\u0098\u00bd\u00f0\u009d\u0098\u00bd\u00f0\u009d\u0099\u0090 \u00f0\u009f\u0096\u00a4",
+      "timestamp_ms": 1725954049514,
+      "content": "Yes it's legit",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725953203055,
+      "content": "Where's your land?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725953197582,
+      "content": "We don't do videos for outside. But if the land is legit, we can put a video on 1acre.in",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0098\u00bc\u00f0\u009d\u0098\u00bd\u00f0\u009d\u0098\u00bd\u00f0\u009d\u0099\u0090 \u00f0\u009f\u0096\u00a4",
+      "timestamp_ms": 1725941395133,
+      "content": "How much you charge for one vedio?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725936618158,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0098\u00bc\u00f0\u009d\u0098\u00bd\u00f0\u009d\u0098\u00bd\u00f0\u009d\u0099\u0090 \u00f0\u009f\u0096\u00a4",
+      "timestamp_ms": 1725888103805,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00f0\u009d\u0098\u00bc\u00f0\u009d\u0098\u00bd\u00f0\u009d\u0098\u00bd\u00f0\u009d\u0099\u0090 \u00f0\u009f\u0096\u00a4",
+  "is_still_participant": true,
+  "thread_path": "inbox/abbu_18019924091591014",
+  "magic_words": [
+    
+  ]
+}

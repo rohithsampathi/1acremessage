@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "Anu Sri Adusumilli"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707067036522,
+      "content": "Hi, Please contact Harish\n9989738297. \nHe'll help you with the information you need, and about the subscription.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anu Sri Adusumilli",
+      "timestamp_ms": 1707052117806,
+      "content": "subscription",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anu Sri Adusumilli",
+      "timestamp_ms": 1707052114004,
+      "content": "and also how to get premium",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anu Sri Adusumilli",
+      "timestamp_ms": 1707052104163,
+      "content": "can you give me more details?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anu Sri Adusumilli",
+      "timestamp_ms": 1707052095999,
+      "content": "i\u00e2\u0080\u0099m interested in this",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anu Sri Adusumilli",
+      "timestamp_ms": 1707052083192,
+      "content": "Anu sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C2fBgsWSEGA/?id=3287352897691992448_47651711013",
+        "share_text": "1 acre 4 guntas agricultural land inside gated HMDA approved layout ,\n15 km from Shadnagar highway \nphysically verified by 1acre.in.\nQuoted price:3.36 per acre \nContact:1acre.in,9390674324",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Anu Sri Adusumilli",
+  "is_still_participant": true,
+  "thread_path": "inbox/anusriadusumilli_1272193974171407",
+  "magic_words": [
+    
+  ]
+}

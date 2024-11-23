@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "shashank rathod"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720235676591,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "shashank rathod",
+      "timestamp_ms": 1720229418874,
+      "content": "Hi send me details of Yavatmal land",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "shashank rathod",
+  "is_still_participant": true,
+  "thread_path": "inbox/shashankrathod_1477202390345836",
+  "magic_words": [
+    
+  ]
+}

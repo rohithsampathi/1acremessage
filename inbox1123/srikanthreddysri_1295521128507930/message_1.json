@@ -1,0 +1,72 @@
+{
+  "participants": [
+    {
+      "name": "Srikanth Reddy Sri"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Srikanth Reddy Sri",
+      "timestamp_ms": 1703911291222,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703911226970,
+      "content": "you can connect with pratheek, 9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srikanth Reddy Sri",
+      "timestamp_ms": 1703910558767,
+      "content": "Farm lands",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srikanth Reddy Sri",
+      "timestamp_ms": 1703910554415,
+      "content": "With clear title",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srikanth Reddy Sri",
+      "timestamp_ms": 1703909138251,
+      "content": "Nimz side",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srikanth Reddy Sri",
+      "timestamp_ms": 1703909131977,
+      "content": "Ma side kuda lands unai intrest unty Ping me",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srikanth Reddy Sri",
+      "timestamp_ms": 1703909118891,
+      "content": "We r from Zaheerabad anna",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703908652277,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srikanth Reddy Sri",
+      "timestamp_ms": 1703907416786,
+      "content": "Hai anna",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Srikanth Reddy Sri",
+  "is_still_participant": true,
+  "thread_path": "inbox/srikanthreddysri_1295521128507930",
+  "magic_words": [
+    
+  ]
+}

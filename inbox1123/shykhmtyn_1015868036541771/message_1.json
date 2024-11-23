@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "\u00d8\u00b4\u00db\u008c\u00d8\u00ae \u00d9\u0085\u00d8\u00aa\u00db\u008c\u00d9\u0086"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717732587909,
+      "content": "Thanks for reaching out.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717732577006,
+      "content": "Hi, at 1acre.in, we are currently listint only Telangana.\nWe'll start other states soon. \nWe'll keep you posted.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, at 1acre.in, we are currently listint only Telangana.\nWe'll start other states soon. \nWe'll keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00d8\u00b4\u00db\u008c\u00d8\u00ae \u00d9\u0085\u00d8\u00aa\u00db\u008c\u00d9\u0086",
+      "timestamp_ms": 1717732442257,
+      "content": "https://goo.gl/maps/zxCjqhdGCMknKfim9",
+      "share": {
+        "link": "https://goo.gl/maps/zxCjqhdGCMknKfim9",
+        "share_text": "https://goo.gl/maps/zxCjqhdGCMknKfim9"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00d8\u00b4\u00db\u008c\u00d8\u00ae \u00d9\u0085\u00d8\u00aa\u00db\u008c\u00d9\u0086",
+      "timestamp_ms": 1717732424916,
+      "content": "1)Total extention 3acr\n2)Industrial Converted.\n3)Right round compound with gated property.\n4) situated between Kolar and Narsapoor. \n5)old Chennai highway road.\n3.5 cr per acr.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717692461394,
+      "content": "Can you tell us the details?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00d8\u00b4\u00db\u008c\u00d8\u00ae \u00d9\u0085\u00d8\u00aa\u00db\u008c\u00d9\u0086",
+      "timestamp_ms": 1717691923333,
+      "content": "Can you sell it out",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00d8\u00b4\u00db\u008c\u00d8\u00ae \u00d9\u0085\u00d8\u00aa\u00db\u008c\u00d9\u0086",
+      "timestamp_ms": 1717691909027,
+      "content": "Hello sir I need to sell my property",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00e2\u0080\u008e\u00d8\u00b4\u00db\u008c\u00d8\u00ae \u00d9\u0085\u00d8\u00aa\u00db\u008c\u00d9\u0086\u00e2\u0080\u008e",
+  "is_still_participant": true,
+  "thread_path": "inbox/shykhmtyn_1015868036541771",
+  "magic_words": [
+    
+  ]
+}

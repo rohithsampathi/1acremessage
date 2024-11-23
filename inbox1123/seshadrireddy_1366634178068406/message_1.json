@@ -1,0 +1,113 @@
+{
+  "participants": [
+    {
+      "name": "SeShadri Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "SeShadri Reddy",
+      "timestamp_ms": 1711279135701,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SeShadri Reddy",
+      "timestamp_ms": 1711279133071,
+      "content": "I sure this idea makes good future plan . This will be hit asap",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1711280362
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711279054247,
+      "content": "We'll keep you posted.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "SeShadri Reddy",
+          "timestamp": 1711279135
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711279045275,
+      "content": "Sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SeShadri Reddy",
+      "timestamp_ms": 1711277680494,
+      "content": "Great . We r looking for that only . Please inform once available",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711277655170,
+      "content": "Not yet, we'll be launching soon.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SeShadri Reddy",
+      "timestamp_ms": 1711277362120,
+      "content": "Is this available in Andhra Pradesh",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SeShadri Reddy",
+      "timestamp_ms": 1711277350123,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711277312728,
+      "content": "1acre.in is a listing platform for verified lands.\nPlease go thru the site and if you like any land, you can call the seller directly. \nYou can also subscribe to premium, for MapView.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "1acre.in is a listing platform for verified lands.\nPlease go thru the site and if you like any land, you can call the seller directly. \nYou can also subscribe to premium, for MapView."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SeShadri Reddy",
+      "timestamp_ms": 1711277222167,
+      "content": "How can I buy land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711277204897,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SeShadri Reddy",
+      "timestamp_ms": 1711277102666,
+      "content": "SeShadri sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C4lKVAqtXjZ/?id=3325109324173637849_47651711013",
+        "share_text": "\u00f0\u009f\u008c\u00b3 Unlock the power of Map View for Lands! \u00ef\u00b8\u008f Get access to curated land parcels and map view. \n\nWith more than 2000+ lands in and around Telangana, our map view is the best way for you to find your next investment. \n\nGet access to 1acre Premium that offers you: \n\u00f0\u009f\u008f\u009c\u00ef\u00b8\u008f Curated Land Parcels just for you \n\u00f0\u009f\u0091\u0081\u00ef\u00b8\u008f Access lands in Karnataka & Maharastra\n\u00f0\u009f\u0093\u008d Map view to see all lands available at a glance",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "SeShadri Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/seshadrireddy_1366634178068406",
+  "magic_words": [
+    
+  ]
+}

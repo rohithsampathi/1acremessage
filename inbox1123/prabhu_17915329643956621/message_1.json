@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Prabhu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720252485237,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720252484514,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prabhu",
+      "timestamp_ms": 1720250734778,
+      "content": "Hi",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3405429436274227402"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Prabhu",
+  "is_still_participant": true,
+  "thread_path": "inbox/prabhu_17915329643956621",
+  "magic_words": [
+    
+  ]
+}

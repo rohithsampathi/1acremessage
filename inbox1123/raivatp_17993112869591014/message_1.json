@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Raivat P"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Raivat P",
+      "timestamp_ms": 1706363766738,
+      "content": "Thanks a lot! I've shared my details on the talk to us page",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1706364898
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706351699039,
+      "content": "https://www.1acre.in/subscribe\n\nPlease go through and subscribe (or) click 'talk to us->' at the end of the page and fill in the form. We'll get back to you.",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "https://www.1acre.in/subscribe\n\nPlease go through and subscribe (or) click 'talk to us->' at the end of the page and fill in the form. We'll get back to you."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raivat P",
+      "timestamp_ms": 1706337849136,
+      "content": "Hi, I saw your reel that you were acquiring large parcel of land in maharashtra at 2.5-4 lakh per acre. \nIs this still going on? Can you share the contact details of anyone in your team I can speak with? Thanks!",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Raivat P",
+  "is_still_participant": true,
+  "thread_path": "inbox/raivatp_17993112869591014",
+  "magic_words": [
+    
+  ]
+}

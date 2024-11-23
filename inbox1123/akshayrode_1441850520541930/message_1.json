@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Akshay Rode"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721797073891,
+      "content": "We are currently listing Telangana.  We'll list other states soon.  Will keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akshay Rode",
+      "timestamp_ms": 1721794390725,
+      "content": "Am looking for a land which would be near to a creek as we wanted to do fish farming.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akshay Rode",
+      "timestamp_ms": 1721794305442,
+      "content": "Hi please let me know if you have any land near pune or Navi Mumbai ,",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Akshay Rode",
+  "is_still_participant": true,
+  "thread_path": "inbox/akshayrode_1441850520541930",
+  "magic_words": [
+    
+  ]
+}

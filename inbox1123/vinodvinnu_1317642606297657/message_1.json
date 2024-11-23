@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "vinodvinnu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "vinodvinnu",
+      "timestamp_ms": 1707451788939,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707451198722,
+      "content": "Sure. Hi, Please contact Vijay\n9959994737. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "vinodvinnu",
+      "timestamp_ms": 1707446037380,
+      "content": "Near chevella",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "vinodvinnu",
+      "timestamp_ms": 1707446032263,
+      "content": "1acer 30guntas",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "vinodvinnu",
+      "timestamp_ms": 1707446013369,
+      "content": "We have to sale our land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707442943836,
+      "content": "Please tell",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707442940908,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "vinodvinnu",
+      "timestamp_ms": 1707408641446,
+      "content": "Hello sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "vinodvinnu",
+  "is_still_participant": true,
+  "thread_path": "inbox/vinodvinnu_1317642606297657",
+  "magic_words": [
+    
+  ]
+}

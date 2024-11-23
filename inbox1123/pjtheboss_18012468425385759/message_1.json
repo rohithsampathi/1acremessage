@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009f\u0091\u0091pJ...tHe...bOsS\u00f0\u009f\u0091\u0091"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716538512323,
+      "content": "9032114737\nYou can talk to Bharath, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u0091\u0091pJ...tHe...bOsS\u00f0\u009f\u0091\u0091",
+      "timestamp_ms": 1716537711589,
+      "content": "Intrested",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u0091\u0091pJ...tHe...bOsS\u00f0\u009f\u0091\u0091",
+      "timestamp_ms": 1716537710779,
+      "content": "\u00f0\u009f\u0091\u0091pJ...tHe...bOsS\u00f0\u009f\u0091\u0091 sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C4j3HBRt6Vt/?id=3324743324894995821_47651711013",
+        "share_text": "9032114737\n\nPlease call Bharath, from the team.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00f0\u009f\u0091\u0091pJ...tHe...bOsS\u00f0\u009f\u0091\u0091",
+  "is_still_participant": true,
+  "thread_path": "inbox/pjtheboss_18012468425385759",
+  "magic_words": [
+    
+  ]
+}

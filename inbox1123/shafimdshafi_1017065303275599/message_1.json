@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Shafimd Shafi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718884763569,
+      "content": "Hello \nHow can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shafimd Shafi",
+      "timestamp_ms": 1718884670645,
+      "content": "Hi Anna MD shafiuddin nagole lb nagar",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shafimd Shafi",
+  "is_still_participant": true,
+  "thread_path": "inbox/shafimdshafi_1017065303275599",
+  "magic_words": [
+    
+  ]
+}

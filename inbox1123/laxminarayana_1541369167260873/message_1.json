@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Laxmi Narayana"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728756185943,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Laxmi Narayana",
+      "timestamp_ms": 1728744683335,
+      "content": "Laxmi sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DBBy6kuSPUG/?id=3477284314793178374_20422144277",
+        "share_text": "Check ftl and buffer",
+        "original_content_owner": "laxman_travel"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Laxmi Narayana",
+  "is_still_participant": true,
+  "thread_path": "inbox/laxminarayana_1541369167260873",
+  "magic_words": [
+    
+  ]
+}

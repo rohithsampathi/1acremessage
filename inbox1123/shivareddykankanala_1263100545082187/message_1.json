@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Shivareddy Kankanala"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shivareddy Kankanala",
+      "timestamp_ms": 1704449142553,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704448812951,
+      "content": "Not the cheapest but, best considering various factors.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704448794888,
+      "content": "Maharashtra, bordering Telanagana.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shivareddy Kankanala",
+      "timestamp_ms": 1704448387877,
+      "content": "Where is the cheapest land as far you know..?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704447919442,
+      "content": "Hi, sorry didn't get you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shivareddy Kankanala",
+      "timestamp_ms": 1704446700541,
+      "content": "Why I the cheaper land you came across and can we work together in near future ..?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shivareddy Kankanala",
+  "is_still_participant": true,
+  "thread_path": "inbox/shivareddykankanala_1263100545082187",
+  "magic_words": [
+    
+  ]
+}

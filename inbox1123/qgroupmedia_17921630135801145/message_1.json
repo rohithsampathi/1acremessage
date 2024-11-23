@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "QGroupMedia"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1698910270756,
+      "content": "hey , would like to connect with you for an collaboration",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "QGroupMedia",
+  "is_still_participant": true,
+  "thread_path": "inbox/qgroupmedia_17921630135801145",
+  "magic_words": [
+    
+  ]
+}

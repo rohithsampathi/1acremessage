@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Rahul Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710658047793,
+      "content": "Hi, Please contact Ramakrishna \n7780122120",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rahul Kumar",
+      "timestamp_ms": 1710653493980,
+      "content": "248 Square yards",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rahul Kumar",
+      "timestamp_ms": 1710653483620,
+      "content": "I want to sell my land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710634546266,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rahul Kumar",
+      "timestamp_ms": 1710618592408,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rahul Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/rahulkumar_1394151258645075",
+  "magic_words": [
+    
+  ]
+}

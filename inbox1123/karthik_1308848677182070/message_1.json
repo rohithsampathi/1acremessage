@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Karthik"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Karthik",
+      "timestamp_ms": 1701230359824,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701230353770,
+      "content": "You can contact to pratheek 9505778117,he can guide you regarding your enquiries",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Karthik",
+      "timestamp_ms": 1701123027258,
+      "content": "Hello sir \nHave an issue \nCan we talk?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Karthik",
+  "is_still_participant": true,
+  "thread_path": "inbox/karthik_1308848677182070",
+  "magic_words": [
+    
+  ]
+}

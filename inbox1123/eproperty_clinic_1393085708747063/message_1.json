@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "EPROPERTY_CLINIC"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "EPROPERTY_CLINIC",
+      "timestamp_ms": 1725281271545,
+      "content": "Yes we do",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725279011043,
+      "content": "Do you deal in lands/plots in Nagpur ares?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725278928928,
+      "content": "Yes. We are launching Maharashtra soon. In 2-3 weeks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "EPROPERTY_CLINIC",
+      "timestamp_ms": 1725202140823,
+      "content": "We are glad to see you in Nagpur also",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "EPROPERTY_CLINIC",
+      "timestamp_ms": 1725202125889,
+      "content": "Hi are you looking for expanding in Nagpur also",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "EPROPERTY_CLINIC",
+  "is_still_participant": true,
+  "thread_path": "inbox/eproperty_clinic_1393085708747063",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Vijay Soni"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707442963541,
+      "content": "Hi, may I know the location of the land?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vijay Soni",
+      "timestamp_ms": 1707413834042,
+      "content": "Want to sell my land",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vijay Soni",
+  "is_still_participant": true,
+  "thread_path": "inbox/vijaysoni_1315374683188710",
+  "magic_words": [
+    
+  ]
+}

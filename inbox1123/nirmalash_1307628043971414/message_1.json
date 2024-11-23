@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Nirmala Sh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703040257895,
+      "content": "Hy , how can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nirmala Sh",
+      "timestamp_ms": 1703031453023,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nirmala Sh",
+  "is_still_participant": true,
+  "thread_path": "inbox/nirmalash_1307628043971414",
+  "magic_words": [
+    
+  ]
+}

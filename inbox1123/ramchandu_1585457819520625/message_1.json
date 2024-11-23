@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Ram Chandu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729863745094,
+      "content": "Hello how can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ram Chandu",
+      "timestamp_ms": 1729863085912,
+      "content": "This is Rama Chandra Babu",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ram Chandu",
+      "timestamp_ms": 1729863073556,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ram Chandu",
+  "is_still_participant": true,
+  "thread_path": "inbox/ramchandu_1585457819520625",
+  "magic_words": [
+    
+  ]
+}

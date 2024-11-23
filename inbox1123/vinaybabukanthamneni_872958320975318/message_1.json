@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Vinay Babu Kanthamneni"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705453349505,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vinay Babu Kanthamneni",
+      "timestamp_ms": 1705426533108,
+      "content": "Hiii iam interested in 100 acre one. Please let me know",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vinay Babu Kanthamneni",
+  "is_still_participant": true,
+  "thread_path": "inbox/vinaybabukanthamneni_872958320975318",
+  "magic_words": [
+    
+  ]
+}

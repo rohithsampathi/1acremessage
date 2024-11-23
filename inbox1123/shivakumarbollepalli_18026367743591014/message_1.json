@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "shivakumarbollepalli"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730443003500,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "shivakumarbollepalli",
+      "timestamp_ms": 1730365276925,
+      "content": "I am doing real estate in 29 pooling villages amaravati",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "shivakumarbollepalli",
+      "timestamp_ms": 1730365247776,
+      "content": "Please call me on this number 9573665666",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "shivakumarbollepalli",
+      "timestamp_ms": 1730365223289,
+      "content": "Amaravati",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "shivakumarbollepalli",
+      "timestamp_ms": 1730365215122,
+      "content": "I am shiva Kumar from thullur",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "shivakumarbollepalli",
+      "timestamp_ms": 1730365199543,
+      "content": "Hiii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "shivakumarbollepalli",
+  "is_still_participant": true,
+  "thread_path": "inbox/shivakumarbollepalli_18026367743591014",
+  "magic_words": [
+    
+  ]
+}

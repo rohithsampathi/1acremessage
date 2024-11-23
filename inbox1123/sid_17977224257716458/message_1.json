@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "sid"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "sid",
+      "timestamp_ms": 1727613851563,
+      "content": "Or kharadi pune 30 on radius",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "sid",
+      "timestamp_ms": 1727613839088,
+      "content": "Navi mumbai to pune in between that somewhere",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727189960943,
+      "content": "Where do you want to buy? Can you give more details?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "sid",
+      "timestamp_ms": 1727189481499,
+      "content": "Want to buy 4 to 5 acres .when can we talk",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "sid",
+  "is_still_participant": true,
+  "thread_path": "inbox/sid_17977224257716458",
+  "magic_words": [
+    
+  ]
+}

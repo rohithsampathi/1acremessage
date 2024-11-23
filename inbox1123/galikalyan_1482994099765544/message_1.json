@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Gali Kalyan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gali Kalyan",
+      "timestamp_ms": 1723695197009,
+      "content": "Gali sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C-rPrGBSFvR/",
+        "share_text": "Happy Independence Day! Let's honour the spirit of freedom and the sacrifices made for our nation's independence. May your dreams soar high, just like the skyscrapers we build. Proud to be part of a free and thriving India!\n\n#IndependenceDay #Freedom #ProudIndian #India #SpiritOfFreedom #CelebratingIndia #NationFirst #ProudToBeIndian #ThrivingIndia #IndianDream #OptimusPrime",
+        "original_content_owner": "optiimus__prime"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Gali Kalyan",
+  "is_still_participant": true,
+  "thread_path": "inbox/galikalyan_1482994099765544",
+  "magic_words": [
+    
+  ]
+}

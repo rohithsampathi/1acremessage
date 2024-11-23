@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Shyama Unnithan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shyama Unnithan",
+      "timestamp_ms": 1727502190838,
+      "content": "\u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727499882605,
+      "content": "It's 30lakhs per acre or ~69rs per sft.\n\nhttps://www.1acre.in/verified-lands-for-sale/telangana/wanaparthy/madanapur/ajjakollu/769\n\nKindly check out this link",
+      "share": {
+        "link": "https://www.1acre.in/verified-lands-for-sale/telangana/wanaparthy/madanapur/ajjakollu/769",
+        "share_text": "It's 30lakhs per acre or ~69rs per sft.\n\nhttps://www.1acre.in/verified-lands-for-sale/telangana/wanaparthy/madanapur/ajjakollu/769\n\nKindly check out this link"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shyama Unnithan",
+      "timestamp_ms": 1727249162425,
+      "content": "What is the sft cost?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shyama Unnithan",
+      "timestamp_ms": 1727249138134,
+      "content": "Where is the location??",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shyama Unnithan",
+      "timestamp_ms": 1727249122705,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/shyamaunnithan_1526748158725734/photos/459235345_2198648163855065_3862796176215528649_n_2198648160521732.jpg",
+          "creation_timestamp": 1727249120,
+          "backup_uri": "https://scontent.fmaa12-2.fna.fbcdn.net/v/t1.15752-9/459235345_2198648163855065_3862796176215528649_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_ohc=ynq7auOeMBoQ7kNvgG0BlQt&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fmaa12-2.fna&oh=03_Q7cD1QG-h72T6kP9R64HKiJERVOYRdU5kt4fgOlfll4rjwoRuQ&oe=67669F16"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shyama Unnithan",
+  "is_still_participant": true,
+  "thread_path": "inbox/shyamaunnithan_1526748158725734",
+  "magic_words": [
+    
+  ]
+}

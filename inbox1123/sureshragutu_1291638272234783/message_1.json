@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Suresh Ragutu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1700131001802,
+      "content": "You can contact to PRATHEEK 9505778117, he can help you with your enquiry",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Suresh Ragutu",
+      "timestamp_ms": 1700129146267,
+      "content": "Suresh sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/CzDaWtstX5_/?carousel_share_child_media_id=3225537647723470549_47651711013",
+        "share_text": "Stop buying plots. Own 10 acres at the cost of one. Larger chunks of land available at good prices.\n...\n\u00f0\u009f\u0091\u0089 Get access to premium opportunities: https://www.1acre.in/subscribe",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Suresh Ragutu",
+  "is_still_participant": true,
+  "thread_path": "inbox/sureshragutu_1291638272234783",
+  "magic_words": [
+    
+  ]
+}

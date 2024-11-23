@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Junaid Ahmed | Be Vigilant \u00f0\u009f\u00a6\u0085"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729240497359,
+      "content": "Hello Junaid, \n\nWe are digitising HMDA lakes with their FTL and buffer zones so people can understand if their lands falls in these zones instantly. \n\nYou can check out the link here : www.1acre.in/lakes\n\nWe believe it helps a lot of people who are currently in distress. See if you can help spread the word about this :) \n\nThanks,\nTeam 1acre.in",
+      "share": {
+        "link": "http://www.1acre.in/lakes",
+        "share_text": "Hello Junaid, \n\nWe are digitising HMDA lakes with their FTL and buffer zones so people can understand if their lands falls in these zones instantly. \n\nYou can check out the link here : www.1acre.in/lakes\n\nWe believe it helps a lot of people who are currently in distress. See if you can help spread the word about this :) \n\nThanks,\nTeam 1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Junaid Ahmed | Be Vigilant \u00f0\u009f\u00a6\u0085",
+  "is_still_participant": true,
+  "thread_path": "inbox/junaidahmedbevigilant_1465358418200264",
+  "magic_words": [
+    
+  ]
+}

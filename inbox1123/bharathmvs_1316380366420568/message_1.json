@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Bharath Mvs"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bharath Mvs",
+      "timestamp_ms": 1707229976037,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707225766433,
+      "content": "Hi, Sorry for the website loading. We are fixing it up and should be good in 2 days. \nMeanwhile, you can talk to Pratheek 9390674324, from the team, who can help you, with your requirement.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Bharath Mvs",
+          "timestamp": 1707229976
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bharath Mvs",
+      "timestamp_ms": 1707221171334,
+      "content": "We are looking at 50 acres\nBut wanted to know, will we have separate entrance and can we plan to use the land as per our requirement or should it be handed over to your company for development?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bharath Mvs",
+      "timestamp_ms": 1707221134166,
+      "content": "Came across your idea of acquiring 1000 acres land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bharath Mvs",
+      "timestamp_ms": 1707221122704,
+      "content": "Hi\nYour website doesn't seem to be working",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Bharath Mvs",
+  "is_still_participant": true,
+  "thread_path": "inbox/bharathmvs_1316380366420568",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Kigali_m_store \u00ef\u00a3\u00bf"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kigali_m_store \u00ef\u00a3\u00bf",
+      "timestamp_ms": 1730710953070,
+      "content": "Please help me",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kigali_m_store \u00ef\u00a3\u00bf",
+      "timestamp_ms": 1730710944473,
+      "content": "Hello sir, please help me by letting me know what software do you use to represent land in that way",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kigali_m_store \u00ef\u00a3\u00bf",
+  "is_still_participant": true,
+  "thread_path": "inbox/kigali_m_store_17985069092749232",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Siva"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Siva",
+      "timestamp_ms": 1724921855585,
+      "content": "Okay. Got it thanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724921833306,
+      "content": "Please contact Ratna Kiran \n9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724921823631,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Siva",
+      "timestamp_ms": 1724921704164,
+      "content": "Do you guys also deal with AP region?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Siva",
+      "timestamp_ms": 1724921680999,
+      "content": "4.7 cents plot.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Siva",
+      "timestamp_ms": 1724921670759,
+      "content": "Hello.! I\u00e2\u0080\u0099ve a land in managalagiri. Near to old bus stand heart of the town.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Siva",
+  "is_still_participant": true,
+  "thread_path": "inbox/siva_18032255750329323",
+  "magic_words": [
+    
+  ]
+}

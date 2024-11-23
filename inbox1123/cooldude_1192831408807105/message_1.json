@@ -1,0 +1,65 @@
+{
+  "participants": [
+    {
+      "name": "Cool Dude:-)"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Cool Dude:-)",
+      "timestamp_ms": 1721714702785,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721702341536,
+      "content": "Plz talk to him. He'll help.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Cool Dude:-)",
+      "timestamp_ms": 1721671404293,
+      "content": "Where is your office",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Cool Dude:-)",
+      "timestamp_ms": 1721671397845,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Cool Dude:-)",
+      "timestamp_ms": 1721671393869,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721515074358,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721515073705,
+      "content": "Hi, Please contact Vijay\n9959994737, talk to him.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Cool Dude:-)",
+      "timestamp_ms": 1721494924482,
+      "content": "Hi \nCan you do video of our lands",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Cool Dude:-)",
+  "is_still_participant": true,
+  "thread_path": "inbox/cooldude_1192831408807105",
+  "magic_words": [
+    
+  ]
+}

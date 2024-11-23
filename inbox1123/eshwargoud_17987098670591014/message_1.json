@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Eshwar Goud"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Eshwar Goud",
+      "timestamp_ms": 1702635193008,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Eshwar Goud",
+      "timestamp_ms": 1702635189168,
+      "content": "Ohh OK",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702635175352,
+      "content": "Hi, Ratna isn't handling this account. This is his number 7661063355",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Eshwar Goud",
+      "timestamp_ms": 1702635108578,
+      "content": "Hi Ratna. How are you.. Hope you  remember me. Was your junior in ssk. Gupta house",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Eshwar Goud",
+  "is_still_participant": true,
+  "thread_path": "inbox/eshwargoud_17987098670591014",
+  "magic_words": [
+    
+  ]
+}

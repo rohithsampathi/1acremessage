@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "sandeepvoriganti"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709978422627,
+      "content": "Yes. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "sandeepvoriganti",
+      "timestamp_ms": 1709978173856,
+      "content": "sandeepvoriganti sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C4PFkVZyoNN/?id=3318895937510343501_47651711013",
+        "share_text": "\u00f0\u009f\u008c\u00be At 1acre.in, we prioritize accuracy and reliability in our listings! Here\u00e2\u0080\u0099s how we ensure that the land listed on our website meets our stringent verification standards:\n\n**1. Preliminary Verification Process:**\n - Before listing any land, we conduct thorough preliminary verification to identify and address potential issues.\n - This proactive approach allows us to tackle 90% of the problems upfront, ensuring transparency and peace of mind for our clients.\n\n**2. Verification of Passbook:**\n - We request the landowner to provide the passbook, which contains essential details about the land.\n - The information provided in the passbook is cross-checked with the data available on the Dharani portal, a reliable source for land-related information.\n - Any discrepancies or issues, such as prohibited land or government assignments, are promptly identified through this verification process.\n\n**3. Location Verification:**\n - In addition to verifying the passbook, we also ensure that the location of the land matches the details provided by the seller.\n - We utilize Dharani cadastral maps to verify the precise location of the land, ensuring accuracy and authenticity.\n - By confirming the location against authoritative sources, we eliminate potential misrepresentations and ensure that the land being sold is genuine.\n\n**4. Listing Only Verified Lands:**\n - Only lands that successfully pass our rigorous verification process are listed on 1acre.in\n - This commitment to verification ensures that our clients can trust the integrity of the listings on our platform, facilitating smoother transactions and reducing the risk of disputes.\n\n**In Conclusion:**\nAt 1acre.in, we prioritize the trust and satisfaction of our clients by implementing a robust verification process for all land listings. By conducting preliminary verification, verifying passbooks, and confirming locations, we ensure the accuracy and reliability of the properties listed on our platform. Invest with confidence and peace of mind at 1acre.in.in! \u00f0\u009f\u008c\u009f #VerifiedListings #LandTrust #1acre.in",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "sandeepvoriganti",
+  "is_still_participant": true,
+  "thread_path": "inbox/sandeepvoriganti_1242019803852215",
+  "magic_words": [
+    
+  ]
+}

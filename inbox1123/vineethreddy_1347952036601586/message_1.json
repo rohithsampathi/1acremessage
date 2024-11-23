@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "vineeth reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709969892590,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team.\nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "vineeth reddy",
+      "timestamp_ms": 1709967857380,
+      "content": "Is these property still available",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "vineeth reddy",
+      "timestamp_ms": 1709967832158,
+      "content": "vineeth sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C19TN8CSVtt/?id=3277860624495369069_47651711013",
+        "share_text": "14 acres of Non agricultural land towards Bengaluru highway up for sale.\nFacilitated by 1acre.in\n\n*6 km from Balanagar-NH44.\n*49 km from ORR exit.\n*50000 SFT metal structures.\n*Well secured by boundary wall and fencing\n*40\u00e2\u0080\u0099 approach road\n*500 KV Transformer \n*Existing Galvanising unit.\nSuitable for warehousing, industrial units and also Plotting\nA lump-sum quote of 15CR \nContact us:9959994737\nDM us if this land is of interest to you.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "vineeth reddy",
+      "timestamp_ms": 1709967717804,
+      "content": "I am looking for vikarabad farm of 50 acres which is posted on mid of February",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "vineeth reddy",
+      "timestamp_ms": 1709967644701,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "vineeth reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/vineethreddy_1347952036601586",
+  "magic_words": [
+    
+  ]
+}

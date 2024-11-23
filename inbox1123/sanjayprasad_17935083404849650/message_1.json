@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Sanjay Prasad"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718094957473,
+      "content": "jay.taurian wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718094957171,
+      "content": "1acre.in\nHi, we'd first advise you to check the website.\nThere are 2500+ verified listings.\nYou can call the sellers directly.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "1acre.in\nHi, we'd first advise you to check the website.\nThere are 2500+ verified listings.\nYou can call the sellers directly."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sanjay Prasad",
+      "timestamp_ms": 1718087827773,
+      "content": "I am Nri currently in HYD",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sanjay Prasad",
+      "timestamp_ms": 1718087770040,
+      "content": "Any good lands in 25lakhs per acre cost",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sanjay Prasad",
+  "is_still_participant": true,
+  "thread_path": "inbox/sanjayprasad_17935083404849650",
+  "magic_words": [
+    
+  ]
+}

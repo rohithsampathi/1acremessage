@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Alekhya Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720267496015,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720267495128,
+      "content": "Hi, Please contact Vijay 9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Alekhya Reddy",
+      "timestamp_ms": 1720267473610,
+      "content": "Details pls",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Alekhya Reddy",
+      "timestamp_ms": 1720267470815,
+      "content": "7 lakhs per acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720267456516,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Alekhya Reddy",
+      "timestamp_ms": 1720266664137,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Alekhya Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/alekhyareddy_1404211724305640",
+  "magic_words": [
+    
+  ]
+}

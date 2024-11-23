@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Homesh Sai"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Homesh Sai",
+      "timestamp_ms": 1726365019889,
+      "content": "Sure \nThank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726339128236,
+      "content": "We currently do not promote any layouts \n\nBut we are launching a product for developers to list their projects soon \n\nWe shall keep you posted",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Homesh Sai",
+      "timestamp_ms": 1726317070192,
+      "content": "Hello\nHello\n\nThis is Homesh from Tirupati and we are into Realestate and construction \nWe are currently doing a layout in 54 \nacres near IIT and IISER. \n\nIt would be grateful if you consider this project to showcase",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Homesh Sai",
+  "is_still_participant": true,
+  "thread_path": "inbox/homeshsai_1511126776953037",
+  "magic_words": [
+    
+  ]
+}

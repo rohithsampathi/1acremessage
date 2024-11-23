@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "KV Raman Ayyala"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "KV Raman Ayyala",
+      "timestamp_ms": 1703760045961,
+      "content": "www.pcmpropertygroup.com",
+      "share": {
+        "link": "http://www.pcmpropertygroup.com/",
+        "share_text": "www.pcmpropertygroup.com"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "KV Raman Ayyala",
+      "timestamp_ms": 1703760029421,
+      "content": "Hii, It's interesting idea...Going on land segment, Here is my property management company, We also working on similar to this, ease check our website...please write me if there is any chance to work together... Thanks. 8688485964",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "KV Raman Ayyala",
+  "is_still_participant": true,
+  "thread_path": "inbox/kvramanayyala_1314915229905141",
+  "magic_words": [
+    
+  ]
+}

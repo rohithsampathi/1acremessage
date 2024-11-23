@@ -1,0 +1,72 @@
+{
+  "participants": [
+    {
+      "name": "Sairam Kalavakolanu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722257349825,
+      "content": "Thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sairam Kalavakolanu",
+      "timestamp_ms": 1722257343539,
+      "content": "9701616060",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722257327430,
+      "content": "Share your number and our team with get in touch",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722257316432,
+      "content": "We are taking the details now",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sairam Kalavakolanu",
+      "timestamp_ms": 1722257199404,
+      "content": "Let me know once you launch in Andhra Pradesh",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sairam Kalavakolanu",
+      "timestamp_ms": 1722257163578,
+      "content": "I am looking to sell, If I get the best price, the land is near to the proposed Amaravati ORR",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722245643079,
+      "content": "Are you looking to buy or sell ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722245631464,
+      "content": "Yes we are launching this week",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sairam Kalavakolanu",
+      "timestamp_ms": 1722224179275,
+      "content": "Hi, Are you planning to start your services in AP",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sairam Kalavakolanu",
+  "is_still_participant": true,
+  "thread_path": "inbox/sairamkalavakolanu_1374872203901042",
+  "magic_words": [
+    
+  ]
+}

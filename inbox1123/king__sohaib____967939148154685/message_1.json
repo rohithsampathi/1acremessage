@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "k\u00cc\u00bai\u00cc\u00ban\u00cc\u00bag\u00cc\u00ba__soHaib___.."
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718175881844,
+      "content": "1acre.in\nWe are a listing platform of verified lands. You can call the sellers directly.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "1acre.in\nWe are a listing platform of verified lands. You can call the sellers directly."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "k\u00cc\u00bai\u00cc\u00ban\u00cc\u00bag\u00cc\u00ba__soHaib___..",
+      "timestamp_ms": 1718175668498,
+      "content": "1acre lane price lease",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718067094066,
+      "content": "its_mr__shoaib wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718067093805,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "k\u00cc\u00bai\u00cc\u00ban\u00cc\u00bag\u00cc\u00ba__soHaib___..",
+      "timestamp_ms": 1718043743126,
+      "content": "Hey",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "k\u00cc\u00bai\u00cc\u00ban\u00cc\u00bag\u00cc\u00ba__soHaib___..",
+  "is_still_participant": true,
+  "thread_path": "inbox/king__sohaib____967939148154685",
+  "magic_words": [
+    
+  ]
+}

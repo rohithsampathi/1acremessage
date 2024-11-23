@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Sandeepreddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723856797579,
+      "content": "aadhya_anikareddy_my_princess wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723856797147,
+      "content": "1acre.in/subscribe  Please explore.\nThere are 3000+ verified lands. You can call the sellers directly.",
+      "share": {
+        "link": "http://1acre.in/subscribe",
+        "share_text": "1acre.in/subscribe  Please explore.\nThere are 3000+ verified lands. You can call the sellers directly."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sandeepreddy",
+      "timestamp_ms": 1723818917855,
+      "content": "Hi any land for functional hall suitebke recommend",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sandeepreddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/sandeepreddy_1388445519219914",
+  "magic_words": [
+    
+  ]
+}

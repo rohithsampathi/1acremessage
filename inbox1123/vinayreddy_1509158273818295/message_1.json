@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Vinay Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722563523964,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vinay Reddy",
+      "timestamp_ms": 1722530445510,
+      "content": "Vinay sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C9FCKNLyxeC/?id=3406138190619940738_47651711013",
+        "share_text": "14 acres | \u00e2\u0082\u00b985 lakhs per acre | Near Medak Highway | Link in bio \u00f0\u009f\u008c\u009f\n\n- Verified and facilitated by 1acre.in\n- Equipped with poly houses, storage sheds, farm pond, borewells, and worker accommodation\n- Only an hour from Dundigal ORR exit\n- Just 7 km from the Medak highway\n- Suitable for vegetable farming\n- Interested? Get in touch now! \u00f0\u009f\u0093\u009e +91 9959994737\n\n\u00f0\u009f\u0093\u00ac DM us for more queries on buying, selling, or partnerships",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vinay Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/vinayreddy_1509158273818295",
+  "magic_words": [
+    
+  ]
+}

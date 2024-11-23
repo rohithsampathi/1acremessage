@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Dola Madhavi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dola Madhavi",
+      "timestamp_ms": 1728817929278,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Dola Madhavi",
+  "is_still_participant": true,
+  "thread_path": "inbox/dolamadhavi_1553469852720677",
+  "magic_words": [
+    
+  ]
+}

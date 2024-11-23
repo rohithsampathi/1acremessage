@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "bingi abhinav"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730040215785,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "bingi abhinav",
+      "timestamp_ms": 1729879090692,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "bingi abhinav",
+  "is_still_participant": true,
+  "thread_path": "inbox/bingiabhinav_1061987492048803",
+  "magic_words": [
+    
+  ]
+}

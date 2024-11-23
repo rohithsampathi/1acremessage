@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Patnam Sridhar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706885177557,
+      "content": "Hi, Please contact Ramakrishna \n7780122120",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Patnam Sridhar",
+  "is_still_participant": true,
+  "thread_path": "inbox/patnamsridhar_17993841023591014",
+  "magic_words": [
+    
+  ]
+}

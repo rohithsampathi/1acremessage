@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "tharun\u00e2\u0084\u00a2\u00ef\u00b8\u008f"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715749002395,
+      "content": "9032114737\nYou can talk to Bharath, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "tharun\u00e2\u0084\u00a2\u00ef\u00b8\u008f",
+      "timestamp_ms": 1715747022773,
+      "content": "Hi sir/madam is there any freelancing job I have interest..! Which I have seen video in Instagram page regarding freelancing job vacancies",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "tharun\u00e2\u0084\u00a2\u00ef\u00b8\u008f",
+  "is_still_participant": true,
+  "thread_path": "inbox/tharuntm_17967612560725318",
+  "magic_words": [
+    
+  ]
+}

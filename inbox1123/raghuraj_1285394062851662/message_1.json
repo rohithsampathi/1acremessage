@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Raghu Raj"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708712327494,
+      "content": "Thankyou for letting us know. You can contact Ratna Kiran +919390155412 who can guide you further with details.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raghu Raj",
+      "timestamp_ms": 1708712326952,
+      "content": "Yes, interested in Ananthagiri Hills Plot",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Raghu Raj",
+  "is_still_participant": true,
+  "thread_path": "inbox/raghuraj_1285394062851662",
+  "magic_words": [
+    
+  ]
+}

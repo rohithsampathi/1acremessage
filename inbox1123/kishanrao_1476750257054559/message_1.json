@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Kishan Rao"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kishan Rao",
+      "timestamp_ms": 1720964045343,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720963310797,
+      "content": "1acre.in/subscribe  \nPlease explore the mapview here.",
+      "share": {
+        "link": "http://1acre.in/subscribe",
+        "share_text": "1acre.in/subscribe  \nPlease explore the mapview here."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kishan Rao",
+      "timestamp_ms": 1720960407923,
+      "content": "Preferable location would be Nagarjuna Sagar Road",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kishan Rao",
+      "timestamp_ms": 1720960380851,
+      "content": "I am looking for 3-4 acre farm land near Hyderabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720955593358,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kishan Rao",
+      "timestamp_ms": 1720954921234,
+      "content": "Hi team",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3411755333054953635"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kishan Rao",
+  "is_still_participant": true,
+  "thread_path": "inbox/kishanrao_1476750257054559",
+  "magic_words": [
+    
+  ]
+}

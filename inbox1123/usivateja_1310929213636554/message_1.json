@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "U Siva Teja"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704349171235,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "U Siva Teja",
+      "timestamp_ms": 1704308288886,
+      "content": "I'm in for the land pooling thing",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "U Siva Teja",
+  "is_still_participant": true,
+  "thread_path": "inbox/usivateja_1310929213636554",
+  "magic_words": [
+    
+  ]
+}

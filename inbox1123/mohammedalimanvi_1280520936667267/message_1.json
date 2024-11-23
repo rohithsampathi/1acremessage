@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Mohammed Ali Manvi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718944232130,
+      "content": "\u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammed Ali Manvi",
+      "timestamp_ms": 1718943848766,
+      "content": "\u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mohammed Ali Manvi",
+  "is_still_participant": true,
+  "thread_path": "inbox/mohammedalimanvi_1280520936667267",
+  "magic_words": [
+    
+  ]
+}

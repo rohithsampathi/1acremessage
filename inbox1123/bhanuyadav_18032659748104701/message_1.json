@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Bhanu Yadav \u00e2\u009d\u00a3\u00ef\u00b8\u008f"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721485916098,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721485914236,
+      "content": "Hi, Please contact Vijay 9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bhanu Yadav \u00e2\u009d\u00a3\u00ef\u00b8\u008f",
+      "timestamp_ms": 1721484303768,
+      "content": "I am from Vikarabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bhanu Yadav \u00e2\u009d\u00a3\u00ef\u00b8\u008f",
+      "timestamp_ms": 1721484298005,
+      "content": "I am land surveyor can   you please provide me sites to work with you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721462543798,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bhanu Yadav \u00e2\u009d\u00a3\u00ef\u00b8\u008f",
+      "timestamp_ms": 1721456870448,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Bhanu Yadav \u00e2\u009d\u00a3\u00ef\u00b8\u008f",
+  "is_still_participant": true,
+  "thread_path": "inbox/bhanuyadav_18032659748104701",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Mohit Jain"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mohit Jain",
+      "timestamp_ms": 1730728228739,
+      "content": "Alright",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730723989055,
+      "content": "We do not have any opportunities currently",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohit Jain",
+      "timestamp_ms": 1730718273392,
+      "content": "I am based in Delhi so any hidden gems at good price for investing",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730690840221,
+      "content": "Do you have any specific use case and budget",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohit Jain",
+      "timestamp_ms": 1730520632878,
+      "content": "Pls share any offer in north India",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730502229715,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohit Jain",
+      "timestamp_ms": 1730485450119,
+      "content": "Must operate on north India also",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mohit Jain",
+  "is_still_participant": true,
+  "thread_path": "inbox/mohitjain_18045344936095205",
+  "magic_words": [
+    
+  ]
+}

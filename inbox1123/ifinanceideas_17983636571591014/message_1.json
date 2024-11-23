@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Ifinance Ideas"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ifinance Ideas",
+      "timestamp_ms": 1700131060290,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1700130974292,
+      "content": "Ok , will start soon",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ifinance Ideas",
+      "timestamp_ms": 1700129691017,
+      "content": "Plz start ur business in Andhrapradesh too",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ifinance Ideas",
+  "is_still_participant": true,
+  "thread_path": "inbox/ifinanceideas_17983636571591014",
+  "magic_words": [
+    
+  ]
+}

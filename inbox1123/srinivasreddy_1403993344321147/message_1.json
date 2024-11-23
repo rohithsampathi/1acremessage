@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "srinivas reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "srinivas reddy",
+      "timestamp_ms": 1723786382175,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723784189768,
+      "content": "Our team will get back today \nSorry for the inconvenience",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "srinivas reddy",
+      "timestamp_ms": 1723784034635,
+      "content": "Already had a discussion with ur team member+91 77801 22120\nBut no response from him\n\nContact no:9989998932",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723783847406,
+      "content": "Share you number. Our team will get back soon",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "srinivas reddy",
+      "timestamp_ms": 1723728889937,
+      "content": "I have shared land details to ur team",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "srinivas reddy",
+      "timestamp_ms": 1723728866802,
+      "content": "Hi \nI tried reaching your team, but no respofrom ur team",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "srinivas reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/srinivasreddy_1403993344321147",
+  "magic_words": [
+    
+  ]
+}

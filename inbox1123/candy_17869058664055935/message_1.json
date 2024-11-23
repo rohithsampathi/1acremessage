@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "candy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "candy",
+      "timestamp_ms": 1706691479018,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706691458264,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "candy",
+      "timestamp_ms": 1706678875009,
+      "content": "I am a premium memeber",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "candy",
+      "timestamp_ms": 1706678860283,
+      "content": "Can you pls send me your contact number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "candy",
+      "timestamp_ms": 1706678828917,
+      "content": "You missed an audio call",
+      "call_duration": 0,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "candy",
+      "timestamp_ms": 1706678825928,
+      "content": "1085.candy started an audio call",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "candy",
+  "is_still_participant": true,
+  "thread_path": "inbox/candy_17869058664055935",
+  "magic_words": [
+    
+  ]
+}

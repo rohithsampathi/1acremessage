@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Srikanth Rayaprolu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709647181633,
+      "content": "Hi, Please contact Vijay\n9959994737, he'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srikanth Rayaprolu",
+      "timestamp_ms": 1709646958514,
+      "content": "Hi. We are looking for 1 acre around Moinabad or especially chilukuru. Anything available and the pricing too pls",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Srikanth Rayaprolu",
+  "is_still_participant": true,
+  "thread_path": "inbox/srikanthrayaprolu_1393565438707570",
+  "magic_words": [
+    
+  ]
+}

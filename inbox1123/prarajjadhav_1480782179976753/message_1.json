@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "PraRaj Jadhav"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726202540122,
+      "content": "Are you an Agent actively dealing in lands or plots?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "PraRaj Jadhav",
+      "timestamp_ms": 1726169416961,
+      "content": "hyd",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726160449413,
+      "content": "This is Shruthi from 1acre.\nCan you tell me your name and the region/area where you are from?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726155824228,
+      "content": "Thank you for applying as a regional partner with 1acre.in.\nWe shall get back to you soon",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726155817933,
+      "content": "PraRaj Jadhav replied to an ad. View ad(https://www.instagram.com/p/C_xWSC_MLQA/)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "PraRaj Jadhav",
+      "timestamp_ms": 1726155816933,
+      "content": "price",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "PraRaj Jadhav",
+  "is_still_participant": true,
+  "thread_path": "inbox/prarajjadhav_1480782179976753",
+  "magic_words": [
+    
+  ]
+}

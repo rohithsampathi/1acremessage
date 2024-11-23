@@ -1,0 +1,268 @@
+/* style.css */
+:root {
+    --primary: #4CAF50;
+    --secondary: #2E7D32;
+    --bg: #1E1E1E;
+    --surface: #2D2D2D;
+    --text: #FFFFFF;
+    --muted: #B0B0B0;
+    --border: rgba(255, 255, 255, 0.1);
+    --hover: rgba(76, 175, 80, 0.1);
+    --error: #FF5252;
+    --success: #81C784;
+    --link: #64B5F6;
+}
+
+/* Base App Styling */
+.stApp {
+    background-color: var(--bg);
+    color: var(--text);
+}
+
+/* Login Page */
+.login-header {
+    text-align: center;
+    padding: 2rem;
+    margin-bottom: 2rem;
+}
+
+.login-header h1 {
+    color: var(--primary);
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+/* Metric Cards */
+.metric-card {
+    background-color: var(--surface);
+    padding: 1.5rem;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    transition: transform 0.2s, box-shadow 0.2s;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.metric-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.metric-value {
+    font-size: 2rem;
+    font-weight: bold;
+    color: var(--primary);
+    margin-bottom: 0.5rem;
+}
+
+.metric-label {
+    color: var(--muted);
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+/* Conversation Display */
+.conversation-text {
+    background-color: #1A1A1A;
+    padding: 1rem;
+    border-radius: 8px;
+    margin: 0.5rem 0;
+    max-height: 400px;
+    overflow-y: auto;
+    border: 1px solid var(--border);
+    font-family: 'Courier New', monospace;
+}
+
+.message {
+    margin: 0.5rem 0;
+    padding: 0.75rem;
+    border-radius: 4px;
+    background-color: var(--surface);
+}
+
+.message-1acre {
+    border-left: 3px solid var(--primary);
+    background-color: rgba(76, 175, 80, 0.1);
+}
+
+.message-customer {
+    border-left: 3px solid var(--link);
+    background-color: rgba(33, 150, 243, 0.1);
+}
+
+.sender {
+    font-weight: bold;
+    margin-bottom: 0.25rem;
+}
+
+.sender-message-1acre { color: var(--primary); }
+.sender-message-customer { color: var(--link); }
+
+.message-content {
+    color: var(--text);
+    margin-left: 1rem;
+    line-height: 1.5;
+}
+
+/* Search Section */
+.search-section {
+    background-color: var(--surface);
+    padding: 1rem;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+}
+
+/* Button Styling */
+.stButton > button {
+    background-color: var(--primary);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 0.5rem 1rem;
+    font-size: 0.9rem;
+    font-weight: 500;
+    transition: all 0.2s;
+    min-width: 80px;
+    max-width: 150px !important;
+    margin: 0 auto;
+}
+
+/* Override for search button */
+button[kind="secondary"] {
+    width: auto !important;
+}
+
+.stButton > button:hover {
+    background-color: var(--secondary);
+    transform: translateY(-1px);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+/* Input Styling */
+.stTextInput > div > div > input,
+.stNumberInput > div > div > input,
+.stSelectbox > div > div > div {
+    background-color: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    color: var(--text);
+    padding: 0.5rem;
+}
+
+.stTextInput > div > div > input:focus,
+.stNumberInput > div > div > input:focus {
+    border-color: var(--primary);
+    box-shadow: 0 0 0 2px rgba(76, 175, 80, 0.2);
+}
+
+/* Expander Styling */
+.streamlit-expanderHeader {
+    background-color: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    color: var(--text);
+}
+
+.streamlit-expanderContent {
+    background-color: var(--surface);
+    border: 1px solid var(--border);
+    border-top: none;
+    border-radius: 0 0 4px 4px;
+    padding: 1rem;
+}
+
+/* Scrollbar Styling */
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--bg);
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--primary);
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--secondary);
+}
+
+/* Date Picker */
+.stDateInput > div > div > input {
+    background-color: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    color: var(--text);
+}
+
+/* Alerts and Messages */
+.stAlert {
+    background-color: var(--surface);
+    border: 1px solid var(--border);
+    color: var(--text);
+}
+
+/* Success Message */
+.success {
+    color: var(--success);
+}
+
+/* Error Message */
+.error {
+    color: var(--error);
+}
+
+/* Selection Summary */
+.selection-summary {
+    background-color: rgba(76, 175, 80, 0.1);
+    padding: 1rem;
+    border-radius: 8px;
+    margin: 1rem 0;
+    border: 1px solid var(--primary);
+}
+
+/* Metrics Display */
+.stMetric {
+    background-color: var(--surface);
+    padding: 1rem;
+    border-radius: 4px;
+    border: 1px solid var(--border);
+}
+
+/* Download Button */
+.stDownloadButton > button {
+    background-color: var(--success);
+    width: auto !important;
+    max-width: 200px !important;
+}
+
+/* Table Styling */
+.stTable {
+    background-color: var(--surface);
+    border-radius: 4px;
+}
+
+.stTable thead th {
+    background-color: var(--bg);
+    color: var(--text);
+}
+
+/* Tabs */
+.stTabs [data-baseweb="tab-list"] {
+    gap: 8px;
+}
+
+.stTabs [data-baseweb="tab"] {
+    background-color: var(--surface);
+    border-radius: 4px;
+    padding: 0.5rem 1rem;
+}
+
+/* Progress Bar */
+.stProgress > div > div > div {
+    background-color: var(--primary);
+}

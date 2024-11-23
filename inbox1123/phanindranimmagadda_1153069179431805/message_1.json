@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Phanindra Nimmagadda"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702007329655,
+      "content": "You can connect with pratheek, 9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Phanindra Nimmagadda",
+      "timestamp_ms": 1701958972919,
+      "content": "Hi, I\u00e2\u0080\u0099m looking for agriculture land for 10-15 lakhs acre price close to Nizamabad to Hyderabad highway",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Phanindra Nimmagadda",
+  "is_still_participant": true,
+  "thread_path": "inbox/phanindranimmagadda_1153069179431805",
+  "magic_words": [
+    
+  ]
+}

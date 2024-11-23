@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "LSR Farms"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708612957855,
+      "content": "Hello, please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "LSR Farms",
+      "timestamp_ms": 1708612638140,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "LSR Farms",
+  "is_still_participant": true,
+  "thread_path": "inbox/lsrfarms_17996112614591014",
+  "magic_words": [
+    
+  ]
+}

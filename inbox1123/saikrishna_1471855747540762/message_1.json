@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Saikrishna"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722163296681,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Saikrishna",
+      "timestamp_ms": 1722138195357,
+      "content": "Hello, Can you share the address for the land. Thank you. https://www.instagram.com/reel/C97HQOgSReY/?igsh=MTQyaHl0NWk3bWVuMw==",
+      "share": {
+        "link": "https://www.instagram.com/reel/C97HQOgSReY/?id=3421360243329275800_47651711013",
+        "share_text": "4 plots of 225 Sq Yds each | \u00e2\u0082\u00b980,000 per Sq Yd | Near Wipro-Gopanpalli | Link in bio \u00f0\u009f\u008c\u009f\n\n- Verified and facilitated by 1acre.in\n- Boutique villa community\n- 5-minute drive to Financial District and ORR\n- Surrounded by multiple 100\u00e2\u0080\u0099 roads and villa communities\n\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 8341149011\n\nDM us for more queries on buying, selling, or partnerships.\n\n#landforsale #gopanpalli #land #investment #propertyforsale #realestate",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Saikrishna",
+  "is_still_participant": true,
+  "thread_path": "inbox/saikrishna_1471855747540762",
+  "magic_words": [
+    
+  ]
+}

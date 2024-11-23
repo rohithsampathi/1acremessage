@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Poojitha Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Poojitha Reddy",
+      "timestamp_ms": 1711118297594,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Poojitha Reddy",
+      "timestamp_ms": 1711118293561,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711081710363,
+      "content": "I am not sure how much we can work on that, but please contact Vijay\n9959994737, from the team. He'll see what we can do.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Poojitha Reddy",
+      "timestamp_ms": 1711079888298,
+      "content": "Hi 1acre.in\nWe have agricultural land at Mahaboobabad, Warangal.\nCould you guys help us in getting mutation done?",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi 1acre.in\nWe have agricultural land at Mahaboobabad, Warangal.\nCould you guys help us in getting mutation done?"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Poojitha Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/poojithareddy_1301956901206819",
+  "magic_words": [
+    
+  ]
+}

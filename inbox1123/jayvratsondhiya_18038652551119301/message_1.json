@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Jayvrat Sondhiya"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727265551395,
+      "content": "Do you have a drone video of your site?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727265537301,
+      "content": "Please drop you number.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727265532432,
+      "content": "Believe it it's Madhya pradesh. We'll start listing soon. Will keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jayvrat Sondhiya",
+      "timestamp_ms": 1727228622964,
+      "content": "Owner",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727228470791,
+      "content": "Are you the owner of the land or an Agent?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727228454883,
+      "content": "Hello, thanks for reaching out.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jayvrat Sondhiya",
+      "timestamp_ms": 1727227153297,
+      "content": "Hello i have land on mumbai agra highway 15 km from biaora towards guna .\nIf intersted I could provide you further details.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Jayvrat Sondhiya",
+  "is_still_participant": true,
+  "thread_path": "inbox/jayvratsondhiya_18038652551119301",
+  "magic_words": [
+    
+  ]
+}

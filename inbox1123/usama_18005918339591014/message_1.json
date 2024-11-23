@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "UsamA"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716039693628,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "UsamA",
+      "timestamp_ms": 1716028504605,
+      "content": "How much per acre sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "UsamA",
+      "timestamp_ms": 1716028503634,
+      "content": "UsamA sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C6srakJNoKv/?id=3363253963254563503_47651711013",
+        "share_text": "2 acre lake-facing land, along with Permissions to build 100 lake-facing studios at 2.5Cr per acre.\nAnantagiri Hills, Vikarabad. \n\nTransaction facilitated by 1acre.in \nIf interested, get in touch with us. \n\nContact: 9959994737",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "UsamA",
+  "is_still_participant": true,
+  "thread_path": "inbox/usama_18005918339591014",
+  "magic_words": [
+    
+  ]
+}

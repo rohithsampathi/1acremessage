@@ -1,0 +1,62 @@
+{
+  "participants": [
+    {
+      "name": "someoneinyourmind"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718498245111,
+      "content": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "someoneinyourmind",
+      "timestamp_ms": 1718469570255,
+      "content": "https://maps.app.goo.gl/dZgKLRiyU27m4eHa8",
+      "share": {
+        "link": "https://maps.app.goo.gl/dZgKLRiyU27m4eHa8",
+        "share_text": "https://maps.app.goo.gl/dZgKLRiyU27m4eHa8"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "someoneinyourmind",
+      "timestamp_ms": 1718469540894,
+      "content": "Chilbhavi near hidkal dam",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718462681841,
+      "content": "Where's the land located?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "someoneinyourmind",
+      "timestamp_ms": 1718456179962,
+      "content": "Current market rate per acre is 21lakhs",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "someoneinyourmind",
+      "timestamp_ms": 1718456153890,
+      "content": "10 acres of land for sale",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "someoneinyourmind",
+  "is_still_participant": true,
+  "thread_path": "inbox/someoneinyourmind_17876830320094128",
+  "magic_words": [
+    
+  ]
+}

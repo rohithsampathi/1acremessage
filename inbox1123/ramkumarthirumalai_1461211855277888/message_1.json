@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Ramkumar Thirumalai"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720244410345,
+      "content": "We currently only operate in telangana. \n\nWill keep you posted when we launch in other states",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ramkumar Thirumalai",
+      "timestamp_ms": 1720244024580,
+      "content": "Hi \n I'm searching a property near Chennai. If you have some properties , let me know",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ramkumar Thirumalai",
+  "is_still_participant": true,
+  "thread_path": "inbox/ramkumarthirumalai_1461211855277888",
+  "magic_words": [
+    
+  ]
+}

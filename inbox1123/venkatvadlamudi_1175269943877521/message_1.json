@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Venkat Vadlamudi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702773794355,
+      "content": "Currently, There's no login for international numbers. We'll have it soon (Probably by the end of this month). Meanwhile, We'll connect over a call to understand better.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Venkat Vadlamudi",
+      "timestamp_ms": 1702766369512,
+      "content": "I haven\u00e2\u0080\u0099t had any person contacting me yet from your team. Could you please get in touch ASAP?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702360035027,
+      "content": "Sure , will connect with you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Venkat Vadlamudi",
+      "timestamp_ms": 1702299564040,
+      "content": "Sure,\nYou can reach me out on my mobile +447795903523.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702271588357,
+      "content": "Yes yes, very soon. Meanwhile, let's connect over a call and discuss what you might be interested in. We'll recommending such lands or opportunities.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Venkat Vadlamudi",
+      "timestamp_ms": 1702222134196,
+      "content": "Hi, I\u00e2\u0080\u0099m trying to register to your premier service for city lands. Your website only has provision to select Indian number. Are you intending to expand on this?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Venkat Vadlamudi",
+  "is_still_participant": true,
+  "thread_path": "inbox/venkatvadlamudi_1175269943877521",
+  "magic_words": [
+    
+  ]
+}

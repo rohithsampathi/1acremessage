@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Head Way"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Head Way",
+      "timestamp_ms": 1730216634789,
+      "content": "Want to discuss further",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Head Way",
+      "timestamp_ms": 1730216615377,
+      "content": "Heloo we are based in Mumbai \nNavi Mumbai and Pune",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Head Way",
+  "is_still_participant": true,
+  "thread_path": "inbox/headway_18031103765358345",
+  "magic_words": [
+    
+  ]
+}

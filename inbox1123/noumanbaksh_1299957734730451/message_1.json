@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Nouman Baksh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709647057995,
+      "content": "Plz go through the website. 1acre.in \nIf you subscribe to premium, you'll get access to mapview, \nWhich will help you explore better.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Plz go through the website. 1acre.in \nIf you subscribe to premium, you'll get access to mapview, \nWhich will help you explore better."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nouman Baksh",
+      "timestamp_ms": 1709642251691,
+      "content": "I have a budget of 30 lakhs, could you suggest any good upcoming areas",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nouman Baksh",
+      "timestamp_ms": 1709642191380,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nouman Baksh",
+  "is_still_participant": true,
+  "thread_path": "inbox/noumanbaksh_1299957734730451",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Manish"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709351831323,
+      "content": "Please contact Vijay\n9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709351809772,
+      "content": "Hi, Sorry lost track of this message.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manish",
+      "timestamp_ms": 1707813132707,
+      "content": "If you\u00e2\u0080\u0099re interested we can further this conversation and see how we can help each other",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manish",
+      "timestamp_ms": 1707813093113,
+      "content": "We own a land bank of about 80 acres, currently resident to mango plantation that we are trying to get into the market. I have watched your videos I like the approach that you guys take.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manish",
+      "timestamp_ms": 1707812637185,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Manish",
+  "is_still_participant": true,
+  "thread_path": "inbox/manish_17931503720813076",
+  "magic_words": [
+    
+  ]
+}

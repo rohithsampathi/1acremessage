@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Harsha Kothapalli"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697547073543,
+      "content": "Please contact Vijay from 1acre.in for more details. +91 8074450533",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697547061478,
+      "content": "1acre.in",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harsha Kothapalli",
+      "timestamp_ms": 1697524527410,
+      "content": "Need details on this land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harsha Kothapalli",
+      "timestamp_ms": 1697524515968,
+      "content": "Harsha sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/CyfUQ2zruSu/?carousel_share_child_media_id=3215377774423208206_47651711013",
+        "share_text": "",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Harsha Kothapalli",
+  "is_still_participant": true,
+  "thread_path": "inbox/harshakothapalli_1226443168745792",
+  "magic_words": [
+    
+  ]
+}

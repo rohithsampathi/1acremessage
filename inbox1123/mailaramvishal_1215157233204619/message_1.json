@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Mailaram Vishal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708064239932,
+      "content": "Hi, Please contact Ramakrishna \n7780122120",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mailaram Vishal",
+      "timestamp_ms": 1708063606483,
+      "content": "Please give me urs contact Number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mailaram Vishal",
+      "timestamp_ms": 1708056841622,
+      "content": "How to post lands in ur website",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708042732298,
+      "content": "mailaram_vishal wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708042729981,
+      "content": "Hello, please tell",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mailaram Vishal",
+      "timestamp_ms": 1708017174788,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mailaram Vishal",
+  "is_still_participant": true,
+  "thread_path": "inbox/mailaramvishal_1215157233204619",
+  "magic_words": [
+    
+  ]
+}

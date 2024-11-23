@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Aby Singh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707871246309,
+      "content": "Please contact Vijay\n9959994737, from the team. He'll help you with the requirement.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707871209672,
+      "content": "Sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aby Singh",
+      "timestamp_ms": 1707857815909,
+      "content": "Have a deadline",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aby Singh",
+      "timestamp_ms": 1707857805378,
+      "content": "Hi I am interested in buying 10 acres",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Aby Singh",
+  "is_still_participant": true,
+  "thread_path": "inbox/abysingh_1298342594901425",
+  "magic_words": [
+    
+  ]
+}

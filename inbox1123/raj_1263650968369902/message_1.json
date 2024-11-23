@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Raj"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697611491415,
+      "content": "Sure. Please call Prateek - 9505778117",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raj",
+      "timestamp_ms": 1697573469973,
+      "content": "If available let me know",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raj",
+      "timestamp_ms": 1697573459163,
+      "content": "Budget for 1 acres is 10LK or less",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raj",
+      "timestamp_ms": 1697573444441,
+      "content": "Hi I\u00e2\u0080\u0099m looking for low cost farm land",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Raj",
+  "is_still_participant": true,
+  "thread_path": "inbox/raj_1263650968369902",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "chandu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "chandu",
+      "timestamp_ms": 1699704949460,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1699704934720,
+      "content": "Hey chandu, you can connect with Pratheek 9505778117 , he can help you with your enquiry",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "chandu",
+      "timestamp_ms": 1699704841535,
+      "content": "Looking lands near vikarabad or pargi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "chandu",
+      "timestamp_ms": 1699704818698,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "chandu",
+  "is_still_participant": true,
+  "thread_path": "inbox/chandu_17945837105712441",
+  "magic_words": [
+    
+  ]
+}

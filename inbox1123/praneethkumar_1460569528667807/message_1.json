@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Praneeth Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725679799330,
+      "content": "From our team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725679787869,
+      "content": "Hi, Please contact Ramakrishna \n9032114737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Praneeth Kumar",
+      "timestamp_ms": 1725614728801,
+      "content": "Land for sale in ananthasagar village",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Praneeth Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/praneethkumar_1460569528667807",
+  "magic_words": [
+    
+  ]
+}

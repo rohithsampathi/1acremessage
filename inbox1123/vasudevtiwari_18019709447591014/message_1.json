@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Vasudev Tiwari"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725759254512,
+      "content": "Hi, Please contact Srikar\n8341149011, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vasudev Tiwari",
+      "timestamp_ms": 1725736504511,
+      "content": "Any 500 plot near chilkur balaji temple",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vasudev Tiwari",
+  "is_still_participant": true,
+  "thread_path": "inbox/vasudevtiwari_18019709447591014",
+  "magic_words": [
+    
+  ]
+}

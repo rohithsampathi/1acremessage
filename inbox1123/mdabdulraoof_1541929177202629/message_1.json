@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Md Abdul Raoof"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Md Abdul Raoof",
+      "timestamp_ms": 1731137883156,
+      "content": "My contact no.:- 7989574741",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Md Abdul Raoof",
+      "timestamp_ms": 1731137867639,
+      "content": "No response on the above no.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730876006292,
+      "content": "Please call our team member Venu at +91 76749 01201\n\nHe shall help you list it and share other details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Md Abdul Raoof",
+      "timestamp_ms": 1730873982482,
+      "content": "?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Md Abdul Raoof",
+      "timestamp_ms": 1730813522385,
+      "content": "I have a property for sale",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Md Abdul Raoof",
+      "timestamp_ms": 1730813515935,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Md Abdul Raoof",
+  "is_still_participant": true,
+  "thread_path": "inbox/mdabdulraoof_1541929177202629",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "AkiL AllU"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719405166225,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "AkiL AllU",
+      "timestamp_ms": 1719404715336,
+      "content": "Hiee",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "AkiL AllU",
+  "is_still_participant": true,
+  "thread_path": "inbox/akilallu_1456582669073413",
+  "magic_words": [
+    
+  ]
+}

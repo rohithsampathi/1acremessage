@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Radha Puvadi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705838204525,
+      "content": "This",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Radha Puvadi",
+      "timestamp_ms": 1705836748583,
+      "content": "For buying agriculture lands",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Radha Puvadi",
+      "timestamp_ms": 1705836742716,
+      "content": "Hi how can we contact you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Radha Puvadi",
+      "timestamp_ms": 1702754606854,
+      "content": "Sure thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702702816284,
+      "content": "you can connect with pratheek  9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Radha Puvadi",
+      "timestamp_ms": 1702662906010,
+      "content": "I saw ur page and felt it is interesting",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Radha Puvadi",
+      "timestamp_ms": 1702662875206,
+      "content": "Hi, we are looking for land for farming betweet10-15 lakhs around Hyderabad.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Radha Puvadi",
+  "is_still_participant": true,
+  "thread_path": "inbox/radhapuvadi_1307185514011985",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Bala"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730690766218,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bala",
+      "timestamp_ms": 1730687692362,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Bala",
+  "is_still_participant": true,
+  "thread_path": "inbox/bala_1517651019637123",
+  "magic_words": [
+    
+  ]
+}

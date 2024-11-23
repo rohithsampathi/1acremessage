@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "GROS TAUREAU \u00f0\u009f\u0090\u0082"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701674738786,
+      "content": "Sure our team will connect with you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "GROS TAUREAU \u00f0\u009f\u0090\u0082",
+      "timestamp_ms": 1701603125767,
+      "content": "Naveen Reddy",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "GROS TAUREAU \u00f0\u009f\u0090\u0082",
+      "timestamp_ms": 1701603118306,
+      "content": "9010445514",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701571114647,
+      "content": "Can we have your contact number, our team would like to connect with you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "GROS TAUREAU \u00f0\u009f\u0090\u0082",
+      "timestamp_ms": 1701558026772,
+      "content": "One hour from appa junction",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "GROS TAUREAU \u00f0\u009f\u0090\u0082",
+      "timestamp_ms": 1701558013488,
+      "content": "One hour from shamshad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "GROS TAUREAU \u00f0\u009f\u0090\u0082",
+      "timestamp_ms": 1701557967434,
+      "content": "Bro lands kavalante message cheyandi  pargi Hyderabad nundi 2hours",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "GROS TAUREAU \u00f0\u009f\u0090\u0082",
+  "is_still_participant": true,
+  "thread_path": "inbox/grostaureau_1264556141602739",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Venkata Rohan Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729319823617,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Venkata Rohan Kumar",
+      "timestamp_ms": 1729304218340,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Venkata Rohan Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/venkatarohankumar_17998060337695832",
+  "magic_words": [
+    
+  ]
+}

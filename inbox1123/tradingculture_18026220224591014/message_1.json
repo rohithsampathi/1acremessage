@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "TRADING CULTURE"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "TRADING CULTURE",
+      "timestamp_ms": 1730275669060,
+      "content": "I am from tamilnadu",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "TRADING CULTURE",
+      "timestamp_ms": 1730275658235,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730265024458,
+      "content": "Are you an agent ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "TRADING CULTURE",
+      "timestamp_ms": 1730261035659,
+      "content": "Who are regional partners how can I join and what are the benefits and what is my role ? Do I have monthly salary or like bonus",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "TRADING CULTURE",
+  "is_still_participant": true,
+  "thread_path": "inbox/tradingculture_18026220224591014",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Son_of_RamS"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715608743133,
+      "content": "9032114737\nYou can talk to Bharath, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Son_of_RamS",
+      "timestamp_ms": 1715605797074,
+      "content": "Yesss",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Son_of_RamS",
+      "timestamp_ms": 1715605796162,
+      "content": "Son_of_RamS sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C4j3HBRt6Vt/?id=3324743324894995821_47651711013",
+        "share_text": "9032114737\n\nPlease call Bharath, from the team.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Son_of_RamS",
+  "is_still_participant": true,
+  "thread_path": "inbox/son_of_rams_1343478757043115",
+  "magic_words": [
+    
+  ]
+}

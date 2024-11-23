@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Sumanth Lingala"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719328787463,
+      "content": "Hi, currently we only list Telangana. \nWe'll start Karnataka soon. Will keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sumanth Lingala",
+      "timestamp_ms": 1719325094172,
+      "content": "Can you let me know if any lands available",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sumanth Lingala",
+      "timestamp_ms": 1719325086125,
+      "content": "https://maps.app.goo.gl/TtcsCm9HVxucz8Yo9?g_st=iw",
+      "share": {
+        "link": "https://maps.app.goo.gl/TtcsCm9HVxucz8Yo9?g_st=iw",
+        "share_text": "https://maps.app.goo.gl/TtcsCm9HVxucz8Yo9?g_st=iw"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sumanth Lingala",
+      "timestamp_ms": 1719325062814,
+      "content": "I am looking for land around this area",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sumanth Lingala",
+      "timestamp_ms": 1719325055800,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sumanth Lingala",
+  "is_still_participant": true,
+  "thread_path": "inbox/sumanthlingala_1474949873902444",
+  "magic_words": [
+    
+  ]
+}

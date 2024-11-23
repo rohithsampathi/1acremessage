@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Pranav Kiran"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716304154185,
+      "content": "Please contact Vijay\n9959994737, in case you need details.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716304123653,
+      "content": "Yavatmal, Maharashtra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pranav Kiran",
+      "timestamp_ms": 1716301787337,
+      "content": "Where is thisv",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pranav Kiran",
+      "timestamp_ms": 1716301786752,
+      "content": "Pranav sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C7InZjuKaVo/?id=3371117601243112808_47651711013",
+        "share_text": "Further:\n15km away from the Upcoming Nagpur-Goa Shakthipeeth expressway. \nA new railway line between Nagpur and Nanded is underway. \n\n10 Acres - 1.5Cr\n\nThis transaction is facilitated by 1acre.in, till the process of registration. \nIf you are interested in buying, \nContact: 9959994737\n\n#1acre #1acre.in #beauty #landscapephotography",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Pranav Kiran",
+  "is_still_participant": true,
+  "thread_path": "inbox/pranavkiran_982804623285649",
+  "magic_words": [
+    
+  ]
+}

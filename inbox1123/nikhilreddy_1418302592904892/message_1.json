@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Nikhil Reddy\u00f0\u009f\u0098\u008e"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nikhil Reddy\u00f0\u009f\u0098\u008e",
+      "timestamp_ms": 1718809969952,
+      "content": "Hello,I am interested in this job,can I know further details about ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nikhil Reddy\u00f0\u009f\u0098\u008e",
+      "timestamp_ms": 1718809969574,
+      "content": "Nikhil sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C4i6bwFSdhZ/?id=3324476468704696409_47651711013",
+        "share_text": "9032114737\n\nPlease call Bharath, from the team.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nikhil Reddy\u00f0\u009f\u0098\u008e",
+  "is_still_participant": true,
+  "thread_path": "inbox/nikhilreddy_1418302592904892",
+  "magic_words": [
+    
+  ]
+}

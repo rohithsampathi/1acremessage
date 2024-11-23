@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "mohdabrarali"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701355096397,
+      "content": "Hi , for more details please visit our website :https://www.1acre.in/, contact:7780122120",
+      "share": {
+        "link": "https://www.1acre.in/",
+        "share_text": "Hi , for more details please visit our website :https://www.1acre.in/, contact:7780122120"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "mohdabrarali",
+      "timestamp_ms": 1701332767649,
+      "content": "How many square yard in 6 lakhs",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "mohdabrarali",
+  "is_still_participant": true,
+  "thread_path": "inbox/mohdabrarali_1227446608658678",
+  "magic_words": [
+    
+  ]
+}

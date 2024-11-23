@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Abhishek singh ( bittu)"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717332660540,
+      "content": "Hi, currently no such. \nWe'll be launching in other states soon.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhishek singh ( bittu)",
+      "timestamp_ms": 1717329846023,
+      "content": "Sir can you suggest website or channel like 1acre for gujrat",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Abhishek singh ( bittu)",
+  "is_still_participant": true,
+  "thread_path": "inbox/abhisheksinghbittu_1345300746860598",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Hiren Gadhiya"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718357301227,
+      "content": "We don't promote. It's the lands where we facilitate transaction.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hiren Gadhiya",
+      "timestamp_ms": 1718355937418,
+      "content": "1 reels charge",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hiren Gadhiya",
+      "timestamp_ms": 1718355933408,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Hiren Gadhiya",
+  "is_still_participant": true,
+  "thread_path": "inbox/hirengadhiya_1461621045238186",
+  "magic_words": [
+    
+  ]
+}

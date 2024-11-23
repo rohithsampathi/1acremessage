@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Dheeraj Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730443067887,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dheeraj Reddy",
+      "timestamp_ms": 1730439225037,
+      "content": "For plot in leonia resort",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dheeraj Reddy",
+      "timestamp_ms": 1730439219035,
+      "content": "Hello looking",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703996431431,
+      "content": "you can connect with pratheek, 9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dheeraj Reddy",
+      "timestamp_ms": 1703921067122,
+      "content": "I\u00e2\u0080\u0099m looking for some acres below 30 lakhs near Hyderabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dheeraj Reddy",
+      "timestamp_ms": 1703921053612,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Dheeraj Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/dheerajreddy_1330345418359899",
+  "magic_words": [
+    
+  ]
+}

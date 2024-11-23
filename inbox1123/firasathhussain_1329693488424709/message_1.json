@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Firasath Hussain"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710976392148,
+      "content": "Please contact Ramakrishna \n7780122120, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710976364797,
+      "content": "Hi, it's all free.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Firasath Hussain",
+      "timestamp_ms": 1710966543087,
+      "content": "Hello, I have a few properties to sell, can I post an ad for free or do I have to pay for it?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Firasath Hussain",
+  "is_still_participant": true,
+  "thread_path": "inbox/firasathhussain_1329693488424709",
+  "magic_words": [
+    
+  ]
+}

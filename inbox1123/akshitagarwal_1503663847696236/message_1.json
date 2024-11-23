@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Akshit Agarwal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Akshit Agarwal",
+      "timestamp_ms": 1725458316350,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725458212501,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akshit Agarwal",
+      "timestamp_ms": 1725456447203,
+      "content": "Hello. Could you tell me the price for the 1000 yards land in leonia?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Akshit Agarwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/akshitagarwal_1503663847696236",
+  "magic_words": [
+    
+  ]
+}

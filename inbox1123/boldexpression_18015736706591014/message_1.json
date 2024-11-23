@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Bold Expression"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bold Expression",
+      "timestamp_ms": 1722958180380,
+      "content": "Hey !",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bold Expression",
+      "timestamp_ms": 1722958174528,
+      "content": "Hello \u00f0\u009f\u0098\u0083\n\nI'm excited to offer my expert video editing services to help you create captivating reels that showcase your brand's story and style. With my skills and attention to detail, I can transform your footage into engaging, high-quality content that resonates with your audience.\n\nMy services include:\n\n- Reel editing (15-second to 60-second videos)\n- Color correction and grading\n- Visual effects and motion graphics\n- Sound design and music editing\n- Final output in various formats (Instagram, TikTok, YouTube, etc.)\n\nLet's collaborate to create stunning reels that elevate your brand's online presence. Please share your project details, and let's get started!\"\n\nFeel free to customize this pitch to fit your style and services.\n\n\nThanks you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bold Expression",
+      "timestamp_ms": 1722954679690,
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Bold Expression",
+  "is_still_participant": true,
+  "thread_path": "inbox/boldexpression_18015736706591014",
+  "magic_words": [
+    
+  ]
+}

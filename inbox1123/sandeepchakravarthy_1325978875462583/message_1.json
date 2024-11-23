@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Sandeep Chakravarthy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706759787832,
+      "content": "Sure. Very soon. Thank you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sandeep Chakravarthy",
+      "timestamp_ms": 1706739919012,
+      "content": "Please start this in Vijayawada",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sandeep Chakravarthy",
+  "is_still_participant": true,
+  "thread_path": "inbox/sandeepchakravarthy_1325978875462583",
+  "magic_words": [
+    
+  ]
+}

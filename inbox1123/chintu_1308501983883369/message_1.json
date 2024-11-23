@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Chin Tu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717606342949,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chin Tu",
+      "timestamp_ms": 1717605305745,
+      "content": "I have a client  who can buy 9.17 acre of fully developed venture at Shamirpet need some time of yours to discuss more on this",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708707851510,
+      "content": "Thanks. Please let us know how we can help you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chin Tu",
+      "timestamp_ms": 1708707851169,
+      "content": "Not now",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706691684969,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chin Tu",
+      "timestamp_ms": 1706675040756,
+      "content": "Price",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Chin Tu",
+  "is_still_participant": true,
+  "thread_path": "inbox/chintu_1308501983883369",
+  "magic_words": [
+    
+  ]
+}

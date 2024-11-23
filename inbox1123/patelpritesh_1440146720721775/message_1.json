@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Patel Pritesh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729239785249,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Patel Pritesh",
+      "timestamp_ms": 1726726770694,
+      "content": "Please get back to me on 8758062099",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Patel Pritesh",
+      "timestamp_ms": 1726726751067,
+      "content": "I am interested in franchise in Gujarat",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726726725198,
+      "content": "Our team will get back to you shortly \u00f0\u009f\u0099\u0082",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Patel Pritesh",
+      "timestamp_ms": 1726726716671,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Patel Pritesh",
+  "is_still_participant": true,
+  "thread_path": "inbox/patelpritesh_1440146720721775",
+  "magic_words": [
+    
+  ]
+}

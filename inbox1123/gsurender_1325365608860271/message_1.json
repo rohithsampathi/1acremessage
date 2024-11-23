@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "G Surender"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704380643666,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "G Surender",
+      "timestamp_ms": 1704379682737,
+      "content": "I'm interested to buy a land in Mancherial district Area",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "G Surender",
+  "is_still_participant": true,
+  "thread_path": "inbox/gsurender_1325365608860271",
+  "magic_words": [
+    
+  ]
+}

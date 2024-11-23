@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Tarun Makhni"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718836401281,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tarun Makhni",
+      "timestamp_ms": 1718825253853,
+      "content": "Interested in 4 acre land on Bengaluru highway.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Tarun Makhni",
+  "is_still_participant": true,
+  "thread_path": "inbox/tarunmakhni_1346864580036220",
+  "magic_words": [
+    
+  ]
+}

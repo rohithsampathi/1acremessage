@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Manvir Saluja"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724109243661,
+      "content": "Yes?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manvir Saluja",
+      "timestamp_ms": 1724090913921,
+      "content": "Manvir sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C-u0xxlMOPn/?id=3435915684640515047_47651711013",
+        "share_text": "Are you looking for large land parcels for investment in Hyderabad Market?\n\n1acre.in Mapview shows 3000+ verified land parcels in Telangana, Andhra Pradesh, Karnataka and Maharashtra.\n\nUse it to:\n1. Review local market data\n2. Compare land prices objectively\n3. Observe potential growth areas\n\nAccess organized land information to support your investment research.\nLearn more: https://www.1acre.in/subscribe\n\n#RealEstateInvestmentTrust #LandData #HyderabadRealEstate #InvestmentResearch #LandParcels #1acre #PropertyMarket #LandBanking #MarketAnalysis #InvestmentDueDiligence #RealEstateFinance #UrbanDevelopment #LandValuation #GeoSpatialData #HyderabadProperty",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Manvir Saluja",
+  "is_still_participant": true,
+  "thread_path": "inbox/manvirsaluja_1476463187087978",
+  "magic_words": [
+    
+  ]
+}

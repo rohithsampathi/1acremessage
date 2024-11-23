@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "\u00ce\u009b\u00d0\u00af\u00d0\u00a6\u00d0\u009f \u00d0\u00af\u00ce\u00a3DDY"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00ce\u009b\u00d0\u00af\u00d0\u00a6\u00d0\u009f \u00d0\u00af\u00ce\u00a3DDY",
+      "timestamp_ms": 1708616537330,
+      "content": "Okay\nI will connect with him \nThank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708616470518,
+      "content": "Hi, Please contact Ramakrishna \n7780122120, from the team. He'll help you with the listing.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00ce\u009b\u00d0\u00af\u00d0\u00a6\u00d0\u009f \u00d0\u00af\u00ce\u00a3DDY",
+      "timestamp_ms": 1708605449868,
+      "content": "Hi\nGood Evening \nI have a 2 acres land for sale near mall - Marriguda road. Water source is available. Proposed RRR south is 2kms away from the land. Please let me know how can we work on this deal",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00ce\u009b\u00d0\u00af\u00d0\u00a6\u00d0\u009f \u00d0\u00af\u00ce\u00a3DDY",
+  "is_still_participant": true,
+  "thread_path": "inbox/lacpasddy_1240156577372079",
+  "magic_words": [
+    
+  ]
+}

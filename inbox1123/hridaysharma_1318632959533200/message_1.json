@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Hriday Sharma"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Hriday Sharma",
+      "timestamp_ms": 1704878014415,
+      "content": "Ok sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704875380302,
+      "content": "https://www.1acre.in/subscribe\n\nPlease go through and fill in the form at the end of the page. We'll get back to you.",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "https://www.1acre.in/subscribe\n\nPlease go through and fill in the form at the end of the page. We'll get back to you."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hriday Sharma",
+      "timestamp_ms": 1704874138813,
+      "content": "Hello I am sumantyr, looking for half acre or one acre in the budget of 10 to 15 lakhs. Please let me know if any are available.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Hriday Sharma",
+  "is_still_participant": true,
+  "thread_path": "inbox/hridaysharma_1318632959533200",
+  "magic_words": [
+    
+  ]
+}

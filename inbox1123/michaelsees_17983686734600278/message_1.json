@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Michael see's"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702781097004,
+      "content": "You can contact to Pratheek  9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Michael see's",
+      "timestamp_ms": 1702754066689,
+      "content": "My name in Mrinaal kummar, I would like to know more about how your company works ,",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701488909544,
+      "content": "Hy how can we help you?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Michael see's",
+      "timestamp_ms": 1701410818968,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Michael see's",
+  "is_still_participant": true,
+  "thread_path": "inbox/michaelsees_17983686734600278",
+  "magic_words": [
+    
+  ]
+}

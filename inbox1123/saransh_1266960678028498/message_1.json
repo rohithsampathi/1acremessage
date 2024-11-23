@@ -1,0 +1,65 @@
+{
+  "participants": [
+    {
+      "name": "Saransh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728441661997,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Saransh",
+      "timestamp_ms": 1728415051280,
+      "content": "Hi i am interested in the 1200 sqyards moinabad land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717591881008,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717591880897,
+      "content": "You sent a private reply to a comment on your Instagram post.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706691937459,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Saransh",
+      "timestamp_ms": 1706645086919,
+      "content": "Please share more details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Saransh",
+      "timestamp_ms": 1706645078343,
+      "content": "Interested",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Saransh",
+      "timestamp_ms": 1706645070291,
+      "content": "Saransh sent an attachment.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Saransh",
+  "is_still_participant": true,
+  "thread_path": "inbox/saransh_1266960678028498",
+  "magic_words": [
+    
+  ]
+}

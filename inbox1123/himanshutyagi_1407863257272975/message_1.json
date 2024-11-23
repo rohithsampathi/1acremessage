@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Himanshu Tyagi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Himanshu Tyagi",
+      "timestamp_ms": 1718866356616,
+      "content": "Ok thank you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718813184179,
+      "content": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Himanshu Tyagi",
+      "timestamp_ms": 1718810512293,
+      "content": "Village churiyala mohanpur \nBest for farming and farm house",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Himanshu Tyagi",
+      "timestamp_ms": 1718810483073,
+      "content": "It's in uttrakhand",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Himanshu Tyagi",
+      "timestamp_ms": 1718810477380,
+      "content": "Asking is 1 cr per acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Himanshu Tyagi",
+      "timestamp_ms": 1718810450217,
+      "content": "It's 10 acres",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Himanshu Tyagi",
+      "timestamp_ms": 1718810445432,
+      "content": "Hi we want to sell a land in village",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Himanshu Tyagi",
+  "is_still_participant": true,
+  "thread_path": "inbox/himanshutyagi_1407863257272975",
+  "magic_words": [
+    
+  ]
+}

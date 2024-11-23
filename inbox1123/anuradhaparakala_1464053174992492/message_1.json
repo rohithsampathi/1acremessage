@@ -1,0 +1,63 @@
+{
+  "participants": [
+    {
+      "name": "Anuradha Parakala"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720358915254,
+      "content": "We are a lisitng platform for verified lands. You can call the sellers directly.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720358888873,
+      "content": "1acre.in\n\nKindly explore.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "1acre.in\n\nKindly explore."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anuradha Parakala",
+      "timestamp_ms": 1720358658258,
+      "content": "What are the cheapest options you have (budget 20-30Lacs)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anuradha Parakala",
+      "timestamp_ms": 1720358636638,
+      "content": "That was expensive on second thoughts",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720358610176,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720358609169,
+      "content": "Hi, Please contact Vijay 9959994737, from the team.  He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anuradha Parakala",
+      "timestamp_ms": 1720357532059,
+      "content": "Manchirevula - plot info",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Anuradha Parakala",
+  "is_still_participant": true,
+  "thread_path": "inbox/anuradhaparakala_1464053174992492",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Bathini Prabath"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716197133934,
+      "content": "Hi, Please talk to Vijay\n9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bathini Prabath",
+      "timestamp_ms": 1716195896387,
+      "content": "I am interested to buy",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bathini Prabath",
+      "timestamp_ms": 1716195886405,
+      "content": "Hello hai",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Bathini Prabath",
+  "is_still_participant": true,
+  "thread_path": "inbox/bathiniprabath_1418279246236288",
+  "magic_words": [
+    
+  ]
+}

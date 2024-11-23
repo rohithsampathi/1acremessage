@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Ganeshyadav"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715582218852,
+      "content": "9032114737\nYou can talk to Bharath, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ganeshyadav",
+      "timestamp_ms": 1715582047963,
+      "content": "Hy",
+      "share": {
+        "link": "https://www.instagram.com/p/C4j3HBRt6Vt/"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ganeshyadav",
+  "is_still_participant": true,
+  "thread_path": "inbox/ganeshyadav_1200301194686145",
+  "magic_words": [
+    
+  ]
+}

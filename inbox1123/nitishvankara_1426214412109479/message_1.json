@@ -1,0 +1,96 @@
+{
+  "participants": [
+    {
+      "name": "Nitish Vankara"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nitish Vankara",
+      "timestamp_ms": 1719220729375,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719220510113,
+      "content": "Hi, we are currently in Telangana. \nLaunching Andhra soon. Will keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nitish Vankara",
+      "timestamp_ms": 1719218640915,
+      "content": "?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nitish Vankara",
+      "timestamp_ms": 1719216518798,
+      "content": "It is a 2.5 acre layout",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nitish Vankara",
+      "timestamp_ms": 1719216480160,
+      "content": "Per plot it cost from 2 lakhs to 4 lakhs depending on the location in the layout",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nitish Vankara",
+      "timestamp_ms": 1719216426414,
+      "content": "It is sold as a layout",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nitish Vankara",
+      "timestamp_ms": 1719216415495,
+      "content": "Andhra Pradesh",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nitish Vankara",
+      "timestamp_ms": 1719216411162,
+      "content": "The location is in vijayanagaram",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nitish Vankara",
+      "timestamp_ms": 1719216402673,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718950638271,
+      "content": "Could you tell us \nLocation \nExtent and price?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718950625476,
+      "content": "Hi, thanks for reaching out.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nitish Vankara",
+      "timestamp_ms": 1718946316814,
+      "content": "I have a land for sale in Andhra Pradesh",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nitish Vankara",
+      "timestamp_ms": 1718946301441,
+      "content": "Hey",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nitish Vankara",
+  "is_still_participant": true,
+  "thread_path": "inbox/nitishvankara_1426214412109479",
+  "magic_words": [
+    
+  ]
+}

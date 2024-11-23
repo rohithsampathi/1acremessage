@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Suman Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1696573951675,
+      "content": "contact to this number they gonna help you out (+91 80744 50533) Vijay 1acre.in",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Suman Kumar",
+      "timestamp_ms": 1696489236968,
+      "content": "Can you let me know your terms & conditions",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Suman Kumar",
+      "timestamp_ms": 1696489219596,
+      "content": "We have our agriculture land for sale",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Suman Kumar",
+      "timestamp_ms": 1696489200553,
+      "content": "Hi 1acre team",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Suman Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/sumankumar_1244952246905621",
+  "magic_words": [
+    
+  ]
+}

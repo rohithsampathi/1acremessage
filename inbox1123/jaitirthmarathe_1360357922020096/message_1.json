@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "jaitirth marathe"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "jaitirth marathe",
+      "timestamp_ms": 1720182547865,
+      "content": "And If I help you to get properties In maharashtra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720176323168,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "jaitirth marathe",
+      "timestamp_ms": 1720175767893,
+      "content": "In dhule",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "jaitirth marathe",
+      "timestamp_ms": 1720175764783,
+      "content": "Hey I am looking for land in maharashtra",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "jaitirth marathe",
+  "is_still_participant": true,
+  "thread_path": "inbox/jaitirthmarathe_1360357922020096",
+  "magic_words": [
+    
+  ]
+}

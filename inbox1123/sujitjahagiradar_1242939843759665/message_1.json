@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Sujit Jahagiradar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708735817469,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sujit Jahagiradar",
+      "timestamp_ms": 1708722146948,
+      "content": "Hello, I'd love to learn more about the land Bank project",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sujit Jahagiradar",
+  "is_still_participant": true,
+  "thread_path": "inbox/sujitjahagiradar_1242939843759665",
+  "magic_words": [
+    
+  ]
+}

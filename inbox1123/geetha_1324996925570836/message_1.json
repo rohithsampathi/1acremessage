@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "geetha"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "geetha",
+      "timestamp_ms": 1720100278474,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720098230295,
+      "content": "Sorry we are selling this land as an entire lot. \n\nWe will list more lands from Maharashtra soon on 1acre.in and you can explore then.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Sorry we are selling this land as an entire lot. \n\nWe will list more lands from Maharashtra soon on 1acre.in and you can explore then."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "geetha",
+      "timestamp_ms": 1720096485202,
+      "content": "Can we buy 2-3 acres?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "geetha",
+      "timestamp_ms": 1720096477897,
+      "content": "Hi Team\n\nRecently saw a reel where 7lakh per acre near yawatmal",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "geetha",
+  "is_still_participant": true,
+  "thread_path": "inbox/geetha_1324996925570836",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "iyer@1616"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721385225121,
+      "content": "Hi, Please contact Bharath \n7780122120",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "iyer@1616",
+      "timestamp_ms": 1721384144297,
+      "content": "Tg sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721361950397,
+      "content": "Which state?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "iyer@1616",
+      "timestamp_ms": 1721360574334,
+      "content": "How to create accont sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721319794914,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "iyer@1616",
+      "timestamp_ms": 1721318405904,
+      "content": "Hii sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "iyer@1616",
+  "is_still_participant": true,
+  "thread_path": "inbox/iyer1616_1469899194410206",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "YASER RUMI"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730443493175,
+      "content": "Sorry we dont promote any ventures",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "YASER RUMI",
+      "timestamp_ms": 1730406395920,
+      "content": "I want to promote my venture ,how much the cost for the venture promotion?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "YASER RUMI",
+      "timestamp_ms": 1730313889687,
+      "content": "Hello sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "YASER RUMI",
+  "is_still_participant": true,
+  "thread_path": "inbox/yaserrumi_18026303249591014",
+  "magic_words": [
+    
+  ]
+}

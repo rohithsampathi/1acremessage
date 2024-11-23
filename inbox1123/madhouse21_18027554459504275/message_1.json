@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "madhouse21"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717586093375,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "madhouse21",
+      "timestamp_ms": 1717585115419,
+      "content": "I can call on this number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "madhouse21",
+      "timestamp_ms": 1717583745641,
+      "content": "My contact number is +919686352130 . Drop a text or call . So I can explain better",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717583736795,
+      "content": "Please talk to Ratna Kiran \n9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "madhouse21",
+      "timestamp_ms": 1717583667931,
+      "content": "I'm looking at multiple locations",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "madhouse21",
+      "timestamp_ms": 1717583649196,
+      "content": "The state is not a problem",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717583624341,
+      "content": "Hi, we are a listing platform for verified lands, currently listing only Telangana. \nWe'll start listing Karnataka soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "madhouse21",
+      "timestamp_ms": 1717583475957,
+      "content": "Looking at multiple properties for investment. Based off Bangalore",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717583414767,
+      "content": "May I know what you are looking for?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "madhouse21",
+      "timestamp_ms": 1717583378992,
+      "content": "Contact details",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "madhouse21",
+  "is_still_participant": true,
+  "thread_path": "inbox/madhouse21_18027554459504275",
+  "magic_words": [
+    
+  ]
+}

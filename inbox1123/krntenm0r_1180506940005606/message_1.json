@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Kr@nt\u00c2\u00a1$EN M0r\u00e2\u0082\u00ac"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719152890861,
+      "content": "Yes?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kr@nt\u00c2\u00a1$EN M0r\u00e2\u0082\u00ac",
+      "timestamp_ms": 1719145118747,
+      "content": ".",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kr@nt\u00c2\u00a1$EN M0r\u00e2\u0082\u00ac",
+  "is_still_participant": true,
+  "thread_path": "inbox/krntenm0r_1180506940005606",
+  "magic_words": [
+    
+  ]
+}

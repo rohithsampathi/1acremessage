@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "PK Sinha"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716703241274,
+      "content": "Hi, thanks for reaching out. \nWould advise you to first go through 1acre.in website and check all the lands. If you like any land, you can call the sellers directly.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, thanks for reaching out. \nWould advise you to first go through 1acre.in website and check all the lands. If you like any land, you can call the sellers directly."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "PK Sinha",
+      "timestamp_ms": 1716702884110,
+      "content": "It can be of any size to a maximum of 1-2 acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "PK Sinha",
+      "timestamp_ms": 1716702852120,
+      "content": "My location preference is totally flexible",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "PK Sinha",
+      "timestamp_ms": 1716702802580,
+      "content": "Hi, looking for budget farming land around hyderabad.. if you can help pls",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "PK Sinha",
+      "timestamp_ms": 1716394320011,
+      "content": "Can I get details",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3251801253210556633"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "PK Sinha",
+  "is_still_participant": true,
+  "thread_path": "inbox/pksinha_18006395579591014",
+  "magic_words": [
+    
+  ]
+}

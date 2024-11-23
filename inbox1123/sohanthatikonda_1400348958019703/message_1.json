@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Sohan Thatikonda"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sohan Thatikonda",
+      "timestamp_ms": 1725724947500,
+      "content": "Cool",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725724287278,
+      "content": "Monday would be a good \nAnytime between 10am to 6pm",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sohan Thatikonda",
+      "timestamp_ms": 1725721375649,
+      "content": "Sure\nWhen is the right time to talk/call?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725719939432,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sohan Thatikonda",
+      "timestamp_ms": 1725719226046,
+      "content": "How can we take it further?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sohan Thatikonda",
+      "timestamp_ms": 1725719218564,
+      "content": "We have 2 properties for sale",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sohan Thatikonda",
+      "timestamp_ms": 1725719211799,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sohan Thatikonda",
+  "is_still_participant": true,
+  "thread_path": "inbox/sohanthatikonda_1400348958019703",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Ps Bhongir"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721285666063,
+      "content": "Hi, Please talk to Sandeep 9005464412, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ps Bhongir",
+      "timestamp_ms": 1721283153808,
+      "content": "Hi",
+      "share": {
+        "link": "https://www.instagram.com/p/C9UBKzVt_9s/"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ps Bhongir",
+  "is_still_participant": true,
+  "thread_path": "inbox/psbhongir_1481211039945145",
+  "magic_words": [
+    
+  ]
+}

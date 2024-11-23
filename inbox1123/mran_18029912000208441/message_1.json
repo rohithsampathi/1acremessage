@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009f\u0091\u0091\u00d8\u00b9\u00d9\u0085\u00d8\u00b1\u00d8\u00a7\u00d9\u0086"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725408481822,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u0091\u0091\u00d8\u00b9\u00d9\u0085\u00d8\u00b1\u00d8\u00a7\u00d9\u0086",
+      "timestamp_ms": 1725393600837,
+      "content": "\u00e2\u0080\u008e\u00f0\u009f\u0091\u0091\u00d8\u00b9\u00d9\u0085\u00d8\u00b1\u00d8\u00a7\u00d9\u0086\u00e2\u0080\u008e sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C_K-vgtyi8u/?id=3443840808905223982_47651711013",
+        "share_text": "\u00e2\u0080\u009c500 Sq Yds in Dollar Hills, Manikonda | \u00e2\u0082\u00b91.10 Lakh per Sq Yd | Link in bio \u00f0\u009f\u008c\u009f\n\nVerified and facilitated by 1acre.in \u00e2\u009c\u0085\n\n\u00f0\u009f\u0093\u008d  Property Specs:\n\n - 40 feet access road\n - Located in the west part of Hyderabad and inside ORR\n - South facing plot with good elevation\n \nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 8341149011\n\nDM us for more queries on buying, selling, or partnerships. \n\n#landforsale #manikonda #propertyforsale #realestate #hyderabad #plot\u00e2\u0080\u009d",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00e2\u0080\u008e\u00f0\u009f\u0091\u0091\u00d8\u00b9\u00d9\u0085\u00d8\u00b1\u00d8\u00a7\u00d9\u0086\u00e2\u0080\u008e",
+  "is_still_participant": true,
+  "thread_path": "inbox/mran_18029912000208441",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Mohd___09"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722423035967,
+      "content": "You can visit our website where you can check various lands prices nearby your area and you can estimate what price to be quotes for your land. \n\nYou can subscribe to our mapview to get much more clear understanding and price it better.\n\nHope this helps :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohd___09",
+      "timestamp_ms": 1722421482609,
+      "content": "Can you guys help in getting correct actual estimated valuation of particular building or land in hyderabad location",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohd___09",
+      "timestamp_ms": 1722421436050,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mohd___09",
+  "is_still_participant": true,
+  "thread_path": "inbox/mohd___09_1324139172324252",
+  "magic_words": [
+    
+  ]
+}

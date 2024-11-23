@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Karthik MS"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720259087085,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720259086434,
+      "content": "You sent a private reply to a comment on your Instagram post.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Karthik MS",
+  "is_still_participant": true,
+  "thread_path": "inbox/karthikms_1408479813879587",
+  "magic_words": [
+    
+  ]
+}

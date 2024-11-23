@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "P Mayur Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704387561925,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "P Mayur Kumar",
+      "timestamp_ms": 1704381708184,
+      "content": "How I can associate with you I work with one company from first 9 years we have ventures in all highways",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "P Mayur Kumar",
+      "timestamp_ms": 1704381677015,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "P Mayur Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/pmayurkumar_1314170803308984",
+  "magic_words": [
+    
+  ]
+}

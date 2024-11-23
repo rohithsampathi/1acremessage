@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Nitesh Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721234254565,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721234253523,
+      "content": "Hi, Please contact Vijay 9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nitesh Reddy",
+      "timestamp_ms": 1721229944424,
+      "content": "Can you please share the location details of 6.5 acres land near Shamshabad",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nitesh Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/niteshreddy_1431877638203079",
+  "magic_words": [
+    
+  ]
+}

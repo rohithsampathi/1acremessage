@@ -1,0 +1,85 @@
+{
+  "participants": [
+    {
+      "name": "saiwinay"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "saiwinay",
+      "timestamp_ms": 1722277300915,
+      "content": "Thank you!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722250686477,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "saiwinay",
+      "timestamp_ms": 1722250339909,
+      "content": "Can you send more details about gopanpally plots",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "saiwinay",
+      "timestamp_ms": 1701865478671,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701864441465,
+      "content": "Our team will connect with you shortly.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "saiwinay",
+          "timestamp": 1701865478
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "saiwinay",
+      "timestamp_ms": 1701863448173,
+      "content": "9160530454",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701863393792,
+      "content": "Can we have your contact number our team will connect with you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "saiwinay",
+      "timestamp_ms": 1701764316070,
+      "content": "And less than 500 mts to blacktop road",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "saiwinay",
+      "timestamp_ms": 1701764295802,
+      "content": "Should be with in 5KM from the main highway",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "saiwinay",
+      "timestamp_ms": 1701764281938,
+      "content": "Looking for farm lands on vijaywada/warangal/Sagar/keesara highway",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "saiwinay",
+  "is_still_participant": true,
+  "thread_path": "inbox/saiwinay_1250008366390822",
+  "magic_words": [
+    
+  ]
+}

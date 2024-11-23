@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "solmom"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1699700421598,
+      "content": "Hi Solomon , you can connect with Pratheek  9505778117, he can guide you with your enquiry, thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "solmom",
+      "timestamp_ms": 1699699492118,
+      "content": "I want to talk to you... Regarding property... Kind me send your contact number",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "solmom",
+  "is_still_participant": true,
+  "thread_path": "inbox/solmom_1276935600369213",
+  "magic_words": [
+    
+  ]
+}

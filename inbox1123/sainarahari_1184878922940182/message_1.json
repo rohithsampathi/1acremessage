@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "SaiNarahari"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "SaiNarahari",
+      "timestamp_ms": 1721395228981,
+      "content": "Ok sure :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721374448863,
+      "content": "Hi, Please talk to Sandeep 9005464412, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SaiNarahari",
+      "timestamp_ms": 1721371981062,
+      "content": "Hello, I am Sai Narahari looking forward to connect and I really like to work with you from now grow together. I can bring young energy and work hard with my connections to raise funds.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "SaiNarahari",
+  "is_still_participant": true,
+  "thread_path": "inbox/sainarahari_1184878922940182",
+  "magic_words": [
+    
+  ]
+}

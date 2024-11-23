@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009f\u008d\u00afbuntyy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00f0\u009f\u008d\u00afbuntyy",
+      "timestamp_ms": 1724397503388,
+      "content": "9390123178",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724349654832,
+      "content": "Our team will get back to you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724349646519,
+      "content": "charann.goud wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724349645953,
+      "content": "Please share your number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u008d\u00afbuntyy",
+      "timestamp_ms": 1724349420762,
+      "content": "Near ramojifilmcity",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u008d\u00afbuntyy",
+      "timestamp_ms": 1724349403909,
+      "content": "We are an realestate agent",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u008d\u00afbuntyy",
+      "timestamp_ms": 1724349389079,
+      "content": "Sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u008d\u00afbuntyy",
+      "timestamp_ms": 1724349384131,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00f0\u009f\u008d\u00afbuntyy",
+  "is_still_participant": true,
+  "thread_path": "inbox/buntyy_18017729597591014",
+  "magic_words": [
+    
+  ]
+}

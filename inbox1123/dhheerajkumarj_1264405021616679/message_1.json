@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Dhheeraj Kumar J"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dhheeraj Kumar J",
+      "timestamp_ms": 1704386461476,
+      "content": "What\u00e2\u0080\u0099s price in Maharashtra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dhheeraj Kumar J",
+      "timestamp_ms": 1704386456664,
+      "content": "Hey",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Dhheeraj Kumar J",
+  "is_still_participant": true,
+  "thread_path": "inbox/dhheerajkumarj_1264405021616679",
+  "magic_words": [
+    
+  ]
+}

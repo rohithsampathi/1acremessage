@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Drishtant Yadav"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721640072137,
+      "content": "May we know what you are looking for?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Drishtant Yadav",
+      "timestamp_ms": 1721637169233,
+      "content": "Hello brother \nIt\u00e2\u0080\u0099s urgent can we connect",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Drishtant Yadav",
+  "is_still_participant": true,
+  "thread_path": "inbox/drishtantyadav_1438563140870214",
+  "magic_words": [
+    
+  ]
+}

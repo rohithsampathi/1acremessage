@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Sadiq Aghai"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712894309097,
+      "content": "Thanks. We don't market ventures.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sadiq Aghai",
+      "timestamp_ms": 1712855915981,
+      "content": "I want the marketing of my venture on your page",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712824705846,
+      "content": "May I know what you are looking for?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712824688529,
+      "content": "We don't market. If any opportunity is really good for the buyers, then we might send them or make a video.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sadiq Aghai",
+      "timestamp_ms": 1712822926419,
+      "content": "What is the charges for doing the marketing",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sadiq Aghai",
+  "is_still_participant": true,
+  "thread_path": "inbox/sadiqaghai_1382948383103784",
+  "magic_words": [
+    
+  ]
+}

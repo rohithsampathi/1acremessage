@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Shruthi Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shruthi Reddy",
+      "timestamp_ms": 1731765619983,
+      "share": {
+        "link": "https://instagram.com/stories/shruthi_reddy_2615/3502626191977462738"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shruthi Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/shruthireddy_1459645368758232",
+  "magic_words": [
+    
+  ]
+}

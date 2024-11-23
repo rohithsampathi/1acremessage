@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Abdul Bari"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Abdul Bari",
+      "timestamp_ms": 1709716695558,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abdul Bari",
+      "timestamp_ms": 1709716693664,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709716566075,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abdul Bari",
+      "timestamp_ms": 1709704779217,
+      "content": "We can acquire land and provide you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abdul Bari",
+      "timestamp_ms": 1709704753397,
+      "content": "We have also acquired more than 15acres in that area",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abdul Bari",
+      "timestamp_ms": 1709704738256,
+      "content": "We do real estate around Shadnagar mostly near Shadnagar to Pargi road",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abdul Bari",
+      "timestamp_ms": 1709704699155,
+      "content": "Hi Sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Abdul Bari",
+  "is_still_participant": true,
+  "thread_path": "inbox/abdulbari_1348345816566047",
+  "magic_words": [
+    
+  ]
+}

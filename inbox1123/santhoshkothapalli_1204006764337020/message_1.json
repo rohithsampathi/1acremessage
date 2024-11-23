@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "santhoshkothapalli"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704421105515,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "santhoshkothapalli",
+      "timestamp_ms": 1704391086951,
+      "content": "Interested in the 100acre deal with low price range, please let me know the details",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "santhoshkothapalli",
+  "is_still_participant": true,
+  "thread_path": "inbox/santhoshkothapalli_1204006764337020",
+  "magic_words": [
+    
+  ]
+}

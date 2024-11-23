@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Shiva Ram Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shiva Ram Reddy",
+      "timestamp_ms": 1708771639057,
+      "content": "Ok Thank you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708771631509,
+      "content": "1acre.in/logout",
+      "share": {
+        "link": "http://1acre.in/logout",
+        "share_text": "1acre.in/logout"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708771623295,
+      "content": "Meanwhile, could you logout using the link, login back and check.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708771599979,
+      "content": "We'll give you a call, to discuss.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shiva Ram Reddy",
+      "timestamp_ms": 1708771567574,
+      "content": "9818273357",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708771531045,
+      "content": "Hi, Sorry about that. Can we have your number?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shiva Ram Reddy",
+      "timestamp_ms": 1708771398786,
+      "content": "Hi. Hope you're doing well. I took the subscription in the website a week ago. I'm unable to get map view, can you help me with it ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shiva Ram Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/shivaramreddy_1348550363209077",
+  "magic_words": [
+    
+  ]
+}

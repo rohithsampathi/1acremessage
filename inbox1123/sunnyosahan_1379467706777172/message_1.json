@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Sunny Osahan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719191588577,
+      "content": "Otherwise, you can generally explore the site. There are 2600+ verified listings and you can call the sellers directly.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719191550055,
+      "content": "1acre.in/subscribe",
+      "share": {
+        "link": "http://1acre.in/subscribe",
+        "share_text": "1acre.in/subscribe"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719191531189,
+      "content": "Subscription gives you access to the MapView, which will make it easier to find better opportunities.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sunny Osahan",
+      "timestamp_ms": 1719173572111,
+      "content": "Hello I am looking for a land around south Hyderabad, between ORR and RRR boundaries, budget 40 to 50 Lacs, please suggest something best possible size and area.\n\nAlso please explain what all help will be provided with subscription",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sunny Osahan",
+  "is_still_participant": true,
+  "thread_path": "inbox/sunnyosahan_1379467706777172",
+  "magic_words": [
+    
+  ]
+}

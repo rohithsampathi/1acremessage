@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Raghavendra Thadakamadla"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709048852651,
+      "content": "Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raghavendra Thadakamadla",
+      "timestamp_ms": 1709048394249,
+      "content": "I am from siddipet, Land area is  2 endhalf acres near Ranganayaka sagar",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709048181974,
+      "content": "Please tell me a little about Where's the land etc. I'll connect someone from the team accordingly.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raghavendra Thadakamadla",
+      "timestamp_ms": 1709047904587,
+      "content": "Please share the contact number to discuss about the land and all",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709043001044,
+      "content": "Please tell",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raghavendra Thadakamadla",
+      "timestamp_ms": 1709040100964,
+      "content": "I am having one land proposal",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raghavendra Thadakamadla",
+      "timestamp_ms": 1709040034431,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Raghavendra Thadakamadla",
+  "is_still_participant": true,
+  "thread_path": "inbox/raghavendrathadakamadla_1310492707011203",
+  "magic_words": [
+    
+  ]
+}

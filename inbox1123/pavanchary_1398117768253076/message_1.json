@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Pavan Chary"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716174334291,
+      "content": "9032114737\nYou can talk to Bharath, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pavan Chary",
+      "timestamp_ms": 1716170824834,
+      "content": "Hi",
+      "share": {
+        "link": "https://www.instagram.com/p/C4j3HBRt6Vt/"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Pavan Chary",
+  "is_still_participant": true,
+  "thread_path": "inbox/pavanchary_1398117768253076",
+  "magic_words": [
+    
+  ]
+}

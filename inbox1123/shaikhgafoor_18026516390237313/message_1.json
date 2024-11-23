@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Shaikh Gafoor"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723784377418,
+      "content": "Thanks for your interest. \n\nShare your mobile number and resume at sandeep@1acre.in \n\nWe shall assess and get back to you :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shaikh Gafoor",
+      "timestamp_ms": 1723659728112,
+      "content": "Dear 1acre.in Team,\nI recently came across a video on Facebook about job opportunities at your organization. I am very interested in learning more and potentially joining your team. \n\nI am from Raichur, Karnataka, and I believe I have the skills and dedication required for the positions you are offering. Please let me know the next steps and how I can apply.\n\nLooking forward to your response.\n\nBest regards,  \n[Shaik Gafoor]",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Dear 1acre.in Team,\nI recently came across a video on Facebook about job opportunities at your organization. I am very interested in learning more and potentially joining your team. \n\nI am from Raichur, Karnataka, and I believe I have the skills and dedication required for the positions you are offering. Please let me know the next steps and how I can apply.\n\nLooking forward to your response.\n\nBest regards,  \n[Shaik Gafoor]"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720236632087,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shaikh Gafoor",
+  "is_still_participant": true,
+  "thread_path": "inbox/shaikhgafoor_18026516390237313",
+  "magic_words": [
+    
+  ]
+}

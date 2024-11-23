@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Sirigiriharibhushan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1698042838061,
+      "content": "Hello Mr Bhushan , you can contact us on 7780122120",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sirigiriharibhushan",
+      "timestamp_ms": 1697950569771,
+      "content": "Send cell number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sirigiriharibhushan",
+      "timestamp_ms": 1697950556846,
+      "content": "I am from warangal",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sirigiriharibhushan",
+      "timestamp_ms": 1697950522127,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sirigiriharibhushan",
+  "is_still_participant": true,
+  "thread_path": "inbox/sirigiriharibhushan_17979912752591014",
+  "magic_words": [
+    
+  ]
+}

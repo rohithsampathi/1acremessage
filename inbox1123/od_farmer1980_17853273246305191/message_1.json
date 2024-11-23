@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "od_farmer1980"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730256320294,
+      "content": "We have not launched odisha \nWill keep you updated once we launch there",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "od_farmer1980",
+      "timestamp_ms": 1730197983615,
+      "content": "Buyer",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730192701201,
+      "content": "Are you an agent ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "od_farmer1980",
+      "timestamp_ms": 1730162566566,
+      "content": "Do you operate in Odisha. I wanted leads for min. 10 Acre agricultural land near Rourkela, Odisha",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "od_farmer1980",
+  "is_still_participant": true,
+  "thread_path": "inbox/od_farmer1980_17853273246305191",
+  "magic_words": [
+    
+  ]
+}

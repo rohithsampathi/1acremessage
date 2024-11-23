@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Ather Hussain"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ather Hussain",
+      "timestamp_ms": 1726814534860,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726814526067,
+      "content": "Our team will get back to you shortly \u00f0\u009f\u0099\u0082",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Ather Hussain",
+          "timestamp": 1726814534
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ather Hussain",
+      "timestamp_ms": 1726814517122,
+      "content": "Hello sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ather Hussain",
+  "is_still_participant": true,
+  "thread_path": "inbox/atherhussain_18021228248591014",
+  "magic_words": [
+    
+  ]
+}

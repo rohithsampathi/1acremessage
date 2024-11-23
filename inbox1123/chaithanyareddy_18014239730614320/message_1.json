@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Chaithanya Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726484610398,
+      "content": "Hi Mr Chaitanya,\nKindly check out the link below.\n\nhttps://www.1acre.in/verified-plots-for-sale/telangana/medchal-malkajigiri/shamirpet/aliabad/214\n\nFeel free to reach out at +91 8341149011 should you need any other info",
+      "share": {
+        "link": "https://www.1acre.in/verified-plots-for-sale/telangana/medchal-malkajigiri/shamirpet/aliabad/214",
+        "share_text": "Hi Mr Chaitanya,\nKindly check out the link below.\n\nhttps://www.1acre.in/verified-plots-for-sale/telangana/medchal-malkajigiri/shamirpet/aliabad/214\n\nFeel free to reach out at +91 8341149011 should you need any other info"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726450722324,
+      "content": "Chaithanya Reddy replied to an ad. View ad(https://www.instagram.com/p/C_xW-DVsF8Q/)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chaithanya Reddy",
+      "timestamp_ms": 1726450720805,
+      "content": "Hello, Can I get more info on this?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Chaithanya Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/chaithanyareddy_18014239730614320",
+  "magic_words": [
+    
+  ]
+}

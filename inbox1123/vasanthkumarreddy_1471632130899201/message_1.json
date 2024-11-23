@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Vasanth Kumar Reddy !"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723089139805,
+      "content": "Yes?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vasanth Kumar Reddy !",
+      "timestamp_ms": 1723088674721,
+      "content": "Vasanth sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C-SOMpTNXDO/?id=3427864708012929230_47651711013",
+        "share_text": "Land Agents in Andhra Pradesh, 1acre.in offers you an opportunity to access a vast network of potential land buyers. Our platform connects agents like you with thousands of active property seekers.\n\nKey benefits:\n- Access to 50,000+ subscribers actively exploring land opportunities\n- Free listing of your properties, visible to a wide audience\n- Your own profile page, enhancing your digital presence\n\nOur growing community includes serious buyers from Telangana, Andhra Pradesh, Karnataka, and NRIs, all searching for their ideal land investment.\n\nBy joining 1acre.in, you're expanding your reach and connecting with motivated buyers directly. If you're looking to broaden your client base, consider exploring what 1acre.in can offer you.\n\n#LandSales #BuyerNetwork #1acre",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vasanth Kumar Reddy !",
+  "is_still_participant": true,
+  "thread_path": "inbox/vasanthkumarreddy_1471632130899201",
+  "magic_words": [
+    
+  ]
+}

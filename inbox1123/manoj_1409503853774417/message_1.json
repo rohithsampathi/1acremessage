@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Manoj"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719114844108,
+      "content": "9032114737\nYou can talk to Bharath, from the team. He can help you list them on our website 1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "9032114737\nYou can talk to Bharath, from the team. He can help you list them on our website 1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manoj",
+      "timestamp_ms": 1719114107533,
+      "content": "There are two properties.\n\n1. It is in siddipet,thoguta near mallanna Sagar.very near to thoguta police station, and mandal office.18.008394,78.724783 it is completely 2acres price ; 72 Lakhs acre \n\n2. The agricultural land it is in mahbubnagar,near talakondapalli mandal ,venkatapuram village,16.809062,78.341284 it is completely 1.85 acres price ; 70 lakhs acre",
+      "share": {
+        "share_text": "There are two properties.\n\n1. It is in siddipet,thoguta near mallanna Sagar.very near to thoguta police station, and mandal office.18.008394,78.724783 it is completely 2acres price ; 72 Lakhs acre \n\n2. The agricultural land it is in mahbubnagar,near talakondapalli mandal ,venkatapuram village,16.809062,78.341284 it is completely 1.85 acres price ; 70 lakhs acre"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719105083375,
+      "content": "manoj_banapuram wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719105082809,
+      "content": "Could you tell us, \nLocation, extent and price?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manoj",
+      "timestamp_ms": 1719071403973,
+      "content": "I want to sale my agricultural land",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Manoj",
+  "is_still_participant": true,
+  "thread_path": "inbox/manoj_1409503853774417",
+  "magic_words": [
+    
+  ]
+}

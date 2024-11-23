@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Meghana Raju"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705634290880,
+      "content": "Hi, not as of now, but soon.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Meghana Raju",
+      "timestamp_ms": 1705633413281,
+      "content": "Hi, do you deal with lands around banglore? Please note I\u00e2\u0080\u0099m a keen buyer.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Meghana Raju",
+  "is_still_participant": true,
+  "thread_path": "inbox/meghanaraju_1232695091450912",
+  "magic_words": [
+    
+  ]
+}

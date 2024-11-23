@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "B R R"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708334543346,
+      "content": "Please contact Ramakrishna \n7780122120",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708334536309,
+      "content": "You can list it if you want to",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "B R R",
+      "timestamp_ms": 1708331310149,
+      "content": "I had land in adibatla and ravirala",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708331258502,
+      "content": "Hi, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "B R R",
+      "timestamp_ms": 1708330951203,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "B R R",
+  "is_still_participant": true,
+  "thread_path": "inbox/brr_1365984828129549",
+  "magic_words": [
+    
+  ]
+}

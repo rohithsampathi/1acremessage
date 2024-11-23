@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Mohd Sajid Ali"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720240470772,
+      "content": "Sorry. Won't be possible with this one.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohd Sajid Ali",
+      "timestamp_ms": 1720215974906,
+      "content": "Can we purchase one acre?",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3405429436274227402"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mohd Sajid Ali",
+  "is_still_participant": true,
+  "thread_path": "inbox/mohdsajidali_1367805064609784",
+  "magic_words": [
+    
+  ]
+}

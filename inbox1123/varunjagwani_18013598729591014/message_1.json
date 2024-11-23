@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Varun Jagwani"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Varun Jagwani",
+      "timestamp_ms": 1721397502089,
+      "content": "Ok thankyou",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721396856623,
+      "content": "We got a lot of requests from Chattisgarh. We are currently listing Telangana. We'll list other states soon. Will keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Varun Jagwani",
+      "timestamp_ms": 1721396130480,
+      "content": "Any land in Chhattisgarh or near by it?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Varun Jagwani",
+  "is_still_participant": true,
+  "thread_path": "inbox/varunjagwani_18013598729591014",
+  "magic_words": [
+    
+  ]
+}

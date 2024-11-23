@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Devas Tated"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721008310491,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721008309928,
+      "content": "Any further help, you can contact Vijay\n9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721008272367,
+      "content": "Filters like 'Highway-facing lands'",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721008250158,
+      "content": "1acre.in/subscribe\n\nIf you subscribe, you'll get the mapview to all 3000+ verified lands.\nThis week, we are also introducing",
+      "share": {
+        "link": "http://1acre.in/subscribe",
+        "share_text": "1acre.in/subscribe\n\nIf you subscribe, you'll get the mapview to all 3000+ verified lands.\nThis week, we are also introducing"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Devas Tated",
+      "timestamp_ms": 1720967705403,
+      "content": "Preferred area\nBombay High way \nBanglore highway\nOr any other good highway \nBudget:- 5-6 cr\nIf any please share the details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Devas Tated",
+      "timestamp_ms": 1720967645408,
+      "content": "Hello any mainroad 1acre highway bit required",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Devas Tated",
+  "is_still_participant": true,
+  "thread_path": "inbox/devastated_1523484879049518",
+  "magic_words": [
+    
+  ]
+}

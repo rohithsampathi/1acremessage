@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Akhil"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718000725344,
+      "content": "Hi, Thanks for reaching out. \nWe don't market anything.\nPlease talk to Vijay\n9959994737, from the team, to get an idea of what we do. Thanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akhil",
+      "timestamp_ms": 1717999418838,
+      "content": "It\u00e2\u0080\u0099s a pre-launching project \u00ef\u00bf\u00bc",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akhil",
+      "timestamp_ms": 1717999398213,
+      "content": "Hi \nI want to promote my independent simplex houses in Ismail Khanpet please may I get yours contact details and price details \u00ef\u00bf\u00bc",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Akhil",
+  "is_still_participant": true,
+  "thread_path": "inbox/akhil_17982636449682821",
+  "magic_words": [
+    
+  ]
+}

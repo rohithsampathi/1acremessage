@@ -1,0 +1,90 @@
+{
+  "participants": [
+    {
+      "name": "Ashish Vittal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ashish Vittal",
+      "timestamp_ms": 1699594360876,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1699593831789,
+      "content": "And discuss with him your specific details.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1699593813411,
+      "content": "Please call Ratna 7661063355",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ashish Vittal",
+      "timestamp_ms": 1699592988034,
+      "content": "So I asked",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ashish Vittal",
+      "timestamp_ms": 1699592982458,
+      "content": "I'm looking to buy a fram land in Karnataka",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1699586059215,
+      "content": "Why did you ask? Do you have any specific requirement?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1699585382707,
+      "content": "Right now, we are listing properties only in Telangana",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ashish Vittal",
+      "timestamp_ms": 1699555010921,
+      "content": "It's all India or specific location",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1699553721777,
+      "content": "We are an listing platform, we\u00e2\u0080\u0099re people can list there properties for sale and connect with various properties listed in our website",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ashish Vittal",
+      "timestamp_ms": 1699516542060,
+      "content": "Do u guys sell fram land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1699514793319,
+      "content": "Hey, how can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ashish Vittal",
+      "timestamp_ms": 1699514388697,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ashish Vittal",
+  "is_still_participant": true,
+  "thread_path": "inbox/ashishvittal_1290132282386950",
+  "magic_words": [
+    
+  ]
+}

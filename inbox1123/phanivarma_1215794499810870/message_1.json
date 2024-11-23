@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Phani varma"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1696403153299,
+      "content": "+91 80744 50533 Vijay 1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "+91 80744 50533 Vijay 1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Phani varma",
+      "timestamp_ms": 1696151991941,
+      "content": "I want one acre land below 15lac",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Phani varma",
+      "timestamp_ms": 1696151970319,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Phani varma",
+  "is_still_participant": true,
+  "thread_path": "inbox/phanivarma_1215794499810870",
+  "magic_words": [
+    
+  ]
+}

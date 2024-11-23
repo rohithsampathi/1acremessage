@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "panavv"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722917370270,
+      "content": "We do want to understand more about your project, Please share details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722917310833,
+      "content": "Currently we only deal in lands. We do not promote any ventures or villa projects.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "panavv",
+      "timestamp_ms": 1722769862701,
+      "content": "I\u00e2\u0080\u0099m launching a very interesting and unique 1 acre villa project, incredible views. Would your platform perhaps consider finding a beneficial way to express the same! Is that a part of your model? Looking forward to your insight, \nCheers",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722769761789,
+      "content": "How can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722769757025,
+      "content": "Hello \u00f0\u009f\u0091\u008b",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "panavv",
+      "timestamp_ms": 1722766216892,
+      "content": "Hello!",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "panavv",
+  "is_still_participant": true,
+  "thread_path": "inbox/panavv_1385530779502503",
+  "magic_words": [
+    
+  ]
+}

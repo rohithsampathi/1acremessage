@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Hithesh Katta"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Hithesh Katta",
+      "timestamp_ms": 1717322079097,
+      "content": "I want something closer to bangalore surrounded like 100 to 120 kms distance",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717313501063,
+      "content": "+91 91533 65555\nSuresh Raju. A decent agent. You can contact him for lands. Karnataka. Sedam, Yadgir, Gulbarga belt.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hithesh Katta",
+      "timestamp_ms": 1717307984270,
+      "content": "Not that big am looking for around 5 acres bit",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1717311824
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717298763762,
+      "content": "Near Sindhanur, Raichur district.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717298734951,
+      "content": "Currently, we are not operational as a listing platform in Karnataka.\nWe do have one 46 acres land that we are facilitating the entire transaction.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hithesh Katta",
+      "timestamp_ms": 1717293025111,
+      "content": "Do you have any farm lands in karnataka?",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3380895124040532416"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Hithesh Katta",
+  "is_still_participant": true,
+  "thread_path": "inbox/hitheshkatta_1371428164250179",
+  "magic_words": [
+    
+  ]
+}

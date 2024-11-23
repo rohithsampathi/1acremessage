@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "kushal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729131202289,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "kushal",
+      "timestamp_ms": 1729082468686,
+      "content": "Hi I have a land to be sold in munganoor near hyathnagar hyderabad",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "kushal",
+  "is_still_participant": true,
+  "thread_path": "inbox/kushal_1546996276694554",
+  "magic_words": [
+    
+  ]
+}

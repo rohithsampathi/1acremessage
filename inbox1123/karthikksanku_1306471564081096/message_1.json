@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Karthikk Sanku"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706600976195,
+      "content": "Hi, Please contact Pratheek \n9390674324. You can talk to him in detail, about your requirement.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Karthikk Sanku",
+      "timestamp_ms": 1706599578061,
+      "content": "Hello,\n\nI am interested in city lands. Please help",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704380518763,
+      "content": "Hi, Please contact Ratna Kiran \n+91 9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Karthikk Sanku",
+      "timestamp_ms": 1704369584426,
+      "content": "Hello 1acre, \nHowau doing? \nStraight to the point, I cannot buy 100acres in maharashtra at once but I can start with 10 acres. Is it possible?\n\nI am an NRI, living in Belgium. Hope I will find via 1acre.in a smooth n legal way to get some assets.\n\nKr,\nKarthikk",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hello 1acre, \nHowau doing? \nStraight to the point, I cannot buy 100acres in maharashtra at once but I can start with 10 acres. Is it possible?\n\nI am an NRI, living in Belgium. Hope I will find via 1acre.in a smooth n legal way to get some assets.\n\nKr,\nKarthikk"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Karthikk Sanku",
+  "is_still_participant": true,
+  "thread_path": "inbox/karthikksanku_1306471564081096",
+  "magic_words": [
+    
+  ]
+}

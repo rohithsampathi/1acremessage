@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Swetha Karthik"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704380667009,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Swetha Karthik",
+      "timestamp_ms": 1704379913386,
+      "content": "Hi can you provide details on the 100 acre land purchase in maharastra?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Swetha Karthik",
+  "is_still_participant": true,
+  "thread_path": "inbox/swethakarthik_1198439718209532",
+  "magic_words": [
+    
+  ]
+}

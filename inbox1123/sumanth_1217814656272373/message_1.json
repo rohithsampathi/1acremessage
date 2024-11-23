@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Sumanth"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711730788841,
+      "content": "Yes. We on-board if the expectations are close to market rates.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sumanth",
+      "timestamp_ms": 1711730714054,
+      "content": "Hello, can we provide them the price range, I\u00e2\u0080\u0099m looking for and they will find in that specific range ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711730634289,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sumanth",
+      "timestamp_ms": 1711727923750,
+      "content": "Sumanth sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C5Gm4ovS0GL/?id=3334523591915684235_47651711013",
+        "share_text": "\u00f0\u009f\u008c\u009f Introducing Handholding Services! \u00f0\u009f\u00a4\u009d\u00f0\u009f\u0092\u00bc\n\nWelcome to 1acre.in! Did you know that all our listings come to you absolutely free of cost? That\u00e2\u0080\u0099s right! From browsing properties to accessing seller information, it\u00e2\u0080\u0099s all at your fingertips, no charges involved.\n\nHowever, we understand that some buyers seek comprehensive assistance throughout the property acquisition journey. That\u00e2\u0080\u0099s where our Handholding Service comes into play!\n\n\u00f0\u009f\u0091\u0089 With Handholding, you get personalized support from a dedicated team member. From understanding your requirements to scouting the perfect land and guiding you through legal processes, we\u00e2\u0080\u0099re with you every step of the way.\n\n\u00e2\u009c\u00a8 And the best part? We only charge a nominal 2% fee on the transaction value, ensuring quality service tailored to your needs. To ensure commitment and weed out non-serious buyers, we require an initial fee of 50,000.\n\nReady to embark on your property journey with expert guidance? Reach out to us today and let\u00e2\u0080\u0099s get started! \u00f0\u009f\u008f\u00a1\u00f0\u009f\u0092\u00bc #1acreHandholding #ExpertGuidance #PropertyJourney \u00f0\u009f\u008c\u00bf\u00f0\u009f\u0094\u008d",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sumanth",
+  "is_still_participant": true,
+  "thread_path": "inbox/sumanth_1217814656272373",
+  "magic_words": [
+    
+  ]
+}

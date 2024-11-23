@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Devendarreddy Kolipaka"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724824536284,
+      "content": "Plz call this number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Devendarreddy Kolipaka",
+      "timestamp_ms": 1724819886013,
+      "content": "Ela approach kavali mimmalni",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Devendarreddy Kolipaka",
+      "timestamp_ms": 1724819876742,
+      "content": "Naaku oka land vundi, adi sell chedam anukuntunnam",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724050468719,
+      "content": "Hi, Please contact Srikar 8341149011, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Devendarreddy Kolipaka",
+      "timestamp_ms": 1724047469437,
+      "content": "Already sold out?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Devendarreddy Kolipaka",
+      "timestamp_ms": 1724047463685,
+      "content": "Land vunda?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Devendarreddy Kolipaka",
+      "timestamp_ms": 1724047454316,
+      "content": "Mucherla land di konchem interest vundi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Devendarreddy Kolipaka",
+      "timestamp_ms": 1724047432907,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Devendarreddy Kolipaka",
+  "is_still_participant": true,
+  "thread_path": "inbox/devendarreddykolipaka_1505626920834819",
+  "magic_words": [
+    
+  ]
+}

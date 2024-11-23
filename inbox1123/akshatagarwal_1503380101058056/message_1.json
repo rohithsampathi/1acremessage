@@ -1,0 +1,77 @@
+{
+  "participants": [
+    {
+      "name": "Akshat Agarwal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729239727097,
+      "content": "We have digitised most lakes on google maps and now you can check directly. \n\nLink : www.1acre.in/lakes\n\nIf your lake is mentioned on HMDA website and is not there on our website, you can request for it .\n\nWe will digitise it on priority basis",
+      "share": {
+        "link": "http://www.1acre.in/lakes",
+        "share_text": "We have digitised most lakes on google maps and now you can check directly. \n\nLink : www.1acre.in/lakes\n\nIf your lake is mentioned on HMDA website and is not there on our website, you can request for it .\n\nWe will digitise it on priority basis"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akshat Agarwal",
+      "timestamp_ms": 1727668297021,
+      "content": "Plz share contact number of urs",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727613989638,
+      "content": "Sure, we would have to commision a GIS expert to create a FTL map in KML format. We can only help you with it if it's in HMDA limits. He would charge 5000 at cost",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akshat Agarwal",
+      "timestamp_ms": 1727612797577,
+      "content": "You missed a video chat",
+      "call_duration": 0,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akshat Agarwal",
+      "timestamp_ms": 1727612794834,
+      "content": "akshatagarwal300 started a video chat",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akshat Agarwal",
+      "timestamp_ms": 1727612787519,
+      "content": "If it's in lake bed",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akshat Agarwal",
+      "timestamp_ms": 1727612779507,
+      "content": "I want to get survey done of my land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727612761005,
+      "content": "Hello \nHow can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akshat Agarwal",
+      "timestamp_ms": 1727611278982,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Akshat Agarwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/akshatagarwal_1503380101058056",
+  "magic_words": [
+    
+  ]
+}

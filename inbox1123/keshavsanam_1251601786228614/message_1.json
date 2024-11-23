@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Keshav Sanam"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719548310174,
+      "content": "Ratna Kiran \n9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Keshav Sanam",
+      "timestamp_ms": 1719547957842,
+      "content": "Can we have a quick call",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705388333328,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Keshav Sanam",
+      "timestamp_ms": 1705384664785,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Keshav Sanam",
+  "is_still_participant": true,
+  "thread_path": "inbox/keshavsanam_1251601786228614",
+  "magic_words": [
+    
+  ]
+}

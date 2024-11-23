@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "EVERGREEN RETREAT"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709715211461,
+      "content": "I'll ask someone from the team to touch base with you, to discuss.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709715188885,
+      "content": "Sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "EVERGREEN RETREAT",
+      "timestamp_ms": 1709703661804,
+      "content": "4 kms before pragati resort .  * 5 kms from mokila . Can come from both the roads.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "EVERGREEN RETREAT",
+      "timestamp_ms": 1709703600283,
+      "content": "I have a farm house for sale near chilkur.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "EVERGREEN RETREAT",
+      "timestamp_ms": 1709684717193,
+      "content": "Hi, thanks for contacting us. Please call us on 9989 007 007.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709684713462,
+      "content": "Hi, may I know what you are looking for? I'll connect accordingly.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "EVERGREEN RETREAT",
+      "timestamp_ms": 1709675243968,
+      "content": "Hello . Pls share a contact to reach out to you",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "EVERGREEN RETREAT",
+  "is_still_participant": true,
+  "thread_path": "inbox/evergreenretreat_18017935154509806",
+  "magic_words": [
+    
+  ]
+}

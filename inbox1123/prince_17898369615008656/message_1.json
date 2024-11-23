@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Prince"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720272806188,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720272805413,
+      "content": "Hi, Please contact Vijay 9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prince",
+      "timestamp_ms": 1720272151180,
+      "content": "Intrested in 40 acre land",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Prince",
+  "is_still_participant": true,
+  "thread_path": "inbox/prince_17898369615008656",
+  "magic_words": [
+    
+  ]
+}

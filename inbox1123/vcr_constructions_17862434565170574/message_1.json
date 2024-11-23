@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "vcr_constructions"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719191662690,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719191661664,
+      "content": "Hi, Please contact Vijay 9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "vcr_constructions",
+      "timestamp_ms": 1719165322166,
+      "content": "Send me the exact location",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "vcr_constructions",
+      "timestamp_ms": 1719165320685,
+      "content": "vcr_constructions sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C8ehaG7yiD0/?id=3395298098770747636_47651711013",
+        "share_text": "14 acres | 1.07 Cr per acre | Near Shadnagar | Link in bio \u00f0\u009f\u008c\u009f\n\n- Verified and facilitated by 1acre.in\n- Nala converted industrial land with existing 50,000 sq ft structures\n- 500 kV power supply\n- Just 6 km from Bengaluru highway\n- Ideal for warehousing\n- Price is not negotiable \n\nInterested? Get in touch now! \n\n\u00f0\u009f\u0093\u009e +91 9959994737",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "vcr_constructions",
+  "is_still_participant": true,
+  "thread_path": "inbox/vcr_constructions_17862434565170574",
+  "magic_words": [
+    
+  ]
+}

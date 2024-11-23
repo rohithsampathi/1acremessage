@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Aman Agrawal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721221650656,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721221649827,
+      "content": "Hi, Please contact Vijay 9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aman Agrawal",
+      "timestamp_ms": 1721220570472,
+      "content": "What is the procedure to advertise",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aman Agrawal",
+      "timestamp_ms": 1721220569628,
+      "content": "Aman sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C89V_FTytMa/?id=3403973587366499098_47651711013",
+        "share_text": "8 acres | 2.6 Cr per acre | Near Chevella | Link in bio \u00f0\u009f\u008c\u009f\n\n- Verified and facilitated by 1acre.in\n- In residential zone, adjacent to RRR\n- Good connectivity through Bijapur highway, Chilkur, and Shankarpally roads\n- Ideal for plotting\n- Next to a villa layout\n\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 9959994737\n\n\u00f0\u009f\u0093\u00ac\u00f0\u009f\u0093\u00a9 DM us for more queries on buying, selling, or partnerships",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Aman Agrawal",
+  "is_still_participant": true,
+  "thread_path": "inbox/amanagrawal_1384740439583388",
+  "magic_words": [
+    
+  ]
+}

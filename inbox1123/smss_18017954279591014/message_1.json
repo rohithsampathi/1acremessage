@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "SMSS"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724553646513,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724553633887,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SMSS",
+      "timestamp_ms": 1724513267265,
+      "content": "Is that still available..",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SMSS",
+      "timestamp_ms": 1724513261626,
+      "content": "How is that even possible?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SMSS",
+      "timestamp_ms": 1724513249737,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SMSS",
+      "timestamp_ms": 1724513244271,
+      "content": "SMSS sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C8_88ylSF7J/?id=3404707903587245769_47651711013",
+        "share_text": "40 acres | \u00e2\u0082\u00b97 lakhs per acre | Near Yavatmal, Maharashtra | Link in bio \u00f0\u009f\u008c\u009f\n\n- Verified and facilitated by 1acre.in\n- Extremely fertile, canal-irrigated land\n- Only 6 hours from Hyderabad\n- Well-connected to national highways, expressways, and railways\n- Ideal for active agriculture and investment\n\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 9959994737\n\n\u00f0\u009f\u0093\u00ac\u00f0\u009f\u0093\u00a9 DM us for more queries on buying, selling, or partnerships",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "SMSS",
+  "is_still_participant": true,
+  "thread_path": "inbox/smss_18017954279591014",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Kancharla Shiva Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715929874868,
+      "content": "9032114737\nYou can talk to Bharath, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kancharla Shiva Reddy",
+      "timestamp_ms": 1715928576209,
+      "content": "Hi I'm interested in job",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kancharla Shiva Reddy",
+      "timestamp_ms": 1715928575249,
+      "content": "Kancharla sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C4j3HBRt6Vt/?id=3324743324894995821_47651711013",
+        "share_text": "9032114737\n\nPlease call Bharath, from the team.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kancharla Shiva Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/kancharlashivareddy_18007752644408677",
+  "magic_words": [
+    
+  ]
+}

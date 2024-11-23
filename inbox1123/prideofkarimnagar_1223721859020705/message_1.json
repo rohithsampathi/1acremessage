@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Prideof Karimnagar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Prideof Karimnagar",
+      "timestamp_ms": 1699327959016,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697717049131,
+      "content": "Hey tried reaching you, can you call connect back to this number :9505778117",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prideof Karimnagar",
+      "timestamp_ms": 1697702050490,
+      "content": "Sure, please call us on 6301645027",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697699350515,
+      "content": "Hey, can we collaborate for a reel?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Prideof Karimnagar",
+  "is_still_participant": true,
+  "thread_path": "inbox/prideofkarimnagar_1223721859020705",
+  "magic_words": [
+    
+  ]
+}

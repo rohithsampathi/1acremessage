@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Vikram Un"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721284008833,
+      "content": "We are currently listing only Telangana. We'll list other states soon. Will keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vikram Un",
+      "timestamp_ms": 1721281702790,
+      "content": "Land in mp",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vikram Un",
+  "is_still_participant": true,
+  "thread_path": "inbox/vikramun_1328557978532264",
+  "magic_words": [
+    
+  ]
+}

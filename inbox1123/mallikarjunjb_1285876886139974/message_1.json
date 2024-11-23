@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Mallikarjun J B"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703388927534,
+      "content": "Sure our team will connect with you can we have your contact number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mallikarjun J B",
+      "timestamp_ms": 1703178934173,
+      "content": "Anything related message back..",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mallikarjun J B",
+      "timestamp_ms": 1703178905653,
+      "content": "Have knowledge about land here in sorrounding area..",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mallikarjun J B",
+      "timestamp_ms": 1703178849611,
+      "content": "I am from gulbarga district karnataka",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mallikarjun J B",
+      "timestamp_ms": 1703178815230,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mallikarjun J B",
+  "is_still_participant": true,
+  "thread_path": "inbox/mallikarjunjb_1285876886139974",
+  "magic_words": [
+    
+  ]
+}

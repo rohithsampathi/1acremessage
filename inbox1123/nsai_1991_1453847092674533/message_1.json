@@ -1,0 +1,65 @@
+{
+  "participants": [
+    {
+      "name": "nsai_1991"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720108902882,
+      "content": "There's a solar plant just beside this.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720108884502,
+      "content": "Check this out.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720108874750,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C7wHbawyoaz/?id=3382235990642558643_47651711013",
+        "share_text": "46 acres | \u00e2\u0082\u00b911L per acre | Sindhanur, Karnataka | Link in bio \u00f0\u009f\u008c\u009f\n\n- Verified and facilitated by 1acre.in\n- Can start buying with a minimum lot of 5 acres\n- Perfect for fisheries with an expected lease of \u00e2\u0082\u00b945k per annum\n- 4.5 hrs from Hyderabad\n- On the way to Hampi and Goa\n\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 9959994737 \n\n#LandInvestment #Sindhanur #Karnataka #RealEstate #FisheriesLand #1acre.in",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "nsai_1991",
+      "timestamp_ms": 1720107681779,
+      "content": "Per acre 10 to 20 lakhs \nSuitable for agriculture & solar",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720097995282,
+      "content": "We primarily operate in Telangana but will be launching in Karnataka soon. \n\nMay we know the requirements in more detail such as budget, extent , area , use case etc",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "nsai_1991",
+      "timestamp_ms": 1720097883931,
+      "content": "I'm looking for lands in karnataka",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "nsai_1991",
+      "timestamp_ms": 1720097870914,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "nsai_1991",
+  "is_still_participant": true,
+  "thread_path": "inbox/nsai_1991_1453847092674533",
+  "magic_words": [
+    
+  ]
+}

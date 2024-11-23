@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "Hari R\u00c3\u00b8Xx"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Hari R\u00c3\u00b8Xx",
+      "timestamp_ms": 1721036911159,
+      "content": "Got it",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721036883017,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721036838934,
+      "content": "Hi, Please contact Vijay 9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hari R\u00c3\u00b8Xx",
+      "timestamp_ms": 1720970891899,
+      "content": "I'm interested",
+      "share": {
+        "link": "https://www.instagram.com/p/C9UBKzVt_9s/"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Hari R\u00c3\u00b8Xx",
+  "is_still_participant": true,
+  "thread_path": "inbox/hariroxx_1463643845037040",
+  "magic_words": [
+    
+  ]
+}

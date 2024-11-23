@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "NAGESH B"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "NAGESH B",
+      "timestamp_ms": 1720146815604,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720146078108,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "NAGESH B",
+          "timestamp": 1720146815
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "NAGESH B",
+      "timestamp_ms": 1720139565741,
+      "content": "Hi , can you share more details about land in yovatmal district, maharashtra",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "NAGESH B",
+  "is_still_participant": true,
+  "thread_path": "inbox/nageshb_18011603420591014",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Yogesh Modi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719105143958,
+      "content": "In Telangana, agricultural lands don't have plot numbers. \nFor plots, we give the plot number.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yogesh Modi",
+      "timestamp_ms": 1719096149591,
+      "content": "Do you give plot numbers also or only survey no?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yogesh Modi",
+      "timestamp_ms": 1719096149265,
+      "content": "Yogesh sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C8J_Ly1NBsI/?id=3389518081997150984_47651711013",
+        "share_text": "Buying Verified Lands around Hyderabad Simplified. Survey Maps, Transparent Pricing and direct Seller Contact. Subscribe to 1acre.in Premium and explore MapView now. \n\nVisit: https://www.1acre.in/subscribe\n\n#landsinhyderabad #hyderabadreal #privatelandforsale #landsurveymaps #buylands #landsforsale #buy1acreland",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Yogesh Modi",
+  "is_still_participant": true,
+  "thread_path": "inbox/yogeshmodi_1432349191497046",
+  "magic_words": [
+    
+  ]
+}

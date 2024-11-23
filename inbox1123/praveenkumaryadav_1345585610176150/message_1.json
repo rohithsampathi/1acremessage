@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Praveen Kumar Yadav"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Praveen Kumar Yadav",
+      "timestamp_ms": 1709523855171,
+      "content": "k sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709523580669,
+      "content": "Please contact Ramakrishna \n7780122120",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Praveen Kumar Yadav",
+      "timestamp_ms": 1709521804761,
+      "content": "hi sir im Praveen from medchal shamirpet surrounding High way facing bit s available any requirement tel me sir 9989829529",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Praveen Kumar Yadav",
+  "is_still_participant": true,
+  "thread_path": "inbox/praveenkumaryadav_1345585610176150",
+  "magic_words": [
+    
+  ]
+}

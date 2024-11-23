@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Sagar Patil"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sagar Patil",
+      "timestamp_ms": 1720195402857,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720195352051,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sagar Patil",
+      "timestamp_ms": 1720189768458,
+      "content": "Near muktainagar Dist Jalgaon Maharashtra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sagar Patil",
+      "timestamp_ms": 1720189759643,
+      "content": "Bro I want to sell my land",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sagar Patil",
+  "is_still_participant": true,
+  "thread_path": "inbox/sagarpatil_1029418738562254",
+  "magic_words": [
+    
+  ]
+}

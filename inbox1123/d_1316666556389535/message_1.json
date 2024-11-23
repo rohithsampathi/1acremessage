@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "D"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717637187121,
+      "content": "1acre.in \nPlease check the website. There are more than 2500 verified lands. \nYou can contact the sellers directly.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "1acre.in \nPlease check the website. There are more than 2500 verified lands. \nYou can contact the sellers directly."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "D",
+      "timestamp_ms": 1717620317344,
+      "content": "Hello, do you have any land that is unfit for agriculture and ventures? Looking for a 10-20 acre parcel. Banjaru bhumi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "D",
+  "is_still_participant": true,
+  "thread_path": "inbox/d_1316666556389535",
+  "magic_words": [
+    
+  ]
+}

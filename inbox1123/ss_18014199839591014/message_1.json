@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "SS"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721964446100,
+      "content": "We currently only operate in telangana. \n\nWill keep you posted when we launch in other states",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SS",
+      "timestamp_ms": 1721831354205,
+      "content": "Any properties in Raichur",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SS",
+      "timestamp_ms": 1721831346550,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "SS",
+  "is_still_participant": true,
+  "thread_path": "inbox/ss_18014199839591014",
+  "magic_words": [
+    
+  ]
+}

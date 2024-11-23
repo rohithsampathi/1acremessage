@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Akhil Vardhan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719370450972,
+      "content": "No",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akhil Vardhan",
+      "timestamp_ms": 1719367514033,
+      "content": "Do u provide banking loan also for buying land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719366084483,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akhil Vardhan",
+      "timestamp_ms": 1719361490409,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Akhil Vardhan",
+  "is_still_participant": true,
+  "thread_path": "inbox/akhilvardhan_1436790631056176",
+  "magic_words": [
+    
+  ]
+}

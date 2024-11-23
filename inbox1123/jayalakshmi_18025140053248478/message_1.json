@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Jaya Lakshmi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jaya Lakshmi",
+      "timestamp_ms": 1721186915867,
+      "content": "Mee video editor number evvagalara sir ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Jaya Lakshmi",
+  "is_still_participant": true,
+  "thread_path": "inbox/jayalakshmi_18025140053248478",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "DR. CNV SRIDHAR"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "DR. CNV SRIDHAR",
+      "timestamp_ms": 1720263069546,
+      "content": "You missed an audio call",
+      "call_duration": 0,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "DR. CNV SRIDHAR",
+      "timestamp_ms": 1720263068077,
+      "content": "sridhar_cnv started an audio call",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "DR. CNV SRIDHAR",
+  "is_still_participant": true,
+  "thread_path": "inbox/drcnvsridhar_1460740405325965",
+  "magic_words": [
+    
+  ]
+}

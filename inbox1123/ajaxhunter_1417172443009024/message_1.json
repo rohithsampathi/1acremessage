@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Ajax Hunter"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720364443439,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720364442411,
+      "content": "Hi, Please contact Vijay 9959994737, from the team.\nHe'll help you with all the details.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ajax Hunter",
+      "timestamp_ms": 1720364098127,
+      "content": "14 ace location please",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ajax Hunter",
+  "is_still_participant": true,
+  "thread_path": "inbox/ajaxhunter_1417172443009024",
+  "magic_words": [
+    
+  ]
+}

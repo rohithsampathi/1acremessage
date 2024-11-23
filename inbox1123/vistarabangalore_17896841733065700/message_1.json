@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Vistara Bangalore"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728906057802,
+      "content": "We will call you in sometime to discuss",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728906023674,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vistara Bangalore",
+      "timestamp_ms": 1728901626157,
+      "content": "Intrested to collaborate",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vistara Bangalore",
+      "timestamp_ms": 1728901610924,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vistara Bangalore",
+  "is_still_participant": true,
+  "thread_path": "inbox/vistarabangalore_17896841733065700",
+  "magic_words": [
+    
+  ]
+}

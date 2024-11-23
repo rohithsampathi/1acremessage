@@ -1,0 +1,87 @@
+{
+  "participants": [
+    {
+      "name": "YOGESH"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "YOGESH",
+      "timestamp_ms": 1719289980819,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "YOGESH",
+      "timestamp_ms": 1719289975329,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719289458971,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719289458086,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team. \nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719289444136,
+      "content": "You can list it on 1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "You can list it on 1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719289425636,
+      "content": "100km?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "YOGESH",
+      "timestamp_ms": 1719287428992,
+      "content": "Telangana .. the location is 100 from Kompally, Hyderabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719284104315,
+      "content": "Which state?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719284098861,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "YOGESH",
+      "timestamp_ms": 1719283567590,
+      "content": "I want to sell my 2acre of land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "YOGESH",
+      "timestamp_ms": 1719283559290,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "YOGESH",
+  "is_still_participant": true,
+  "thread_path": "inbox/yogesh_1410997760293039",
+  "magic_words": [
+    
+  ]
+}

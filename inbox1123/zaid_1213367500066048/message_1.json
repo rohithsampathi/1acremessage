@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "zaid"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "zaid",
+      "timestamp_ms": 1696670711086,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1696485339990,
+      "content": "contact to this number they gonna help you out (+91 80744 50533) Vijay 1acre.in",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "1acre.in | Buy verified lands"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "zaid",
+      "timestamp_ms": 1696448790042,
+      "content": "Hello \nI want to post an agricultural land \nHow can I reach you",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "zaid",
+  "is_still_participant": true,
+  "thread_path": "inbox/zaid_1213367500066048",
+  "magic_words": [
+    
+  ]
+}

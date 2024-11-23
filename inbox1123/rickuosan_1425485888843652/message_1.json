@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Ricku Osan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ricku Osan",
+      "timestamp_ms": 1720280422422,
+      "content": "\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bc",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720276600771,
+      "content": "We'll let you know when we have.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720276592864,
+      "content": "We don't have 1-5 acres.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ricku Osan",
+      "timestamp_ms": 1720275836753,
+      "content": "Hi I'm looking for a lake/river touch land for personal farm house within 25-40 kms range of Nagpur minimum 1 to 5 acres\n\nIf u have any listings pls do let me knw",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ricku Osan",
+  "is_still_participant": true,
+  "thread_path": "inbox/rickuosan_1425485888843652",
+  "magic_words": [
+    
+  ]
+}

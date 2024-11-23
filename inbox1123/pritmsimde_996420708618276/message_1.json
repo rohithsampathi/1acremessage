@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "\u00e0\u00a4\u00aa\u00e0\u00a5\u008d\u00e0\u00a4\u00b0\u00e0\u00a4\u00bfTM  \u00e0\u00a4\u00b6\u00e0\u00a4\u00bf\u00e0\u00a4\u0082DE"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720414201924,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00e0\u00a4\u00aa\u00e0\u00a5\u008d\u00e0\u00a4\u00b0\u00e0\u00a4\u00bfTM  \u00e0\u00a4\u00b6\u00e0\u00a4\u00bf\u00e0\u00a4\u0082DE",
+      "timestamp_ms": 1720372262420,
+      "content": "Heyy",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00e0\u00a4\u00aa\u00e0\u00a5\u008d\u00e0\u00a4\u00b0\u00e0\u00a4\u00bfTM  \u00e0\u00a4\u00b6\u00e0\u00a4\u00bf\u00e0\u00a4\u0082DE",
+  "is_still_participant": true,
+  "thread_path": "inbox/pritmsimde_996420708618276",
+  "magic_words": [
+    
+  ]
+}

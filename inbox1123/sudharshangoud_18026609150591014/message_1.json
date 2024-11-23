@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Sudharshan Goud"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730536390169,
+      "content": "Hello how can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sudharshan Goud",
+      "timestamp_ms": 1730524253439,
+      "content": "Hop",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sudharshan Goud",
+  "is_still_participant": true,
+  "thread_path": "inbox/sudharshangoud_18026609150591014",
+  "magic_words": [
+    
+  ]
+}

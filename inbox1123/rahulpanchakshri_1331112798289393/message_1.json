@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Rahul Panchakshri"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707627893962,
+      "content": "Hi, may I know which opportunity you are referring to?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rahul Panchakshri",
+      "timestamp_ms": 1707595299543,
+      "content": "Hi I\u00e2\u0080\u0099m interested in investing",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rahul Panchakshri",
+  "is_still_participant": true,
+  "thread_path": "inbox/rahulpanchakshri_1331112798289393",
+  "magic_words": [
+    
+  ]
+}

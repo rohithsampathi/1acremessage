@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Ashifta Imran"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ashifta Imran",
+      "timestamp_ms": 1713172752994,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713142710471,
+      "content": "Hi, Please call the seller directly.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ashifta Imran",
+      "timestamp_ms": 1713114843838,
+      "content": "Interested",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ashifta Imran",
+      "timestamp_ms": 1713114818450,
+      "content": "https://1acre.in/verified-lands/vikarabad/nawabpet/2397",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ashifta Imran",
+      "timestamp_ms": 1713114818040,
+      "content": "Ashifta sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C5IwqrKNat7/?id=3335129562860596091_47651711013",
+        "share_text": "Introducing Map View for Lands for our premium members \u00f0\u009f\u008f\u009e. First of its kind in India! \n\nExplore land prices based on locality while scrolling across the map. The easiest way to search for lands and understanding pricing in that area. Unlock this superpower now! \u00f0\u009f\u00a4\u008c\n\nEasiest way to discover lands in and around Telangana! \n\nGet access to 1acre Premium that offers you: \n\u00f0\u009f\u008f\u009c\u00ef\u00b8\u008f Curated Land Parcels just for you \n\u00f0\u009f\u0091\u0081\u00ef\u00b8\u008f Access lands in Karnataka & Maharastra\n\u00f0\u009f\u0093\u008d Map view to see all lands available at a glance \n\nLife time membership for Rs 5000 only.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ashifta Imran",
+  "is_still_participant": true,
+  "thread_path": "inbox/ashiftaimran_1425838285481092",
+  "magic_words": [
+    
+  ]
+}

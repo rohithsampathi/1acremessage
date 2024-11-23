@@ -1,0 +1,81 @@
+{
+  "participants": [
+    {
+      "name": "Rajiv Halgan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717940542952,
+      "content": "Sure. Thanks. We'll let you know.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rajiv Halgan",
+      "timestamp_ms": 1717940494469,
+      "content": "Conversion certificate obtained single owner.\nProposed Mysore peripheral ring road to pass roughly 100 meters near property.\n400 + feet road access.\nAsking price 3500/sft",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rajiv Halgan",
+      "timestamp_ms": 1717940363831,
+      "content": "https://maps.app.goo.gl/k4nST8P2ewVBeRV17?g_st=ic",
+      "share": {
+        "link": "https://maps.app.goo.gl/k4nST8P2ewVBeRV17?g_st=ic",
+        "share_text": "https://maps.app.goo.gl/k4nST8P2ewVBeRV17?g_st=ic"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717940249263,
+      "content": "Could you send us the location & price? \nIf someone is interested meanwhile, we'll get back.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717940215053,
+      "content": "Sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rajiv Halgan",
+      "timestamp_ms": 1717940028299,
+      "content": "Okay thanks please keep me posted. High value property 20km from city center",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1717940210
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717939346041,
+      "content": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rajiv Halgan",
+      "timestamp_ms": 1717938299847,
+      "content": "Hi we are looking to sell our 1.5 acre residential plot in Mysore chikkalli looking for interested buyers",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rajiv Halgan",
+  "is_still_participant": true,
+  "thread_path": "inbox/rajivhalgan_1392285398831322",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009f\u00a5\u00b6"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00f0\u009f\u00a5\u00b6",
+      "timestamp_ms": 1720241402073,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720241328949,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720241319524,
+      "content": "We honestly don't know.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u00a5\u00b6",
+      "timestamp_ms": 1720240742369,
+      "content": "What is price in panvel ??",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720240145904,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u00a5\u00b6",
+      "timestamp_ms": 1720237822253,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00f0\u009f\u00a5\u00b6",
+  "is_still_participant": true,
+  "thread_path": "inbox/1441277337273528",
+  "magic_words": [
+    
+  ]
+}

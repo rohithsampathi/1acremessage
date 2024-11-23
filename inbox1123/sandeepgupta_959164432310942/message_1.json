@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "sandeep Gupta"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709568182701,
+      "content": "1.1cr total.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "sandeep Gupta",
+      "timestamp_ms": 1709565303362,
+      "content": "Price",
+      "share": {
+        "link": "https://www.instagram.com/p/C3t28m8N2Gf/"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "sandeep Gupta",
+  "is_still_participant": true,
+  "thread_path": "inbox/sandeepgupta_959164432310942",
+  "magic_words": [
+    
+  ]
+}

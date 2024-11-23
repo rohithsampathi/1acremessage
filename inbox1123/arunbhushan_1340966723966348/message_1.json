@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Arun Bhushan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707454043565,
+      "content": "https://www.1acre.in/subscribe\n\nPlease go through and subscribe (or) click 'talk to us->' at the end of the page and fill in the form. We'll get back to you.",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "https://www.1acre.in/subscribe\n\nPlease go through and subscribe (or) click 'talk to us->' at the end of the page and fill in the form. We'll get back to you."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707454032392,
+      "content": "Hi, sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Arun Bhushan",
+      "timestamp_ms": 1707453832139,
+      "content": "Hi I\u00e2\u0080\u0099m interested in knowing what investment opportunities you have to offer",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Arun Bhushan",
+  "is_still_participant": true,
+  "thread_path": "inbox/arunbhushan_1340966723966348",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "Ravi Masabattula"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1700113669898,
+      "content": "Hey Ravi   , for more details please visit our website :https://www.1acre.in/, contact:9505778117",
+      "share": {
+        "link": "https://www.1acre.in/",
+        "share_text": "Hey Ravi   , for more details please visit our website :https://www.1acre.in/, contact:9505778117"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravi Masabattula",
+      "timestamp_ms": 1700041380695,
+      "content": "Area?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravi Masabattula",
+      "timestamp_ms": 1700041380342,
+      "content": "Ravi sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/CzDaWtstX5_/?carousel_share_child_media_id=3225537647564058402_47651711013",
+        "share_text": "Stop buying plots. Own 10 acres at the cost of one. Larger chunks of land available at good prices.\n...\n\u00f0\u009f\u0091\u0089 Get access to premium opportunities: https://www.1acre.in/subscribe",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ravi Masabattula",
+  "is_still_participant": true,
+  "thread_path": "inbox/ravimasabattula_1288021762593773",
+  "magic_words": [
+    
+  ]
+}

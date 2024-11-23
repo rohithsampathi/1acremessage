@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Broke Bond"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712018645866,
+      "content": "7 lakh per acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Broke Bond",
+      "timestamp_ms": 1711996240770,
+      "content": "Price",
+      "share": {
+        "link": "https://www.instagram.com/p/C3t3CBgtPFl/"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Broke Bond",
+  "is_still_participant": true,
+  "thread_path": "inbox/brokebond_1416906853041019",
+  "magic_words": [
+    
+  ]
+}

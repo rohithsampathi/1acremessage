@@ -1,0 +1,65 @@
+{
+  "participants": [
+    {
+      "name": "Pushpak Reddy \u00f0\u009f\u00a7\u00bf"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pushpak Reddy \u00f0\u009f\u00a7\u00bf",
+      "timestamp_ms": 1730740040602,
+      "content": "Thanks for the quick turn around",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1730781414
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730737228794,
+      "content": "Please contact Vijay at 7075191166 from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pushpak Reddy \u00f0\u009f\u00a7\u00bf",
+      "timestamp_ms": 1730737148968,
+      "content": "https://maps.app.goo.gl/jtsfeGhpBshsbY148",
+      "share": {
+        "link": "https://maps.app.goo.gl/jtsfeGhpBshsbY148",
+        "share_text": "https://maps.app.goo.gl/jtsfeGhpBshsbY148"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pushpak Reddy \u00f0\u009f\u00a7\u00bf",
+      "timestamp_ms": 1730737101690,
+      "content": "I need your help in finding the buyers",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pushpak Reddy \u00f0\u009f\u00a7\u00bf",
+      "timestamp_ms": 1730737041743,
+      "content": "I have a land of 820 sqyds on Nagarjuna sagar highway right across the gurunanak college in a venture at Ibrahimpatnam.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pushpak Reddy \u00f0\u009f\u00a7\u00bf",
+      "timestamp_ms": 1730736966760,
+      "content": "Hi 1acre",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Pushpak Reddy \u00f0\u009f\u00a7\u00bf",
+  "is_still_participant": true,
+  "thread_path": "inbox/pushpakreddy_1527280908664781",
+  "magic_words": [
+    
+  ]
+}

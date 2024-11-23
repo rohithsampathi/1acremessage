@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Chirantak Agarwal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712989785845,
+      "content": "Ok. Will let you know when we launch. Thanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chirantak Agarwal",
+      "timestamp_ms": 1712987728872,
+      "content": "I own a land development company in here",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chirantak Agarwal",
+      "timestamp_ms": 1712987718206,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712987713734,
+      "content": "Do you own land in Siliguri?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chirantak Agarwal",
+      "timestamp_ms": 1712987707637,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712987695716,
+      "content": "Currently, we are only listing in Telangana. Soon, we'll start listing other states. So, right now, not any.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chirantak Agarwal",
+      "timestamp_ms": 1712987017005,
+      "content": "Do you have buyers in siliguri?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Chirantak Agarwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/chirantakagarwal_1336965177696070",
+  "magic_words": [
+    
+  ]
+}

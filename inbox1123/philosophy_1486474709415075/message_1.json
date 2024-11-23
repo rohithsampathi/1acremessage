@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "philosophy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713696022631,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "philosophy",
+      "timestamp_ms": 1713695869621,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "philosophy",
+  "is_still_participant": true,
+  "thread_path": "inbox/philosophy_1486474709415075",
+  "magic_words": [
+    
+  ]
+}

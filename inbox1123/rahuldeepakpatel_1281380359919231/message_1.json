@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Rahul Deepak Patel"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704985452425,
+      "content": "https://www.1acre.in/subscribe\n\nPlease go through and fill in the form (talk to us) at the end of the page. We'll get back to you.",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "https://www.1acre.in/subscribe\n\nPlease go through and fill in the form (talk to us) at the end of the page. We'll get back to you."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704985422103,
+      "content": "Hi, sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rahul Deepak Patel",
+      "timestamp_ms": 1704982089736,
+      "content": "I am interested and we are looking for a mass land for investment/farming purposes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rahul Deepak Patel",
+      "timestamp_ms": 1704982067993,
+      "content": "I just saw your video about picking 100 acres at 4lakhs approx",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rahul Deepak Patel",
+      "timestamp_ms": 1704982050881,
+      "content": "Hey Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rahul Deepak Patel",
+  "is_still_participant": true,
+  "thread_path": "inbox/rahuldeepakpatel_1281380359919231",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Vamsi Gopal V"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vamsi Gopal V",
+      "timestamp_ms": 1706756752186,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706251518266,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vamsi Gopal V",
+      "timestamp_ms": 1706247996491,
+      "content": "Hi, I am interested in the agricultural land in Muchintal in gated community. Can I get the details?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vamsi Gopal V",
+  "is_still_participant": true,
+  "thread_path": "inbox/vamsigopalv_1364467381616558",
+  "magic_words": [
+    
+  ]
+}

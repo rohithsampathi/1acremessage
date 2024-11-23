@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "M A N I S H  B A B U"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "M A N I S H  B A B U",
+      "timestamp_ms": 1730892027807,
+      "content": "You missed an audio call",
+      "call_duration": 0,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "M A N I S H  B A B U",
+      "timestamp_ms": 1730892014442,
+      "content": "manish_babu__ started an audio call",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "M A N I S H  B A B U",
+  "is_still_participant": true,
+  "thread_path": "inbox/manishbabu_1482995156423043",
+  "magic_words": [
+    
+  ]
+}

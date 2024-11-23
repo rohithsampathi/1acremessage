@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Suresh Krishna"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701527917585,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Suresh Krishna",
+      "timestamp_ms": 1701526634607,
+      "content": "7981086929 kindly call in between 9-6pm weekends and 12-3pm weekdays",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701525124829,
+      "content": "Hi Suresh, can we have your contact number our team will connect with you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Suresh Krishna",
+      "timestamp_ms": 1701524920714,
+      "content": "Preferred area is west or north of Hyderabad. High preference inside ORR.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Suresh Krishna",
+      "timestamp_ms": 1701524871644,
+      "content": "Hello, \nLooking for a residential land investment for approx 1 crore within city limits. Required land is 300-500sqr yards. Do let me know if there are any available land pockets.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Suresh Krishna",
+  "is_still_participant": true,
+  "thread_path": "inbox/sureshkrishna_1189932059060577",
+  "magic_words": [
+    
+  ]
+}

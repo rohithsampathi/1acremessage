@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "MSY\u00f0\u009f\u00a6\u0081"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "MSY\u00f0\u009f\u00a6\u0081",
+      "timestamp_ms": 1707721065267,
+      "content": "Nak real estate market ante koddhiga intrest sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "MSY\u00f0\u009f\u00a6\u0081",
+      "timestamp_ms": 1707721044312,
+      "content": "Me team lo a position lo ina work cheyyali ani undhi sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "MSY\u00f0\u009f\u00a6\u0081",
+      "timestamp_ms": 1707721002538,
+      "content": "Job leka chala padthuna sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "MSY\u00f0\u009f\u00a6\u0081",
+      "timestamp_ms": 1707720979003,
+      "content": "Good afternoon sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "MSY\u00f0\u009f\u00a6\u0081",
+  "is_still_participant": true,
+  "thread_path": "inbox/msy_1374640470598197",
+  "magic_words": [
+    
+  ]
+}

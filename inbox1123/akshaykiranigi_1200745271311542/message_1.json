@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "AKSHAY KIRANIGI"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702798355586,
+      "content": "Hey you can connect with Ratha kiran ,7661-063355",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "AKSHAY KIRANIGI",
+      "timestamp_ms": 1702786882693,
+      "content": "I have a land in sedam city I want to sell",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702781034216,
+      "content": "Hi ,how can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "AKSHAY KIRANIGI",
+      "timestamp_ms": 1702723909951,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "AKSHAY KIRANIGI",
+  "is_still_participant": true,
+  "thread_path": "inbox/akshaykiranigi_1200745271311542",
+  "magic_words": [
+    
+  ]
+}

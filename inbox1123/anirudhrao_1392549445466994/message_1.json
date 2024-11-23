@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Anirudh Rao"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723556230834,
+      "content": "Hi, Please contact Srikar 8341149011, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anirudh Rao",
+      "timestamp_ms": 1723552099536,
+      "content": "Mancherivula land price",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Anirudh Rao",
+  "is_still_participant": true,
+  "thread_path": "inbox/anirudhrao_1392549445466994",
+  "magic_words": [
+    
+  ]
+}

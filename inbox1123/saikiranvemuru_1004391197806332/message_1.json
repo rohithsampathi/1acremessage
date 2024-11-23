@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Sai Kiran Vemuru"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722479053318,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722479049773,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Kiran Vemuru",
+      "timestamp_ms": 1722439648656,
+      "content": "Can you also list that in our inventory",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Kiran Vemuru",
+      "timestamp_ms": 1722439638137,
+      "content": "We have 3.12 kms in shamirpet",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sai Kiran Vemuru",
+  "is_still_participant": true,
+  "thread_path": "inbox/saikiranvemuru_1004391197806332",
+  "magic_words": [
+    
+  ]
+}

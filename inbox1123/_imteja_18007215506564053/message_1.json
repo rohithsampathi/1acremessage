@@ -1,0 +1,77 @@
+{
+  "participants": [
+    {
+      "name": "_im.teja"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "_im.teja",
+      "timestamp_ms": 1723861603512,
+      "content": "I want 20 across in this places",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "_im.teja",
+      "timestamp_ms": 1723861515452,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723861432298,
+      "content": "Are you an Agent?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "_im.teja",
+      "timestamp_ms": 1723861198605,
+      "content": "In mokila kokapet Chevella shamshabad nebay any lands are there tell me",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "_im.teja",
+      "timestamp_ms": 1722969093139,
+      "content": "_im.teja sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C8ehaG7yiD0/?id=3395298098770747636_47651711013",
+        "share_text": "14 acres | 1.07 Cr per acre | Near Shadnagar | Link in bio \u00f0\u009f\u008c\u009f\n\n- Verified and facilitated by 1acre.in\n- Nala converted industrial land with existing 50,000 sq ft structures\n- 500 kV power supply\n- Just 6 km from Bengaluru highway\n- Ideal for warehousing\n- Price is not negotiable \n\nInterested? Get in touch now! \n\n\u00f0\u009f\u0093\u009e +91 9959994737",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721630312907,
+      "content": "Hi, Please contact Srikar  \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "_im.teja",
+      "timestamp_ms": 1721630268474,
+      "content": "9515084720",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721629889454,
+      "content": "Could you tell your requirements in detail?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "_im.teja",
+      "timestamp_ms": 1721575584285,
+      "content": "Hello sir \nI can talk with you \nFor land purpose",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "_im.teja",
+  "is_still_participant": true,
+  "thread_path": "inbox/_imteja_18007215506564053",
+  "magic_words": [
+    
+  ]
+}

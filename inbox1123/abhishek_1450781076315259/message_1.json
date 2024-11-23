@@ -1,0 +1,37 @@
+{
+  "participants": [
+    {
+      "name": "AbhisheK\u00e2\u0099\u008a"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720355265047,
+      "content": "1acre.in/subscribe\n\nPlease explore.",
+      "share": {
+        "link": "http://1acre.in/subscribe",
+        "share_text": "1acre.in/subscribe\n\nPlease explore."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "AbhisheK\u00e2\u0099\u008a",
+      "timestamp_ms": 1720333063515,
+      "content": "Any raw land with great development scope to invest for some years.But at very nominal price.\nPlease guide.\nThanks.",
+      "share": {
+        "share_text": "Any raw land with great development scope to invest for some years.But at very nominal price.\nPlease guide.\nThanks."
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "AbhisheK\u00e2\u0099\u008a",
+  "is_still_participant": true,
+  "thread_path": "inbox/abhishek_1450781076315259",
+  "magic_words": [
+    
+  ]
+}

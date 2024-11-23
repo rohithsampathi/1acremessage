@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Mukesh gupta"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mukesh gupta",
+      "timestamp_ms": 1706706702400,
+      "content": "Ohk",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706706394753,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mukesh gupta",
+      "timestamp_ms": 1706702797261,
+      "content": "I need recent property on bang bang orr",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mukesh gupta",
+  "is_still_participant": true,
+  "thread_path": "inbox/mukeshgupta_1274242930644705",
+  "magic_words": [
+    
+  ]
+}

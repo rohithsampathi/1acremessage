@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "KB Chowdary"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721514795786,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721514795180,
+      "content": "Hi, Please contact Vijay 9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "KB Chowdary",
+      "timestamp_ms": 1721500442303,
+      "content": "Looking for more information on 1320 sq yards near bininagar",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "KB Chowdary",
+      "timestamp_ms": 1721500422656,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "KB Chowdary",
+  "is_still_participant": true,
+  "thread_path": "inbox/kbchowdary_1377495936986684",
+  "magic_words": [
+    
+  ]
+}

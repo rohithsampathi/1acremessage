@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Fareed Bin Abdullah"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727928225303,
+      "content": "Hello , \n\nDue to unforeseen demand , we are not able to address each request so we have decided to digitise all lakes around hyderabad and make it accessible for free \n\nTo help prioritise the digitisation process, fill the following form with your requirements. We will inform you once your required lake is digitised. \nRequirement form : https://forms.gle/LFThdXChRzH8Uz6M6 \n\nThanks for your patience.",
+      "share": {
+        "link": "https://forms.gle/LFThdXChRzH8Uz6M6",
+        "share_text": "Hello , \n\nDue to unforeseen demand , we are not able to address each request so we have decided to digitise all lakes around hyderabad and make it accessible for free \n\nTo help prioritise the digitisation process, fill the following form with your requirements. We will inform you once your required lake is digitised. \nRequirement form : https://forms.gle/LFThdXChRzH8Uz6M6 \n\nThanks for your patience."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Fareed Bin Abdullah",
+      "timestamp_ms": 1727874552232,
+      "content": "Fareed sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DAdiWBsyusS/?id=3467078335380253458_47651711013",
+        "share_text": "We hope this video helps in understanding FTL & buffer zones.\n\nDM us if you need more details and we will try to help you the best we can. \n\nDo comment what you think about the current situation with HYDRA. \n\n#hyderabad #realestate #hydra #demolition #land #lake",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Fareed Bin Abdullah",
+  "is_still_participant": true,
+  "thread_path": "inbox/fareedbinabdullah_18039697115124349",
+  "magic_words": [
+    
+  ]
+}

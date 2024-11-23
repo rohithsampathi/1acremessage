@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "Syed Abdul Zaky"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729662157804,
+      "content": "Please contact our team member ,pavan, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Syed Abdul Zaky",
+      "timestamp_ms": 1729516554326,
+      "content": "price per sq.yd?",
+      "share": {
+        "share_text": "price per sq.yd?"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Syed Abdul Zaky",
+      "timestamp_ms": 1729516544474,
+      "content": "Syed sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C_Asf1-y_mG/?id=3440945817623198086_47651711013",
+        "share_text": "1000 Sq Yds in Leonia Resorts | Near Shameerpet | Just 300m from ORR \u00f0\u009f\u009a\u0097 | Link in bio \u00f0\u009f\u008c\u009f\n\nVerified and facilitated by 1acre.in \u00e2\u009c\u0085\n\n\u00f0\u009f\u0093\u008d Location Highlights:\n\nIdeal for leisure living \u00f0\u009f\u008c\u009f\nClose to multiple resorts \u00f0\u009f\u008f\u00a8\nAccess via 30\u00e2\u0080\u0099 road \n\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 8341149011\n\nDM us for more queries on buying, selling, or partnerships.\n\n#landforsale #hyderabad #telangana #land #investment #propertyforsale #realestate #hyderabadrealestate #plot",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Syed Abdul Zaky",
+  "is_still_participant": true,
+  "thread_path": "inbox/syedabdulzaky_1406305860756530",
+  "magic_words": [
+    
+  ]
+}

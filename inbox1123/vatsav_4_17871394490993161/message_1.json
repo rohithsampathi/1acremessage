@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Vatsav_4"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vatsav_4",
+      "timestamp_ms": 1697711265529,
+      "content": "Mail ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697708767907,
+      "content": "can i have your contact number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vatsav_4",
+      "timestamp_ms": 1697705074717,
+      "content": "Ya sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697699438015,
+      "content": "Hey, can we collaborate for a reel?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vatsav_4",
+  "is_still_participant": true,
+  "thread_path": "inbox/vatsav_4_17871394490993161",
+  "magic_words": [
+    
+  ]
+}

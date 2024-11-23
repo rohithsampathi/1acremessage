@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Koppineni Venkata Krishna"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716824194143,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Koppineni Venkata Krishna",
+      "timestamp_ms": 1716820497990,
+      "content": "Hi can you share location of the 10 acre land on 9849923888",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Koppineni Venkata Krishna",
+  "is_still_participant": true,
+  "thread_path": "inbox/koppinenivenkatakrishna_1021912172613115",
+  "magic_words": [
+    
+  ]
+}

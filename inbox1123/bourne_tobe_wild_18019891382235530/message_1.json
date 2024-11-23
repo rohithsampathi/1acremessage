@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "bourne_tobe_wild"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "bourne_tobe_wild",
+      "timestamp_ms": 1717900509354,
+      "content": "Thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "bourne_tobe_wild",
+      "timestamp_ms": 1717900507712,
+      "content": "Ok great",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717570483744,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team. \nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "bourne_tobe_wild",
+      "timestamp_ms": 1717568563946,
+      "content": "Hi sir,pls let me know more details of the 2 acre land in Anantgiri lake facing",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "bourne_tobe_wild",
+  "is_still_participant": true,
+  "thread_path": "inbox/bourne_tobe_wild_18019891382235530",
+  "magic_words": [
+    
+  ]
+}

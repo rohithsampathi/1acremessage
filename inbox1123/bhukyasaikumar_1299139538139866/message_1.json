@@ -1,0 +1,90 @@
+{
+  "participants": [
+    {
+      "name": "Bhukya Sai Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bhukya Sai Kumar",
+      "timestamp_ms": 1720202675875,
+      "content": "Okay thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720195028755,
+      "content": "Hi, Please contact Ratna Kiran  9390155412. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bhukya Sai Kumar",
+      "timestamp_ms": 1720191414853,
+      "content": "I am ready to buy",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bhukya Sai Kumar",
+      "timestamp_ms": 1720191398496,
+      "content": "Can I get information about this plot",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bhukya Sai Kumar",
+      "timestamp_ms": 1720191358145,
+      "content": "Ho",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bhukya Sai Kumar",
+      "timestamp_ms": 1720191357688,
+      "content": "Bhukya sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C9CgdjpSOCk/?id=3405427036872302756_47651711013",
+        "share_text": "1 acre | \u00e2\u0082\u00b914 Cr | Gandimaisamma-Medchal Road | Link in bio \u00f0\u009f\u008c\u009f\n\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\n\nWhich direction of Hyderabad you are looking for lands ? \u00f0\u009f\u0091\u0080",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720191104675,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bhukya Sai Kumar",
+      "timestamp_ms": 1720183176785,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bhukya Sai Kumar",
+      "timestamp_ms": 1720183173170,
+      "content": "You missed an audio call",
+      "call_duration": 0,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bhukya Sai Kumar",
+      "timestamp_ms": 1720183171720,
+      "content": "bhukya_sai_ started an audio call",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bhukya Sai Kumar",
+      "timestamp_ms": 1720183124610,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Bhukya Sai Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/bhukyasaikumar_1299139538139866",
+  "magic_words": [
+    
+  ]
+}

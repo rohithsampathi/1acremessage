@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Shreyas Wattamwar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713178049576,
+      "content": "Hi, Please contact Harish\n9032114737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713178041565,
+      "content": "Hi, thanks for reaching out.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shreyas Wattamwar",
+      "timestamp_ms": 1713177321417,
+      "content": "Native speaker Marathi Hindi English",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shreyas Wattamwar",
+  "is_still_participant": true,
+  "thread_path": "inbox/shreyaswattamwar_1379384530124590",
+  "magic_words": [
+    
+  ]
+}

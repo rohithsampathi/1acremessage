@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Abs"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720450822151,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abs",
+      "timestamp_ms": 1720447817928,
+      "content": "with river passing through in one land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abs",
+      "timestamp_ms": 1720447802016,
+      "content": "I've two lands of 14 & 17 acres respectively",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abs",
+      "timestamp_ms": 1720447775002,
+      "content": "Maharashtra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abs",
+      "timestamp_ms": 1720447760326,
+      "content": "wada",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720447747298,
+      "content": "Where is it?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abs",
+      "timestamp_ms": 1720445737833,
+      "content": "we want to sell our land",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Abs",
+  "is_still_participant": true,
+  "thread_path": "inbox/abs_1460984105302700",
+  "magic_words": [
+    
+  ]
+}

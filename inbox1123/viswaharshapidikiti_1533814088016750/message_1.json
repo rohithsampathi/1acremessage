@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Viswa Harsha Pidikiti"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Viswa Harsha Pidikiti",
+      "timestamp_ms": 1729595843162,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729574364995,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Viswa Harsha Pidikiti",
+      "timestamp_ms": 1729544410997,
+      "content": "We\u00e2\u0080\u0099re looking to sell our land in AP. Near Vijayawada. Pet me know how can we connect?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Viswa Harsha Pidikiti",
+      "timestamp_ms": 1729544349117,
+      "content": "Hey",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Viswa Harsha Pidikiti",
+  "is_still_participant": true,
+  "thread_path": "inbox/viswaharshapidikiti_1533814088016750",
+  "magic_words": [
+    
+  ]
+}

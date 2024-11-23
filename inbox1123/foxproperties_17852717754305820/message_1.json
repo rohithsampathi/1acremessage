@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "FOX \u00f0\u009f\u00a6\u008a Properties \u00f0\u009f\u008f\u009b\u00ef\u00b8\u008f"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "FOX \u00f0\u009f\u00a6\u008a Properties \u00f0\u009f\u008f\u009b\u00ef\u00b8\u008f",
+      "timestamp_ms": 1730048386274,
+      "content": "9279870857",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730047674427,
+      "content": "Share your number and our team will get back",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "FOX \u00f0\u009f\u00a6\u008a Properties \u00f0\u009f\u008f\u009b\u00ef\u00b8\u008f",
+      "timestamp_ms": 1730040807065,
+      "content": "Yup",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730040232194,
+      "content": "Are you an agent ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "FOX \u00f0\u009f\u00a6\u008a Properties \u00f0\u009f\u008f\u009b\u00ef\u00b8\u008f",
+      "timestamp_ms": 1729878662886,
+      "content": "We want to sell in Bhagalpur bihar",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "FOX \u00f0\u009f\u00a6\u008a Properties \u00f0\u009f\u008f\u009b\u00ef\u00b8\u008f",
+  "is_still_participant": true,
+  "thread_path": "inbox/foxproperties_17852717754305820",
+  "magic_words": [
+    
+  ]
+}

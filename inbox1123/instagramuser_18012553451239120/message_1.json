@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708663347451,
+      "content": "Hello, please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1708663287700,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C0TCFbtNlrz/?id=3247948925704231667_47651711013",
+        "share_text": "Cheapest lands, closest to Hyderabad - A lot of our premium subscribers have asked us for this. We are actively trying to procure lands in Karnataka (Sedem, Gulbarga, Yadgir) closer to Telangana border, Where you should be able to reach in about 3hrs.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "inbox/instagramuser_18012553451239120",
+  "magic_words": [
+    
+  ]
+}

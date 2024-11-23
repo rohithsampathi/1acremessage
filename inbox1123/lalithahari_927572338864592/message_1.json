@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "LALITHA Hari"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "LALITHA Hari",
+      "timestamp_ms": 1710932987302,
+      "content": "Thank you, i will contact Mr. Vijay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710930134795,
+      "content": "Hi, Please contact Vijay\n9959994737, to discuss. \nWe understand the issue, but I am not sure how much of help we can be.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "LALITHA Hari",
+      "timestamp_ms": 1710925472703,
+      "content": "Please let me know how to reach you out?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "LALITHA Hari",
+      "timestamp_ms": 1710925374972,
+      "content": "Can you help us in this matter?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "LALITHA Hari",
+      "timestamp_ms": 1710925324401,
+      "content": "The land shown to us by the seller bearing the survey number and the survey number in  the passbook are different and till now we are unable to take the possession of the land registered on our name",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "LALITHA Hari",
+      "timestamp_ms": 1710925075134,
+      "content": "We bought 3 acres of land in Narsipalli , Tupran , medchal.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "LALITHA Hari",
+      "timestamp_ms": 1710924966602,
+      "content": "Hi sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "LALITHA Hari",
+  "is_still_participant": true,
+  "thread_path": "inbox/lalithahari_927572338864592",
+  "magic_words": [
+    
+  ]
+}

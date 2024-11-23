@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Anshul Singh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723436932091,
+      "content": "Hi, Please contact Srikar 8341149011, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anshul Singh",
+      "timestamp_ms": 1723384553171,
+      "content": "You guys have any 100-150 acre land patches for 3-4 lakhs per acre",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Anshul Singh",
+  "is_still_participant": true,
+  "thread_path": "inbox/anshulsingh_18033145910145895",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Raghumareddy Gurram"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704595472718,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raghumareddy Gurram",
+      "timestamp_ms": 1704587083504,
+      "content": "Looking for land in karnataka 50 acs",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Raghumareddy Gurram",
+  "is_still_participant": true,
+  "thread_path": "inbox/raghumareddygurram_1140092847375049",
+  "magic_words": [
+    
+  ]
+}

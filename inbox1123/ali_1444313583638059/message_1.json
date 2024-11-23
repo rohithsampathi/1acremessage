@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "ali"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718725864649,
+      "content": "Hello ,\n\nPlease check our website 1acre.in where 2500+ verified lands are listed. \n\n\nYou can subscribe to premium for mapview and browse lands more easily.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hello ,\n\nPlease check our website 1acre.in where 2500+ verified lands are listed. \n\n\nYou can subscribe to premium for mapview and browse lands more easily."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "ali",
+      "timestamp_ms": 1718723985107,
+      "content": "Preferably within regional ring road",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "ali",
+      "timestamp_ms": 1718723957128,
+      "content": "If the land is in the interiors also there\u00e2\u0080\u0099s no problem",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "ali",
+      "timestamp_ms": 1718723939443,
+      "content": "Hey my budget is around 60lacs for 2 acres near hyd",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "ali",
+  "is_still_participant": true,
+  "thread_path": "inbox/ali_1444313583638059",
+  "magic_words": [
+    
+  ]
+}

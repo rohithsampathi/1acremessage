@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Saikiran Rao"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Saikiran Rao",
+      "timestamp_ms": 1704347902314,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704347642240,
+      "content": "you can connect with pratheek, 9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Saikiran Rao",
+      "timestamp_ms": 1704337847985,
+      "content": "Hi I'm interested can you send me your  number will discuss further",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Saikiran Rao",
+  "is_still_participant": true,
+  "thread_path": "inbox/saikiranrao_1299621818104941",
+  "magic_words": [
+    
+  ]
+}

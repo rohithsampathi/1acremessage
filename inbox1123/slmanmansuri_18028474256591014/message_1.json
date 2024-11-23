@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Slman Mansuri"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Slman Mansuri",
+      "timestamp_ms": 1731834582591,
+      "content": "Slman sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DCd3H82SOlH/?id=3503198524093819207_65647804040",
+        "share_text": "",
+        "original_content_owner": "alter_307_"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Slman Mansuri",
+      "timestamp_ms": 1731834461357,
+      "content": "Slman sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DCd3H82SOlH/?id=3503198524093819207_65647804040",
+        "share_text": "",
+        "original_content_owner": "alter_307_"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Slman Mansuri",
+  "is_still_participant": true,
+  "thread_path": "inbox/slmanmansuri_18028474256591014",
+  "magic_words": [
+    
+  ]
+}

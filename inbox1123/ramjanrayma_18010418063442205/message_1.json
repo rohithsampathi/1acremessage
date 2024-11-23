@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Ramjan Rayma"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718963322904,
+      "content": "Theek hein. Thank you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ramjan Rayma",
+      "timestamp_ms": 1718960727175,
+      "content": "Gujarat Kutchh me jamin  chaye to bolna",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ramjan Rayma",
+  "is_still_participant": true,
+  "thread_path": "inbox/ramjanrayma_18010418063442205",
+  "magic_words": [
+    
+  ]
+}

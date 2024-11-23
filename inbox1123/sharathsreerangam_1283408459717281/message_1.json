@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Sharath Sreerangam"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706691759363,
+      "content": "If you need any details, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706691738125,
+      "content": "Financial district",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sharath Sreerangam",
+      "timestamp_ms": 1706669531492,
+      "content": "Hi, where is your office located?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sharath Sreerangam",
+  "is_still_participant": true,
+  "thread_path": "inbox/sharathsreerangam_1283408459717281",
+  "magic_words": [
+    
+  ]
+}

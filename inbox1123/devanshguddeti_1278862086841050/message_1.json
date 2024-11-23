@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Devansh Guddeti"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Devansh Guddeti",
+      "timestamp_ms": 1701540284296,
+      "content": "You missed an audio call",
+      "call_duration": 0,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Devansh Guddeti",
+      "timestamp_ms": 1701540258225,
+      "content": "devanshguddeti started an audio call",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Devansh Guddeti",
+      "timestamp_ms": 1701540239613,
+      "content": "Can you suggest any",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Devansh Guddeti",
+      "timestamp_ms": 1701540234088,
+      "content": "I am looking for a 1 acre land . Clean title",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Devansh Guddeti",
+      "timestamp_ms": 1701540223186,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701490071487,
+      "content": "Hi , how can we help you?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Devansh Guddeti",
+      "timestamp_ms": 1701482065579,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Devansh Guddeti",
+  "is_still_participant": true,
+  "thread_path": "inbox/devanshguddeti_1278862086841050",
+  "magic_words": [
+    
+  ]
+}

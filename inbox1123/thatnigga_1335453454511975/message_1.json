@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "That/Nigga"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "That/Nigga",
+      "timestamp_ms": 1713321991381,
+      "content": "Sure, will get it touch with him",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713248080816,
+      "content": "Hi, Please talk to Sandeep 9005464412, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "That/Nigga",
+      "timestamp_ms": 1713244803539,
+      "content": "Also my main interest in adding value to your establishment is because of the locate on map feature!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "That/Nigga",
+      "timestamp_ms": 1713244723267,
+      "content": "Good morning sir,\nWanted to know if there is any vacancy for any performance in Bangalore City. \n\nI am a BCA grad with specialization in DATA ANALYTICS from Jain University Bangalore! Would like to talk to you further! Thank you",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "That/Nigga",
+  "is_still_participant": true,
+  "thread_path": "inbox/thatnigga_1335453454511975",
+  "magic_words": [
+    
+  ]
+}

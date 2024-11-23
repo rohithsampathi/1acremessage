@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Swagat Nadella"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Swagat Nadella",
+      "timestamp_ms": 1706692417716,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706691428450,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Swagat Nadella",
+      "timestamp_ms": 1706680648011,
+      "content": "Can u share ur contact details pls",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Swagat Nadella",
+      "timestamp_ms": 1706680639720,
+      "content": "Want to talk to you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Swagat Nadella",
+      "timestamp_ms": 1706680633665,
+      "content": "Hi andi\u00e2\u0080\u00a6. I\u00e2\u0080\u0099m interested for the plot at Velimala near ORR",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Swagat Nadella",
+  "is_still_participant": true,
+  "thread_path": "inbox/swagatnadella_1372243274172431",
+  "magic_words": [
+    
+  ]
+}

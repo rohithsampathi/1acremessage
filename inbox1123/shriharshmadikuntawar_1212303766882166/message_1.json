@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Shriharsh Madikuntawar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shriharsh Madikuntawar",
+      "timestamp_ms": 1720280207919,
+      "content": "Ylt",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shriharsh Madikuntawar",
+      "timestamp_ms": 1720280199211,
+      "content": "Land near",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shriharsh Madikuntawar",
+      "timestamp_ms": 1720280193221,
+      "content": "I want",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720279810530,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shriharsh Madikuntawar",
+      "timestamp_ms": 1720279510135,
+      "content": "Hlo",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shriharsh Madikuntawar",
+  "is_still_participant": true,
+  "thread_path": "inbox/shriharshmadikuntawar_1212303766882166",
+  "magic_words": [
+    
+  ]
+}

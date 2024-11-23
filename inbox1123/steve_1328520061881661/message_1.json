@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Steve"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705998525998,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Steve",
+      "timestamp_ms": 1705991403445,
+      "content": "Need details about Maharashtra lands",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Steve",
+  "is_still_participant": true,
+  "thread_path": "inbox/steve_1328520061881661",
+  "magic_words": [
+    
+  ]
+}

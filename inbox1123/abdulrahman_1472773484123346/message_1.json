@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Abdul rahman"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721109124941,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721109124019,
+      "content": "Hi, Please contact Vijay 9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abdul rahman",
+      "timestamp_ms": 1721105569988,
+      "content": "Iam interested",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abdul rahman",
+      "timestamp_ms": 1721105569048,
+      "content": "Abdul sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C9UBLDXtmaU/?carousel_share_child_media_id=3410355958192799596_47651711013",
+        "share_text": "",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Abdul rahman",
+  "is_still_participant": true,
+  "thread_path": "inbox/abdulrahman_1472773484123346",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Swaroop Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Swaroop Reddy",
+      "timestamp_ms": 1709608259710,
+      "content": "\u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709608250121,
+      "content": "Please contact Ratna Kiran \n9390155412.\nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709608231017,
+      "content": "Hi, sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Swaroop Reddy",
+      "timestamp_ms": 1709607590960,
+      "content": "Please let me know the process to connect to you guys",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Swaroop Reddy",
+      "timestamp_ms": 1709607571340,
+      "content": "I\u00e2\u0080\u0099m looking for the 40 acre land in yavatmal district",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Swaroop Reddy",
+      "timestamp_ms": 1709607543287,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Swaroop Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/swaroopreddy_1320570192668242",
+  "magic_words": [
+    
+  ]
+}

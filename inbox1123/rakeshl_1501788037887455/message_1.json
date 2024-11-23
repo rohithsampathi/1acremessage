@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Rakesh L"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721285158005,
+      "content": "Hi, Please talk to Sandeep 9005464412, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rakesh L",
+      "timestamp_ms": 1721281148760,
+      "content": "This is Rakesh from Bangalore. \nI\u00e2\u0080\u0099m an individual sales & strategy professional with good investors and builders connection in my circle.\n\nLooking for collaborations & Channel partner opportunities.\n\nThanks",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rakesh L",
+  "is_still_participant": true,
+  "thread_path": "inbox/rakeshl_1501788037887455",
+  "magic_words": [
+    
+  ]
+}

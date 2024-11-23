@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Raghu Ram Raju C"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Raghu Ram Raju C",
+      "timestamp_ms": 1721300519330,
+      "content": "Sure thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721300336513,
+      "content": "Thanks. We'll let you know when we have the requirement.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raghu Ram Raju C",
+      "timestamp_ms": 1721299918734,
+      "content": "We are a team of videocreators and channel partners too , wanted to discuss about the requirement if u have so we can work together",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721299344950,
+      "content": "Financial district. \nMay we know what you are looking for?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raghu Ram Raju C",
+      "timestamp_ms": 1721298399107,
+      "content": "Hi where is your office located",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Raghu Ram Raju C",
+  "is_still_participant": true,
+  "thread_path": "inbox/raghuramrajuc_1375614060489148",
+  "magic_words": [
+    
+  ]
+}

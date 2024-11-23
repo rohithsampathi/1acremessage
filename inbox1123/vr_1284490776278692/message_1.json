@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "VR"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703315897062,
+      "content": "Hi , you can connect with pratheek  9390674324,",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "VR",
+      "timestamp_ms": 1703269214496,
+      "content": "We need your help",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "VR",
+      "timestamp_ms": 1703269209008,
+      "content": "Looking to buy land in Karnataka",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "VR",
+      "timestamp_ms": 1703269195733,
+      "content": "Hi sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "VR",
+  "is_still_participant": true,
+  "thread_path": "inbox/vr_1284490776278692",
+  "magic_words": [
+    
+  ]
+}

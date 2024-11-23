@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Harshavardhan Chotu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705111097463,
+      "content": "Hi, the price is 3cr per acre. Please contact Vijay for all the details. \n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harshavardhan Chotu",
+      "timestamp_ms": 1705082641178,
+      "content": "Which is mentioned recently",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harshavardhan Chotu",
+      "timestamp_ms": 1705082635312,
+      "content": "Whag is the price for the 1/2 acre",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Harshavardhan Chotu",
+  "is_still_participant": true,
+  "thread_path": "inbox/harshavardhanchotu_1410620753667959",
+  "magic_words": [
+    
+  ]
+}

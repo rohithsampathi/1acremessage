@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Kashish Dudeja"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711523432605,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kashish Dudeja",
+      "timestamp_ms": 1711521696894,
+      "content": "pls share ur no",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711500439177,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kashish Dudeja",
+      "timestamp_ms": 1711479516150,
+      "content": "hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kashish Dudeja",
+  "is_still_participant": true,
+  "thread_path": "inbox/kashishdudeja_1360980571964965",
+  "magic_words": [
+    
+  ]
+}

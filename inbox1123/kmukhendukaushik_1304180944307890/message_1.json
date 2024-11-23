@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "K. Mukhendu Kaushik"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704513199217,
+      "content": "Sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "K. Mukhendu Kaushik",
+      "timestamp_ms": 1704512909660,
+      "content": "Can you pls drop in a message before giving a call?\nI\u00e2\u0080\u0099d be better prepared to take the call and will keep myself free.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "K. Mukhendu Kaushik",
+      "timestamp_ms": 1704512874358,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "K. Mukhendu Kaushik",
+      "timestamp_ms": 1704505591069,
+      "content": "Yes.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704499305252,
+      "content": "kmukhendukaushik wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704499304662,
+      "content": "Hi, we've seen that you've subscribed. We'll give you a call today, to discuss.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "K. Mukhendu Kaushik",
+      "timestamp_ms": 1704479807105,
+      "content": "Interested in this.\nRequest you to share more details and guide me through how this would work pls.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "K. Mukhendu Kaushik",
+      "timestamp_ms": 1704479806628,
+      "content": "K. Mukhendu sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C1phjLHyPvy/?id=3272294156919700466_47651711013",
+        "share_text": "Missed the bus in Telangana. \nA lot of us have this feeling - We missed the bus in Telangana. We share that feeling with you. We wanted to find the next growth pockets and spent the last one year venturing out, researching and buying some lands (registering them). We aspire to aquire 1000 acres and would want to expand it to 5000 acres if others want to join in. Ping us, if you want to pick AT LEAST 100 acres at 2.5-4 lakh per acre. We\u00e2\u0080\u0099ll see how we can accommodate.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "K. Mukhendu Kaushik",
+  "is_still_participant": true,
+  "thread_path": "inbox/kmukhendukaushik_1304180944307890",
+  "magic_words": [
+    
+  ]
+}

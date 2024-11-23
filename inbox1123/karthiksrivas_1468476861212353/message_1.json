@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Karthik Srivas"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723784246965,
+      "content": "May we know what you are interested in ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Karthik Srivas",
+      "timestamp_ms": 1723765464543,
+      "content": "8ntrested",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Karthik Srivas",
+  "is_still_participant": true,
+  "thread_path": "inbox/karthiksrivas_1468476861212353",
+  "magic_words": [
+    
+  ]
+}

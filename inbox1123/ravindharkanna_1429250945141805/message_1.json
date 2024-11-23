@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Ravindhar Kanna"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719445155000,
+      "content": "ravindhar_kanna_08_99 wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719445154473,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravindhar Kanna",
+      "timestamp_ms": 1719429343651,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ravindhar Kanna",
+  "is_still_participant": true,
+  "thread_path": "inbox/ravindharkanna_1429250945141805",
+  "magic_words": [
+    
+  ]
+}

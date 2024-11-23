@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "NAGI \u00e2\u009c\u00a8"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719636738818,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "NAGI \u00e2\u009c\u00a8",
+      "timestamp_ms": 1719635333634,
+      "content": "Hie",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "NAGI \u00e2\u009c\u00a8",
+  "is_still_participant": true,
+  "thread_path": "inbox/nagi_1247178396666264",
+  "magic_words": [
+    
+  ]
+}

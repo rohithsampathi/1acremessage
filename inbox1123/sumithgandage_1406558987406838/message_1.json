@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "SUMITH  GANDAGE"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717653111992,
+      "content": "You can get in touch with Satish 7661933372. Ping him on WhatsApp",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SUMITH  GANDAGE",
+      "timestamp_ms": 1717652895937,
+      "content": "Hi I'm from Hyderabad I speak hindi English telugu marathi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717637245738,
+      "content": "Hi, Where are you from and what languages do you speak?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SUMITH  GANDAGE",
+      "timestamp_ms": 1717615712891,
+      "content": "Hello is there any vacancies for freshers from management field?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "SUMITH  GANDAGE",
+  "is_still_participant": true,
+  "thread_path": "inbox/sumithgandage_1406558987406838",
+  "magic_words": [
+    
+  ]
+}

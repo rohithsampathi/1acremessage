@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Siva Kumar Bungatavula"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729320775797,
+      "content": "Hello siva \n\nWe have 3500+ lands and plots on our platform www.1acre.in \n\nYou can explore lands and call sellers directly for free \n\nSubscription has mapview and other data layers such as HMDA zones , lakes etc which helps in more informed and faster decision making \n\nYou can explore it at www.1acre.in/subscribe",
+      "share": {
+        "link": "http://www.1acre.in/",
+        "share_text": "Hello siva \n\nWe have 3500+ lands and plots on our platform www.1acre.in \n\nYou can explore lands and call sellers directly for free \n\nSubscription has mapview and other data layers such as HMDA zones , lakes etc which helps in more informed and faster decision making \n\nYou can explore it at www.1acre.in/subscribe"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Siva Kumar Bungatavula",
+      "timestamp_ms": 1729258749430,
+      "content": "Hi i am looking for a house plot  in surroundings of alwal , kompally, yapral i would like to take membership , let me know the process",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Siva Kumar Bungatavula",
+  "is_still_participant": true,
+  "thread_path": "inbox/sivakumarbungatavula_1510351580356957",
+  "magic_words": [
+    
+  ]
+}

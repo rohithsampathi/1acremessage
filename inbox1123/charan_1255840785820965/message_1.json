@@ -1,0 +1,72 @@
+{
+  "participants": [
+    {
+      "name": "CHARAN \u00e2\u0098\u00a3\u00ef\u00b8\u008f"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CHARAN \u00e2\u0098\u00a3\u00ef\u00b8\u008f",
+      "timestamp_ms": 1716308656572,
+      "content": "Thank you for reply.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "CHARAN \u00e2\u0098\u00a3\u00ef\u00b8\u008f",
+      "timestamp_ms": 1716308649557,
+      "content": "Yes sir sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716308637395,
+      "content": "Tomorrow during 10am-5pm",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "CHARAN \u00e2\u0098\u00a3\u00ef\u00b8\u008f",
+      "timestamp_ms": 1716308456746,
+      "content": "Could please tell me time ? Like at what time should I call him .",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "CHARAN \u00e2\u0098\u00a3\u00ef\u00b8\u008f",
+      "timestamp_ms": 1716308425178,
+      "content": "No response for call .",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716298692850,
+      "content": "9032114737\nYou can talk to Bharath, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "CHARAN \u00e2\u0098\u00a3\u00ef\u00b8\u008f",
+      "timestamp_ms": 1716297701430,
+      "content": "Job sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716281883727,
+      "content": "May I know what you are referring to?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "CHARAN \u00e2\u0098\u00a3\u00ef\u00b8\u008f",
+      "timestamp_ms": 1716281783838,
+      "content": "Hello, can I get more info on this?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "CHARAN \u00e2\u0098\u00a3\u00ef\u00b8\u008f",
+  "is_still_participant": true,
+  "thread_path": "inbox/charan_1255840785820965",
+  "magic_words": [
+    
+  ]
+}

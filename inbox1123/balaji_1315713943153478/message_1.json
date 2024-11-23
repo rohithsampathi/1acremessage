@@ -1,0 +1,51 @@
+{
+  "participants": [
+    {
+      "name": "balaji"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "balaji",
+      "timestamp_ms": 1709817666466,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709715766183,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412. He'll help you with the info.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "balaji",
+          "timestamp": 1709817666
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "balaji",
+      "timestamp_ms": 1709706239197,
+      "content": "Hello, can I get more info on this?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "balaji",
+      "timestamp_ms": 1709706238766,
+      "share": {
+        "link": "https://www.instagram.com/p/C3t3CBgtPFl/"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "balaji",
+  "is_still_participant": true,
+  "thread_path": "inbox/balaji_1315713943153478",
+  "magic_words": [
+    
+  ]
+}

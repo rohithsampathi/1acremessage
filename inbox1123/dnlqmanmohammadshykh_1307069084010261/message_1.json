@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "DN \u00d9\u0084\u00d9\u0082\u00d9\u0085\u00d8\u00a7\u00d9\u0086 \u00f0\u009f\u00ab\u0080Mohammad \u00d8\u00b4\u00d9\u008a\u00d8\u00ae"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "DN \u00d9\u0084\u00d9\u0082\u00d9\u0085\u00d8\u00a7\u00d9\u0086 \u00f0\u009f\u00ab\u0080Mohammad \u00d8\u00b4\u00d9\u008a\u00d8\u00ae",
+      "timestamp_ms": 1716526745879,
+      "content": "Inform me sir later",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716518591827,
+      "content": "We shall soon launch in Maharashtra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "DN \u00d9\u0084\u00d9\u0082\u00d9\u0085\u00d8\u00a7\u00d9\u0086 \u00f0\u009f\u00ab\u0080Mohammad \u00d8\u00b4\u00d9\u008a\u00d8\u00ae",
+      "timestamp_ms": 1716483172000,
+      "content": "Do u also have website for Maharashtra",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00e2\u0080\u008eDN \u00d9\u0084\u00d9\u0082\u00d9\u0085\u00d8\u00a7\u00d9\u0086 \u00f0\u009f\u00ab\u0080Mohammad \u00d8\u00b4\u00d9\u008a\u00d8\u00ae\u00e2\u0080\u008e",
+  "is_still_participant": true,
+  "thread_path": "inbox/dnlqmanmohammadshykh_1307069084010261",
+  "magic_words": [
+    
+  ]
+}

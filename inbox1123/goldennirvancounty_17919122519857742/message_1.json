@@ -1,0 +1,65 @@
+{
+  "participants": [
+    {
+      "name": "Golden Nirvan County"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Golden Nirvan County",
+      "timestamp_ms": 1714460621934,
+      "content": "Golden sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C6X-sfMN6Qu/?id=3357427783259628590_65692459797",
+        "share_text": "Ready to take your business online? \u00f0\u009f\u0092\u00bb\u00f0\u009f\u0092\u00a1 Discover the hidden potential of creating a website with SES IT.\n\n\u00f0\u009f\u009a\u0080 Let us help you unlock new opportunities and reach a wider audience.\n\nFollow Us @sesitglobal \n\nContact US: \u00f0\u009f\u0093\u009e +91-8790800776\n\n\u00f0\u009f\u008c\u008e #CreateWebsite #SESIT #DigitalTransformation #WebDevelopment #AppDevelopment #SoftwareDevelopment #ITservices #appdevelopment #ITbusiness #Hyderabad #Indore #India #USA",
+        "original_content_owner": "sesitglobal"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709860600857,
+      "content": "We'll get back to you when we do.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709860588625,
+      "content": "Hi, it'll take some time for us to start listing MP.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Golden Nirvan County",
+      "timestamp_ms": 1709836751550,
+      "content": "Let me know and we can connect over a call",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Golden Nirvan County",
+      "timestamp_ms": 1709836744384,
+      "content": "We are property developers and want to collaborate with you for our project",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709820518483,
+      "content": "Not yet, \nBut we'll soon start listing other states.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Golden Nirvan County",
+      "timestamp_ms": 1709816660018,
+      "content": "Hello \nDo u also deal outside hyd other states like Madhya Pradesh ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Golden Nirvan County",
+  "is_still_participant": true,
+  "thread_path": "inbox/goldennirvancounty_17919122519857742",
+  "magic_words": [
+    
+  ]
+}

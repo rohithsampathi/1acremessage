@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Mohammed Imtiyaz Ali"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1699073840765,
+      "content": "Yes we have ,  for more details please visit our website :https://www.1acre.in/, contact:9505778117",
+      "share": {
+        "link": "https://www.1acre.in/",
+        "share_text": "Yes we have ,  for more details please visit our website :https://www.1acre.in/, contact:9505778117"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammed Imtiyaz Ali",
+      "timestamp_ms": 1699018706722,
+      "content": "Is their any land surrender by karimnagar plz update me",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammed Imtiyaz Ali",
+      "timestamp_ms": 1699018681597,
+      "content": "Helo",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1699001925368,
+      "content": "Hi Mohammed Imityaz, how can we help you?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammed Imtiyaz Ali",
+      "timestamp_ms": 1699001890307,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mohammed Imtiyaz Ali",
+  "is_still_participant": true,
+  "thread_path": "inbox/mohammedimtiyazali_1192458862142663",
+  "magic_words": [
+    
+  ]
+}

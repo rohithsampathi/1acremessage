@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Kalesha Shaik"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712314330714,
+      "content": "Hi, Please contact Harish\n9032114737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kalesha Shaik",
+      "timestamp_ms": 1712314073522,
+      "content": "I am thinking that was part time job \nI am sorry",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712313982494,
+      "content": "Didn't get you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kalesha Shaik",
+      "timestamp_ms": 1712311938309,
+      "content": "I am free",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kalesha Shaik",
+  "is_still_participant": true,
+  "thread_path": "inbox/kaleshashaik_17941927592799623",
+  "magic_words": [
+    
+  ]
+}

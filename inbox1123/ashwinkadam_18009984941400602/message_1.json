@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Ashwin Kadam"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ashwin Kadam",
+      "timestamp_ms": 1716899414138,
+      "content": "You can give me a call tomorrow 1 pm",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716899402831,
+      "content": "Sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ashwin Kadam",
+      "timestamp_ms": 1716899392479,
+      "content": "This is my number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ashwin Kadam",
+      "timestamp_ms": 1716899382797,
+      "content": "9511828260",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716898998156,
+      "content": "Can we have your number? Vijay from the team will get in touch with the details.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ashwin Kadam",
+      "timestamp_ms": 1716898524367,
+      "content": "Hey there \nInterested for property of 10 acre mentioned in recent reel",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ashwin Kadam",
+  "is_still_participant": true,
+  "thread_path": "inbox/ashwinkadam_18009984941400602",
+  "magic_words": [
+    
+  ]
+}

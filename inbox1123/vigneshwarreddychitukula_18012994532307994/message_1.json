@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Vigneshwar Reddy Chitukula"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702477008125,
+      "content": "Hi, Please call Vijay \n7780122120",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vigneshwar Reddy Chitukula",
+      "timestamp_ms": 1702471287797,
+      "content": "I have 3acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vigneshwar Reddy Chitukula",
+      "timestamp_ms": 1702471251271,
+      "content": "You missed an audio call",
+      "call_duration": 0,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vigneshwar Reddy Chitukula",
+      "timestamp_ms": 1702471224308,
+      "content": "vigneshwarreddychitukula started an audio call",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vigneshwar Reddy Chitukula",
+      "timestamp_ms": 1702471204765,
+      "content": "Hi sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vigneshwar Reddy Chitukula",
+  "is_still_participant": true,
+  "thread_path": "inbox/vigneshwarreddychitukula_18012994532307994",
+  "magic_words": [
+    
+  ]
+}

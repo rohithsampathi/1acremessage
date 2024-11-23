@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Preet Agarwal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721154381859,
+      "content": "Thanks for reaching out.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721154375866,
+      "content": "Not villas",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721154368437,
+      "content": "Hi, we only list Land.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Preet Agarwal",
+      "timestamp_ms": 1721153429903,
+      "content": "7399999901",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Preet Agarwal",
+      "timestamp_ms": 1721153424142,
+      "content": "Let's discuss on call",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Preet Agarwal",
+      "timestamp_ms": 1721153412798,
+      "content": "We want to sell w villa",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Preet Agarwal",
+      "timestamp_ms": 1721153392736,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Preet Agarwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/preetagarwal_1465659144834932",
+  "magic_words": [
+    
+  ]
+}

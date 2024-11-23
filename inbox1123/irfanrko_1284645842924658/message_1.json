@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Irfan Rko"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703676481969,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Irfan Rko",
+      "timestamp_ms": 1703586113232,
+      "content": "How are you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Irfan Rko",
+      "timestamp_ms": 1703586110700,
+      "content": "Hello brother",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Irfan Rko",
+  "is_still_participant": true,
+  "thread_path": "inbox/irfanrko_1284645842924658",
+  "magic_words": [
+    
+  ]
+}

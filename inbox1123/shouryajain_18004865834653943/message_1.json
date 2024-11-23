@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Shourya Jain"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730047660561,
+      "content": "Sorry we couldn\u00e2\u0080\u0099t understand your question",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shourya Jain",
+      "timestamp_ms": 1730045981226,
+      "content": "Biggest property you have",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shourya Jain",
+  "is_still_participant": true,
+  "thread_path": "inbox/shouryajain_18004865834653943",
+  "magic_words": [
+    
+  ]
+}

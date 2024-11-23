@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Sreedevi Vadlakonda"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sreedevi Vadlakonda",
+      "timestamp_ms": 1712913320440,
+      "content": "Okay ,  Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712912595130,
+      "content": "Hi, Please contact Vijay\n9959994737\nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sreedevi Vadlakonda",
+      "timestamp_ms": 1712911264423,
+      "content": "One in near to Uppel",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sreedevi Vadlakonda",
+      "timestamp_ms": 1712911255537,
+      "content": "One is in siddipet",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sreedevi Vadlakonda",
+      "timestamp_ms": 1712911239762,
+      "content": "We are planning to sell the plots",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712907432327,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sreedevi Vadlakonda",
+      "timestamp_ms": 1712906841229,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sreedevi Vadlakonda",
+  "is_still_participant": true,
+  "thread_path": "inbox/sreedevivadlakonda_1380217563379221",
+  "magic_words": [
+    
+  ]
+}

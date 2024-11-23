@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Praneeth K"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Praneeth K",
+      "timestamp_ms": 1713668605281,
+      "content": "Thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713661143725,
+      "content": "Very soon.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Praneeth K",
+      "timestamp_ms": 1713637313103,
+      "content": "Is this available for Karnataka?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Praneeth K",
+  "is_still_participant": true,
+  "thread_path": "inbox/praneethk_1368954381164866",
+  "magic_words": [
+    
+  ]
+}

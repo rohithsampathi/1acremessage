@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Venkatesh Suryavamshi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Venkatesh Suryavamshi",
+      "timestamp_ms": 1715014903866,
+      "content": "Okay sir..",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1714991350303,
+      "content": "Hi, Please contact Ramakrishna \n7780122120, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Venkatesh Suryavamshi",
+      "timestamp_ms": 1714991247417,
+      "content": "It is near to Shamirpet",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Venkatesh Suryavamshi",
+      "timestamp_ms": 1714991223221,
+      "content": "I want to sale my farm land..",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1714988902951,
+      "content": "May I know what you are looking for?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Venkatesh Suryavamshi",
+      "timestamp_ms": 1714987844361,
+      "content": "Hello sir huw to contact??",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Venkatesh Suryavamshi",
+  "is_still_participant": true,
+  "thread_path": "inbox/venkateshsuryavamshi_1386733642720101",
+  "magic_words": [
+    
+  ]
+}

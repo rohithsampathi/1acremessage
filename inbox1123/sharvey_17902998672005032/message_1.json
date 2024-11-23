@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Sharvey"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sharvey",
+      "timestamp_ms": 1720257014924,
+      "content": "Thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sharvey",
+      "timestamp_ms": 1720256994279,
+      "content": "Okkk",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720256984879,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720256984007,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sharvey",
+      "timestamp_ms": 1720256785202,
+      "content": "40 acre land info pls",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sharvey",
+  "is_still_participant": true,
+  "thread_path": "inbox/sharvey_17902998672005032",
+  "magic_words": [
+    
+  ]
+}

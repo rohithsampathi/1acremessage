@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "Sai Sushmitha"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sai Sushmitha",
+      "timestamp_ms": 1721439045430,
+      "content": "\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bc",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721430290582,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721430289811,
+      "content": "Hi, Please contact Vijay 9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Sushmitha",
+      "timestamp_ms": 1721411717961,
+      "content": "Hi, we'd like to visit this",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Sushmitha",
+      "timestamp_ms": 1721411717400,
+      "content": "Sai sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C8mK8BgSVSE/?id=3397451074146751620_47651711013",
+        "share_text": "8 acres | 85 Lakhs per acre | Vikarabad | Link in bio \u00f0\u009f\u008c\u009f\n\n- Verified and facilitated by 1acre.in\n- Pure red soil mango farm\n- Within Vikarabad municipal limits\n- Surrounded by active vegetable cultivation and hillocks\n\nInterested? Get in touch now! \n\u00f0\u009f\u0093\u009e +91 9959994737",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709357375165,
+      "content": "Please contact Ratna Kiran \n9390155412. He'll help you out.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Sushmitha",
+      "timestamp_ms": 1709354458662,
+      "content": "Hi, please send me details",
+      "share": {
+        "link": "https://www.instagram.com/p/C3t28m8N2Gf/"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sai Sushmitha",
+  "is_still_participant": true,
+  "thread_path": "inbox/saisushmitha_1307599280631623",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "iamkapild"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705534227982,
+      "content": "Like?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "iamkapild",
+      "timestamp_ms": 1705521056863,
+      "content": "Hello. Can i get some details about your business.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "iamkapild",
+  "is_still_participant": true,
+  "thread_path": "inbox/iamkapild_1313552323378128",
+  "magic_words": [
+    
+  ]
+}

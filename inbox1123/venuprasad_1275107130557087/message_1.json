@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Venu Prasad"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1699774753717,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Venu Prasad",
+      "timestamp_ms": 1699771251613,
+      "content": "Please contact Program manager \nDeepthi.  8801028315",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1699770440839,
+      "content": "We want you help in reaching out to more people, so more people can benefit. Both sellers and buyers.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1699770409962,
+      "content": "We have setup a platform called 1acre.in to help people with buying and selling of lands in telanagna. We verify all the lands that are listed. Buyers can contact the sellers directly. We don't charge a commission.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "We have setup a platform called 1acre.in to help people with buying and selling of lands in telanagna. We verify all the lands that are listed. Buyers can contact the sellers directly. We don't charge a commission."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Venu Prasad",
+      "timestamp_ms": 1699727240320,
+      "content": "?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1699701623782,
+      "content": "Hey , we are interested to work with you for a collaboration , can we connect ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Venu Prasad",
+  "is_still_participant": true,
+  "thread_path": "inbox/venuprasad_1275107130557087",
+  "magic_words": [
+    
+  ]
+}

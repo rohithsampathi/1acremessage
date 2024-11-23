@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Srihith"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Srihith",
+      "timestamp_ms": 1710609845835,
+      "content": "Okay sir, thank you!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710609477925,
+      "content": "Hi, Please contact Harish\n9032114737 \nHe'll help you with your request.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srihith",
+      "timestamp_ms": 1710607633024,
+      "content": "Hello sir, myself srihith I'm a Real-estate agent, I have 3 years of experience, I only deal in agricultural lands, farm houses on the srisailam highway(only srisailam highway) kalwakurthy amangal, kandukur etc. I want to join your team as a sells agent",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Srihith",
+  "is_still_participant": true,
+  "thread_path": "inbox/srihith_1346539080071901",
+  "magic_words": [
+    
+  ]
+}

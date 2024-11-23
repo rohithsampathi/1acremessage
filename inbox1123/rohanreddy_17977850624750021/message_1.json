@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Rohan Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726449883810,
+      "content": "Hi, Please contact Srikar 8341149011, from the team. He'll help you with your questions.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rohan Reddy",
+      "timestamp_ms": 1726373650953,
+      "content": "How much commission will u take",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726314978753,
+      "content": "Ok. Kindly share your mobile number. Someone from our team will reach out to you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rohan Reddy",
+      "timestamp_ms": 1726310325980,
+      "content": "Can  U sell a land for me in Hyderabad through your instagram",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726283530242,
+      "content": "Cost for which land ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rohan Reddy",
+      "timestamp_ms": 1726225265829,
+      "content": "Cost",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rohan Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/rohanreddy_17977850624750021",
+  "magic_words": [
+    
+  ]
+}

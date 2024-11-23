@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Koteswar Rao"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701489776784,
+      "content": "you can connect to our relationship manager PRATHEEK,9505778117,",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Koteswar Rao",
+      "timestamp_ms": 1701489434249,
+      "content": "Number send me",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701489301373,
+      "content": "Hi,how can we help you?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Koteswar Rao",
+      "timestamp_ms": 1701449612081,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Koteswar Rao",
+  "is_still_participant": true,
+  "thread_path": "inbox/koteswarrao_17985786107591014",
+  "magic_words": [
+    
+  ]
+}

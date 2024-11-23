@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Alen Joseph"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1699787757071,
+      "content": "Hey can we collaborate for a reel?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Alen Joseph",
+  "is_still_participant": true,
+  "thread_path": "inbox/alenjoseph_1264149838311510",
+  "magic_words": [
+    
+  ]
+}

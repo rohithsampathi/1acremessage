@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Suman Hasnabad"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Suman Hasnabad",
+      "timestamp_ms": 1719122364016,
+      "content": "Sure, done.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719122245347,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719122244629,
+      "content": "Hi, Please contact Vijay 9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Suman Hasnabad",
+      "timestamp_ms": 1719122030325,
+      "content": "Hello, I am interested in Chevella 1 acre land, which you posted recently, can you please share more details on the exact location, is it 4 km from Chevella main road?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Suman Hasnabad",
+  "is_still_participant": true,
+  "thread_path": "inbox/sumanhasnabad_1442736287126913",
+  "magic_words": [
+    
+  ]
+}

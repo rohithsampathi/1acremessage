@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Monty Dhankhar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730690811723,
+      "content": "Hello \nHow can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Monty Dhankhar",
+      "timestamp_ms": 1730523452126,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Monty Dhankhar",
+  "is_still_participant": true,
+  "thread_path": "inbox/montydhankhar_1511681540233988",
+  "magic_words": [
+    
+  ]
+}

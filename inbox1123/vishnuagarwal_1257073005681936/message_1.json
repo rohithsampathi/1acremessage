@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Vishnu Agarwal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vishnu Agarwal",
+      "timestamp_ms": 1708276539646,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708262855172,
+      "content": "Please contact Ramakrishna \n7780122120, and share your details. We'll check what we can do. Thanks.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Vishnu Agarwal",
+          "timestamp": 1708276539
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708262794111,
+      "content": "Hi, we currently don't list plots but are working on it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishnu Agarwal",
+      "timestamp_ms": 1708165009727,
+      "content": "I want to sell my land of 100 square yards 2 side road corner plot\nIn huppuguda ambica nagar oldcity.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishnu Agarwal",
+      "timestamp_ms": 1708164962162,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vishnu Agarwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/vishnuagarwal_1257073005681936",
+  "magic_words": [
+    
+  ]
+}

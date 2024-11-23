@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Parikshit Sharma"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Parikshit Sharma",
+      "timestamp_ms": 1725848515631,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725848471701,
+      "content": "We currently only operate in telangana. \n\nWill keep you posted when we launch in other states",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Parikshit Sharma",
+          "timestamp": 1725848515
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Parikshit Sharma",
+      "timestamp_ms": 1725815704687,
+      "content": "Please share any plots in jaipur",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Parikshit Sharma",
+  "is_still_participant": true,
+  "thread_path": "inbox/parikshitsharma_1506536184075468",
+  "magic_words": [
+    
+  ]
+}

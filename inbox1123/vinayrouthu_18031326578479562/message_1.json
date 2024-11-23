@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "VINAY ROUTHU"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721630504647,
+      "content": "Hi, Please talk to Sandeep, from the team, at sandeep@1acre.in",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "VINAY ROUTHU",
+      "timestamp_ms": 1721570885765,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "VINAY ROUTHU",
+      "timestamp_ms": 1721570611157,
+      "content": "Hello I\u00e2\u0080\u0099m interested",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "VINAY ROUTHU",
+      "timestamp_ms": 1721570610788,
+      "share": {
+        "link": "https://www.instagram.com/p/C9UBKzVt_9s/"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "VINAY ROUTHU",
+  "is_still_participant": true,
+  "thread_path": "inbox/vinayrouthu_18031326578479562",
+  "magic_words": [
+    
+  ]
+}

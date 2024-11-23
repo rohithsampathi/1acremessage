@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Team DSR"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708152342245,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Team DSR",
+      "timestamp_ms": 1708144997797,
+      "content": "Contact details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Team DSR",
+      "timestamp_ms": 1708144986575,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Team DSR",
+  "is_still_participant": true,
+  "thread_path": "inbox/teamdsr_17941673507790107",
+  "magic_words": [
+    
+  ]
+}

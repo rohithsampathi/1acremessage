@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Dharamraj.H.Dhadhal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1714526879517,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dharamraj.H.Dhadhal",
+      "timestamp_ms": 1714526305615,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Dharamraj.H.Dhadhal",
+  "is_still_participant": true,
+  "thread_path": "inbox/dharamrajhdhadhal_943130247291453",
+  "magic_words": [
+    
+  ]
+}

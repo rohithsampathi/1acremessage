@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "kamal.reddy3"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "kamal.reddy3",
+      "timestamp_ms": 1704452376445,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704444282971,
+      "content": "Maharashtra, bordering Telanagana. You need to be subscribed to access.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "kamal.reddy3",
+      "timestamp_ms": 1704424394264,
+      "content": "Where is that location   Ure talking about  2.5 to 4 lacs per acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704388533658,
+      "content": "Yes?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "kamal.reddy3",
+      "timestamp_ms": 1704388307090,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "kamal.reddy3",
+  "is_still_participant": true,
+  "thread_path": "inbox/kamalreddy3_17987346215607990",
+  "magic_words": [
+    
+  ]
+}

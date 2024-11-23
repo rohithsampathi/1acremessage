@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Brics Vortex"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Brics Vortex",
+      "timestamp_ms": 1720259327759,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720259317865,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Brics Vortex",
+          "timestamp": 1720259327
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Brics Vortex",
+      "timestamp_ms": 1720259285532,
+      "content": "Uttarpradesh",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Brics Vortex",
+      "timestamp_ms": 1720259195657,
+      "content": "Any land near ghaziabad?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Brics Vortex",
+  "is_still_participant": true,
+  "thread_path": "inbox/bricsvortex_17941880858832804",
+  "magic_words": [
+    
+  ]
+}

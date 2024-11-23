@@ -1,0 +1,84 @@
+{
+  "participants": [
+    {
+      "name": "Dichipally Venkatesh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dichipally Venkatesh",
+      "timestamp_ms": 1707872027563,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707871153029,
+      "content": "By private lands, we mean bigger lands. We are working on how to address the plots market. We'll get back.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Dichipally Venkatesh",
+          "timestamp": 1707872027
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707871099078,
+      "content": "Still, plots is a little out of scope for us right now.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dichipally Venkatesh",
+      "timestamp_ms": 1707863242188,
+      "content": "Can your team  help me to sell the plots",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dichipally Venkatesh",
+      "timestamp_ms": 1707863197654,
+      "content": "As mentioned above",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dichipally Venkatesh",
+      "timestamp_ms": 1707863187705,
+      "content": "Dichipally sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C3SoHMQSWNJ/?id=3301877892870923081_47651711013",
+        "share_text": "\u00f0\u009f\u008c\u009f Exciting News Alert! \u00f0\u009f\u008c\u009f Have you been holding onto prime land but hesitant to list it publicly? \u00f0\u009f\u008f\u009e\u00ef\u00b8\u008f We hear you! Introducing Private Listings on 1acre.in! \u00f0\u009f\u00a4\u009d Your land stays confidential while we connect you directly with potential buyers. \u00f0\u009f\u008f\u00a1 Don\u00e2\u0080\u0099t miss out on this exclusive opportunity! DM us now to learn more! \u00f0\u009f\u0093\u00a9 #PrivateListings #PrimeLand #ConfidentialSales #1acrein",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707443137510,
+      "content": "Hi, currently, we are not listing plots. But we are considering and we'll get back. Thanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dichipally Venkatesh",
+      "timestamp_ms": 1707433181803,
+      "content": "Can you help me with that \nThanks in advance",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dichipally Venkatesh",
+      "timestamp_ms": 1707433166238,
+      "content": "Hai sir iam from Australia \nI have a plot 2 plots at Shadnagar \nOne is HMDA layout and the other is DTCP layout i have to sell those 2 \nHMDA one is 147sq Yards \nDTCP layout is 247sq Yards",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Dichipally Venkatesh",
+  "is_still_participant": true,
+  "thread_path": "inbox/dichipallyvenkatesh_1298869271502733",
+  "magic_words": [
+    
+  ]
+}

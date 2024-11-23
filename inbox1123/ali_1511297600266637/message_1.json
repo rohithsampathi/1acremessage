@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Ali"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721103082093,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721103081443,
+      "content": "Hi, Please contact Vijay 9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ali",
+      "timestamp_ms": 1721052118229,
+      "content": "Info",
+      "share": {
+        "link": "https://www.instagram.com/p/C9UBKzVt_9s/"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ali",
+  "is_still_participant": true,
+  "thread_path": "inbox/ali_1511297600266637",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "pragna_developers"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "pragna_developers",
+      "timestamp_ms": 1731343241523,
+      "content": "Hi 1acre\n\nI\u00e2\u0080\u0099m Gnanesh, and I run a real estate-focused Instagram page. I\u00e2\u0080\u0099d love to help promote your property listings to a wider audience on a commission basis\u00e2\u0080\u0094no upfront costs.\n\nBy partnering with me, your properties will gain extra visibility, and I\u00e2\u0080\u0099ll handle all the marketing. We only succeed together when a sale is made!\n\nLet me know if you\u00e2\u0080\u0099re interested, and we can discuss the details.\n\nBest,\nGnanesh",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "pragna_developers",
+  "is_still_participant": true,
+  "thread_path": "inbox/pragna_developers_17854936470312552",
+  "magic_words": [
+    
+  ]
+}

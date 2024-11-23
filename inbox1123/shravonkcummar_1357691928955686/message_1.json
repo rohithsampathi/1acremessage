@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Shravon Kcummar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shravon Kcummar",
+      "timestamp_ms": 1715588283718,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715588161034,
+      "content": "9032114737\nYou can talk to Bharath, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shravon Kcummar",
+      "timestamp_ms": 1715586692874,
+      "content": "Interested",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shravon Kcummar",
+      "timestamp_ms": 1715586691918,
+      "content": "Shravon sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C4j3HBRt6Vt/?id=3324743324894995821_47651711013",
+        "share_text": "9032114737\n\nPlease call Bharath, from the team.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shravon Kcummar",
+  "is_still_participant": true,
+  "thread_path": "inbox/shravonkcummar_1357691928955686",
+  "magic_words": [
+    
+  ]
+}

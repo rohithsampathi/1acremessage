@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Shanmuk Venkat Sai"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shanmuk Venkat Sai",
+      "timestamp_ms": 1718504481224,
+      "content": "Ha sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718502961863,
+      "content": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shanmuk Venkat Sai",
+      "timestamp_ms": 1718470059836,
+      "content": "Hi need acre at vizak",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shanmuk Venkat Sai",
+  "is_still_participant": true,
+  "thread_path": "inbox/shanmukvenkatsai_1361584475231003",
+  "magic_words": [
+    
+  ]
+}

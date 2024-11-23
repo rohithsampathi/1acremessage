@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "Angad Bindra"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Angad Bindra",
+      "timestamp_ms": 1717505796777,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Angad Bindra",
+      "timestamp_ms": 1717505796071,
+      "content": "Waiting",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1717505814
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717505776805,
+      "content": "We will, very soon. Thank you.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Angad Bindra",
+          "timestamp": 1717505796
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Angad Bindra",
+      "timestamp_ms": 1717505234418,
+      "content": "Why are you not existing in other states.... In Haryana?",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3382974431164607657"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Angad Bindra",
+  "is_still_participant": true,
+  "thread_path": "inbox/angadbindra_1388763042518794",
+  "magic_words": [
+    
+  ]
+}

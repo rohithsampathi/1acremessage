@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Shanthan Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shanthan Reddy",
+      "timestamp_ms": 1726051213019,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726051073618,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shanthan Reddy",
+      "timestamp_ms": 1726035241404,
+      "content": "Industrial land on the medak main road specifically Chegunta-bonal road. Extent 10 Acres required",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726032328308,
+      "content": "May we know what are you looking for ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shanthan Reddy",
+      "timestamp_ms": 1725967696842,
+      "content": "Contact number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shanthan Reddy",
+      "timestamp_ms": 1725967662168,
+      "content": "You missed an audio call",
+      "call_duration": 0,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shanthan Reddy",
+      "timestamp_ms": 1725967645547,
+      "content": "shanthan__reddy__ started an audio call",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shanthan Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/shanthanreddy_1526389712095462",
+  "magic_words": [
+    
+  ]
+}

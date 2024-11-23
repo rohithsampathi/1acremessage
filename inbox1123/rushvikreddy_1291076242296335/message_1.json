@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Rushvik Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rushvik Reddy",
+      "timestamp_ms": 1709622303722,
+      "content": "Sure thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709622284565,
+      "content": "Please contact Ratna Kiran \n9390155412. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709622254780,
+      "content": "Hi, sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rushvik Reddy",
+      "timestamp_ms": 1709620764466,
+      "content": "Hi, \n\nCan you please share contact details. I am interested in 10 acre property in Maharashtra",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rushvik Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/rushvikreddy_1291076242296335",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Muzammil Syed"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712800729613,
+      "content": "Hello, please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Muzammil Syed",
+      "timestamp_ms": 1712777455631,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Muzammil Syed",
+  "is_still_participant": true,
+  "thread_path": "inbox/muzammilsyed_1361565378570441",
+  "magic_words": [
+    
+  ]
+}

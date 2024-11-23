@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "TS"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717815294199,
+      "content": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "TS",
+      "timestamp_ms": 1717811937323,
+      "content": "Karjan, vadodra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717809457475,
+      "content": "Where's the land?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "TS",
+      "timestamp_ms": 1717789373857,
+      "content": "I want to sell my land",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "TS",
+  "is_still_participant": true,
+  "thread_path": "inbox/ts_18003155549614615",
+  "magic_words": [
+    
+  ]
+}

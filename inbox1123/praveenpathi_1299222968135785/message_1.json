@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Praveen Pathi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706691847860,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Praveen Pathi",
+      "timestamp_ms": 1706660118355,
+      "content": "Hello. Re# velimala land, is there an option to buy half? If not do you have any other commercial properties adjacent to Orr?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Praveen Pathi",
+  "is_still_participant": true,
+  "thread_path": "inbox/praveenpathi_1299222968135785",
+  "magic_words": [
+    
+  ]
+}

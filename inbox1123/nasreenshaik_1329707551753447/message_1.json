@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Nasreen Shaik"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715336175126,
+      "content": "If you can share more specifics on your requirement , we can connect you with right person (edited)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715336165001,
+      "content": "If you can share more specifics on your requirement , we cant connect you with right person",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nasreen Shaik",
+      "timestamp_ms": 1715335037316,
+      "content": "We are interested in acquiring land for investment purposes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nasreen Shaik",
+      "timestamp_ms": 1715335022274,
+      "content": "I\u00e2\u0080\u0099m interested in knowing more about this. Can we make an appointment?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715333761596,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nasreen Shaik",
+      "timestamp_ms": 1715333064112,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nasreen Shaik",
+  "is_still_participant": true,
+  "thread_path": "inbox/nasreenshaik_1329707551753447",
+  "magic_words": [
+    
+  ]
+}

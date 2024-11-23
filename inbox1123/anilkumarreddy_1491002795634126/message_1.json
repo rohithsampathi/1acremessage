@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Anil Kumar Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723719475159,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anil Kumar Reddy",
+      "timestamp_ms": 1723697036888,
+      "content": "Share details of chikkur 1000 yards",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Anil Kumar Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/anilkumarreddy_1491002795634126",
+  "magic_words": [
+    
+  ]
+}

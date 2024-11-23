@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "VAMSHI"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705249261472,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "VAMSHI",
+      "timestamp_ms": 1705247040458,
+      "content": "Me contact number share cheyandi\u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "VAMSHI",
+      "timestamp_ms": 1705246981665,
+      "content": "Leda customers ki direct ga owner nunchi buy chyisthara",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "VAMSHI",
+      "timestamp_ms": 1705246944273,
+      "content": "Meeru lands konukoni amuthuntara",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705243027086,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "VAMSHI",
+      "timestamp_ms": 1705238897210,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "VAMSHI",
+  "is_still_participant": true,
+  "thread_path": "inbox/vamshi_1145328606851024",
+  "magic_words": [
+    
+  ]
+}

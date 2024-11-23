@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "\u00e0\u00ae\u00b5\u00e0\u00ae\u00bf\u00e0\u00ae\u00b7\u00e0\u00af\u008d\u00e0\u00ae\u00a3\u00e0\u00af\u0081. \u00e0\u00ae\u00a4\u00e0\u00ae\u00be\u00e0\u00ae\u0095\u00e0\u00ae\u00ae\u00e0\u00af\u008d"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00e0\u00ae\u00b5\u00e0\u00ae\u00bf\u00e0\u00ae\u00b7\u00e0\u00af\u008d\u00e0\u00ae\u00a3\u00e0\u00af\u0081. \u00e0\u00ae\u00a4\u00e0\u00ae\u00be\u00e0\u00ae\u0095\u00e0\u00ae\u00ae\u00e0\u00af\u008d",
+      "timestamp_ms": 1723993265067,
+      "content": "Welcome",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723988040103,
+      "content": "No part time. Thanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00e0\u00ae\u00b5\u00e0\u00ae\u00bf\u00e0\u00ae\u00b7\u00e0\u00af\u008d\u00e0\u00ae\u00a3\u00e0\u00af\u0081. \u00e0\u00ae\u00a4\u00e0\u00ae\u00be\u00e0\u00ae\u0095\u00e0\u00ae\u00ae\u00e0\u00af\u008d",
+      "timestamp_ms": 1723988019941,
+      "content": "I want a part time job",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723985695595,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00e0\u00ae\u00b5\u00e0\u00ae\u00bf\u00e0\u00ae\u00b7\u00e0\u00af\u008d\u00e0\u00ae\u00a3\u00e0\u00af\u0081. \u00e0\u00ae\u00a4\u00e0\u00ae\u00be\u00e0\u00ae\u0095\u00e0\u00ae\u00ae\u00e0\u00af\u008d",
+      "timestamp_ms": 1723983137055,
+      "content": "Hlo",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00e0\u00ae\u00b5\u00e0\u00ae\u00bf\u00e0\u00ae\u00b7\u00e0\u00af\u008d\u00e0\u00ae\u00a3\u00e0\u00af\u0081. \u00e0\u00ae\u00a4\u00e0\u00ae\u00be\u00e0\u00ae\u0095\u00e0\u00ae\u00ae\u00e0\u00af\u008d",
+  "is_still_participant": true,
+  "thread_path": "inbox/visnutakam_17986410422704497",
+  "magic_words": [
+    
+  ]
+}

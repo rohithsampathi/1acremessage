@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Ganesh naidu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723112667940,
+      "content": "Ledu. Not now.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ganesh naidu",
+      "timestamp_ms": 1723105858902,
+      "content": "Hi \nSir apartments and villas cheyyara sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ganesh naidu",
+  "is_still_participant": true,
+  "thread_path": "inbox/ganeshnaidu_1452469222811766",
+  "magic_words": [
+    
+  ]
+}

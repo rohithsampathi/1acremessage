@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Akhil"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721300798509,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412\nHe'll help you with your query.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akhil",
+      "timestamp_ms": 1721300712592,
+      "content": "1600squarda",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akhil",
+      "timestamp_ms": 1721300707321,
+      "content": "We have a property at bownpally",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akhil",
+      "timestamp_ms": 1721300693691,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Akhil",
+  "is_still_participant": true,
+  "thread_path": "inbox/akhil_1337996784259322",
+  "magic_words": [
+    
+  ]
+}

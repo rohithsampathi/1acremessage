@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Raunak"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720168373548,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raunak",
+      "timestamp_ms": 1720167695920,
+      "content": "Raunak sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C8_88ylSF7J/?id=3404707903587245769_47651711013",
+        "share_text": "40 acres | \u00e2\u0082\u00b97 lakhs per acre | Near Yavatmal, Maharashtra | Link in bio \u00f0\u009f\u008c\u009f\n\n- Verified and facilitated by 1acre.in\n- Extremely fertile, canal-irrigated land\n- Only 6 hours from Hyderabad\n- Well-connected to national highways, expressways, and railways\n- Ideal for active agriculture and investment\n\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 9959994737\n\n\u00f0\u009f\u0093\u00ac\u00f0\u009f\u0093\u00a9 DM us for more queries on buying, selling, or partnerships",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raunak",
+      "timestamp_ms": 1720167688637,
+      "content": "i'm intrested",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Raunak",
+  "is_still_participant": true,
+  "thread_path": "inbox/raunak_18011641679591014",
+  "magic_words": [
+    
+  ]
+}

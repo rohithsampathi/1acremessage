@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Vinay Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705126070491,
+      "content": "Hi, the price is 3cr per acre. Please contact Vijay for all the details. \n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vinay Kumar",
+      "timestamp_ms": 1705122227197,
+      "content": "Hi. I am interested in todays property that you posted. Let me know the price.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vinay Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/vinaykumar_1392382372159354",
+  "magic_words": [
+    
+  ]
+}

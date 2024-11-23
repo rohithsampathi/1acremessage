@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "RAFEYANSARI"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730442722449,
+      "content": "Share your number and our team will call you to discuss",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "RAFEYANSARI",
+      "timestamp_ms": 1730320363065,
+      "content": "How can i be one?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "RAFEYANSARI",
+      "timestamp_ms": 1730320350269,
+      "content": "I want to become your regional partner",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "RAFEYANSARI",
+      "timestamp_ms": 1730320336068,
+      "content": "I am from Bhiwandi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "RAFEYANSARI",
+      "timestamp_ms": 1730320307974,
+      "content": "Hello sir/madam",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "RAFEYANSARI",
+  "is_still_participant": true,
+  "thread_path": "inbox/rafeyansari_18033457922351773",
+  "magic_words": [
+    
+  ]
+}

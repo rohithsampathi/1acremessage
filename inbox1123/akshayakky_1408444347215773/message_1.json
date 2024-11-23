@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Akshay Akky"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715582464440,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715582463496,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team. \nHe'll set up the meet.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akshay Akky",
+      "timestamp_ms": 1715582347841,
+      "content": "So we can discuss",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akshay Akky",
+      "timestamp_ms": 1715582335791,
+      "content": "We have many lands and plots",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715581924447,
+      "content": "May I know what you are looking for?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akshay Akky",
+      "timestamp_ms": 1715539285926,
+      "content": "Office location",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Akshay Akky",
+  "is_still_participant": true,
+  "thread_path": "inbox/akshayakky_1408444347215773",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Nikhil Satwick Peruka"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nikhil Satwick Peruka",
+      "timestamp_ms": 1721383263263,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721383243784,
+      "content": "Hi, Please talk to Sandeep 9005464412, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nikhil Satwick Peruka",
+      "timestamp_ms": 1721381175779,
+      "content": "Hai",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nikhil Satwick Peruka",
+      "timestamp_ms": 1721381174568,
+      "content": "Nikhil sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C9UBLDXtmaU/?carousel_share_child_media_id=3410355958192799596_47651711013",
+        "share_text": "",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nikhil Satwick Peruka",
+  "is_still_participant": true,
+  "thread_path": "inbox/nikhilsatwickperuka_1443400653723476",
+  "magic_words": [
+    
+  ]
+}

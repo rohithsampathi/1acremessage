@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Sai Shravan Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sai Shravan Kumar",
+      "timestamp_ms": 1721986636982,
+      "content": "I'm registered \n9550567888",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1722014758
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721964235948,
+      "content": "You can check our website 1acre.in \n\nWe have 3000+ lands all over Telangana. For more intuitive access, you can subscribe to our mapview",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "You can check our website 1acre.in \n\nWe have 3000+ lands all over Telangana. For more intuitive access, you can subscribe to our mapview"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Shravan Kumar",
+      "timestamp_ms": 1721905547017,
+      "content": "Can u help",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Shravan Kumar",
+      "timestamp_ms": 1721905530222,
+      "content": "Hi\nLooking for land in telangana \nRequirements 10-20 acres \nBudget  20 lks per acres max",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sai Shravan Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/saishravankumar_1410209437037291",
+  "magic_words": [
+    
+  ]
+}

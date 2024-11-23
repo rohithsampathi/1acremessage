@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Jairam"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jairam",
+      "timestamp_ms": 1716010001972,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716009992104,
+      "content": "Hi, Please talk to Ramakrishna \n7780122120, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jairam",
+      "timestamp_ms": 1716009807745,
+      "content": "I want to sell my land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716009783610,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jairam",
+      "timestamp_ms": 1716005061475,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Jairam",
+  "is_still_participant": true,
+  "thread_path": "inbox/jairam_17905131053968700",
+  "magic_words": [
+    
+  ]
+}

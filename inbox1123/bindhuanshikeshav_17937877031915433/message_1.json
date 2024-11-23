@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Bindhu Anshi Keshav"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730256246685,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bindhu Anshi Keshav",
+      "timestamp_ms": 1730226535531,
+      "content": "Hi Sir. Need to enquire about 5.5acre land next to Kondapochamma reservoir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Bindhu Anshi Keshav",
+  "is_still_participant": true,
+  "thread_path": "inbox/bindhuanshikeshav_17937877031915433",
+  "magic_words": [
+    
+  ]
+}

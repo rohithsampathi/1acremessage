@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "V.v. Narayana Chinna"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726145963721,
+      "content": "This account can't receive your message because they don't allow new message requests from everyone.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726145961243,
+      "content": "Hi, please let us know how we can help you.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "V.v. Narayana Chinna",
+  "is_still_participant": true,
+  "thread_path": "inbox/vvnarayanachinna_17968372745740225",
+  "magic_words": [
+    
+  ]
+}

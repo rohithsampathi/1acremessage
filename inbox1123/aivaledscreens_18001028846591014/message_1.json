@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "AIVA LED SCREENS"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712339535075,
+      "content": "Hi, thanks for reaching out. We are currently operational only in Telangana. Soon, we'll start AP. Will keep you posted. For now, we don't have access to any reliable information.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "AIVA LED SCREENS",
+      "timestamp_ms": 1712335365396,
+      "content": "I need 10 acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "AIVA LED SCREENS",
+      "timestamp_ms": 1712335351687,
+      "content": "Any land in bapatla Chirala Beach view",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "AIVA LED SCREENS",
+      "timestamp_ms": 1712335338542,
+      "content": "Hii sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "AIVA LED SCREENS",
+  "is_still_participant": true,
+  "thread_path": "inbox/aivaledscreens_18001028846591014",
+  "magic_words": [
+    
+  ]
+}

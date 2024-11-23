@@ -1,0 +1,84 @@
+{
+  "participants": [
+    {
+      "name": "vara .@"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "vara .@",
+      "timestamp_ms": 1702111406928,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701864277899,
+      "content": "Our team will connect with you shortly",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "vara .@",
+      "timestamp_ms": 1701863190269,
+      "content": "9000679340",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701861900552,
+      "content": "Can we have your contact number mam,our team will connect with you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "vara .@",
+      "timestamp_ms": 1701861683797,
+      "content": "Quotation you can send",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "vara .@",
+      "timestamp_ms": 1701861675382,
+      "content": "You say what kind of lands u have and along with the location",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701861465544,
+      "content": "Can we know which farmland mam you are enquiring about",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "vara .@",
+      "timestamp_ms": 1701860897645,
+      "content": "Farmland",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701860872775,
+      "content": "Hello mam, can I know about which land you\u00e2\u0080\u0099re enquiring about.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "vara .@",
+      "timestamp_ms": 1701859973516,
+      "content": "Can we get 1 acre around that cost as you have mentioned",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "vara .@",
+      "timestamp_ms": 1701859937766,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "vara .@",
+  "is_still_participant": true,
+  "thread_path": "inbox/vara_1281412599922979",
+  "magic_words": [
+    
+  ]
+}

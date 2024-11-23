@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Kadiri Varun"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705156330194,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kadiri Varun",
+      "timestamp_ms": 1705150131920,
+      "content": "To talk ABT half acre and one acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kadiri Varun",
+      "timestamp_ms": 1705150115251,
+      "content": "Can I get ur number",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kadiri Varun",
+  "is_still_participant": true,
+  "thread_path": "inbox/kadirivarun_1283052199763932",
+  "magic_words": [
+    
+  ]
+}

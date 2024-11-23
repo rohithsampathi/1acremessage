@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Sahu Sanjay"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701853742826,
+      "content": "You can connect with 7780122120,Vijay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sahu Sanjay",
+      "timestamp_ms": 1701853132771,
+      "content": "Will you help them in selling their property",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sahu Sanjay",
+      "timestamp_ms": 1701853104356,
+      "content": "Nad they want to sell the land as soon as possible",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sahu Sanjay",
+      "timestamp_ms": 1701853085972,
+      "content": "She doesn't know about the locationa of the land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sahu Sanjay",
+      "timestamp_ms": 1701853053237,
+      "content": "Hi my relative got land near by Siddipet",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sahu Sanjay",
+  "is_still_participant": true,
+  "thread_path": "inbox/sahusanjay_1262417038484277",
+  "magic_words": [
+    
+  ]
+}

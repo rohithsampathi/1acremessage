@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Mahendhar Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723432816669,
+      "content": "Please call our team member Venu at +91 76749 01201\n\nHe shall help you list it and share other details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mahendhar Reddy",
+      "timestamp_ms": 1723395272546,
+      "content": "I want to sell my property",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mahendhar Reddy",
+      "timestamp_ms": 1723395258868,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mahendhar Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/mahendharreddy_1438644614194607",
+  "magic_words": [
+    
+  ]
+}

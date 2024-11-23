@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Prajwal Diggavi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Prajwal Diggavi",
+      "timestamp_ms": 1720097959817,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Prajwal Diggavi",
+  "is_still_participant": true,
+  "thread_path": "inbox/prajwaldiggavi_1395163648542183",
+  "magic_words": [
+    
+  ]
+}

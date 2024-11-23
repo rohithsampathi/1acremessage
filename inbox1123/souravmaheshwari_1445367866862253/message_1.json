@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Sourav Maheshwari"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720742835921,
+      "content": "Soon",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720742832143,
+      "content": "Yes.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sourav Maheshwari",
+      "timestamp_ms": 1720716307979,
+      "content": "Sir do expand in punjab also",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sourav Maheshwari",
+      "timestamp_ms": 1717733042696,
+      "content": "Great\u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717689338701,
+      "content": "Hi, at 1acre.in, we are currently listint only Telangana.\nWe'll start other states soon. \nWe'll keep you posted.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, at 1acre.in, we are currently listint only Telangana.\nWe'll start other states soon. \nWe'll keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sourav Maheshwari",
+      "timestamp_ms": 1717685527715,
+      "content": "Land in chandigarh mohali zirkpur",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sourav Maheshwari",
+  "is_still_participant": true,
+  "thread_path": "inbox/souravmaheshwari_1445367866862253",
+  "magic_words": [
+    
+  ]
+}

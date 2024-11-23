@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Farhan \u00d9\u0081\u00d8\u00b1\u00d8\u00ad\u00d8\u00a7\u00d9\u0086"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Farhan \u00d9\u0081\u00d8\u00b1\u00d8\u00ad\u00d8\u00a7\u00d9\u0086",
+      "timestamp_ms": 1720257683337,
+      "content": "Yup",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Farhan \u00d9\u0081\u00d8\u00b1\u00d8\u00ad\u00d8\u00a7\u00d9\u0086",
+      "timestamp_ms": 1720257678060,
+      "content": "\u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720257676139,
+      "content": "Are you a seller?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720257661080,
+      "content": "Not at the moment. We are currently listing Telangana. \nWe'll start Maharashtra soon.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Farhan \u00d9\u0081\u00d8\u00b1\u00d8\u00ad\u00d8\u00a7\u00d9\u0086",
+      "timestamp_ms": 1720257140907,
+      "content": "Do you have a clientele in Khandesh region of Maharashtra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720256511878,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Farhan \u00d9\u0081\u00d8\u00b1\u00d8\u00ad\u00d8\u00a7\u00d9\u0086",
+      "timestamp_ms": 1720256423814,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00e2\u0080\u008eFarhan \u00d9\u0081\u00d8\u00b1\u00d8\u00ad\u00d8\u00a7\u00d9\u0086\u00e2\u0080\u008e",
+  "is_still_participant": true,
+  "thread_path": "inbox/farhanfrhan_1398541508204445",
+  "magic_words": [
+    
+  ]
+}

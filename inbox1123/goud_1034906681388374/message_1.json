@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009f\u0086\u0082\u00f0\u009f\u0085\u00b7\u00f0\u009f\u0085\u00b8\u00f0\u009f\u0086\u0085\u00f0\u009f\u0085\u00b0 GOUD"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719121527770,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719121527076,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u0086\u0082\u00f0\u009f\u0085\u00b7\u00f0\u009f\u0085\u00b8\u00f0\u009f\u0086\u0085\u00f0\u009f\u0085\u00b0 GOUD",
+      "timestamp_ms": 1719121505795,
+      "content": "Ma land vikarabad la undi anna promotion chaysathara",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719061183207,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u0086\u0082\u00f0\u009f\u0085\u00b7\u00f0\u009f\u0085\u00b8\u00f0\u009f\u0086\u0085\u00f0\u009f\u0085\u00b0 GOUD",
+      "timestamp_ms": 1719060988158,
+      "content": "Hlo brother",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00f0\u009f\u0086\u0082\u00f0\u009f\u0085\u00b7\u00f0\u009f\u0085\u00b8\u00f0\u009f\u0086\u0085\u00f0\u009f\u0085\u00b0 GOUD",
+  "is_still_participant": true,
+  "thread_path": "inbox/goud_1034906681388374",
+  "magic_words": [
+    
+  ]
+}

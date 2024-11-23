@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Surya Prashanth | Global Integrative & Homeopathic Clinic"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709251244043,
+      "content": "Hi, thanks for reaching out. Please contact Pratheek \n9390674324, from the team. You can discuss with him and he'll help you with the meet.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Surya Prashanth | Global Integrative & Homeopathic Clinic",
+      "timestamp_ms": 1709215170319,
+      "content": "Good Evening, I am Dr. Surya Prashanth, I am homeopath, Can u tell us where we can meet and discuss, Can u share us ur office Address \nthank u",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Surya Prashanth | Global Integrative & Homeopathic Clinic",
+  "is_still_participant": true,
+  "thread_path": "inbox/suryaprashanthglobalintegrativehomeopathicclinic_1281053556616532",
+  "magic_words": [
+    
+  ]
+}

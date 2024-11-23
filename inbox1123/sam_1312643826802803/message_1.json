@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Sam"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702442606583,
+      "content": "you can connect with pratheek  9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sam",
+      "timestamp_ms": 1702439563575,
+      "content": "Hi sir, let me know lands near by out ring",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sam",
+  "is_still_participant": true,
+  "thread_path": "inbox/sam_1312643826802803",
+  "magic_words": [
+    
+  ]
+}

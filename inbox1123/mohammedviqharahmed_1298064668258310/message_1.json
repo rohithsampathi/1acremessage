@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Mohammed Viqhar Ahmed"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701488923153,
+      "content": "Hi  , you can connect to our relationship manager PRATHEEK,9505778117,",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammed Viqhar Ahmed",
+      "timestamp_ms": 1701416392478,
+      "content": "Can share you contact number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701093848857,
+      "content": "Hy, how can we help you?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammed Viqhar Ahmed",
+      "timestamp_ms": 1701071399719,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mohammed Viqhar Ahmed",
+  "is_still_participant": true,
+  "thread_path": "inbox/mohammedviqharahmed_1298064668258310",
+  "magic_words": [
+    
+  ]
+}

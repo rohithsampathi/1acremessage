@@ -1,0 +1,91 @@
+{
+  "participants": [
+    {
+      "name": "Bharath Jain"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721483581559,
+      "content": "And in what budget?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bharath Jain",
+      "timestamp_ms": 1721481767917,
+      "content": "I was looking in nelmangla side",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1721483554
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bharath Jain",
+      "timestamp_ms": 1721481751928,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721478132069,
+      "content": "Could you tell us what kind of lands and where you want us to list lands?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721478108306,
+      "content": "You are from Bangalore?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bharath Jain",
+      "timestamp_ms": 1721477056038,
+      "content": "Buy",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721476910542,
+      "content": "You are a land owner or looking to buy?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721476898069,
+      "content": "This month.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bharath Jain",
+      "timestamp_ms": 1721476498858,
+      "content": "Karnataka wen",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721474274753,
+      "content": "This month launching AP, Maharashtra & Karnataka. Will launch other states soon.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bharath Jain",
+      "timestamp_ms": 1721472177719,
+      "content": "Is this only for Telangana",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Bharath Jain",
+  "is_still_participant": true,
+  "thread_path": "inbox/bharathjain_1530993428298819",
+  "magic_words": [
+    
+  ]
+}

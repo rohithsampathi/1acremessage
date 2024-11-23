@@ -1,0 +1,72 @@
+{
+  "participants": [
+    {
+      "name": "Swaroop Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Swaroop Reddy",
+      "timestamp_ms": 1706798636300,
+      "content": "Okay sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706798623057,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Swaroop Reddy",
+      "timestamp_ms": 1706797226177,
+      "content": "3CRH+CP7, Lemoor, Telangana 501359, India",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Swaroop Reddy",
+      "timestamp_ms": 1706797136103,
+      "content": "Akshita Golden Breeze 4",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Swaroop Reddy",
+      "timestamp_ms": 1706797133616,
+      "content": "My land is in",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706691994261,
+      "content": "We charge a 1000/- per month. Apart from the initial setting up costs. Where exactly is your land?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Swaroop Reddy",
+      "timestamp_ms": 1706643458748,
+      "content": "How much do you charge for it ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Swaroop Reddy",
+      "timestamp_ms": 1706643447873,
+      "content": "What is land monitoring service?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Swaroop Reddy",
+      "timestamp_ms": 1706643419445,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Swaroop Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/swaroopreddy_1277910090266815",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Muhammad Abdolq"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716090268127,
+      "content": "Please visit the website. 1acre.in.\nYou can contact the sellers directly.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Please visit the website. 1acre.in.\nYou can contact the sellers directly."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Muhammad Abdolq",
+      "timestamp_ms": 1716090049322,
+      "content": "I need 5 Acer\u00e2\u0080\u0099s of land within 100 km from Hyderabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Muhammad Abdolq",
+      "timestamp_ms": 1716090016996,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702097733041,
+      "content": "Yes, you can connect with pratheek, 9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Muhammad Abdolq",
+      "timestamp_ms": 1702041625400,
+      "content": "Hi please share your telephone and email",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Muhammad Abdolq",
+  "is_still_participant": true,
+  "thread_path": "inbox/muhammadabdolq_1296132011785645",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Adil \u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u0080\u008d\u00f0\u009f\u0094\u00a5 Mustafa"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1696403134720,
+      "content": "+91 80744 50533 Vijay 1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "+91 80744 50533 Vijay 1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Adil \u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u0080\u008d\u00f0\u009f\u0094\u00a5 Mustafa",
+      "timestamp_ms": 1695917834868,
+      "content": "Can you please let me know about your page .",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Adil \u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u0080\u008d\u00f0\u009f\u0094\u00a5 Mustafa",
+      "timestamp_ms": 1695917817785,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Adil \u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u0080\u008d\u00f0\u009f\u0094\u00a5 Mustafa",
+  "is_still_participant": true,
+  "thread_path": "inbox/adilmustafa_1212539376804426",
+  "magic_words": [
+    
+  ]
+}

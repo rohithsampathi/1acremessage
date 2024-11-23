@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "\u00d8\u00b2\u00db\u008c\u00d8\u00af"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720195398715,
+      "content": "Not currently. We'll start lisitings in Maharashtra soon. \n\n1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Not currently. We'll start lisitings in Maharashtra soon. \n\n1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00d8\u00b2\u00db\u008c\u00d8\u00af",
+      "timestamp_ms": 1720195223546,
+      "content": "Is there any property in Nanded Maharashtra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720194783337,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00d8\u00b2\u00db\u008c\u00d8\u00af",
+      "timestamp_ms": 1720194265122,
+      "content": "Hey",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00e2\u0080\u008e\u00d8\u00b2\u00db\u008c\u00d8\u00af\u00e2\u0080\u008e",
+  "is_still_participant": true,
+  "thread_path": "inbox/zyd_1173986794025246",
+  "magic_words": [
+    
+  ]
+}

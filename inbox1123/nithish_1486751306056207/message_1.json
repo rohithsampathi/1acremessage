@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Ni Thi Sh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ni Thi Sh",
+      "timestamp_ms": 1721209751893,
+      "content": "Sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ni Thi Sh",
+      "timestamp_ms": 1721209749838,
+      "content": "Some job",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ni Thi Sh",
+      "timestamp_ms": 1721209744936,
+      "content": "I want",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ni Thi Sh",
+      "timestamp_ms": 1721209091549,
+      "content": "Ni sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C9ej3lZKX11/?id=3413323318943120757_47651711013",
+        "share_text": "900 Sq.Yds | \u00e2\u0082\u00b968,000 per Sq.Yd | at Boduppal | Link in bio \u00f0\u009f\u008c\u009f\n\nVerified and facilitated by 1acre.in\nIdeal for immediate apartment construction\n3km from Uppal Metro Station\n2km from Warangal Highway\n3-side roads\n\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 9959994737\n\n\u00f0\u009f\u0093\u00ac DM us for more queries on buying, selling, or partnerships",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ni Thi Sh",
+  "is_still_participant": true,
+  "thread_path": "inbox/nithish_1486751306056207",
+  "magic_words": [
+    
+  ]
+}

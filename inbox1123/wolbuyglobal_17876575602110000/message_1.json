@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "wolbuy global"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722913427543,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "wolbuy global",
+      "timestamp_ms": 1722880098605,
+      "content": "Looking for details on 7 lakh rupees an acre land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "wolbuy global",
+      "timestamp_ms": 1722880072957,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "wolbuy global",
+  "is_still_participant": true,
+  "thread_path": "inbox/wolbuyglobal_17876575602110000",
+  "magic_words": [
+    
+  ]
+}

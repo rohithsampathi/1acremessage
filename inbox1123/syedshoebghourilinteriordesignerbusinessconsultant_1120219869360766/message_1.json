@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Syed Shoeb Ghouri l Interior Designer & Business Consultant"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Syed Shoeb Ghouri l Interior Designer & Business Consultant",
+      "timestamp_ms": 1702379992409,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702377439710,
+      "content": "Please call Vijay \n7780122120",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Syed Shoeb Ghouri l Interior Designer & Business Consultant",
+      "timestamp_ms": 1702364938568,
+      "content": "It is at rampur Village and the size of the plot is 10 guntas",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Syed Shoeb Ghouri l Interior Designer & Business Consultant",
+      "timestamp_ms": 1702364893899,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702364839816,
+      "content": "Ok ,you are willing to sell it ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Syed Shoeb Ghouri l Interior Designer & Business Consultant",
+      "timestamp_ms": 1702364763491,
+      "content": "I have a land of agriculture",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702364743764,
+      "content": "Hi Syed , how can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Syed Shoeb Ghouri l Interior Designer & Business Consultant",
+      "timestamp_ms": 1702364701596,
+      "content": "Hi there?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Syed Shoeb Ghouri l Interior Designer & Business Consultant",
+  "is_still_participant": true,
+  "thread_path": "inbox/syedshoebghourilinteriordesignerbusinessconsultant_1120219869360766",
+  "magic_words": [
+    
+  ]
+}

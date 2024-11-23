@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Yashomarg"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Yashomarg",
+      "timestamp_ms": 1702835884042,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702396629414,
+      "content": "Sure, our team will connect with you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yashomarg",
+      "timestamp_ms": 1702388581446,
+      "content": "9844825909",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yashomarg",
+      "timestamp_ms": 1702388575201,
+      "content": "Anyone who wants to buy residential or commercial property you can approach us for home loans and mortgage loans and business loans to your customers.\nShwetha\nManager IDBI Bank\nBangalore",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Yashomarg",
+  "is_still_participant": true,
+  "thread_path": "inbox/yashomarg_17952301130713624",
+  "magic_words": [
+    
+  ]
+}

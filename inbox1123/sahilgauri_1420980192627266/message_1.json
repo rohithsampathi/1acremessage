@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Sahil Gauri"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sahil Gauri",
+      "timestamp_ms": 1720241581336,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720236432712,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Sahil Gauri",
+          "timestamp": 1720241581
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sahil Gauri",
+      "timestamp_ms": 1720187976731,
+      "content": "Hello, we have approximately 8 beegha land at main road, baran aklera by pass, chhipabarod rajasthan",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sahil Gauri",
+  "is_still_participant": true,
+  "thread_path": "inbox/sahilgauri_1420980192627266",
+  "magic_words": [
+    
+  ]
+}

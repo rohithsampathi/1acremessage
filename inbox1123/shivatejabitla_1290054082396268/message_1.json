@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Shiva Teja Bitla"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shiva Teja Bitla",
+      "timestamp_ms": 1712244842627,
+      "content": "Need low cast lands",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shiva Teja Bitla",
+      "timestamp_ms": 1701331248892,
+      "content": "9154493931",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701330745258,
+      "content": "Hy, you can connect with PRATHEEK,9505778117, he can help you with your enquiries.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shiva Teja Bitla",
+      "timestamp_ms": 1701330424906,
+      "content": "Need your contact details",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shiva Teja Bitla",
+  "is_still_participant": true,
+  "thread_path": "inbox/shivatejabitla_1290054082396268",
+  "magic_words": [
+    
+  ]
+}

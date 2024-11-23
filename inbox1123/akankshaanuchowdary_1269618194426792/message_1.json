@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Akanksha Anu chowdary"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710640128617,
+      "content": "Hi, Please contact Harish\n9032114737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akanksha Anu chowdary",
+      "timestamp_ms": 1710639586750,
+      "content": "Akanksha sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C4i6bwFSdhZ/?id=3324476468704696409_47651711013",
+        "share_text": "9032114737\n\nPlease call Bharath, from the team.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Akanksha Anu chowdary",
+  "is_still_participant": true,
+  "thread_path": "inbox/akankshaanuchowdary_1269618194426792",
+  "magic_words": [
+    
+  ]
+}

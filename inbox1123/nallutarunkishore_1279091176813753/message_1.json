@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Nallu Tarun Kishore"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708917664077,
+      "content": "Thanks for reaching out.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708917655432,
+      "content": "Hi, we are a listing platform and particularly don't advice in general. \nBut we do have subscription, hand-holding and from time to time, evaluate good opportunities and present them.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nallu Tarun Kishore",
+      "timestamp_ms": 1708914509552,
+      "content": "Hi .....what do you think about Narayana Kheda, 100kms from Hyderabad in Telangana. Is this a good investment with NIMZ project?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nallu Tarun Kishore",
+  "is_still_participant": true,
+  "thread_path": "inbox/nallutarunkishore_1279091176813753",
+  "magic_words": [
+    
+  ]
+}

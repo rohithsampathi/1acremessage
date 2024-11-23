@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Siddeshwar Shinde"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Siddeshwar Shinde",
+      "timestamp_ms": 1704441358995,
+      "content": "Share the location of land parcel in Maharashtra n Karnataka",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Siddeshwar Shinde",
+  "is_still_participant": true,
+  "thread_path": "inbox/siddeshwarshinde_1325868732145507",
+  "magic_words": [
+    
+  ]
+}

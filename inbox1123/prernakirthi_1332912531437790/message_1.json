@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Prerna Kirthi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Prerna Kirthi",
+      "timestamp_ms": 1708691390277,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708687112944,
+      "content": "Hi, Please contact Ramakrishna \n7780122120, from the team. He'll help you out.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prerna Kirthi",
+      "timestamp_ms": 1708681018600,
+      "content": "Would you be able to help me find buyers for it",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prerna Kirthi",
+      "timestamp_ms": 1708681004999,
+      "content": "We have 3acres land in Toopran, and the said RRR is about 3 kms from the land.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prerna Kirthi",
+      "timestamp_ms": 1708680956917,
+      "content": "I came across your video It's very informative",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prerna Kirthi",
+      "timestamp_ms": 1708680934414,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Prerna Kirthi",
+  "is_still_participant": true,
+  "thread_path": "inbox/prernakirthi_1332912531437790",
+  "magic_words": [
+    
+  ]
+}

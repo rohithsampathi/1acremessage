@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Anil Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718867984723,
+      "content": "Hello,\n\nPlease check our website 1acre.in where 2500+ verified lands are listed. \nYou call the sellers directly. \n\nAdditionally, you can subscribe to premium, to get access to the MapView.\n\n1acre.in/subscribe",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hello,\n\nPlease check our website 1acre.in where 2500+ verified lands are listed. \nYou call the sellers directly. \n\nAdditionally, you can subscribe to premium, to get access to the MapView.\n\n1acre.in/subscribe"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anil Reddy",
+      "timestamp_ms": 1718867417428,
+      "content": "Any farm lands below 10L /acre under your radars in telangana?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Anil Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/anilreddy_1415633286501315",
+  "magic_words": [
+    
+  ]
+}

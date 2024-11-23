@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Nipun Chordiya"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nipun Chordiya",
+      "timestamp_ms": 1718349382342,
+      "content": "Thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718349354289,
+      "content": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nipun Chordiya",
+      "timestamp_ms": 1718347742728,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/nipunchordiya_1365318068193658/photos/448156589_7594387424012837_2251863585624578478_n_7594387420679504.jpg",
+          "creation_timestamp": 1718347741,
+          "backup_uri": "https://scontent.fmaa12-2.fna.fbcdn.net/v/t1.15752-9/448156589_7594387424012837_2251863585624578478_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=9f807c&_nc_ohc=PkntyLkJBBkQ7kNvgH3gu7r&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fmaa12-2.fna&oh=03_Q7cD1QEYq4Qd234lDlK_LaSj6nh5orlY9wy2f8OzwgOL8CD-Dw&oe=67669763"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nipun Chordiya",
+      "timestamp_ms": 1718347736313,
+      "content": "I want to sell my 52 acres of land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nipun Chordiya",
+      "timestamp_ms": 1718347683005,
+      "content": "Hey",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nipun Chordiya",
+  "is_still_participant": true,
+  "thread_path": "inbox/nipunchordiya_1365318068193658",
+  "magic_words": [
+    
+  ]
+}

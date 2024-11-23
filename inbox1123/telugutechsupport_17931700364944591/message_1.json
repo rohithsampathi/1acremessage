@@ -1,0 +1,89 @@
+{
+  "participants": [
+    {
+      "name": "Telugu Tech Support"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728968270084,
+      "content": "Hello \u00f0\u009f\u0091\u008b \nWas wondering if you had any update",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728785010675,
+      "content": "If you have any questions, ask us.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728784995492,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Telugu Tech Support",
+      "timestamp_ms": 1728784733902,
+      "content": "Give us some time we\u00e2\u0080\u0099ll get back",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728782951227,
+      "content": "Give us your phone number and we'll give premium access.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728782896064,
+      "content": "We want it as early as you can make.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728782873345,
+      "content": "Let's get started?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728782855521,
+      "content": "Sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728544611204,
+      "content": "We are digitising HMDA lakes with their FTL and buffer zones so people can understand if their lands falls in these zones instantly. \n\nWe believe it helps a lot of people who are currently in distress. See if you can help spread the word about this :) \n\nThanks,\nTeam 1acre.in (edited)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728544579927,
+      "content": "We are digitising HMDA lakes with their FTL and buffer zones so people can understand if their lands falls in their zones instantly. \n\nWe believe it helps a lot of people who are currently in distress. See if you can help spread the word about this :) \n\nThanks,\nTeam 1acre.in",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728544579282,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DA7kPn7SO8R/?id=3475530940783587089_47651711013",
+        "share_text": "\u00f0\u009f\u0094\u0097 Visit www.1acre.in/lakes and find FTL & buffer zones instantly\u00e2\u009a\u00a1\u00ef\u00b8\u008f\n\nIf a required lake is not digitised yet, you can request for it and we will digitise it in priority \u00e2\u008f\u00ab\n\nShare it with friends and family and help them make informed decisions. \n\n#realestate #ftl #bufferzone #hydraa #hyderabad #lakes #hmda",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Telugu Tech Support",
+  "is_still_participant": true,
+  "thread_path": "inbox/telugutechsupport_17931700364944591",
+  "magic_words": [
+    
+  ]
+}

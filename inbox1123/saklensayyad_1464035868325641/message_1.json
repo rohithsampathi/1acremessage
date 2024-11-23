@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Saklen Sayyad"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Saklen Sayyad",
+      "timestamp_ms": 1721037310371,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721036917425,
+      "content": "We are currently listing Telangana. We'll list other states soon. Will keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Saklen Sayyad",
+      "timestamp_ms": 1721036895571,
+      "content": "I'm an agent",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Saklen Sayyad",
+      "timestamp_ms": 1721036891834,
+      "content": "Maharashtra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721036878847,
+      "content": "Which state?\nAgent or owner?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Saklen Sayyad",
+      "timestamp_ms": 1721036609618,
+      "content": "I have lands",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Saklen Sayyad",
+  "is_still_participant": true,
+  "thread_path": "inbox/saklensayyad_1464035868325641",
+  "magic_words": [
+    
+  ]
+}

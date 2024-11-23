@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Venkat KRam"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Venkat KRam",
+      "timestamp_ms": 1702996236340,
+      "content": "Ok sure thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702951196262,
+      "content": "Yes there is a possibility , you can connect with Ratna 7661-063355",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Venkat KRam",
+      "timestamp_ms": 1702920628613,
+      "content": "Hi Sir\nI m Venkat and would like to invest in and around HYD. I just saw a reel about an NRI investing around 10 crore. Can we be a part of their investment or it\u00e2\u0080\u0099s specific to their group. Is there a scope or possibility from your end to make us part of such investments?\nThank you",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Venkat KRam",
+  "is_still_participant": true,
+  "thread_path": "inbox/venkatkram_1261571591900743",
+  "magic_words": [
+    
+  ]
+}

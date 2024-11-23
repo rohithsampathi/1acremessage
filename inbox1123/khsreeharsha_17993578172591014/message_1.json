@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Kh Sree Harsha"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706685372466,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706685255037,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kh Sree Harsha",
+      "timestamp_ms": 1706685246380,
+      "content": "Any area.within Orr city limits preferred",
+      "share": {
+        "share_text": "Any area.within Orr city limits preferred"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706683907950,
+      "content": "Which area?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kh Sree Harsha",
+      "timestamp_ms": 1706681394340,
+      "content": "Let us know",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kh Sree Harsha",
+      "timestamp_ms": 1706681393097,
+      "content": "We have requairement for a.land needed for petrol bunk",
+      "share": {
+        "link": "http://a.land/",
+        "share_text": "We have requairement for a.land needed for petrol bunk"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kh Sree Harsha",
+  "is_still_participant": true,
+  "thread_path": "inbox/khsreeharsha_17993578172591014",
+  "magic_words": [
+    
+  ]
+}

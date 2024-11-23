@@ -1,0 +1,73 @@
+{
+  "participants": [
+    {
+      "name": "Lakshman Peddapuram"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726818620232,
+      "content": "Hi, I tried calling you but couldn't connect.\n\nKindly call back on 8341149011",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lakshman Peddapuram",
+      "timestamp_ms": 1726761307051,
+      "content": "Good evening",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lakshman Peddapuram",
+      "timestamp_ms": 1726663512066,
+      "content": "8985707131",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726657098118,
+      "content": "Kindly share your mobile number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lakshman Peddapuram",
+      "timestamp_ms": 1726635332648,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726635108590,
+      "content": "Our team will get back to you shortly \u00f0\u009f\u0099\u0082",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Lakshman Peddapuram",
+          "timestamp": 1726635332
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lakshman Peddapuram",
+      "timestamp_ms": 1726635103954,
+      "content": "Please let me know",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lakshman Peddapuram",
+      "timestamp_ms": 1726635099207,
+      "content": "Any plots for sale in nallagandla, tellapur",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Lakshman Peddapuram",
+  "is_still_participant": true,
+  "thread_path": "inbox/lakshmanpeddapuram_1445472040177685",
+  "magic_words": [
+    
+  ]
+}

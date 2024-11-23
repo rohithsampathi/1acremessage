@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Abhishek Nanda"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721103046115,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721103045441,
+      "content": "Hi, Please contact Vijay 9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhishek Nanda",
+      "timestamp_ms": 1721083906324,
+      "content": "Hii",
+      "share": {
+        "link": "https://www.instagram.com/p/C9UBKzVt_9s/"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Abhishek Nanda",
+  "is_still_participant": true,
+  "thread_path": "inbox/abhisheknanda_1474129620650198",
+  "magic_words": [
+    
+  ]
+}

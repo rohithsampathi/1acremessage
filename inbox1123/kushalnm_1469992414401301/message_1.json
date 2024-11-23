@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "kushalnm"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "kushalnm",
+      "timestamp_ms": 1723378310297,
+      "content": "Tq",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723378166829,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details on our terms of facilitation :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "kushalnm",
+      "timestamp_ms": 1723375631679,
+      "content": "Planning to sell it if u can help out",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "kushalnm",
+      "timestamp_ms": 1723375612150,
+      "content": "Hello sir we have a 2 acre of land in Kanakapura main road",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "kushalnm",
+  "is_still_participant": true,
+  "thread_path": "inbox/kushalnm_1469992414401301",
+  "magic_words": [
+    
+  ]
+}

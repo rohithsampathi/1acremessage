@@ -1,0 +1,73 @@
+{
+  "participants": [
+    {
+      "name": "SitaRam Swamy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707563675431,
+      "content": "We are not currently listing plots. We might very soon, but won't be promoting them directly.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SitaRam Swamy",
+      "timestamp_ms": 1707561406248,
+      "content": "It\u00e2\u0080\u0099s my neighbouring plots if u want I will detail you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SitaRam Swamy",
+      "timestamp_ms": 1707561340162,
+      "content": "I have a very reasonably priced plots at Vangapally yadadri pricing 2500 per Sq yard which are NALA converted and tax paid which is more better than dtcp .u can enquire only eight plots are there admeasuring 250 Sq yards each ,at that price it\u00e2\u0080\u0099s very cheap ,all adjacent plots,",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706796485254,
+      "content": "Sure. We'll keep that in mind.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SitaRam Swamy",
+      "timestamp_ms": 1706796112649,
+      "content": "No I can handle only around ongole,chirala vijayawada ,Guntur surrounding where I personally have very good network and my own friends who r landlords,I am not a dealer,just want to encourage buyers in my area",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1706796475
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705653549358,
+      "content": "Do you have reliable leads around Tirupati. Please only tell if you know them personally and they are reliable.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705653505528,
+      "content": "Sure. Currently, we are only listing lands in Telangana. We'll also list AP very soon.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SitaRam Swamy",
+      "timestamp_ms": 1705652158475,
+      "content": "I have very good leads in AP ranging from 10 lakhs ,can help u regarding,I am an agriculturalist having good field work experience both in Andhra and Telangana",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "SitaRam Swamy",
+  "is_still_participant": true,
+  "thread_path": "inbox/sitaramswamy_1324982675564117",
+  "magic_words": [
+    
+  ]
+}

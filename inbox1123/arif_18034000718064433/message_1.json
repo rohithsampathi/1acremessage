@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Arif"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718721884125,
+      "content": "If you subscribe, You also get access to the Mapview",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718721868261,
+      "content": "Hi, \n1acre.in\nPlease check the website.\nYou can call the agents/owners directly.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, \n1acre.in\nPlease check the website.\nYou can call the agents/owners directly."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Arif",
+      "timestamp_ms": 1718720441666,
+      "content": "In Hyderabad....Gatkesar area",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Arif",
+      "timestamp_ms": 1718720367489,
+      "content": "I want land for cement bricks industry....",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Arif",
+      "timestamp_ms": 1718720341517,
+      "content": "Hiii....sir....\u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Arif",
+  "is_still_participant": true,
+  "thread_path": "inbox/arif_18034000718064433",
+  "magic_words": [
+    
+  ]
+}

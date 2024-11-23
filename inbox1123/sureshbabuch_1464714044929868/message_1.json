@@ -1,0 +1,72 @@
+{
+  "participants": [
+    {
+      "name": "Suresh Babu Ch"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Suresh Babu Ch",
+      "timestamp_ms": 1721544764507,
+      "content": "subscribed done",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1721613373
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Suresh Babu Ch",
+      "timestamp_ms": 1721544754513,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721514874920,
+      "content": "We are launching HMDA Master plan soon, Inside the MapView. So you can see the boundaries of every zone.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721514830523,
+      "content": "1acre.in/subscribe  Please explore.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Suresh Babu Ch",
+          "timestamp": 1721544754
+        }
+      ],
+      "share": {
+        "link": "http://1acre.in/subscribe",
+        "share_text": "1acre.in/subscribe  Please explore."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Suresh Babu Ch",
+      "timestamp_ms": 1721498924370,
+      "content": "suggest us best map to find limits of 111 go land thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Suresh Babu Ch",
+      "timestamp_ms": 1721498886222,
+      "content": "dharmasagar near chevalla comes under 111 go or not",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Suresh Babu Ch",
+  "is_still_participant": true,
+  "thread_path": "inbox/sureshbabuch_1464714044929868",
+  "magic_words": [
+    
+  ]
+}

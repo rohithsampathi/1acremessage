@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Noorus Samad"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721963908893,
+      "content": "Please check 1acre.in where can explore 3000+ lands , most of them near Hyderabad. \n\nYou can subscribe to our mapview for more intuitive search",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Please check 1acre.in where can explore 3000+ lands , most of them near Hyderabad. \n\nYou can subscribe to our mapview for more intuitive search"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Noorus Samad",
+      "timestamp_ms": 1721854034334,
+      "content": "I am looking near Hyderabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720443491212,
+      "content": "Which state are you looking for?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Noorus Samad",
+      "timestamp_ms": 1720441780099,
+      "content": "Do you have any direct no where i can discuss",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Noorus Samad",
+      "timestamp_ms": 1720441761000,
+      "content": "Hi \nMy Name is Noor,\nI am looking to buy a land to have farm house",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Noorus Samad",
+  "is_still_participant": true,
+  "thread_path": "inbox/noorussamad_17993188628654663",
+  "magic_words": [
+    
+  ]
+}

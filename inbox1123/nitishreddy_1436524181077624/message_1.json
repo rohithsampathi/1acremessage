@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Nitish Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nitish Reddy",
+      "timestamp_ms": 1717952187085,
+      "content": "Great\nThank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717932939697,
+      "content": "Hi, Please contact Bharath \n7780122120, from the team. \nHe'll help you with the listing. \nThanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nitish Reddy",
+      "timestamp_ms": 1717931655499,
+      "content": "3.5 acres\n2.2 crore per acre negotiable \n20 kms from orr exit 6",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717928551660,
+      "content": "Can you tell - extent, price and distance from the ORR?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nitish Reddy",
+      "timestamp_ms": 1717922996967,
+      "content": "We have a land parcel in Medchal, within 1 hr proximity to hyderabad either from Hitech city or Sainikpuri.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nitish Reddy",
+      "timestamp_ms": 1717922955360,
+      "content": "Hey",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nitish Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/nitishreddy_1436524181077624",
+  "magic_words": [
+    
+  ]
+}

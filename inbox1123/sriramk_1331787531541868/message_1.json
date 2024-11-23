@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Sriram K"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721980008029,
+      "content": "Thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sriram K",
+      "timestamp_ms": 1721964146659,
+      "content": "8008933422",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721964130935,
+      "content": "Share your mobile number so we can contact for further details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721964100263,
+      "content": "Will check back",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721964096627,
+      "content": "No worries",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sriram K",
+      "timestamp_ms": 1721916974821,
+      "content": "Please help me get through",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sriram K",
+      "timestamp_ms": 1721916964077,
+      "content": "ICICI Bank Acct XX325 debited for Rs 5000.00 on 25-Jul-24; Mordor Realty L credited. UPI:457365582314.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sriram K",
+      "timestamp_ms": 1721916938295,
+      "content": "Money got deducted",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sriram K",
+      "timestamp_ms": 1721916931842,
+      "content": "But it's not reflecitng",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sriram K",
+      "timestamp_ms": 1721916927413,
+      "content": "I paid 5000 for the premium subscription",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sriram K",
+  "is_still_participant": true,
+  "thread_path": "inbox/sriramk_1331787531541868",
+  "magic_words": [
+    
+  ]
+}

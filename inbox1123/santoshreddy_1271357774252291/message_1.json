@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Santosh Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Santosh Reddy",
+      "timestamp_ms": 1708262319299,
+      "content": "Thank you looking forward",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708262297156,
+      "content": "Hi, sure. Thanks for reaching out. Ramakrishna from the team, will reach out to you, for the details and help you with the private listing.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Santosh Reddy",
+      "timestamp_ms": 1708250081903,
+      "content": "Hi Team, I would like to list my 1 acre land in Aliabad, Shamirpet, Medchal constituency for sell in private listing. Could you please help me with the process. Thanks Santosh. I can be reached out on 9949700475.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Santosh Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/santoshreddy_1271357774252291",
+  "magic_words": [
+    
+  ]
+}

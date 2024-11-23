@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Almas Laskar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Almas Laskar",
+      "timestamp_ms": 1718836518437,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718836504346,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Almas Laskar",
+      "timestamp_ms": 1718818582763,
+      "content": "I want to sell my 180 bigha land in West Bengal, Howrah.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Almas Laskar",
+      "timestamp_ms": 1718818544736,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Almas Laskar",
+  "is_still_participant": true,
+  "thread_path": "inbox/almaslaskar_1439149404150586",
+  "magic_words": [
+    
+  ]
+}

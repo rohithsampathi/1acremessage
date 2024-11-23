@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Ankit Jain"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ankit Jain",
+      "timestamp_ms": 1720238334299,
+      "content": "Delhi, Haryana, Uttar Pradesh",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1720240373
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720221276195,
+      "content": "Which states are you looking at? \nAlso share the use case , budget etc",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720221252072,
+      "content": "We currently only operate in telangana. \n\nWill keep you posted when we launch in other states",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ankit Jain",
+      "timestamp_ms": 1720207898533,
+      "content": "Do you have any land parcels in North India",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ankit Jain",
+      "timestamp_ms": 1720207886485,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ankit Jain",
+  "is_still_participant": true,
+  "thread_path": "inbox/ankitjain_18011703125591014",
+  "magic_words": [
+    
+  ]
+}

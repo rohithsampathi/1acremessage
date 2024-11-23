@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Prem Ravichandran"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Prem Ravichandran",
+      "timestamp_ms": 1719596455731,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719591973111,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prem Ravichandran",
+      "timestamp_ms": 1719590292466,
+      "content": "Near Hosur (Tamil Nadu)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719584140904,
+      "content": "Where's the land?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719584134221,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prem Ravichandran",
+      "timestamp_ms": 1719580793838,
+      "content": "Have a land of 10 acres. Need help in selling it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prem Ravichandran",
+      "timestamp_ms": 1719580776052,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Prem Ravichandran",
+  "is_still_participant": true,
+  "thread_path": "inbox/premravichandran_1384389526287697",
+  "magic_words": [
+    
+  ]
+}

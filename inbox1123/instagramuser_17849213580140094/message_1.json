@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707360855443,
+      "content": "Hi, thanks for reaching out. We are gathering both buyers and sellers of lands, on the platform. Please contact Vijay 9959994737, from the team, to discuss how we can work together.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1707321679371,
+      "content": "Hi sir \n\nThis side Rahul from Hyderabad\n\nAny developments land in and around Hyderabad\n\nI have close to 10 builders \n( 600 sq yards to 50 acres ) \n\nIf so share your number here , let's have a word\nThank you",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "inbox/instagramuser_17849213580140094",
+  "magic_words": [
+    
+  ]
+}

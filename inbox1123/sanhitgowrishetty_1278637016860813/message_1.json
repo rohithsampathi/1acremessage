@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Sanhit gowrishetty\u00e2\u009c\u00a8"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701488895575,
+      "content": "Hi Sahit , you can connect to our relationship manager PRATHEEK,9505778117,",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sanhit gowrishetty\u00e2\u009c\u00a8",
+      "timestamp_ms": 1701409076755,
+      "content": "If interested pls let me know",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sanhit gowrishetty\u00e2\u009c\u00a8",
+      "timestamp_ms": 1701409066026,
+      "content": "There are two major lands in want to sell",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sanhit gowrishetty\u00e2\u009c\u00a8",
+      "timestamp_ms": 1701409054554,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sanhit gowrishetty\u00e2\u009c\u00a8",
+  "is_still_participant": true,
+  "thread_path": "inbox/sanhitgowrishetty_1278637016860813",
+  "magic_words": [
+    
+  ]
+}

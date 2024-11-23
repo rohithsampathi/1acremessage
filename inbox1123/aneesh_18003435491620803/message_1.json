@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Aneesh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aneesh",
+      "timestamp_ms": 1720175961427,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720174204321,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aneesh",
+      "timestamp_ms": 1720172737828,
+      "content": "Both cities work for me",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aneesh",
+      "timestamp_ms": 1720172729427,
+      "content": "Any farmlands or agriculture lands near Mysore and Bangalore",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Aneesh",
+  "is_still_participant": true,
+  "thread_path": "inbox/aneesh_18003435491620803",
+  "magic_words": [
+    
+  ]
+}

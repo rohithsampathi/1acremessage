@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "dr_d_e_v_i_l"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716813208304,
+      "content": "9032114737\nYou can talk to Bharath, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716813204026,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "dr_d_e_v_i_l",
+      "timestamp_ms": 1716812055661,
+      "content": "Any openings for freelancing now",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "dr_d_e_v_i_l",
+  "is_still_participant": true,
+  "thread_path": "inbox/dr_d_e_v_i_l_1274637207256770",
+  "magic_words": [
+    
+  ]
+}

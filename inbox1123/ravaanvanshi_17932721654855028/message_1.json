@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "RAVAAN  VANSHI"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "RAVAAN  VANSHI",
+      "timestamp_ms": 1717791531474,
+      "content": "Good night bro",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "RAVAAN  VANSHI",
+      "timestamp_ms": 1717759019303,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717746322878,
+      "content": "Hi, at 1acre.in, we are currently listint only Telangana.\nWe'll start other states soon. \nWe'll keep you posted.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "RAVAAN  VANSHI",
+          "timestamp": 1717759019
+        }
+      ],
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, at 1acre.in, we are currently listint only Telangana.\nWe'll start other states soon. \nWe'll keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "RAVAAN  VANSHI",
+      "timestamp_ms": 1717745804654,
+      "content": "You have any land in delhi ncr or in haryana",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "RAVAAN  VANSHI",
+  "is_still_participant": true,
+  "thread_path": "inbox/ravaanvanshi_17932721654855028",
+  "magic_words": [
+    
+  ]
+}

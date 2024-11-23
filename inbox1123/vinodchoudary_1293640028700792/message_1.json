@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Vinod Choudary"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701757948607,
+      "content": "Hi Vinod , will let our team know and will update you shortly",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vinod Choudary",
+      "timestamp_ms": 1701715907046,
+      "content": "Hello there, I tried to register on your website but it seems that an India contact number is mandatory. Is there a scope for us in the US to register and avail your services?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vinod Choudary",
+  "is_still_participant": true,
+  "thread_path": "inbox/vinodchoudary_1293640028700792",
+  "magic_words": [
+    
+  ]
+}

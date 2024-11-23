@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Kraz"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717756716891,
+      "content": "Will let you know if anyone is interested.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717756703949,
+      "content": "If we facilitate a transaction, we post it on instagram.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717756687195,
+      "content": "1acre.in is a listing platform for verified lands.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "1acre.in is a listing platform for verified lands."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717756675993,
+      "content": "We don't do Ads.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kraz",
+      "timestamp_ms": 1717755166995,
+      "content": "I have 4 acre land available for lease/rent in Keesara for schools/godowns. Do you have anyone interested? How much you charge for posting ad in your page?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kraz",
+  "is_still_participant": true,
+  "thread_path": "inbox/kraz_18008264414591014",
+  "magic_words": [
+    
+  ]
+}

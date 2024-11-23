@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Ashfak suraiyya"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720256484753,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720256483867,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ashfak suraiyya",
+      "timestamp_ms": 1720256236419,
+      "content": "Please share the details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ashfak suraiyya",
+      "timestamp_ms": 1720256223168,
+      "content": "40 acre land near yavatmal",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720256170840,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ashfak suraiyya",
+      "timestamp_ms": 1720253960547,
+      "content": "Hello \u00f0\u009f\u0091\u008b",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ashfak suraiyya",
+  "is_still_participant": true,
+  "thread_path": "inbox/ashfaksuraiyya_1405606340833548",
+  "magic_words": [
+    
+  ]
+}

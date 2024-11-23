@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Sandeep"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710560154242,
+      "content": "Hi, Please contact Harish\n9032114737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sandeep",
+      "timestamp_ms": 1710556973785,
+      "content": "Hi I am looking for part-time opportunity. Basically I am from Nalgonda town. I\u00e2\u0080\u0099m a local right here. Please let me know the further steps \u00ef\u00bf\u00bc",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sandeep",
+  "is_still_participant": true,
+  "thread_path": "inbox/sandeep_1308601097197618",
+  "magic_words": [
+    
+  ]
+}

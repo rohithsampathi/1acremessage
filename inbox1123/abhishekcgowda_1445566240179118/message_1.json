@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Abhishek C Gowda"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726750129912,
+      "content": "Hi, This is Srikar from the team. I tried calling you from 8341149011 but couldn't connect. Kindly call back at your convenience.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhishek C Gowda",
+      "timestamp_ms": 1726657874600,
+      "content": "8951204346 call me tomorrow I have a flight now",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726656169821,
+      "content": "Hi, kindly share your mobile number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726634931360,
+      "content": "Our team will get back to you shortly \u00f0\u009f\u0099\u0082",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhishek C Gowda",
+      "timestamp_ms": 1726634923525,
+      "content": "I have one acre land in gundlupete attached to Nh can you post it ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Abhishek C Gowda",
+  "is_still_participant": true,
+  "thread_path": "inbox/abhishekcgowda_1445566240179118",
+  "magic_words": [
+    
+  ]
+}

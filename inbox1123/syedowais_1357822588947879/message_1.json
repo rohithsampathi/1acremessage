@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Syed Owais"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705956077240,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Syed Owais",
+      "timestamp_ms": 1705941615673,
+      "content": "I have lands at chevella, pargi, manneguda, send me your contact number i will send you details",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Syed Owais",
+  "is_still_participant": true,
+  "thread_path": "inbox/syedowais_1357822588947879",
+  "magic_words": [
+    
+  ]
+}

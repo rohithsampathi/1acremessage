@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "KeepLoving"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729662243057,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "KeepLoving",
+      "timestamp_ms": 1729592187385,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "KeepLoving",
+  "is_still_participant": true,
+  "thread_path": "inbox/keeploving_1489847825739279",
+  "magic_words": [
+    
+  ]
+}

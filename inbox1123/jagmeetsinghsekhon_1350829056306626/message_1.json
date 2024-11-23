@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Jagmeet Singh Sekhon"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720285959382,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jagmeet Singh Sekhon",
+      "timestamp_ms": 1720283812956,
+      "content": "Properties in Haryana and Punjab",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jagmeet Singh Sekhon",
+      "timestamp_ms": 1720283798056,
+      "content": "Hy",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Jagmeet Singh Sekhon",
+  "is_still_participant": true,
+  "thread_path": "inbox/jagmeetsinghsekhon_1350829056306626",
+  "magic_words": [
+    
+  ]
+}

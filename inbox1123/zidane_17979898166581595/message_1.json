@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "ZIDANE\u00f0\u009f\u008d\u0081"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697694704409,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "ZIDANE\u00f0\u009f\u008d\u0081",
+      "timestamp_ms": 1697524843565,
+      "content": "h",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "ZIDANE\u00f0\u009f\u008d\u0081",
+  "is_still_participant": true,
+  "thread_path": "inbox/zidane_17979898166581595",
+  "magic_words": [
+    
+  ]
+}

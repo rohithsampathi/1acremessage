@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Deepanshu Gurjar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720221418608,
+      "content": "Hello \u00f0\u009f\u0091\u008b",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Deepanshu Gurjar",
+      "timestamp_ms": 1720203359229,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Deepanshu Gurjar",
+  "is_still_participant": true,
+  "thread_path": "inbox/deepanshugurjar_1421193895939386",
+  "magic_words": [
+    
+  ]
+}

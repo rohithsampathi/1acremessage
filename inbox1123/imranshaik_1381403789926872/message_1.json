@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Imran Shaik"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Imran Shaik",
+      "timestamp_ms": 1711110750930,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711081733976,
+      "content": "Please contact the number given in the video.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Imran Shaik",
+      "timestamp_ms": 1711073808096,
+      "content": "Can I get this opportunity.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Imran Shaik",
+      "timestamp_ms": 1711073766608,
+      "content": "I have seen your requirement",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Imran Shaik",
+      "timestamp_ms": 1711073728508,
+      "content": "I am looking for a part time job opportunity.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Imran Shaik",
+      "timestamp_ms": 1711073710908,
+      "content": "Hi 1acre",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Imran Shaik",
+  "is_still_participant": true,
+  "thread_path": "inbox/imranshaik_1381403789926872",
+  "magic_words": [
+    
+  ]
+}

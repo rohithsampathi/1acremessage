@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "prajwal_41420"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719273951662,
+      "content": "We currently only operate in telangana. \n\nWill keep you posted when we launch in other states",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "prajwal_41420",
+      "timestamp_ms": 1719248285604,
+      "content": "I need a 1 acre land in Nashik Maharashtra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "prajwal_41420",
+      "timestamp_ms": 1719248250580,
+      "content": "Nashik me nhe he kya ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "prajwal_41420",
+      "timestamp_ms": 1719248236674,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "prajwal_41420",
+  "is_still_participant": true,
+  "thread_path": "inbox/prajwal_41420_17969366951736149",
+  "magic_words": [
+    
+  ]
+}

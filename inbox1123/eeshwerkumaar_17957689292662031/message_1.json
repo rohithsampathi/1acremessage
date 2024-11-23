@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Eeshwer Kumaar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Eeshwer Kumaar",
+      "timestamp_ms": 1698044404155,
+      "content": "You can reach out us at 8686584257",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1698051256
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1698042684774,
+      "content": "Ok, can we schedule a call",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Eeshwer Kumaar",
+      "timestamp_ms": 1697890416969,
+      "content": "My commercials for one reel and a story is 40k",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Eeshwer Kumaar",
+      "timestamp_ms": 1697890389543,
+      "content": "Sure we can do it",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Eeshwer Kumaar",
+      "timestamp_ms": 1697890385590,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697114252065,
+      "content": "Hey, can we collaborate for a reel?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Eeshwer Kumaar",
+  "is_still_participant": true,
+  "thread_path": "inbox/eeshwerkumaar_17957689292662031",
+  "magic_words": [
+    
+  ]
+}

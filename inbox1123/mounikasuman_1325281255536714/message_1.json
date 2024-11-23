@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Mounika Suman"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701355104511,
+      "content": "Hi , for more details please visit our website :https://www.1acre.in/, contact:7780122120",
+      "share": {
+        "link": "https://www.1acre.in/",
+        "share_text": "Hi , for more details please visit our website :https://www.1acre.in/, contact:7780122120"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mounika Suman",
+      "timestamp_ms": 1701333407447,
+      "content": "We are looking for lands between \n\nKarimnagar to hyd \n\nIf you have any can you please share",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mounika Suman",
+  "is_still_participant": true,
+  "thread_path": "inbox/mounikasuman_1325281255536714",
+  "magic_words": [
+    
+  ]
+}

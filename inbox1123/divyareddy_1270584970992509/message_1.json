@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Divya Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720416902426,
+      "content": "Hi, Please contact Bharath  7780122120, from the team.\nHe'll help you with the listing.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Divya Reddy",
+      "timestamp_ms": 1720410356935,
+      "content": "I want to sell a plot which is near to pocharam Infosys company can you please help me with your contact details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Divya Reddy",
+      "timestamp_ms": 1720410322585,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Divya Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/divyareddy_1270584970992509",
+  "magic_words": [
+    
+  ]
+}

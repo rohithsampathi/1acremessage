@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Lasya Karukuri"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718683387199,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718683385418,
+      "content": "You sent a private reply to a comment on your Instagram post.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Lasya Karukuri",
+  "is_still_participant": true,
+  "thread_path": "inbox/lasyakarukuri_1450451609687086",
+  "magic_words": [
+    
+  ]
+}

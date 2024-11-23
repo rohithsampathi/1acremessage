@@ -1,0 +1,97 @@
+{
+  "participants": [
+    {
+      "name": "Srilu Reddy Design Studio"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Srilu Reddy Design Studio",
+      "timestamp_ms": 1719381447292,
+      "content": "Sent an SMS",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1719381489
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719381359075,
+      "content": "The account is handled by the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719381337060,
+      "content": "Plz drop a message.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srilu Reddy Design Studio",
+      "timestamp_ms": 1719381158140,
+      "content": "96185 22000 trying to call from this number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719380227140,
+      "content": "Ratna Kiran \n9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srilu Reddy Design Studio",
+      "timestamp_ms": 1719380025232,
+      "content": "Please share your number we will call and explain",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srilu Reddy Design Studio",
+      "timestamp_ms": 1719379973356,
+      "content": "It\u00e2\u0080\u0099s in bibinager close to railway station",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srilu Reddy Design Studio",
+      "timestamp_ms": 1719379949395,
+      "content": "We are looking for a bulk buyer for our plots the developer gave us . Hmda rera certified",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srilu Reddy Design Studio",
+      "timestamp_ms": 1719379901029,
+      "content": "Can we tallk about your business model",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719379889680,
+      "content": "Could you tell us what you are looking for?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719379860861,
+      "content": "We don't post Ads. Those are the lands that we facilitate the transaction.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srilu Reddy Design Studio",
+      "timestamp_ms": 1719379417600,
+      "content": "Do you post our property for sale ad ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Srilu Reddy Design Studio",
+  "is_still_participant": true,
+  "thread_path": "inbox/srilureddydesignstudio_1415274109866820",
+  "magic_words": [
+    
+  ]
+}

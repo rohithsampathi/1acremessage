@@ -1,0 +1,70 @@
+{
+  "participants": [
+    {
+      "name": "Sainani Kalyanam"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sainani Kalyanam",
+      "timestamp_ms": 1716009792346,
+      "content": "Sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sainani Kalyanam",
+      "timestamp_ms": 1716009779840,
+      "content": "K",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716009766221,
+      "content": "9032114737\nYou can talk to Bharath, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sainani Kalyanam",
+      "timestamp_ms": 1716005068983,
+      "content": "Hi sir ..I'm interested",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sainani Kalyanam",
+      "timestamp_ms": 1716005068542,
+      "content": "Sainani sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C4j3HBRt6Vt/?id=3324743324894995821_47651711013",
+        "share_text": "9032114737\n\nPlease call Bharath, from the team.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sainani Kalyanam",
+      "timestamp_ms": 1716005055602,
+      "content": "Hi sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sainani Kalyanam",
+      "timestamp_ms": 1716005054729,
+      "content": "Sainani sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C4j3HBRt6Vt/?id=3324743324894995821_47651711013",
+        "share_text": "9032114737\n\nPlease call Bharath, from the team.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sainani Kalyanam",
+  "is_still_participant": true,
+  "thread_path": "inbox/sainanikalyanam_1398386348219950",
+  "magic_words": [
+    
+  ]
+}

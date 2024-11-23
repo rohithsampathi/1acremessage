@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Ashok"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ashok",
+      "timestamp_ms": 1707892525456,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707885455523,
+      "content": "Hi, I guess Harish was in touch with you. He'll get back to you on this.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ashok",
+      "timestamp_ms": 1707845409961,
+      "content": "Budget up to 7 cr",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ashok",
+      "timestamp_ms": 1707845391707,
+      "content": "Commercial rental property",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ashok",
+      "timestamp_ms": 1707845378657,
+      "content": "Any area in Hyderabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707786679008,
+      "content": "Hello, can I have more details? Area, what type of property and budget?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ashok",
+      "timestamp_ms": 1707771484953,
+      "content": "Looking for a commercial property",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ashok",
+      "timestamp_ms": 1707771473947,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ashok",
+  "is_still_participant": true,
+  "thread_path": "inbox/ashok_1393610092037821",
+  "magic_words": [
+    
+  ]
+}

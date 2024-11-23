@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Narender Pydisetti"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715093867507,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412\nHe'll help you with it. Thanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Narender Pydisetti",
+      "timestamp_ms": 1715090757914,
+      "content": "We want to look into the lake facing Vikarabad project. Could we get more details?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Narender Pydisetti",
+  "is_still_participant": true,
+  "thread_path": "inbox/narenderpydisetti_1360483148677978",
+  "magic_words": [
+    
+  ]
+}

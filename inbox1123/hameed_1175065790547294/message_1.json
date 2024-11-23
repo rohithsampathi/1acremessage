@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Hameed"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701571056341,
+      "content": "Hy Hameed,can we have your contact number our team will connect with you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hameed",
+      "timestamp_ms": 1701552324558,
+      "content": "If you could help out with this",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hameed",
+      "timestamp_ms": 1701552312067,
+      "content": "I\u00e2\u0080\u0099m searching for 1Acre land from long time",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hameed",
+      "timestamp_ms": 1701552290386,
+      "content": "Hello Sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Hameed",
+  "is_still_participant": true,
+  "thread_path": "inbox/hameed_1175065790547294",
+  "magic_words": [
+    
+  ]
+}

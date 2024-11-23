@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "adiii"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "adiii",
+      "timestamp_ms": 1729665006394,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729663876224,
+      "content": "Sure",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "adiii",
+          "timestamp": 1729665006
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "adiii",
+      "timestamp_ms": 1729662688427,
+      "content": "Sure whenever you will info me",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729662198829,
+      "content": "Sorry we are not in chattisgarh yet\nWe will launch in few months and keep you updated",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "adiii",
+      "timestamp_ms": 1729573963717,
+      "content": "I want place in chhattishghard",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "adiii",
+  "is_still_participant": true,
+  "thread_path": "inbox/adiii_17932809449946650",
+  "magic_words": [
+    
+  ]
+}

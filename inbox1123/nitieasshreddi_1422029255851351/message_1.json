@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Nitieassh Reddi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730040209549,
+      "content": "Please contact our team member ,pavan, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nitieassh Reddi",
+      "timestamp_ms": 1729948106285,
+      "content": "Location",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nitieassh Reddi",
+      "timestamp_ms": 1729948093956,
+      "content": "1450 sq yds manchirevula price",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nitieassh Reddi",
+  "is_still_participant": true,
+  "thread_path": "inbox/nitieasshreddi_1422029255851351",
+  "magic_words": [
+    
+  ]
+}

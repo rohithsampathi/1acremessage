@@ -1,0 +1,98 @@
+{
+  "participants": [
+    {
+      "name": "Imran shaahid"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Imran shaahid",
+      "timestamp_ms": 1714985484586,
+      "content": "Ok thank you i will try to reach him",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1714985465818,
+      "content": "You can talk to Vijay\n9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1714985425291,
+      "content": "There are more than 2300 verified lands. These are from various sellers. We are a listing platform. You can contact the sellers directly.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Imran shaahid",
+      "timestamp_ms": 1714985401199,
+      "content": "Is there anyone from your team who can reach me and know whats required for me",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Imran shaahid",
+      "timestamp_ms": 1714985361261,
+      "content": "I have sign up to 1 acre i could not see an option to buy a land in your website",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1714985334516,
+      "content": "1acre.in/subscribe",
+      "share": {
+        "link": "http://1acre.in/subscribe",
+        "share_text": "1acre.in/subscribe"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1714985325889,
+      "content": "If you subscribe to premium, you can also access the MapView",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1714985289555,
+      "content": "1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1714985284773,
+      "content": "Hi, I would advise you to check the website first.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Imran shaahid",
+      "timestamp_ms": 1714981188782,
+      "content": "Could you please let me you if you have any available",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Imran shaahid",
+      "timestamp_ms": 1714981159867,
+      "content": "I am looking for 2 acre's of land on ghatkesar road 30kms from uppal",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Imran shaahid",
+      "timestamp_ms": 1714981099444,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Imran shaahid",
+  "is_still_participant": true,
+  "thread_path": "inbox/imranshaahid_1400949271299689",
+  "magic_words": [
+    
+  ]
+}

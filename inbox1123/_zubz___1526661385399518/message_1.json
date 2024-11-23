@@ -1,0 +1,73 @@
+{
+  "participants": [
+    {
+      "name": "_zubz__"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "_zubz__",
+      "timestamp_ms": 1728284363725,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728281770992,
+      "content": "Please contact vijay , he can share more details",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "_zubz__",
+          "timestamp": 1728284363
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "_zubz__",
+      "timestamp_ms": 1728276934520,
+      "content": "Its farm land in kohir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "_zubz__",
+      "timestamp_ms": 1728276925611,
+      "content": "Once the land sells you charge 2%",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728269411872,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "_zubz__",
+      "timestamp_ms": 1728269297285,
+      "content": "So you help sell the land right?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728269263628,
+      "content": "The lands we post are facilitated lands by us where we help make the transaction happen\n\nIn these transactions , we also and take a facilitation fee of 2%\n\nIf the land is in Telangana,Andhra and you are okay with the terms , we can consider your land for facilitation.\n\nFor more details , you can contact Mr vijay at 9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "_zubz__",
+      "timestamp_ms": 1728195134140,
+      "content": "Hi, how much do you charge for posting on social media",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "_zubz__",
+  "is_still_participant": true,
+  "thread_path": "inbox/_zubz___1526661385399518",
+  "magic_words": [
+    
+  ]
+}

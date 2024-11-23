@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Aryan Gupta"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708708992609,
+      "content": "Thanks. Please let us know how we can help you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aryan Gupta",
+      "timestamp_ms": 1708708992026,
+      "content": "Not now",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Aryan Gupta",
+  "is_still_participant": true,
+  "thread_path": "inbox/aryangupta_17996240213591014",
+  "magic_words": [
+    
+  ]
+}

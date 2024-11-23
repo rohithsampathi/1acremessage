@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Prithvi Panchal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720235529701,
+      "content": "We currently only operate in telangana. \n\nWill keep you posted when we launch in other states",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prithvi Panchal",
+      "timestamp_ms": 1720199612565,
+      "content": "On State highway.\nIt is Farm land and we wish to sell it",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prithvi Panchal",
+      "timestamp_ms": 1720199558255,
+      "content": "We have one 17-18 acre patch",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720194926094,
+      "content": "Yes, how can we help you?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prithvi Panchal",
+      "timestamp_ms": 1720191801169,
+      "content": "From Gujarat",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720161397966,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prithvi Panchal",
+      "timestamp_ms": 1720155315214,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Prithvi Panchal",
+  "is_still_participant": true,
+  "thread_path": "inbox/prithvipanchal_1274835173902431",
+  "magic_words": [
+    
+  ]
+}

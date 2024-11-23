@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Bhushan Kadam"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bhushan Kadam",
+      "timestamp_ms": 1720238762162,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720221491046,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bhushan Kadam",
+      "timestamp_ms": 1720202913024,
+      "content": "Location?",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3405429436274227402"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Bhushan Kadam",
+  "is_still_participant": true,
+  "thread_path": "inbox/bhushankadam_1434692017926381",
+  "magic_words": [
+    
+  ]
+}

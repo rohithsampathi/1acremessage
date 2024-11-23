@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "\u00e0\u00ae\u00aa\u00e0\u00ae\u00be\u00e0\u00ae\u00a9\u00e0\u00af\u0081"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721964339160,
+      "content": "Please share your resume to sandeep@1acre.in",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00e0\u00ae\u00aa\u00e0\u00ae\u00be\u00e0\u00ae\u00a9\u00e0\u00af\u0081",
+      "timestamp_ms": 1721838870333,
+      "content": "Hi sir I do real estate so can you have any chance or work with your company to give lands which are ready to sell..",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00e0\u00ae\u00aa\u00e0\u00ae\u00be\u00e0\u00ae\u00a9\u00e0\u00af\u0081",
+  "is_still_participant": true,
+  "thread_path": "inbox/panu_1350834242971276",
+  "magic_words": [
+    
+  ]
+}

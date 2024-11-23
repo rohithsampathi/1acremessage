@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Sandiep Sreenivasan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sandiep Sreenivasan",
+      "timestamp_ms": 1717933464465,
+      "content": "Yeah sure \nThank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717933005200,
+      "content": "Hi, at 1acre.in, we are currently listint only Telangana.\nWe'll start other states soon. \nWe'll keep you posted.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, at 1acre.in, we are currently listint only Telangana.\nWe'll start other states soon. \nWe'll keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sandiep Sreenivasan",
+      "timestamp_ms": 1717931383080,
+      "content": "Is there any requirement for yourselves or any of your customers to invest in Hosur Tamil Nadu.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sandiep Sreenivasan",
+      "timestamp_ms": 1717931322724,
+      "content": "We are developers from hosur.\nWe buy land in Acres and do plotted development and also sell",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717931199280,
+      "content": "Good afternoon.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717931192872,
+      "content": "Hello Mr. Sandiep",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sandiep Sreenivasan",
+      "timestamp_ms": 1717930222444,
+      "content": "Hi sir\nGood noon\n\nThis is Sandiep from Sri Amrutha Developers, Hosur.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sandiep Sreenivasan",
+  "is_still_participant": true,
+  "thread_path": "inbox/sandiepsreenivasan_1428515745211200",
+  "magic_words": [
+    
+  ]
+}

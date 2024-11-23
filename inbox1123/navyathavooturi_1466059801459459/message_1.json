@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Navyatha Vooturi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Navyatha Vooturi",
+      "timestamp_ms": 1722534040664,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722479029044,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Navyatha Vooturi",
+          "timestamp": 1722534040
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Navyatha Vooturi",
+      "timestamp_ms": 1722442526080,
+      "content": "Location?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Navyatha Vooturi",
+      "timestamp_ms": 1722442504775,
+      "content": "Navyatha sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C-FfBsWyVsF/?id=3424279547473386245_47651711013",
+        "share_text": "4 acres | \u00e2\u0082\u00b93 Cr per acre | Just off Shadnagar bypass | Link in bio \u00f0\u009f\u008c\u009f\n\n\u00e2\u009c\u0085 Verified and facilitated by 1acre.in\n\n- Ideal for plotting\n- Surrounded by multiple layouts\n- 1 km from Bengaluru Highway\n- 2 km from Shadnagar\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 8341149011\n\nDM us for more queries on buying, selling, or partnerships.\n\n#landforsale #shadnagar #land #investment",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Navyatha Vooturi",
+  "is_still_participant": true,
+  "thread_path": "inbox/navyathavooturi_1466059801459459",
+  "magic_words": [
+    
+  ]
+}

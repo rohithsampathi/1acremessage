@@ -1,0 +1,123 @@
+{
+  "participants": [
+    {
+      "name": "Niyamat Sayyed"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Niyamat Sayyed",
+      "timestamp_ms": 1727338099600,
+      "content": "8080541253",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727337739032,
+      "content": "Sure. Give us your number. We'll call back.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Niyamat Sayyed",
+      "timestamp_ms": 1727279583343,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Niyamat Sayyed",
+      "timestamp_ms": 1727275890086,
+      "content": "1.5 acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Niyamat Sayyed",
+      "timestamp_ms": 1727275866548,
+      "content": "We have to sell the farm",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Niyamat Sayyed",
+      "timestamp_ms": 1727275700227,
+      "content": "I am from. Ranjani",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Niyamat Sayyed",
+      "timestamp_ms": 1727275679386,
+      "content": "Talukha. Ghansungi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Niyamat Sayyed",
+      "timestamp_ms": 1727275663197,
+      "content": "Dst.jalna",
+      "share": {
+        "share_text": "Dst.jalna"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Niyamat Sayyed",
+      "timestamp_ms": 1727275643265,
+      "content": "Str. Maharashtra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Niyamat Sayyed",
+      "timestamp_ms": 1727275623852,
+      "content": "My name is \nNiyamat Ali",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Niyamat Sayyed",
+      "timestamp_ms": 1727249102338,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727189988767,
+      "content": "Can you give more detail?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727189980216,
+      "content": "May we know regarding what?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Niyamat Sayyed",
+      "timestamp_ms": 1727184933761,
+      "content": "Phone number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727184405507,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Niyamat Sayyed",
+      "timestamp_ms": 1727179569839,
+      "content": "Sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Niyamat Sayyed",
+      "timestamp_ms": 1727179561130,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Niyamat Sayyed",
+  "is_still_participant": true,
+  "thread_path": "inbox/niyamatsayyed_18040514441293089",
+  "magic_words": [
+    
+  ]
+}

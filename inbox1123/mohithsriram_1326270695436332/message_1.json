@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Mohith Sriram"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706760039116,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohith Sriram",
+      "timestamp_ms": 1706725420135,
+      "content": "Interested in buying 1acre at janwada",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohith Sriram",
+      "timestamp_ms": 1706725399631,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mohith Sriram",
+  "is_still_participant": true,
+  "thread_path": "inbox/mohithsriram_1326270695436332",
+  "magic_words": [
+    
+  ]
+}

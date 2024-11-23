@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Venugopal Munagalkar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718797271855,
+      "content": "+91 91533 65555\nSuresh Raju\n\nMeanwhile, you can get in touch with him. He is an agent based out of that region.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718797205235,
+      "content": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Venugopal Munagalkar",
+      "timestamp_ms": 1718793676075,
+      "content": "Any land in and around gulbarga karnataka",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Venugopal Munagalkar",
+      "timestamp_ms": 1718793659785,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Venugopal Munagalkar",
+  "is_still_participant": true,
+  "thread_path": "inbox/venugopalmunagalkar_1416005466460231",
+  "magic_words": [
+    
+  ]
+}

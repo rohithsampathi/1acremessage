@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Nava kishor"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721367883973,
+      "content": "Could you tell us, \nLocation, extent and price?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nava kishor",
+      "timestamp_ms": 1721367491299,
+      "content": "I want to sell land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nava kishor",
+      "timestamp_ms": 1721367486562,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nava kishor",
+  "is_still_participant": true,
+  "thread_path": "inbox/navakishor_17918968286948644",
+  "magic_words": [
+    
+  ]
+}

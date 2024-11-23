@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Vinith Agarwal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707142757069,
+      "content": "No. Not yet.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vinith Agarwal",
+      "timestamp_ms": 1707142704909,
+      "content": "Do you gus also lease lands?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707139991085,
+      "content": "Please tell",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707139983181,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vinith Agarwal",
+      "timestamp_ms": 1707139409575,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vinith Agarwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/vinithagarwal_1342106123857259",
+  "magic_words": [
+    
+  ]
+}

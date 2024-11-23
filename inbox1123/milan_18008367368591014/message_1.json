@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "milan\u00f0\u009f\u0098\u008e"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717835086808,
+      "content": "Hello there!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "milan\u00f0\u009f\u0098\u008e",
+      "timestamp_ms": 1717830214189,
+      "content": "Hii \u00f0\u009f\u0091\u008b",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "milan\u00f0\u009f\u0098\u008e",
+  "is_still_participant": true,
+  "thread_path": "inbox/milan_18008367368591014",
+  "magic_words": [
+    
+  ]
+}

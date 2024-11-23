@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Pradhyumna Gowda"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pradhyumna Gowda",
+      "timestamp_ms": 1709568142168,
+      "content": "Ok thanks for reply",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709568111280,
+      "content": "Hi. No. That's in Maharashtra. That is too low a price anywhere in Karnataka",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pradhyumna Gowda",
+      "timestamp_ms": 1709567526655,
+      "content": "Im interested in that",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pradhyumna Gowda",
+      "timestamp_ms": 1709567518480,
+      "content": "I saw ur video mentioning 2-3 lakh per acers can you tell me if it available in karnataka .dakshina kannada or anywhere in karnataka",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Pradhyumna Gowda",
+  "is_still_participant": true,
+  "thread_path": "inbox/pradhyumnagowda_1375120297216355",
+  "magic_words": [
+    
+  ]
+}

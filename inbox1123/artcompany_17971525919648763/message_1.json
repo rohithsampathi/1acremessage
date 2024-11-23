@@ -1,0 +1,84 @@
+{
+  "participants": [
+    {
+      "name": "ART COMPANY"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705462594884,
+      "content": "Hi, apologies for any lack of service or miscommunication regarding the premium. Pratheek will give you a call back, to discuss.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "ART COMPANY",
+      "timestamp_ms": 1705461188664,
+      "content": "Aipoinda inka",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "ART COMPANY",
+      "timestamp_ms": 1705461181955,
+      "content": "Money tiskunnav mari property s chupinchava",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705453442131,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "ART COMPANY",
+      "timestamp_ms": 1705425194220,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703738834893,
+      "content": "Sure , our team will connect with you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "ART COMPANY",
+      "timestamp_ms": 1703725931979,
+      "content": "I am looking for labd",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "ART COMPANY",
+      "timestamp_ms": 1703725853241,
+      "content": "Pls call me",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "ART COMPANY",
+      "timestamp_ms": 1703725836354,
+      "content": "This is Rajkumar",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "ART COMPANY",
+      "timestamp_ms": 1703725825545,
+      "content": "99490 44471",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "ART COMPANY",
+      "timestamp_ms": 1703725816467,
+      "content": "Hi \u00f0\u009f\u0091\u008b",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "ART COMPANY",
+  "is_still_participant": true,
+  "thread_path": "inbox/artcompany_17971525919648763",
+  "magic_words": [
+    
+  ]
+}

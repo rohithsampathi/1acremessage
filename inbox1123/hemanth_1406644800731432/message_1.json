@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Hemanth"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Hemanth",
+      "timestamp_ms": 1716197326960,
+      "content": "Thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hemanth",
+      "timestamp_ms": 1716197323202,
+      "content": "Ah okay. Let me try again",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716197316657,
+      "content": "Or plz try calling",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716197304868,
+      "content": "It has WhatsApp.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hemanth",
+      "timestamp_ms": 1716197187448,
+      "content": "I am unable to see this number in WhatsApp",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716197111486,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hemanth",
+      "timestamp_ms": 1716196037937,
+      "content": "Hello does the number given in 10acre post is in WhatsApp?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Hemanth",
+  "is_still_participant": true,
+  "thread_path": "inbox/hemanth_1406644800731432",
+  "magic_words": [
+    
+  ]
+}

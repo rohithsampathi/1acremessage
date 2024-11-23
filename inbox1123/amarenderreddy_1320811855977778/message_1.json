@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Amarender Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711617756048,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Amarender Reddy",
+      "timestamp_ms": 1711612542281,
+      "content": "And we want to 8 to 10 Ac land lease for function hall \u00ef\u00bf\u00bc",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Amarender Reddy",
+      "timestamp_ms": 1711612436020,
+      "content": "I want sell my property in Shamshabad \nNear Hameedulla nagar. Land is 10 guntas",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Amarender Reddy",
+      "timestamp_ms": 1711612343366,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Amarender Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/amarenderreddy_1320811855977778",
+  "magic_words": [
+    
+  ]
+}

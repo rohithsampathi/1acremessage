@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Nitin Rijhwani"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nitin Rijhwani",
+      "timestamp_ms": 1727456950808,
+      "content": "Okei thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727454035106,
+      "content": "Please contact Vijay\n9959994737, from the team. \nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727453991784,
+      "content": "Hello, we are doing great. How are you doing?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nitin Rijhwani",
+      "timestamp_ms": 1727444242507,
+      "content": "Pls connect if u can offer sales service",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nitin Rijhwani",
+      "timestamp_ms": 1727444227959,
+      "content": "We are willing to sell a land parcel we have in a gated farm venture in chevella",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nitin Rijhwani",
+      "timestamp_ms": 1727444153080,
+      "content": "How r u",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nitin Rijhwani",
+      "timestamp_ms": 1727444151168,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nitin Rijhwani",
+  "is_still_participant": true,
+  "thread_path": "inbox/nitinrijhwani_1496104021784693",
+  "magic_words": [
+    
+  ]
+}

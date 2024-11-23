@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Bollineni Varun Chowdary"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1696573971014,
+      "content": "yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bollineni Varun Chowdary",
+      "timestamp_ms": 1696526337163,
+      "content": "Hi hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Bollineni Varun Chowdary",
+  "is_still_participant": true,
+  "thread_path": "inbox/bollinenivarunchowdary_1197648908291877",
+  "magic_words": [
+    
+  ]
+}

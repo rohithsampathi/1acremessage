@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Sandeep Itha"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sandeep Itha",
+      "timestamp_ms": 1703830484270,
+      "content": "Sure. Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703827769251,
+      "content": "Hi Sandeep , you can connect with pratheek 9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sandeep Itha",
+      "timestamp_ms": 1703792443527,
+      "content": "Hello, do you deal with lands around warangal ORR area ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sandeep Itha",
+  "is_still_participant": true,
+  "thread_path": "inbox/sandeepitha_1294861885243165",
+  "magic_words": [
+    
+  ]
+}

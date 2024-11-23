@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "\u00e0\u00a4\u0095\u00e0\u00a5\u008d\u00e0\u00a4\u00b7\u00e0\u00a4\u00bf\u00e0\u00a4\u00a4\u00e0\u00a4\u00bf\u00e0\u00a4\u009c \u00e0\u00a4\u00a6\u00e0\u00a5\u008d\u00e0\u00a4\u00b5\u00e0\u00a4\u00bf\u00e0\u00a4\u00b5\u00e0\u00a5\u0087\u00e0\u00a4\u00a6\u00e0\u00a5\u0080 \u00f0\u009f\u009a\u00a9\u00f0\u009f\u0094\u00b1"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00e0\u00a4\u0095\u00e0\u00a5\u008d\u00e0\u00a4\u00b7\u00e0\u00a4\u00bf\u00e0\u00a4\u00a4\u00e0\u00a4\u00bf\u00e0\u00a4\u009c \u00e0\u00a4\u00a6\u00e0\u00a5\u008d\u00e0\u00a4\u00b5\u00e0\u00a4\u00bf\u00e0\u00a4\u00b5\u00e0\u00a5\u0087\u00e0\u00a4\u00a6\u00e0\u00a5\u0080 \u00f0\u009f\u009a\u00a9\u00f0\u009f\u0094\u00b1",
+      "timestamp_ms": 1728539182036,
+      "content": "Not so hurry \nI have 1-2 yr time",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728367286761,
+      "content": "Not yet \nWe recently launched in Maharashtra.\n\nWe should have some lands there soon. Please check our website www.1acre.in",
+      "share": {
+        "link": "http://www.1acre.in/",
+        "share_text": "Not yet \nWe recently launched in Maharashtra.\n\nWe should have some lands there soon. Please check our website www.1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00e0\u00a4\u0095\u00e0\u00a5\u008d\u00e0\u00a4\u00b7\u00e0\u00a4\u00bf\u00e0\u00a4\u00a4\u00e0\u00a4\u00bf\u00e0\u00a4\u009c \u00e0\u00a4\u00a6\u00e0\u00a5\u008d\u00e0\u00a4\u00b5\u00e0\u00a4\u00bf\u00e0\u00a4\u00b5\u00e0\u00a5\u0087\u00e0\u00a4\u00a6\u00e0\u00a5\u0080 \u00f0\u009f\u009a\u00a9\u00f0\u009f\u0094\u00b1",
+      "timestamp_ms": 1728308615555,
+      "content": "Any 1-2 acre land available near sawantwadi sindhudurg Maharashtra??",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00e0\u00a4\u0095\u00e0\u00a5\u008d\u00e0\u00a4\u00b7\u00e0\u00a4\u00bf\u00e0\u00a4\u00a4\u00e0\u00a4\u00bf\u00e0\u00a4\u009c \u00e0\u00a4\u00a6\u00e0\u00a5\u008d\u00e0\u00a4\u00b5\u00e0\u00a4\u00bf\u00e0\u00a4\u00b5\u00e0\u00a5\u0087\u00e0\u00a4\u00a6\u00e0\u00a5\u0080 \u00f0\u009f\u009a\u00a9\u00f0\u009f\u0094\u00b1",
+  "is_still_participant": true,
+  "thread_path": "inbox/ksitijadvivedi_18039103172321238",
+  "magic_words": [
+    
+  ]
+}

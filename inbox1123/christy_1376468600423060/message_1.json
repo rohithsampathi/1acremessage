@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Christy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720240341570,
+      "content": "Great.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Christy",
+      "timestamp_ms": 1720238679756,
+      "content": "Looking forward to it. I live in ecr and my expertise is photo and video and also have some real estate knowledge to some extent",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720226750427,
+      "content": "Thanks. Sure. \nWe are launching TN listigns soon. We'll talk.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Christy",
+      "timestamp_ms": 1720201878372,
+      "content": "Hi, this is a really smart channel. I would like to know if I can be your counter partner for TN.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Christy",
+  "is_still_participant": true,
+  "thread_path": "inbox/christy_1376468600423060",
+  "magic_words": [
+    
+  ]
+}

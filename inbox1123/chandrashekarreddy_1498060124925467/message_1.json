@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Chandra Shekar Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723359194863,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chandra Shekar Reddy",
+      "timestamp_ms": 1723352064105,
+      "content": "Is this available ??",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chandra Shekar Reddy",
+      "timestamp_ms": 1723352055387,
+      "content": "Chandra sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C-fPv3FyPgg/?id=3431530700745537568_47651711013",
+        "share_text": "SOLD !",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Chandra Shekar Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/chandrashekarreddy_1498060124925467",
+  "magic_words": [
+    
+  ]
+}

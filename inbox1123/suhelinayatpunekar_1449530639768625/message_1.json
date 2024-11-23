@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Suhel Inayat Punekar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729239589488,
+      "content": "Please call our team member Venu at +91 76749 01201\n\nHe shall help you list it and share other details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Suhel Inayat Punekar",
+      "timestamp_ms": 1727679726669,
+      "content": "Hello i want sell my land in haveri district Karnataka",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Suhel Inayat Punekar",
+  "is_still_participant": true,
+  "thread_path": "inbox/suhelinayatpunekar_1449530639768625",
+  "magic_words": [
+    
+  ]
+}

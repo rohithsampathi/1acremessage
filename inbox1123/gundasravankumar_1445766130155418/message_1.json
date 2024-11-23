@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Gunda Sravan Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716166835873,
+      "content": "\u00f0\u009f\u00a4\u009d",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gunda Sravan Kumar",
+      "timestamp_ms": 1716141417636,
+      "content": "\u00f0\u009f\u00a4\u009d",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Gunda Sravan Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/gundasravankumar_1445766130155418",
+  "magic_words": [
+    
+  ]
+}

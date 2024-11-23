@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Vamshi Krishna"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vamshi Krishna",
+      "timestamp_ms": 1723990100936,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vamshi Krishna",
+      "timestamp_ms": 1723990095246,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723990013233,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723990012509,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team.\nHe'll help you with it.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Vamshi Krishna",
+          "timestamp": 1723990095
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vamshi Krishna",
+      "timestamp_ms": 1723988128465,
+      "content": "How much do you charge for a single post(property based at mokila, Hyd)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723988000356,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vamshi Krishna",
+      "timestamp_ms": 1723987381981,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vamshi Krishna",
+  "is_still_participant": true,
+  "thread_path": "inbox/vamshikrishna_1518937556170885",
+  "magic_words": [
+    
+  ]
+}

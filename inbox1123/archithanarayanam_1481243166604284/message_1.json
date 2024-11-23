@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Architha Narayanam"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Architha Narayanam",
+      "timestamp_ms": 1723098053147,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723006512958,
+      "content": "Hi, Please contact Srikar\n8341149011, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Architha Narayanam",
+      "timestamp_ms": 1722998674052,
+      "content": "Hi can I know more about 734 sqyards plot",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Architha Narayanam",
+  "is_still_participant": true,
+  "thread_path": "inbox/archithanarayanam_1481243166604284",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Devendar Devendar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Devendar Devendar",
+      "timestamp_ms": 1723089173031,
+      "content": "Okay thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723089123377,
+      "content": "Hi, Please contact Bharath \n8341127911",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Devendar Devendar",
+      "timestamp_ms": 1723083120740,
+      "content": "May you sell my land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Devendar Devendar",
+      "timestamp_ms": 1723083079841,
+      "content": "Land area 0.11 gunttas",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Devendar Devendar",
+      "timestamp_ms": 1723083058185,
+      "content": "I have a land in mucherla nagaram near hasanparthy district Hanamkonda",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Devendar Devendar",
+      "timestamp_ms": 1723082984942,
+      "content": "Im from Telangana, Hanamkonda district",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Devendar Devendar",
+      "timestamp_ms": 1723082958870,
+      "content": "Im Devender",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Devendar Devendar",
+      "timestamp_ms": 1723082951737,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Devendar Devendar",
+  "is_still_participant": true,
+  "thread_path": "inbox/devendardevendar_1485644962835126",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "vikas"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "vikas",
+      "timestamp_ms": 1720246321450,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720241109629,
+      "content": "Sure. Thanks for reaching out. We'll get back to you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "vikas",
+      "timestamp_ms": 1720109181986,
+      "content": "If some one need land for investment in Jaipur or in Rajasthan I will help u",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "vikas",
+      "timestamp_ms": 1720109122363,
+      "content": "I also have lots of JDA approved lands also in every category",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "vikas",
+      "timestamp_ms": 1720109083828,
+      "content": "In Jaipur I have more than 70 big agricultural lands",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "vikas",
+      "timestamp_ms": 1720109049692,
+      "content": "I am from Jaipur and I provide lands for builders and colonisers",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "vikas",
+      "timestamp_ms": 1720109015410,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "vikas",
+  "is_still_participant": true,
+  "thread_path": "inbox/vikas_1434728964589318",
+  "magic_words": [
+    
+  ]
+}

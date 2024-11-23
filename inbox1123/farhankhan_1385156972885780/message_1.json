@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "FARHAN KHAN"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "FARHAN KHAN",
+      "timestamp_ms": 1716304084861,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716304028455,
+      "content": "We currently only operate in Telangana",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "FARHAN KHAN",
+      "timestamp_ms": 1716301715857,
+      "content": "Hello want to sell my land in chattisgarh 15 acre plot",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "FARHAN KHAN",
+  "is_still_participant": true,
+  "thread_path": "inbox/farhankhan_1385156972885780",
+  "magic_words": [
+    
+  ]
+}

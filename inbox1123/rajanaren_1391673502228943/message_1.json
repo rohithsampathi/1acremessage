@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Raja Naren"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710574815649,
+      "content": "Hi, Please contact Harish\n9032114737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raja Naren",
+      "timestamp_ms": 1710570884858,
+      "content": "Iam interested in the freelance job",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raja Naren",
+      "timestamp_ms": 1710570867228,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Raja Naren",
+  "is_still_participant": true,
+  "thread_path": "inbox/rajanaren_1391673502228943",
+  "magic_words": [
+    
+  ]
+}

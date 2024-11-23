@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Dheeraj Bejgum"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718003055177,
+      "content": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dheeraj Bejgum",
+      "timestamp_ms": 1718001487272,
+      "content": "Let me know near gulbarga",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Dheeraj Bejgum",
+  "is_still_participant": true,
+  "thread_path": "inbox/dheerajbejgum_1415334323200322",
+  "magic_words": [
+    
+  ]
+}

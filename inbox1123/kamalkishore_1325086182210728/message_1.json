@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Kamal Kishore"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724149019060,
+      "content": "He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724149007527,
+      "content": "Hi, Please contact Srikar 8341149011, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kamal Kishore",
+      "timestamp_ms": 1724143355044,
+      "content": "Can i get price for manchirevula 1450 sq yards plot",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kamal Kishore",
+  "is_still_participant": true,
+  "thread_path": "inbox/kamalkishore_1325086182210728",
+  "magic_words": [
+    
+  ]
+}

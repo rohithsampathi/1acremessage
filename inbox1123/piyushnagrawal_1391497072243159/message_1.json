@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Piyush N Agrawal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717777278704,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Piyush N Agrawal",
+      "timestamp_ms": 1717776614959,
+      "content": "Hello sir \nIf any of your customer wants 100 150 200 250 acre land @ 2.5 lakh per acre \nWe can arrange inyavatmal district Maharashtra",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Piyush N Agrawal",
+  "is_still_participant": true,
+  "thread_path": "inbox/piyushnagrawal_1391497072243159",
+  "magic_words": [
+    
+  ]
+}

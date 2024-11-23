@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Mansour Ahmed Khan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709207778235,
+      "content": "Please contact Ratna Kiran \n9390155412, he'll help you out.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mansour Ahmed Khan",
+      "timestamp_ms": 1709203074710,
+      "content": "I have 1850 yards at bahadurpura for sale for private listing",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706770831002,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mansour Ahmed Khan",
+      "timestamp_ms": 1706770556744,
+      "content": "We develop properties. Please get back to me with any potential sites.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mansour Ahmed Khan",
+      "timestamp_ms": 1706770556465,
+      "content": "Mansour sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C2ozoIaNDC4/?id=3290106585974845624_47651711013",
+        "share_text": "Introducing our latest Feature: City Lands! \u00f0\u009f\u008c\u0086 We\u00e2\u0080\u0099ve noticed a rising demand among landowners in Hyderabad west and south for discreet connections with builders, developers, and long-term investors. If you\u00e2\u0080\u0099re on the lookout for prime land within these growth corridors or the city itself, we\u00e2\u0080\u0099re here to privately link you with eager landowners. Connect with us to explore exclusive opportunities! #CityLands #RealEstateOpportunities",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mansour Ahmed Khan",
+  "is_still_participant": true,
+  "thread_path": "inbox/mansourahmedkhan_1176899173693780",
+  "magic_words": [
+    
+  ]
+}

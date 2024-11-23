@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "R R Nayak"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711625522121,
+      "content": "May I know what you are looking for? I'll connect accordingly.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "R R Nayak",
+      "timestamp_ms": 1711623249959,
+      "content": "send me your number sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710258943448,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "R R Nayak",
+      "timestamp_ms": 1710257197460,
+      "content": "hi sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "R R Nayak",
+  "is_still_participant": true,
+  "thread_path": "inbox/rrnayak_1338328670892505",
+  "magic_words": [
+    
+  ]
+}

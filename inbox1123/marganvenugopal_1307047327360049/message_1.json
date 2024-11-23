@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Margan Venugopal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704347614512,
+      "content": "you can connect with pratheek, 9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Margan Venugopal",
+      "timestamp_ms": 1704316557215,
+      "content": "Will be interested to buy lands at 5 lakhs per acre telengana pls advise 00971555977755",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Margan Venugopal",
+  "is_still_participant": true,
+  "thread_path": "inbox/marganvenugopal_1307047327360049",
+  "magic_words": [
+    
+  ]
+}

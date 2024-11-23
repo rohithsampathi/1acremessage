@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Shushant Dhaawan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shushant Dhaawan",
+      "timestamp_ms": 1701758125268,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701758026000,
+      "content": "Our team will connect with you shortly",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shushant Dhaawan",
+      "timestamp_ms": 1701757774540,
+      "content": "8121944860",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701757579413,
+      "content": "Hy Sushanth , can we have your contact number,our team will connect with you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shushant Dhaawan",
+      "timestamp_ms": 1701757200502,
+      "content": "Requirement\n1 to 1.5 acre \nopen land\n\nManikonda\nKukatpally\nGachibowli\n\nPlease let me know if anything comes",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shushant Dhaawan",
+  "is_still_participant": true,
+  "thread_path": "inbox/shushantdhaawan_1325383188856040",
+  "magic_words": [
+    
+  ]
+}

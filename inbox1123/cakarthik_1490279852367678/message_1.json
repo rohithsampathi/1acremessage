@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "CA Karthik"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721316107120,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721316105955,
+      "content": "Hi, Please contact Vijay 9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "CA Karthik",
+      "timestamp_ms": 1721311849917,
+      "content": "And I want to know the estimated worth of the land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "CA Karthik",
+      "timestamp_ms": 1721311826211,
+      "content": "I have a land in Hytabad and want to sell it",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "CA Karthik",
+      "timestamp_ms": 1721311803384,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "CA Karthik",
+  "is_still_participant": true,
+  "thread_path": "inbox/cakarthik_1490279852367678",
+  "magic_words": [
+    
+  ]
+}

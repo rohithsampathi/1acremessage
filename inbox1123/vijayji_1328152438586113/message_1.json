@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Vijay Ji"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vijay Ji",
+      "timestamp_ms": 1706722279418,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706691531182,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Vijay Ji",
+          "timestamp": 1706722279
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vijay Ji",
+      "timestamp_ms": 1706676874825,
+      "content": "I\u00e2\u0080\u0099m interested in the land opportunity in maharastra  please let me know the details",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vijay Ji",
+  "is_still_participant": true,
+  "thread_path": "inbox/vijayji_1328152438586113",
+  "magic_words": [
+    
+  ]
+}

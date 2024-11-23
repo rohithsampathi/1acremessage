@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "chaurasianshu@gmail.com"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "chaurasianshu@gmail.com",
+      "timestamp_ms": 1720447870632,
+      "share": {
+        "link": "https://media1.giphy.com/media/v1.Y2lkPTQyMzA0NmQwNzZ4em9xdGtrdTVweGU4aWticG92Z3U3aTYwMzgybDlwNmh4OHJqdSZlcD12MV9naWZzX2dpZklkJmN0PWc/Ov09jGgEThFKpxZ9eC/200.gif",
+        "original_content_owner": "sesamestreet"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "chaurasianshu@gmail.com",
+  "is_still_participant": true,
+  "thread_path": "inbox/chaurasianshugmailcom_1391718045564652",
+  "magic_words": [
+    
+  ]
+}

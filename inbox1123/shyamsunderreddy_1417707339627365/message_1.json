@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Shyam Sunder Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716132693347,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shyam Sunder Reddy",
+      "timestamp_ms": 1716130560228,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shyam Sunder Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/shyamsunderreddy_1417707339627365",
+  "magic_words": [
+    
+  ]
+}

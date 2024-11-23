@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Hemanth_Bondili"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729430566998,
+      "content": "Yes it\u00e2\u0080\u0099s available. Please share your contact details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729430528382,
+      "content": "Hi. This is Pavan from 1acre.in\n\nThanks for reaching out!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hemanth_Bondili",
+      "timestamp_ms": 1729414308554,
+      "content": "Is available?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hemanth_Bondili",
+      "timestamp_ms": 1729414305914,
+      "content": "Serene ranch 32 acre land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hemanth_Bondili",
+      "timestamp_ms": 1729414295959,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Hemanth_Bondili",
+  "is_still_participant": true,
+  "thread_path": "inbox/hemanth_bondili_1096562238476924",
+  "magic_words": [
+    
+  ]
+}

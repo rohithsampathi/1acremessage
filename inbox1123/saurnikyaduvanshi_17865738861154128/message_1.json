@@ -1,0 +1,72 @@
+{
+  "participants": [
+    {
+      "name": "saurnik yaduvanshi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "saurnik yaduvanshi",
+      "timestamp_ms": 1720674800662,
+      "content": "O",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719622244104,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "saurnik yaduvanshi",
+      "timestamp_ms": 1719620603803,
+      "content": "Bihar",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719568981521,
+      "content": "From which state?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719568975247,
+      "content": "Ok.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "saurnik yaduvanshi",
+      "timestamp_ms": 1719565997060,
+      "content": "Broker banayege mujhe bhi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719273919794,
+      "content": "How can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719273913133,
+      "content": "Hello there",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "saurnik yaduvanshi",
+      "timestamp_ms": 1719251711952,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "saurnik yaduvanshi",
+  "is_still_participant": true,
+  "thread_path": "inbox/saurnikyaduvanshi_17865738861154128",
+  "magic_words": [
+    
+  ]
+}

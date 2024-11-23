@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Pruthvi Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pruthvi Reddy",
+      "timestamp_ms": 1723467348718,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723432833167,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Pruthvi Reddy",
+          "timestamp": 1723467348
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pruthvi Reddy",
+      "timestamp_ms": 1723396462040,
+      "content": "Hi,\n\nI am interested in this property, can I  your contact info to discuss future",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pruthvi Reddy",
+      "timestamp_ms": 1723396461903,
+      "content": "Pruthvi sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C-fPv3FyPgg/?id=3431530700745537568_47651711013",
+        "share_text": "SOLD !",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Pruthvi Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/pruthvireddy_1482587966475511",
+  "magic_words": [
+    
+  ]
+}

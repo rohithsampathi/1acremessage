@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Sri"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721008108166,
+      "content": "We are currently listing only Telangana. We'll list other states soon. Will keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sri",
+      "timestamp_ms": 1720969386532,
+      "content": "Anything near Bengaluru",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sri",
+  "is_still_participant": true,
+  "thread_path": "inbox/sri_1499978921402321",
+  "magic_words": [
+    
+  ]
+}

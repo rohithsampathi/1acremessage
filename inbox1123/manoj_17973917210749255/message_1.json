@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Manoj"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Manoj",
+      "timestamp_ms": 1723555752526,
+      "content": "Downt worry sir I am not a scammer",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manoj",
+      "timestamp_ms": 1723550393029,
+      "content": "Like I didn't understand sir \nCan you please explain?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723549532933,
+      "content": "I know but it can't work like that with us.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manoj",
+      "timestamp_ms": 1723548537631,
+      "content": "I would really be glad to work with you sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manoj",
+      "timestamp_ms": 1723548491551,
+      "content": "Actually i am a student sir from karnataka so just wanted to help my parents financially so was seeking for some jobs",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manoj",
+      "timestamp_ms": 1723548291895,
+      "content": "Like ill be managing the instagram profile by helping you to upload reels and content based on your business",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723545466247,
+      "content": "What is account management?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manoj",
+      "timestamp_ms": 1723532029674,
+      "content": "Hi sir,\nIs there any vacancy for account management role?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Manoj",
+  "is_still_participant": true,
+  "thread_path": "inbox/manoj_17973917210749255",
+  "magic_words": [
+    
+  ]
+}

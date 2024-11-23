@@ -1,0 +1,88 @@
+{
+  "participants": [
+    {
+      "name": "Shikhar Verma"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shikhar Verma",
+      "timestamp_ms": 1717779167545,
+      "content": "Ok sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717778306359,
+      "content": "Let us know the location, price and extent/area. We will get back to you if someone is interested.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shikhar Verma",
+      "timestamp_ms": 1717778249219,
+      "content": "If any contact you have in Kanpur .let me know",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shikhar Verma",
+      "timestamp_ms": 1717778172497,
+      "content": "You can help me to sell",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717778123730,
+      "content": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shikhar Verma",
+      "timestamp_ms": 1717778112532,
+      "content": "Commercial land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shikhar Verma",
+      "timestamp_ms": 1717778081265,
+      "content": "Uttar Pradesh",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shikhar Verma",
+      "timestamp_ms": 1717778075243,
+      "content": "In Kanpur",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717778055938,
+      "content": "Hi, Could you detail? Is it a land? Where is it located?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shikhar Verma",
+      "timestamp_ms": 1717777493563,
+      "content": "I want to sell my place",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shikhar Verma",
+      "timestamp_ms": 1717777473396,
+      "content": "Hlo",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shikhar Verma",
+  "is_still_participant": true,
+  "thread_path": "inbox/shikharverma_18010836575394532",
+  "magic_words": [
+    
+  ]
+}

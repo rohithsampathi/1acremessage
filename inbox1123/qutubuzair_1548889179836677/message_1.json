@@ -1,0 +1,72 @@
+{
+  "participants": [
+    {
+      "name": "Qutub Uzair"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731917422565,
+      "content": "Please contact our team member ,pavan, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731917416472,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Qutub Uzair",
+      "timestamp_ms": 1731915850823,
+      "content": "Total 6acres I want to sell 1acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Qutub Uzair",
+      "timestamp_ms": 1731915821111,
+      "content": "At Mumbai highway near zaheerabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Qutub Uzair",
+      "timestamp_ms": 1731915799187,
+      "content": "It's on main road high way",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Qutub Uzair",
+      "timestamp_ms": 1731915791245,
+      "content": "I want to sell my land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731909778607,
+      "content": "How can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731909771791,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Qutub Uzair",
+      "timestamp_ms": 1731854485856,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Qutub Uzair",
+  "is_still_participant": true,
+  "thread_path": "inbox/qutubuzair_1548889179836677",
+  "magic_words": [
+    
+  ]
+}

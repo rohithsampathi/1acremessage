@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Aravindgoud Kondamgari"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aravindgoud Kondamgari",
+      "timestamp_ms": 1701850214269,
+      "content": "7673935474",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701841564503,
+      "content": "Can we have your contact number our team will connect with you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aravindgoud Kondamgari",
+      "timestamp_ms": 1701836087663,
+      "content": "My budget 5-15 lakhs per acer",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aravindgoud Kondamgari",
+      "timestamp_ms": 1701836071519,
+      "content": "I want 10 acres",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aravindgoud Kondamgari",
+      "timestamp_ms": 1701836056582,
+      "content": "I\u00e2\u0080\u0099m looking for agriculture lands in Gulbarga or Andhra Pradesh or ts",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aravindgoud Kondamgari",
+      "timestamp_ms": 1701836020834,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Aravindgoud Kondamgari",
+  "is_still_participant": true,
+  "thread_path": "inbox/aravindgoudkondamgari_1290086539055604",
+  "magic_words": [
+    
+  ]
+}

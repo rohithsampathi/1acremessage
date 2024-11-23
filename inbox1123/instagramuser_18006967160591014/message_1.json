@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1716819529051,
+      "content": "Hello, the reason I texted you is because there is something about you that attracts me. I've been following your posts lately. Whenever I check for updates, I get a feeling of excitement inside me. It's weird, to be honest. I want to figure this out, and I think the answer lies with you. It would be great to know more about you if I could. My {whas\u00f0\u009f\u008d\u008eapp}: 44 7568901105",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "inbox/instagramuser_18006967160591014",
+  "magic_words": [
+    
+  ]
+}

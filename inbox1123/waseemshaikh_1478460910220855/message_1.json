@@ -1,0 +1,91 @@
+{
+  "participants": [
+    {
+      "name": "Waseem Shaikh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Waseem Shaikh",
+      "timestamp_ms": 1717652453000,
+      "content": "Ok Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Waseem Shaikh",
+      "timestamp_ms": 1717652443233,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717652436336,
+      "content": "At this moment, Not really.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Waseem Shaikh",
+          "timestamp": 1717652443
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Waseem Shaikh",
+      "timestamp_ms": 1717652372610,
+      "content": "Ok\nBut do you know anyone who deals with the commercial property?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717610117669,
+      "content": "Hi, we don't list commercial property. We only list land. Thanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Waseem Shaikh",
+      "timestamp_ms": 1717607534279,
+      "content": "Give me your WhatsApp number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Waseem Shaikh",
+      "timestamp_ms": 1717607388217,
+      "content": "Right now on lease to a school \nWhich gets a monthly rent of 2.5 lakhs",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Waseem Shaikh",
+      "timestamp_ms": 1717607333716,
+      "content": "Price 6.75 Cr (Negotiable)\nLocation: Tandur ( Shaipur Road )\n\n901 sqyd ( 28000 sqft) construction with G+3 floors fully constructed and road face 4 Shops",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717606385752,
+      "content": "Please share details such as price , location , total area etc (edited)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717606380454,
+      "content": "Please share details such as price , location , total area etx",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Waseem Shaikh",
+      "timestamp_ms": 1717604160571,
+      "content": "I have a property to sell in Tandur",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Waseem Shaikh",
+  "is_still_participant": true,
+  "thread_path": "inbox/waseemshaikh_1478460910220855",
+  "magic_words": [
+    
+  ]
+}

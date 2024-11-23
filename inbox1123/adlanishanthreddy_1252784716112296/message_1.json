@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Adla Nishanth Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Adla Nishanth Reddy",
+      "timestamp_ms": 1706428536265,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706428531238,
+      "content": "Ok. He'll call back.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Adla Nishanth Reddy",
+      "timestamp_ms": 1706428510491,
+      "content": "Yeah i did",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706428501314,
+      "content": "Did you call him? On the number given?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Adla Nishanth Reddy",
+      "timestamp_ms": 1706427409442,
+      "content": "I didn\u00e2\u0080\u0099t get the call",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Adla Nishanth Reddy",
+      "timestamp_ms": 1706351946639,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706351718572,
+      "content": "Hi, Please contact Ramakrishna \n7780122120",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Adla Nishanth Reddy",
+      "timestamp_ms": 1706338732323,
+      "content": "I\u00e2\u0080\u0099am  having land in siddipet and in surrounding village i want to sell the land in the village i\u00e2\u0080\u0099m having 15 acres 35lakh per acre and in siddipet 6 acres and 7lakh per gunta",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Adla Nishanth Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/adlanishanthreddy_1252784716112296",
+  "magic_words": [
+    
+  ]
+}

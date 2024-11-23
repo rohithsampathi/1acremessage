@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Ganesh Raja"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ganesh Raja",
+      "timestamp_ms": 1709963298925,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709952380971,
+      "content": "Hi, Please contact Ramakrishna \n7780122120",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ganesh Raja",
+      "timestamp_ms": 1709925836607,
+      "content": "I have to post my land in your page",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ganesh Raja",
+      "timestamp_ms": 1709925798036,
+      "content": "I have few questions",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ganesh Raja",
+      "timestamp_ms": 1709925790067,
+      "content": "Please send me \nContact number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ganesh Raja",
+      "timestamp_ms": 1709925770785,
+      "content": "Hi sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ganesh Raja",
+  "is_still_participant": true,
+  "thread_path": "inbox/ganeshraja_17997842057591014",
+  "magic_words": [
+    
+  ]
+}

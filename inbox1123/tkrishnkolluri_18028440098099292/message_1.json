@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "T Krishn Kolluri"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715252577287,
+      "content": "Hi, we are a listing platform, free for both buyers and sellers. \nWe generally refrain from giving specific advice on trends.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "T Krishn Kolluri",
+      "timestamp_ms": 1715251873387,
+      "content": "We are concerned to buy plot there due to these issues, wanted to know if these allegations are true or false",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "T Krishn Kolluri",
+      "timestamp_ms": 1715251827282,
+      "content": "We need one info on water and air pollution in Maheshwaram area in Sri sailam highway",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715228605014,
+      "content": "Hi, may I know what you are looking for?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "T Krishn Kolluri",
+      "timestamp_ms": 1715225518520,
+      "content": "Please share your number to contact",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "T Krishn Kolluri",
+      "timestamp_ms": 1715225506872,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "T Krishn Kolluri",
+  "is_still_participant": true,
+  "thread_path": "inbox/tkrishnkolluri_18028440098099292",
+  "magic_words": [
+    
+  ]
+}

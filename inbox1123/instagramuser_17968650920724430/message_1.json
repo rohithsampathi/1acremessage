@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717577122730,
+      "content": "Thanks for reaching out.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717577115541,
+      "content": "Hi,\nAt 1acre.in, we are currently listing only Telanagana.\nWe will start other states soon. \nWill keep you posted.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi,\nAt 1acre.in, we are currently listing only Telanagana.\nWe will start other states soon. \nWill keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1717575048324,
+      "content": "Hi do u hav land near by bangalore",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "inbox/instagramuser_17968650920724430",
+  "magic_words": [
+    
+  ]
+}

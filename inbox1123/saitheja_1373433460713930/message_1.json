@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Sai Theja"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718436743888,
+      "content": "1acre.in\n\nWe are a listing platform of verified lands. Please check the website. \nYou can call the sellers directly.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "1acre.in\n\nWe are a listing platform of verified lands. Please check the website. \nYou can call the sellers directly."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Theja",
+      "timestamp_ms": 1718436606940,
+      "content": "Hi, can you help me provide details or leads please? I'm looking to buy mango farm atleast 1 acer. But my budget is below 50 lakhs. Kindly please suggest.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sai Theja",
+  "is_still_participant": true,
+  "thread_path": "inbox/saitheja_1373433460713930",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "participants": [
+    {
+      "name": "Sandeep Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sandeep Reddy",
+      "timestamp_ms": 1710120292739,
+      "content": "Okay, thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710120282725,
+      "content": "He works with us in our office at Hyderabad. He speaks Telugu.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sandeep Reddy",
+      "timestamp_ms": 1710120243341,
+      "content": "I mean his location",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710120224860,
+      "content": "Our team",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sandeep Reddy",
+      "timestamp_ms": 1710120122907,
+      "content": "He is from",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sandeep Reddy",
+      "timestamp_ms": 1710120050986,
+      "content": "K",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710120041846,
+      "content": "Hi, Please contact Vijay\n9959994737.\nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sandeep Reddy",
+      "timestamp_ms": 1710120012146,
+      "content": "1000sq yards, exactly 3kms from national highway 163",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sandeep Reddy",
+      "timestamp_ms": 1710119965342,
+      "content": "It's near moinabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710119936474,
+      "content": "We are currently not listing plots. But where is the plot?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sandeep Reddy",
+      "timestamp_ms": 1710092494725,
+      "content": "Hello bro, I have a plot could u plz help me to sale it",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sandeep Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/sandeepreddy_1282427799812687",
+  "magic_words": [
+    
+  ]
+}

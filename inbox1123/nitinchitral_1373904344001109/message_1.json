@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Nitin Chitral"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nitin Chitral",
+      "timestamp_ms": 1717684071982,
+      "content": "K Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717684054147,
+      "content": "1.5-2 months.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nitin Chitral",
+      "timestamp_ms": 1717684024282,
+      "content": "Expected date",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717683342798,
+      "content": "Will keep you posted",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717683331511,
+      "content": "We will soon launch in Karnataka and you would be able to list on 1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "We will soon launch in Karnataka and you would be able to list on 1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nitin Chitral",
+      "timestamp_ms": 1717681259969,
+      "content": "Documents all clear \nPlots are made according to the rules",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nitin Chitral",
+      "timestamp_ms": 1717681222071,
+      "content": "Hlo sir I\u00e2\u0080\u0099m Nitin \nFrom Raichur,Karnataka \nWe sell open plot plz can you help us to sell",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nitin Chitral",
+  "is_still_participant": true,
+  "thread_path": "inbox/nitinchitral_1373904344001109",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "vishnuvardhan_rd"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716252650825,
+      "content": "vishnuvardhan_rd wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716252650611,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team. \nHe'll help you with the details.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "vishnuvardhan_rd",
+      "timestamp_ms": 1716222054360,
+      "content": "Can I get location \nSo I can check",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "vishnuvardhan_rd",
+      "timestamp_ms": 1716222040099,
+      "content": "vishnuvardhan_rd sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C7InZjuKaVo/?id=3371117601243112808_47651711013",
+        "share_text": "Further:\n15km away from the Upcoming Nagpur-Goa Shakthipeeth expressway. \nA new railway line between Nagpur and Nanded is underway. \n\n10 Acres - 1.5Cr\n\nThis transaction is facilitated by 1acre.in, till the process of registration. \nIf you are interested in buying, \nContact: 9959994737\n\n#1acre #1acre.in #beauty #landscapephotography",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "vishnuvardhan_rd",
+  "is_still_participant": true,
+  "thread_path": "inbox/vishnuvardhan_rd_1226937582045827",
+  "magic_words": [
+    
+  ]
+}

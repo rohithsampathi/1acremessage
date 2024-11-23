@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Ravi. gupta"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730697063169,
+      "content": "You can subscribe, to access the Mapview.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730697049294,
+      "content": "1acre.in/subscribe",
+      "share": {
+        "link": "http://1acre.in/subscribe",
+        "share_text": "1acre.in/subscribe"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravi. gupta",
+      "timestamp_ms": 1730690932206,
+      "content": "Jamin chahiye",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravi. gupta",
+      "timestamp_ms": 1730690928446,
+      "content": "Ke liye",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravi. gupta",
+      "timestamp_ms": 1730690919363,
+      "content": "Farm house",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730690774506,
+      "content": "Hello \nHow can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravi. gupta",
+      "timestamp_ms": 1730687347329,
+      "content": "Hiii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ravi. gupta",
+  "is_still_participant": true,
+  "thread_path": "inbox/ravigupta_18026861594591014",
+  "magic_words": [
+    
+  ]
+}

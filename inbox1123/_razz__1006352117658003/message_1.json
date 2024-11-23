@@ -1,0 +1,103 @@
+{
+  "participants": [
+    {
+      "name": "_Razz_!!"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729425455179,
+      "content": "Please call our team member Venu at +91 76749 01201\n\nHe shall help you list it and share other details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "_Razz_!!",
+      "timestamp_ms": 1729423773978,
+      "content": "To sell",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "_Razz_!!",
+      "timestamp_ms": 1729423771737,
+      "content": "I have some land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "_Razz_!!",
+      "timestamp_ms": 1729423764722,
+      "content": "Hy",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "_Razz_!!",
+      "timestamp_ms": 1717563760642,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717563167660,
+      "content": "Plz talk to Bharath.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "_Razz_!!",
+          "timestamp": 1717563760
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "_Razz_!!",
+      "timestamp_ms": 1717562800466,
+      "content": "In your 1 acre .in",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "_Razz_!!",
+      "timestamp_ms": 1717562793182,
+      "content": "I want do  freelancer",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717562762375,
+      "content": "Hi, Please contact Bharath \n7780122120, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "_Razz_!!",
+      "timestamp_ms": 1717562648743,
+      "content": "We gonna sell them",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "_Razz_!!",
+      "timestamp_ms": 1717562638894,
+      "content": "We have land near jagital",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717562618822,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "_Razz_!!",
+      "timestamp_ms": 1717562602814,
+      "content": "Hy",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "_Razz_!!",
+  "is_still_participant": true,
+  "thread_path": "inbox/_razz__1006352117658003",
+  "magic_words": [
+    
+  ]
+}

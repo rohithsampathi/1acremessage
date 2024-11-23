@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "gold real estate"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "gold real estate",
+      "timestamp_ms": 1714565795676,
+      "content": "Hii sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713784617285,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "gold real estate",
+      "timestamp_ms": 1713779428335,
+      "content": "Sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "gold real estate",
+      "timestamp_ms": 1713779427082,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "gold real estate",
+  "is_still_participant": true,
+  "thread_path": "inbox/goldrealestate_18004243289439817",
+  "magic_words": [
+    
+  ]
+}

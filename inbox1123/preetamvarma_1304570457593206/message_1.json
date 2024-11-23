@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Preetam Varma"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726932978255,
+      "content": "Feel free to reach out at +91 8341149011 should you have any other queries.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726932936025,
+      "content": "Hi Mr Preetam,\n\nThank you for being our premium subscriber.\n\nWe are yet to launch the final phase of the HMDA masterplan. It should be done by the end of this month.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Preetam Varma",
+      "timestamp_ms": 1726829038000,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726829016322,
+      "content": "Our team will get back to you shortly \u00f0\u009f\u0099\u0082",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Preetam Varma",
+      "timestamp_ms": 1726829008201,
+      "content": "Hey, have subscribed to the premium account but I am unable to view the complete zoning map, is it still in progress or there is any bug, do let me know thank you!",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Preetam Varma",
+  "is_still_participant": true,
+  "thread_path": "inbox/preetamvarma_1304570457593206",
+  "magic_words": [
+    
+  ]
+}

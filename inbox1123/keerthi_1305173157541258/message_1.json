@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "Keerthi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Keerthi",
+      "timestamp_ms": 1710524864631,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710497204721,
+      "content": "1acre.in",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Keerthi",
+          "timestamp": 1710524864
+        }
+      ],
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710497073268,
+      "content": "Hi, we'd advise you to check the website and contact the sellers directly, if you like any land.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Keerthi",
+      "timestamp_ms": 1710496402504,
+      "content": "If not i am open for plot within ventures for max budget of 30L",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Keerthi",
+      "timestamp_ms": 1710496345243,
+      "content": "Hi \n\nI am looking for buying 1acre land but i have my budget constraint of max 40L. \n\nCan you suggest us any",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Keerthi",
+  "is_still_participant": true,
+  "thread_path": "inbox/keerthi_1305173157541258",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "participants": [
+    {
+      "name": "Sai"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sai",
+      "timestamp_ms": 1705498077804,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705496545080,
+      "content": "You can ping Vijay\n9959994737 to discuss in detail. Or in case you want to meet 1-1 with Ratna.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Sai",
+          "timestamp": 1705498077
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705496467312,
+      "content": "This is team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai",
+      "timestamp_ms": 1705495742574,
+      "content": "I have seen couple of your posts",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai",
+      "timestamp_ms": 1705495730298,
+      "content": "I am looking to purchase farmland around hyderabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai",
+      "timestamp_ms": 1705495714007,
+      "content": "Or satish?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai",
+      "timestamp_ms": 1705495706633,
+      "content": "Is this mr ratna?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705495675511,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai",
+      "timestamp_ms": 1705495656510,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sai",
+  "is_still_participant": true,
+  "thread_path": "inbox/sai_1261787881890528",
+  "magic_words": [
+    
+  ]
+}

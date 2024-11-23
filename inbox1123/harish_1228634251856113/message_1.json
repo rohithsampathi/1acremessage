@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Harish"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Harish",
+      "timestamp_ms": 1711162842362,
+      "content": "https://www.ketto.org/fundraiser/my-baby-battles-for-her-life-and-we-need-your-support-to-save-her-903262?utm_medium=copy&utm_content=97f64e60634b4308f97702a948be21d8&shby=1&utm_source=external_Ketto&utm_campaign=my-baby-battles-for-her-life-and-we-need-your-support-to-save-her-903262",
+      "share": {
+        "link": "https://www.instagram.com/p/C3t3CBgtPFl/"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Harish",
+  "is_still_participant": true,
+  "thread_path": "inbox/harish_1228634251856113",
+  "magic_words": [
+    
+  ]
+}

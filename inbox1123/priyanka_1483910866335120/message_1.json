@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Priyanka"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731749821209,
+      "content": "Please contact Vijay at 7075191166 from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Priyanka",
+      "timestamp_ms": 1731736872549,
+      "content": "Could you share details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Priyanka",
+      "timestamp_ms": 1731736822871,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/priyanka_1483910866335120/photos/462580034_596669222712571_9024126131881015232_n_596669219379238.jpg",
+          "creation_timestamp": 1731736822,
+          "backup_uri": "https://scontent.fmaa12-3.fna.fbcdn.net/v/t1.15752-9/462580034_596669222712571_9024126131881015232_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=tCPVPdw4jJgQ7kNvgH6kj0G&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fmaa12-3.fna&oh=03_Q7cD1QH-1S7jRH5NN4vddS0CmavVXZFqh0N3y5nuderWKcthaw&oe=6766A208"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725718576158,
+      "content": "Hi, Please contact Srikar 8341149011, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Priyanka",
+      "timestamp_ms": 1725711652960,
+      "content": "Can I have more details pls.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Priyanka",
+      "timestamp_ms": 1725711630720,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/priyanka_1483910866335120/photos/457774794_489166543891771_4264949835861110045_n_489166540558438.jpg",
+          "creation_timestamp": 1725711629,
+          "backup_uri": "https://scontent.fmaa12-1.fna.fbcdn.net/v/t1.15752-9/457774794_489166543891771_4264949835861110045_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=9f807c&_nc_ohc=0sLoXOTFas0Q7kNvgHx9MJK&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fmaa12-1.fna&oh=03_Q7cD1QHy35pcyajAhinCc2iVQ5cn16DQbqUPaLgdZmPP7zfCoQ&oe=6766CBC2"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Priyanka",
+  "is_still_participant": true,
+  "thread_path": "inbox/priyanka_1483910866335120",
+  "magic_words": [
+    
+  ]
+}

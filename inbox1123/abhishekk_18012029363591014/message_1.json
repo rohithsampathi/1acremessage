@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Abhishek k"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Abhishek k",
+      "timestamp_ms": 1720555587308,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720434020709,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhishek k",
+      "timestamp_ms": 1720431627674,
+      "content": "Dharwad Karnataka any land",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Abhishek k",
+  "is_still_participant": true,
+  "thread_path": "inbox/abhishekk_18012029363591014",
+  "magic_words": [
+    
+  ]
+}

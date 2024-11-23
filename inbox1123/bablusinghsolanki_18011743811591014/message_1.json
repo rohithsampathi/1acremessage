@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Bablu singh solanki"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bablu singh solanki",
+      "timestamp_ms": 1720241715396,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720240191687,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bablu singh solanki",
+      "timestamp_ms": 1720238689425,
+      "content": "Evaluation 4.9 cr",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bablu singh solanki",
+      "timestamp_ms": 1720238638644,
+      "content": "I want to sell my 0.27 acre land situated near indore ujjain highway",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bablu singh solanki",
+      "timestamp_ms": 1720238595483,
+      "content": "Hey",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Bablu singh solanki",
+  "is_still_participant": true,
+  "thread_path": "inbox/bablusinghsolanki_18011743811591014",
+  "magic_words": [
+    
+  ]
+}

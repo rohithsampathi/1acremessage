@@ -1,0 +1,102 @@
+{
+  "participants": [
+    {
+      "name": "Rakesh Paka"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rakesh Paka",
+      "timestamp_ms": 1725407858103,
+      "content": "Reacted \u00f0\u009f\u0098\u008a to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725343393719,
+      "content": "Thank you \u00f0\u009f\u0098\u008a",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008a",
+          "actor": "Rakesh Paka",
+          "timestamp": 1725407858
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rakesh Paka",
+      "timestamp_ms": 1725342858810,
+      "content": "Congratulations for crossing for 1 lakh followers",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rakesh Paka",
+      "timestamp_ms": 1719148258834,
+      "content": "Rakesh sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C5_QX_KSK_5/?id=3350468664897351673_47651711013",
+        "share_text": "Can you still get lands for 10 lakhs per acre in Telangana? Many people inquire about this regularly. Just head to the map view on 1acre.in where we have over 2200 listed lands. They are color-coded based on price, making it easy to spot the cheapest land in any area. Plus, you can contact sellers directly as their numbers are provided. Interested? Subscribe to our premium membership on 1acre.in! \u00f0\u009f\u008c\u0090\u00f0\u009f\u0091\u00a8\u00e2\u0080\u008d\u00f0\u009f\u0092\u00bc",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rakesh Paka",
+      "timestamp_ms": 1719148114326,
+      "content": "Rakesh sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C7wHbawyoaz/?id=3382235990642558643_47651711013",
+        "share_text": "46 acres | \u00e2\u0082\u00b911L per acre | Sindhanur, Karnataka | Link in bio \u00f0\u009f\u008c\u009f\n\n- Verified and facilitated by 1acre.in\n- Can start buying with a minimum lot of 5 acres\n- Perfect for fisheries with an expected lease of \u00e2\u0082\u00b945k per annum\n- 4.5 hrs from Hyderabad\n- On the way to Hampi and Goa\n\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 9959994737 \n\n#LandInvestment #Sindhanur #Karnataka #RealEstate #FisheriesLand #1acre.in",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rakesh Paka",
+      "timestamp_ms": 1713938409355,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rakesh Paka",
+      "timestamp_ms": 1711624004037,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711590787372,
+      "content": "Plz call the number given in the video.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Rakesh Paka",
+          "timestamp": 1711624004
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rakesh Paka",
+      "timestamp_ms": 1711576448798,
+      "content": "I'm interested",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rakesh Paka",
+      "timestamp_ms": 1711576179992,
+      "content": "Rakesh sent an attachment.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rakesh Paka",
+  "is_still_participant": true,
+  "thread_path": "inbox/rakeshpaka_1383754353024787",
+  "magic_words": [
+    
+  ]
+}

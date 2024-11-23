@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Inquisitive_Gal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704595457501,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Inquisitive_Gal",
+      "timestamp_ms": 1704591786527,
+      "content": "Map view and potential forecast will be helpful",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Inquisitive_Gal",
+      "timestamp_ms": 1704591611671,
+      "content": "Can you share which areas in Andhra, Telangana and MS for investment",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Inquisitive_Gal",
+  "is_still_participant": true,
+  "thread_path": "inbox/inquisitive_gal_1318986329498790",
+  "magic_words": [
+    
+  ]
+}

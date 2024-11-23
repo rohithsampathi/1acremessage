@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Shreyas"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719308002620,
+      "content": "Hi, may we know what you are looking for? \nWill connect with the team accordingly.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shreyas",
+      "timestamp_ms": 1719307460004,
+      "content": "Please contact me on 9885985985 for a land proposal",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shreyas",
+  "is_still_participant": true,
+  "thread_path": "inbox/shreyas_18004539920553066",
+  "magic_words": [
+    
+  ]
+}

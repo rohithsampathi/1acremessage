@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Flat Junction"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Flat Junction",
+      "timestamp_ms": 1730265324342,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Flat Junction",
+      "timestamp_ms": 1730265323491,
+      "content": "Call / WhatsApp - 8586875167",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730264934451,
+      "content": "Share your number and our team will call you to discuss",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Flat Junction",
+      "timestamp_ms": 1730257791939,
+      "content": "I m interested in Kolkata",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Flat Junction",
+      "timestamp_ms": 1730257787484,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Flat Junction",
+  "is_still_participant": true,
+  "thread_path": "inbox/flatjunction_18026216384591014",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "participants": [
+    {
+      "name": "Tharun Bhascker Dhaassyam"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tharun Bhascker Dhaassyam",
+      "timestamp_ms": 1711945796490,
+      "content": "Done will do thank you",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1711946680
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tharun Bhascker Dhaassyam",
+      "timestamp_ms": 1711945791354,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711944623638,
+      "content": "This is Ratna Kiran's number\n9390155412\nHe's currently in Maharashtra. If you are unable to reach him, Please drop your number.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Tharun Bhascker Dhaassyam",
+          "timestamp": 1711945791
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711944505362,
+      "content": "Sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tharun Bhascker Dhaassyam",
+      "timestamp_ms": 1711944147991,
+      "content": "Just saw your reels and would like to get in touch with you regarding the land availability near Maharashtra ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711943208571,
+      "content": "Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711943173543,
+      "content": "Hello, yes, Mr. Tharun Bhascker.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tharun Bhascker Dhaassyam",
+      "timestamp_ms": 1711942426908,
+      "content": "Hey \u00f0\u009f\u0091\u008b",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Tharun Bhascker Dhaassyam",
+  "is_still_participant": true,
+  "thread_path": "inbox/tharunbhasckerdhaassyam_1268951991160779",
+  "magic_words": [
+    
+  ]
+}

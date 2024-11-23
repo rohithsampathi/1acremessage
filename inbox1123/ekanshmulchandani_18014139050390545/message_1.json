@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Ekansh Mulchandani"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720191224733,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team.\nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ekansh Mulchandani",
+      "timestamp_ms": 1720187072277,
+      "content": "Need details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ekansh Mulchandani",
+      "timestamp_ms": 1720187057619,
+      "content": "Ekansh sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C8_88ylSF7J/?id=3404707903587245769_47651711013",
+        "share_text": "40 acres | \u00e2\u0082\u00b97 lakhs per acre | Near Yavatmal, Maharashtra | Link in bio \u00f0\u009f\u008c\u009f\n\n- Verified and facilitated by 1acre.in\n- Extremely fertile, canal-irrigated land\n- Only 6 hours from Hyderabad\n- Well-connected to national highways, expressways, and railways\n- Ideal for active agriculture and investment\n\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 9959994737\n\n\u00f0\u009f\u0093\u00ac\u00f0\u009f\u0093\u00a9 DM us for more queries on buying, selling, or partnerships",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ekansh Mulchandani",
+  "is_still_participant": true,
+  "thread_path": "inbox/ekanshmulchandani_18014139050390545",
+  "magic_words": [
+    
+  ]
+}

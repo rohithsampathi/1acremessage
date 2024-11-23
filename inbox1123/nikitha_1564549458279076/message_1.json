@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "NikithA"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729239529781,
+      "content": "We have digitised most lakes on google maps and now you can check directly. \n\nLink : www.1acre.in/lakes\n\nIf your lake is mentioned on HMDA website and is not there on our website, you can request for it .\n\nWe will digitise it on priority basis",
+      "share": {
+        "link": "http://www.1acre.in/lakes",
+        "share_text": "We have digitised most lakes on google maps and now you can check directly. \n\nLink : www.1acre.in/lakes\n\nIf your lake is mentioned on HMDA website and is not there on our website, you can request for it .\n\nWe will digitise it on priority basis"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "NikithA",
+      "timestamp_ms": 1727686986398,
+      "content": "Can you please check",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "NikithA",
+      "timestamp_ms": 1727686980764,
+      "content": "Our location is in beeramguda and our building might be in buffer but not sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "NikithA",
+      "timestamp_ms": 1727686924863,
+      "content": "I have seen your video about FTL",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "NikithA",
+      "timestamp_ms": 1727686898549,
+      "content": "Sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "NikithA",
+      "timestamp_ms": 1727686897289,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "NikithA",
+  "is_still_participant": true,
+  "thread_path": "inbox/nikitha_1564549458279076",
+  "magic_words": [
+    
+  ]
+}

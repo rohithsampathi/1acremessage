@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "M. FEROZ KHAN LODHI PATHAN"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697610803640,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "M. FEROZ KHAN LODHI PATHAN",
+      "timestamp_ms": 1697576621912,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "M. FEROZ KHAN LODHI PATHAN",
+  "is_still_participant": true,
+  "thread_path": "inbox/mferozkhanlodhipathan_17888818337926173",
+  "magic_words": [
+    
+  ]
+}

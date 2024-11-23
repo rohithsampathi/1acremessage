@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "nandy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729320785998,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "nandy",
+      "timestamp_ms": 1729255122704,
+      "content": "Hii sir I have property that is for sale",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "nandy",
+  "is_still_participant": true,
+  "thread_path": "inbox/nandy_1532884878106274",
+  "magic_words": [
+    
+  ]
+}

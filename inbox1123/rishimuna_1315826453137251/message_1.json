@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "R\u00c3\u00adsH\u00c3\u00ae M\u00c3\u00ba\u00c3\u00b1\u00c3\u00a4"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721613865408,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "R\u00c3\u00adsH\u00c3\u00ae M\u00c3\u00ba\u00c3\u00b1\u00c3\u00a4",
+      "timestamp_ms": 1721527930659,
+      "content": "Hii sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "R\u00c3\u00adsH\u00c3\u00ae M\u00c3\u00ba\u00c3\u00b1\u00c3\u00a4",
+  "is_still_participant": true,
+  "thread_path": "inbox/rishimuna_1315826453137251",
+  "magic_words": [
+    
+  ]
+}

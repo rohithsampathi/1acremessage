@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Satyaprasad Rayudu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709622232609,
+      "content": "Can you detail?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Satyaprasad Rayudu",
+      "timestamp_ms": 1709619069169,
+      "content": "Relates to plots",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709600418316,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Satyaprasad Rayudu",
+      "timestamp_ms": 1709573867259,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Satyaprasad Rayudu",
+  "is_still_participant": true,
+  "thread_path": "inbox/satyaprasadrayudu_1314509036618286",
+  "magic_words": [
+    
+  ]
+}

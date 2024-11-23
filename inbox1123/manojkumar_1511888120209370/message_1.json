@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Manoj Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Manoj Kumar",
+      "timestamp_ms": 1725531488939,
+      "content": "Thank You",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manoj Kumar",
+      "timestamp_ms": 1725531486899,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725529253540,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manoj Kumar",
+      "timestamp_ms": 1725520823903,
+      "content": "Hi,\nWhat\u00e2\u0080\u0099s the price of the Manchirevula plot of 1450 sq yards near Narsingi?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Manoj Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/manojkumar_1511888120209370",
+  "magic_words": [
+    
+  ]
+}

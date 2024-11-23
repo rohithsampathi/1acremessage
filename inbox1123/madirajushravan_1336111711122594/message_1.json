@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Madiraju Shravan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719240586179,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719240585194,
+      "content": "Hi, Please contact Vijay 9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Madiraju Shravan",
+      "timestamp_ms": 1719229913183,
+      "content": "How can I contact u guys",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Madiraju Shravan",
+      "timestamp_ms": 1719229908260,
+      "content": "In Ayappa society",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Madiraju Shravan",
+      "timestamp_ms": 1719229903215,
+      "content": "I want to publish my land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706147971869,
+      "content": "https://www.1acre.in/subscribe\n\nPlease go through and subscribe or click 'talk to us->' at the end of the page and fill in the form. We'll get back to you.",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "https://www.1acre.in/subscribe\n\nPlease go through and subscribe or click 'talk to us->' at the end of the page and fill in the form. We'll get back to you."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Madiraju Shravan",
+      "timestamp_ms": 1706118176916,
+      "content": "Do share me",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Madiraju Shravan",
+      "timestamp_ms": 1706118174478,
+      "content": "What\u00e2\u0080\u0099s ur number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Madiraju Shravan",
+      "timestamp_ms": 1706118169170,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Madiraju Shravan",
+  "is_still_participant": true,
+  "thread_path": "inbox/madirajushravan_1336111711122594",
+  "magic_words": [
+    
+  ]
+}

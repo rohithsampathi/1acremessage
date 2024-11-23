@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Mahesh\u00f0\u009f\u0098\u008e"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712229052959,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412\nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712228197086,
+      "content": "Sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mahesh\u00f0\u009f\u0098\u008e",
+      "timestamp_ms": 1712227115607,
+      "content": "Was wondering to expand my market",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mahesh\u00f0\u009f\u0098\u008e",
+      "timestamp_ms": 1712227094361,
+      "content": "Im the owner of it",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mahesh\u00f0\u009f\u0098\u008e",
+      "timestamp_ms": 1712227086282,
+      "content": "Hello im selling 5000 yards r1 zone at tspa",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mahesh\u00f0\u009f\u0098\u008e",
+  "is_still_participant": true,
+  "thread_path": "inbox/mahesh_1292428322146000",
+  "magic_words": [
+    
+  ]
+}

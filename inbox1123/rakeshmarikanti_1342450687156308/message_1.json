@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Rakesh Marikanti"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709694752559,
+      "content": "1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709694742913,
+      "content": "Hi. Tbh, we are not listing villas and have very little idea, as of date. We only do land.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rakesh Marikanti",
+      "timestamp_ms": 1709684680099,
+      "content": "I am looking for villa in Hyderabad prime areas",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709684660898,
+      "content": "rakesh_marikanti_1 wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709684660573,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rakesh Marikanti",
+      "timestamp_ms": 1709664179054,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rakesh Marikanti",
+  "is_still_participant": true,
+  "thread_path": "inbox/rakeshmarikanti_1342450687156308",
+  "magic_words": [
+    
+  ]
+}

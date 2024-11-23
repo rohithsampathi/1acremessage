@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "IndianPropGuy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719052706766,
+      "content": "Sure. \n\nPlease connect with Sandeep at 9005464412. He is our growth lead. (edited)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719052693869,
+      "content": "Sure. \n\nPlease connect with Sandeep at 9006464412. He is our growth lead.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "IndianPropGuy",
+      "timestamp_ms": 1719050208154,
+      "content": "Hello, I've been following your work for a while, can we connect to see if any synergies exist",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "IndianPropGuy",
+  "is_still_participant": true,
+  "thread_path": "inbox/indianpropguy_17870306049129922",
+  "magic_words": [
+    
+  ]
+}

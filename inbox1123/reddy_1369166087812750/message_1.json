@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706718598555,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706718598057,
+      "content": "You sent a private reply to a comment on your Instagram post.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/reddy_1369166087812750",
+  "magic_words": [
+    
+  ]
+}

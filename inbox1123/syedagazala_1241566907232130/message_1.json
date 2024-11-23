@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "syedagazala"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "syedagazala",
+      "timestamp_ms": 1709010942329,
+      "content": "Can you please tell from where I can see the rent house's??",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708999609912,
+      "content": "No",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "syedagazala",
+      "timestamp_ms": 1708979462324,
+      "content": "Hello do you guys search for rent house's also???",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "syedagazala",
+  "is_still_participant": true,
+  "thread_path": "inbox/syedagazala_1241566907232130",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Sai Kiran Ramolu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720221572973,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Kiran Ramolu",
+      "timestamp_ms": 1720200744017,
+      "content": "Could you please provide more details for this",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Kiran Ramolu",
+      "timestamp_ms": 1720200720074,
+      "content": "Hi",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3405429436274227402"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sai Kiran Ramolu",
+  "is_still_participant": true,
+  "thread_path": "inbox/saikiranramolu_18029503259488578",
+  "magic_words": [
+    
+  ]
+}

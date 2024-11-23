@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Ameen Noorul"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717924015999,
+      "content": "Hi, at 1acre.in, we are currently listint only Telangana.\nWe'll start other states soon. \nWe'll keep you posted.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, at 1acre.in, we are currently listint only Telangana.\nWe'll start other states soon. \nWe'll keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ameen Noorul",
+      "timestamp_ms": 1717921756600,
+      "content": "Pl keep me posted for good inventory in and around Bangalore.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ameen Noorul",
+  "is_still_participant": true,
+  "thread_path": "inbox/ameennoorul_1329544138435443",
+  "magic_words": [
+    
+  ]
+}

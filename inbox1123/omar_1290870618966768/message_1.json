@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "omar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716782033078,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "omar",
+      "timestamp_ms": 1716780159670,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "omar",
+  "is_still_participant": true,
+  "thread_path": "inbox/omar_1290870618966768",
+  "magic_words": [
+    
+  ]
+}

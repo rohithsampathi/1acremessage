@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "\u00e2\u0098\u0095"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712189995598,
+      "content": "1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712189989052,
+      "content": "But please check on the website",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712189973964,
+      "content": "Currently, we are not listing plots. We'll soon do.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00e2\u0098\u0095",
+      "timestamp_ms": 1712171712867,
+      "content": "Hi, \nMinimum What Best Price 100 Sq Yd Land Available in Hyderabad?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00e2\u0098\u0095",
+  "is_still_participant": true,
+  "thread_path": "inbox/1375825000476338",
+  "magic_words": [
+    
+  ]
+}

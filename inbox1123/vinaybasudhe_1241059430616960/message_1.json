@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Vinay Basudhe"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705138388435,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vinay Basudhe",
+      "timestamp_ms": 1705136988559,
+      "content": "Hi I have a land of 243 sq yards plot in Mamidipally village near Ismailkhanpet. Two sides boundary with two shops constructed and currently getting 5k rent. East facing 30ft road(possibility of extension to 60ft) . Land dimensions 65 x 36. \nI am looking to sell the property but bit confused with the current market price. If you could help me in letting me know the value that would be greatly appreciated and would also need to post it via your page.\nThanks\nVinay",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vinay Basudhe",
+  "is_still_participant": true,
+  "thread_path": "inbox/vinaybasudhe_1241059430616960",
+  "magic_words": [
+    
+  ]
+}

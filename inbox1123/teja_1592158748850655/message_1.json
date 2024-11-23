@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Teja"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729239536750,
+      "content": "We have digitised most lakes on google maps and now you can check directly. \n\nLink : www.1acre.in/lakes\n\nIf your lake is mentioned on HMDA website and is not there on our website, you can request for it .\n\nWe will digitise it on priority basis",
+      "share": {
+        "link": "http://www.1acre.in/lakes",
+        "share_text": "We have digitised most lakes on google maps and now you can check directly. \n\nLink : www.1acre.in/lakes\n\nIf your lake is mentioned on HMDA website and is not there on our website, you can request for it .\n\nWe will digitise it on priority basis"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Teja",
+      "timestamp_ms": 1727685318888,
+      "content": "Hello I want to know whether my property is in FTL  or Buffer zone please help",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Teja",
+  "is_still_participant": true,
+  "thread_path": "inbox/teja_1592158748850655",
+  "magic_words": [
+    
+  ]
+}

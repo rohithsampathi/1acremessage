@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Manish Jha"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730040265945,
+      "content": "Explain your requirements more clearly",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730040249225,
+      "content": "Sorry we cant understand",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manish Jha",
+      "timestamp_ms": 1729877048302,
+      "content": "Vapi?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Manish Jha",
+  "is_still_participant": true,
+  "thread_path": "inbox/manishjha_1449357379786178",
+  "magic_words": [
+    
+  ]
+}

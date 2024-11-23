@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Ananya Rao"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701676367176,
+      "content": "Our team connects with you shortly.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ananya Rao",
+      "timestamp_ms": 1701590332784,
+      "content": "9966328844",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701589232119,
+      "content": "Can we have your number?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ananya Rao",
+      "timestamp_ms": 1701586095915,
+      "content": "Hello, I just came across your page in Instagram. \nMy friends family is looking to dispose a 100acrs land parcel in janaram in Telangana. \nDo you guys buy directly from owners. \nLet me know if u guys would be interested",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ananya Rao",
+  "is_still_participant": true,
+  "thread_path": "inbox/ananyarao_1265023364899720",
+  "magic_words": [
+    
+  ]
+}

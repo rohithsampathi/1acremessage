@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "yashwanth gade"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "yashwanth gade",
+      "timestamp_ms": 1712577739766,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712574101466,
+      "content": "Hi, Please contact Pratheek \n9390674324, from the team.\nHe'll help you with the process.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "yashwanth gade",
+      "timestamp_ms": 1712573321059,
+      "content": "Hi I would like to take membership. Before that I would like to know whether all the info of land owners will be given or like what would be the process if I want to purchase a land through 1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi I would like to take membership. Before that I would like to know whether all the info of land owners will be given or like what would be the process if I want to purchase a land through 1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "yashwanth gade",
+  "is_still_participant": true,
+  "thread_path": "inbox/yashwanthgade_1207108190673370",
+  "magic_words": [
+    
+  ]
+}

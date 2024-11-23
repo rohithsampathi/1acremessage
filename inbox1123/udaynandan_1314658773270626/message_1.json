@@ -1,0 +1,107 @@
+{
+  "participants": [
+    {
+      "name": "Uday Nandan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Uday Nandan",
+      "timestamp_ms": 1708571924724,
+      "content": "Nice, thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708571906174,
+      "content": "Here's the link, in case you want to, Anytime.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708571896981,
+      "content": "https://www.1acre.in/subscribe",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "https://www.1acre.in/subscribe"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Uday Nandan",
+      "timestamp_ms": 1708571867876,
+      "content": "For sure. I will do that",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708571837683,
+      "content": "If you subscribe to premium, you'll get access to MapView. You can keep checking that and do a lot of research on pricing/availability. If you like some land anytime, you can contact the seller directly.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Uday Nandan",
+      "timestamp_ms": 1708571644449,
+      "content": "I will stay in touch as I pool in money I will reach out. Looking for a decent acre with natural boulders and little fertile.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1708571773
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Uday Nandan",
+      "timestamp_ms": 1708571579905,
+      "content": "True that. Thanks for the revert.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708571544604,
+      "content": "If it's an approved plot anywhere, you can get loan.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708571509254,
+      "content": "Agricultural lands don't get loans.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708571487050,
+      "content": "Thank you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Uday Nandan",
+      "timestamp_ms": 1708534972055,
+      "content": "I have one query as I have a wish to buy 1 acre but are there any loan facilities tagged lands?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Uday Nandan",
+      "timestamp_ms": 1708534928471,
+      "content": "Very good information and leads on lands.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Uday Nandan",
+      "timestamp_ms": 1708534909046,
+      "content": "Hey team",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Uday Nandan",
+  "is_still_participant": true,
+  "thread_path": "inbox/udaynandan_1314658773270626",
+  "magic_words": [
+    
+  ]
+}

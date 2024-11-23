@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "P Harsha Vardhan Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717692499763,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "P Harsha Vardhan Reddy",
+      "timestamp_ms": 1717692478859,
+      "content": "I'll post you tomorrow morning",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "P Harsha Vardhan Reddy",
+      "timestamp_ms": 1717692467564,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717692443775,
+      "content": "Can we know the details.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "P Harsha Vardhan Reddy",
+      "timestamp_ms": 1717692129508,
+      "content": "Can you post a property",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "P Harsha Vardhan Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/pharshavardhanreddy_1321060312616997",
+  "magic_words": [
+    
+  ]
+}

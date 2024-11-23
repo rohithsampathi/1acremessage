@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Sudeep Kotte"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722083877901,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sudeep Kotte",
+      "timestamp_ms": 1722080734412,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sudeep Kotte",
+  "is_still_participant": true,
+  "thread_path": "inbox/sudeepkotte_18031031237172919",
+  "magic_words": [
+    
+  ]
+}

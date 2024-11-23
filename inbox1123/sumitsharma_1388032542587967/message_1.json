@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Sumit sharma"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718292571824,
+      "content": "Hello, yes good. Thank you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sumit sharma",
+      "timestamp_ms": 1718287701612,
+      "content": "How are you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sumit sharma",
+      "timestamp_ms": 1718287698728,
+      "content": "Hey sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sumit sharma",
+  "is_still_participant": true,
+  "thread_path": "inbox/sumitsharma_1388032542587967",
+  "magic_words": [
+    
+  ]
+}

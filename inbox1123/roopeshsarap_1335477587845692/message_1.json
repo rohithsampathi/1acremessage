@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Roopesh Sarap"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710158765955,
+      "content": "What product?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Roopesh Sarap",
+      "timestamp_ms": 1710157067006,
+      "content": "We have a product",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710150090311,
+      "content": "To the team*",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710150076405,
+      "content": "May I know what you are looking for? I'll connect to the accordingly.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Roopesh Sarap",
+      "timestamp_ms": 1710145235322,
+      "content": "Need your contact number",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Roopesh Sarap",
+  "is_still_participant": true,
+  "thread_path": "inbox/roopeshsarap_1335477587845692",
+  "magic_words": [
+    
+  ]
+}

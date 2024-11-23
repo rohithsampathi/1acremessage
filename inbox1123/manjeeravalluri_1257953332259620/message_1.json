@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Manjeera Valluri"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Manjeera Valluri",
+      "timestamp_ms": 1706784518155,
+      "content": "Sure. Thank you!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706778356513,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manjeera Valluri",
+      "timestamp_ms": 1706777860521,
+      "content": "We would like to see the development around this bit",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manjeera Valluri",
+      "timestamp_ms": 1706777845117,
+      "content": "We are interested to know more details about this . Can you share exact location",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manjeera Valluri",
+      "timestamp_ms": 1706777807857,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manjeera Valluri",
+      "timestamp_ms": 1706777800835,
+      "content": "Manjeera sent an attachment.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Manjeera Valluri",
+  "is_still_participant": true,
+  "thread_path": "inbox/manjeeravalluri_1257953332259620",
+  "magic_words": [
+    
+  ]
+}

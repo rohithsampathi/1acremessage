@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "CA S Y Chitti"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731909849148,
+      "content": "Please contact Vijay at 7075191166 from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "CA S Y Chitti",
+      "timestamp_ms": 1731849015633,
+      "content": "I wanted list my property",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "CA S Y Chitti",
+  "is_still_participant": true,
+  "thread_path": "inbox/casychitti_1587860185944009",
+  "magic_words": [
+    
+  ]
+}

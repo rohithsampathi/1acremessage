@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Gangula Vignesh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gangula Vignesh",
+      "timestamp_ms": 1711212505842,
+      "content": "Salary",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711212387863,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gangula Vignesh",
+      "timestamp_ms": 1711211135910,
+      "content": "Hi\nSir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Gangula Vignesh",
+  "is_still_participant": true,
+  "thread_path": "inbox/gangulavignesh_18015722069220347",
+  "magic_words": [
+    
+  ]
+}

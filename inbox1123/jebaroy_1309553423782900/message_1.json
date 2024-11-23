@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Jeba Roy \u00ef\u00a3\u00bf"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719988291546,
+      "content": "Sure. Let's get back to you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jeba Roy \u00ef\u00a3\u00bf",
+      "timestamp_ms": 1719987257259,
+      "content": "5acres",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jeba Roy \u00ef\u00a3\u00bf",
+      "timestamp_ms": 1719987248600,
+      "content": "It\u00e2\u0080\u0099s near Radhapuram",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719968351647,
+      "content": "Could you tell me - location, extent and price?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jeba Roy \u00ef\u00a3\u00bf",
+      "timestamp_ms": 1719941584278,
+      "content": "We need to sell the land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jeba Roy \u00ef\u00a3\u00bf",
+      "timestamp_ms": 1719941577758,
+      "content": "I saw ur reel, that\u00e2\u0080\u0099s y I asked",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719941025144,
+      "content": "Not yet, but lau launching soon. Why?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jeba Roy \u00ef\u00a3\u00bf",
+      "timestamp_ms": 1719933286099,
+      "content": "U deal with land in Tamil Nadu ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719917885169,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jeba Roy \u00ef\u00a3\u00bf",
+      "timestamp_ms": 1719912625008,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Jeba Roy \u00ef\u00a3\u00bf",
+  "is_still_participant": true,
+  "thread_path": "inbox/jebaroy_1309553423782900",
+  "magic_words": [
+    
+  ]
+}

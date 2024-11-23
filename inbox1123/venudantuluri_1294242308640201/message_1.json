@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Venu Dantuluri"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708675211856,
+      "content": "Thanks. Please let us know how we can help you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Venu Dantuluri",
+      "timestamp_ms": 1708675210806,
+      "content": "Not now",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Venu Dantuluri",
+  "is_still_participant": true,
+  "thread_path": "inbox/venudantuluri_1294242308640201",
+  "magic_words": [
+    
+  ]
+}

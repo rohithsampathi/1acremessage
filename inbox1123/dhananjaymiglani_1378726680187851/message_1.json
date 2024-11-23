@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Dhananjay Miglani"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718087227442,
+      "content": "Sure. We'll keep you informed.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dhananjay Miglani",
+      "timestamp_ms": 1718086763216,
+      "content": "Request for collaboration and mentor ship.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718085664249,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dhananjay Miglani",
+      "timestamp_ms": 1718085311510,
+      "content": "Both.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718082525361,
+      "content": "Are you an agent/land owner?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718082510217,
+      "content": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dhananjay Miglani",
+      "timestamp_ms": 1718081477040,
+      "content": "Haryana?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Dhananjay Miglani",
+  "is_still_participant": true,
+  "thread_path": "inbox/dhananjaymiglani_1378726680187851",
+  "magic_words": [
+    
+  ]
+}

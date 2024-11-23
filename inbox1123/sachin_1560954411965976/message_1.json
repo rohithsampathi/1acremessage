@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Sachin"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1732100202417,
+      "content": "Please share your contact and our team will get in touch",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sachin",
+      "timestamp_ms": 1732022341892,
+      "content": "Hello I\u00e2\u0080\u0099m a land owner from chennai owning a land parcel about 8 Acres and I need your assistance is selling my land parcel. \nLooking forward to hearing back \nThank you",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sachin",
+  "is_still_participant": true,
+  "thread_path": "inbox/sachin_1560954411965976",
+  "magic_words": [
+    
+  ]
+}

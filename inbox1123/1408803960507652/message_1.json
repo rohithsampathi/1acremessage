@@ -1,0 +1,69 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009f\u0085\u00b1\u00f0\u009f\u0085\u00b1\u00f0\u009f\u0085\u00ba"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727852282438,
+      "content": "Hello , \n\nDue to unforeseen demand , we are not able to address each request so we have decided to digitise all lakes around hyderabad and make it accessible for free \n\nTo help prioritise the digitisation process, fill the following form with your requirements. We will inform you once your required lake is digitised. \nRequirement form : https://forms.gle/LFThdXChRzH8Uz6M6 \n\nThanks for your patience.",
+      "share": {
+        "link": "https://forms.gle/LFThdXChRzH8Uz6M6",
+        "share_text": "Hello , \n\nDue to unforeseen demand , we are not able to address each request so we have decided to digitise all lakes around hyderabad and make it accessible for free \n\nTo help prioritise the digitisation process, fill the following form with your requirements. We will inform you once your required lake is digitised. \nRequirement form : https://forms.gle/LFThdXChRzH8Uz6M6 \n\nThanks for your patience."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u0085\u00b1\u00f0\u009f\u0085\u00b1\u00f0\u009f\u0085\u00ba",
+      "timestamp_ms": 1727851194600,
+      "content": "This video",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u0085\u00b1\u00f0\u009f\u0085\u00b1\u00f0\u009f\u0085\u00ba",
+      "timestamp_ms": 1727851194320,
+      "content": "\u00f0\u009f\u0085\u00b1\u00f0\u009f\u0085\u00b1\u00f0\u009f\u0085\u00ba sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DAdiWBsyusS/?id=3467078335380253458_47651711013",
+        "share_text": "We hope this video helps in understanding FTL & buffer zones.\n\nDM us if you need more details and we will try to help you the best we can. \n\nDo comment what you think about the current situation with HYDRA. \n\n#hyderabad #realestate #hydra #demolition #land #lake",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u0085\u00b1\u00f0\u009f\u0085\u00b1\u00f0\u009f\u0085\u00ba",
+      "timestamp_ms": 1727851178671,
+      "content": "I watched a reel where the spokesperson said you guys will help in laying out google maps over hmda layout to identify FTL and Buffer zone \nCould you please help me with that?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727773207006,
+      "content": "How can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727773198633,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u0085\u00b1\u00f0\u009f\u0085\u00b1\u00f0\u009f\u0085\u00ba",
+      "timestamp_ms": 1727703414687,
+      "content": "Hi 1acre",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00f0\u009f\u0085\u00b1\u00f0\u009f\u0085\u00b1\u00f0\u009f\u0085\u00ba",
+  "is_still_participant": true,
+  "thread_path": "inbox/1408803960507652",
+  "magic_words": [
+    
+  ]
+}

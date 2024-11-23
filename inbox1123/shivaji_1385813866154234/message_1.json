@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Shivaji"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717746249512,
+      "content": "Hi, Please contact Bharath \n7780122120, from the team. \nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shivaji",
+      "timestamp_ms": 1717746157572,
+      "content": "Sites or sale",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shivaji",
+      "timestamp_ms": 1717746142947,
+      "content": "In yadgir dist devapur cross",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shivaji",
+      "timestamp_ms": 1717746126959,
+      "content": "I want sale property",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717745343290,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shivaji",
+      "timestamp_ms": 1717744479141,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shivaji",
+  "is_still_participant": true,
+  "thread_path": "inbox/shivaji_1385813866154234",
+  "magic_words": [
+    
+  ]
+}

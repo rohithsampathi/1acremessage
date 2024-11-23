@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "909krishna"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722563573812,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "909krishna",
+      "timestamp_ms": 1722519474509,
+      "content": "Hi want to see",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "909krishna",
+      "timestamp_ms": 1722519474012,
+      "content": "909krishna sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C-ICyn8SdAW/?id=3424999791569522710_47651711013",
+        "share_text": "2-acre mango plantation | \u00e2\u0082\u00b93 Crores per acre | near\n Shamshabad - Chandanvelly Road | Link in bio \u00f0\u009f\u008c\u009f\n\nVerified and facilitated by 1acre.in\n\n\u00f0\u009f\u0093\u008d Location Highlights:\n\n- Close to Ammapalli Temple and Statue of Equality\n- 10 km from Shamshabad ORR Exit\n- 4 km from Bengaluru Highway\n- 2 km from Shamshabad - Chandanvelly Road\n\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 8341149011\nDM us for more queries on buying, selling, or partnerships.\n\n#landforsale #shamshabad #land #investment #propertyforsale #realestate",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "909krishna",
+  "is_still_participant": true,
+  "thread_path": "inbox/909krishna_1468476084546178",
+  "magic_words": [
+    
+  ]
+}

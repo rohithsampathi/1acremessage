@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "RAGHAV THAKRAL"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719330860935,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719330860180,
+      "content": "Hi, Please contact Vijay 9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "RAGHAV THAKRAL",
+      "timestamp_ms": 1719330532255,
+      "content": "Location",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "RAGHAV THAKRAL",
+      "timestamp_ms": 1719330531892,
+      "content": "RAGHAV sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C8oyhIOyhCS/?id=3398188097757384850_47651711013",
+        "share_text": "26 acres | 1 Cr per acre | Near Balanagar | Link in bio \u00f0\u009f\u008c\u009f\n\n- Verified and facilitated by 1acre.in\n- Well secured with a 7\u00e2\u0080\u0099 boundary wall\n- Roads on 2 sides\n- Located near Balanagar, 5 km from Bengaluru highway\n- Close to proposed RRR\n\nInterested? Get in touch now! \n\n\u00f0\u009f\u0093\u009e +91 9959994737\n\nVisit www.1acre.in to explore 2600+ across telangana.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "RAGHAV THAKRAL",
+  "is_still_participant": true,
+  "thread_path": "inbox/raghavthakral_1332159181506281",
+  "magic_words": [
+    
+  ]
+}

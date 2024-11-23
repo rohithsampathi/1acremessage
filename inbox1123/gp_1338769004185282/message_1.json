@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "GP"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "GP",
+      "timestamp_ms": 1704351384769,
+      "content": "Thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "GP",
+      "timestamp_ms": 1704351382337,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704347598216,
+      "content": "you can connect with pratheek, 9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "GP",
+      "timestamp_ms": 1704341391116,
+      "content": "We are interested",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "GP",
+      "timestamp_ms": 1704341382125,
+      "content": "Please let us know about land in Maharashtra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "GP",
+      "timestamp_ms": 1704341353742,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "GP",
+      "timestamp_ms": 1704341351912,
+      "content": "How",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "GP",
+  "is_still_participant": true,
+  "thread_path": "inbox/gp_1338769004185282",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Kunal Oswal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723483329360,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kunal Oswal",
+      "timestamp_ms": 1723477305942,
+      "content": "In maharashtra pune banglore highway touch",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kunal Oswal",
+      "timestamp_ms": 1723476131832,
+      "content": "Sir i want to sell my highway NH4 land can you advertise it",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kunal Oswal",
+  "is_still_participant": true,
+  "thread_path": "inbox/kunaloswal_1431133364945031",
+  "magic_words": [
+    
+  ]
+}

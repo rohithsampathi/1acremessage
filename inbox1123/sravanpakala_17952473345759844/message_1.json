@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Sravan Pakala"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sravan Pakala",
+      "timestamp_ms": 1710162861021,
+      "content": "Is there a way to find out if I visit HMDA or GHMC?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710162817549,
+      "content": "Hi, thanks for getting in touch. No idea about that.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sravan Pakala",
+      "timestamp_ms": 1710162302467,
+      "content": "Good Evening Ji,\n\nDo you happen to know how I can find out when the new Telangana govt will release the BRS for commercial buildings owners to be able to pay the fine and get OC? I was not able to do it the last time it was offered and want to know if it will be offered again this year as I read that LRS was released earlier last month",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sravan Pakala",
+  "is_still_participant": true,
+  "thread_path": "inbox/sravanpakala_17952473345759844",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Jeevan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710294319242,
+      "content": "Hi, Please contact Pratheek \n9390674324, from the team. \nYou can discuss with him and he'll help you out.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jeevan",
+      "timestamp_ms": 1710269730847,
+      "content": "Only for investment purpuse long term",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jeevan",
+      "timestamp_ms": 1710269713990,
+      "content": "And kne more thing monthly basis also I can invest some amount from my income",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jeevan",
+      "timestamp_ms": 1710269669804,
+      "content": "Iam looking for land below 10 lakhs",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jeevan",
+      "timestamp_ms": 1710269630702,
+      "content": "Hibsir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Jeevan",
+  "is_still_participant": true,
+  "thread_path": "inbox/jeevan_1375117950552460",
+  "magic_words": [
+    
+  ]
+}

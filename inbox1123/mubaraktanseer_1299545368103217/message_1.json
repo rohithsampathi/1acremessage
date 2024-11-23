@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Mubarak Tanseer"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709569761823,
+      "content": "Sure. We'll let you know.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mubarak Tanseer",
+      "timestamp_ms": 1709569391049,
+      "content": "Awesome ! \nI am from Mandya district. Have good contacts with the real estate brokers. Please let me know if I can contribute.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709568253563,
+      "content": "Yes. We have. We'll be doing that during the next 2-3 months.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mubarak Tanseer",
+      "timestamp_ms": 1709564699056,
+      "content": "May I know if you have plans to expand it for Karnataka as well ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mubarak Tanseer",
+  "is_still_participant": true,
+  "thread_path": "inbox/mubaraktanseer_1299545368103217",
+  "magic_words": [
+    
+  ]
+}

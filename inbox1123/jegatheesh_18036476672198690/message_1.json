@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "jegatheesh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1732006346855,
+      "content": "Please call our team member Venu at +91 76749 01201\n\nHe shall help you list it and share other details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "jegatheesh",
+      "timestamp_ms": 1731999725959,
+      "content": "I want to sell my land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "jegatheesh",
+      "timestamp_ms": 1731999693693,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "jegatheesh",
+  "is_still_participant": true,
+  "thread_path": "inbox/jegatheesh_18036476672198690",
+  "magic_words": [
+    
+  ]
+}

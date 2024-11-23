@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "SAi Kiran"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724255100115,
+      "content": "Please call our team member Venu at +91 76749 01201\n\nHe shall help you list it and share other details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SAi Kiran",
+      "timestamp_ms": 1724247841300,
+      "content": "How do I place it on your site",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SAi Kiran",
+      "timestamp_ms": 1724247834283,
+      "content": "Hi I have a land to sell near Yacharam",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "SAi Kiran",
+  "is_still_participant": true,
+  "thread_path": "inbox/saikiran_1523591172370102",
+  "magic_words": [
+    
+  ]
+}

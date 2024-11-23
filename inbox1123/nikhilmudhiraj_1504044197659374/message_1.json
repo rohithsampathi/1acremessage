@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Nikhil Mudhiraj"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723994576343,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723994575673,
+      "content": "Hi, Please contact Vijay 9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nikhil Mudhiraj",
+      "timestamp_ms": 1723993513542,
+      "content": "I already listed my land in 1 acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nikhil Mudhiraj",
+      "timestamp_ms": 1723993501985,
+      "content": "Can u post my land details in insta",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723993371051,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nikhil Mudhiraj",
+      "timestamp_ms": 1723992153781,
+      "content": "Hlo",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nikhil Mudhiraj",
+  "is_still_participant": true,
+  "thread_path": "inbox/nikhilmudhiraj_1504044197659374",
+  "magic_words": [
+    
+  ]
+}

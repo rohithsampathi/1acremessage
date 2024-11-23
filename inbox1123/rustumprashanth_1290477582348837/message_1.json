@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Rustum Prashanth"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1700975364435,
+      "content": "You can contact to pratheek 9505778117,he can guide you regarding your enquiries",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rustum Prashanth",
+      "timestamp_ms": 1700921479040,
+      "content": "Please send me pH number?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rustum Prashanth",
+      "timestamp_ms": 1700921459391,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rustum Prashanth",
+  "is_still_participant": true,
+  "thread_path": "inbox/rustumprashanth_1290477582348837",
+  "magic_words": [
+    
+  ]
+}

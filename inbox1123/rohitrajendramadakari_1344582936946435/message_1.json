@@ -1,0 +1,72 @@
+{
+  "participants": [
+    {
+      "name": "Rohit Rajendra Madakari \u00e2\u0099\u00be\u00ef\u00b8\u008f"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723604573574,
+      "content": "Which region?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rohit Rajendra Madakari \u00e2\u0099\u00be\u00ef\u00b8\u008f",
+      "timestamp_ms": 1723570568060,
+      "content": "I am land survey man",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rohit Rajendra Madakari \u00e2\u0099\u00be\u00ef\u00b8\u008f",
+      "timestamp_ms": 1723570477883,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rohit Rajendra Madakari \u00e2\u0099\u00be\u00ef\u00b8\u008f",
+      "timestamp_ms": 1723486651825,
+      "content": "\u00e0\u00a4\u0095\u00e0\u00a4\u00b0\u00e0\u00a4\u00a3\u00e0\u00a4\u00be chahta hu",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rohit Rajendra Madakari \u00e2\u0099\u00be\u00ef\u00b8\u008f",
+      "timestamp_ms": 1723486616781,
+      "content": "\u00e0\u00a4\u00ae\u00e0\u00a5\u0087 \u00e0\u00a4\u0086\u00e0\u00a4\u00aa\u00e0\u00a4\u0095\u00e0\u00a5\u0087\u00e0\u00a4\u00b8\u00e0\u00a4\u00be\u00e0\u00a4\u00a4 \u00e0\u00a4\u0095\u00e0\u00a4\u00be\u00e0\u00a4\u00ae \u00e0\u00a4\u0095\u00e0\u00a4\u00b0\u00e0\u00a5\u0081\u00e0\u00a4\u00a8\u00e0\u00a4\u0097\u00e0\u00a4\u00be",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rohit Rajendra Madakari \u00e2\u0099\u00be\u00ef\u00b8\u008f",
+      "timestamp_ms": 1723486559491,
+      "content": "\u00e0\u00a4\u00a8\u00e0\u00a4\u00be\u00e0\u00a4\u00b9\u00e0\u00a5\u0080",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723473961670,
+      "content": "Aap agent ho?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723473954853,
+      "content": "Haan next week listings start karenge.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rohit Rajendra Madakari \u00e2\u0099\u00be\u00ef\u00b8\u008f",
+      "timestamp_ms": 1723473640573,
+      "content": "Maharashtra \u00e0\u00a4\u00ae\u00e0\u00a5\u0087 \u00e0\u00a4\u00b9\u00e0\u00a5\u0087 \u00e0\u00a4\u0095\u00e0\u00a5\u008d\u00e0\u00a4\u00af\u00e0\u00a4\u00be",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rohit Rajendra Madakari \u00e2\u0099\u00be\u00ef\u00b8\u008f",
+  "is_still_participant": true,
+  "thread_path": "inbox/rohitrajendramadakari_1344582936946435",
+  "magic_words": [
+    
+  ]
+}

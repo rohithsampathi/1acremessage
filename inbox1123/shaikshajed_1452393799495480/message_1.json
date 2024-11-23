@@ -1,0 +1,51 @@
+{
+  "participants": [
+    {
+      "name": "\u00e2\u009c\u00a8\u00f0\u009d\u0091\u00ba\u00f0\u009d\u0091\u00af\u00f0\u009d\u0091\u00a8\u00f0\u009d\u0091\u00b0\u00f0\u009d\u0091\u00b2 \u00f0\u009d\u0091\u00ba\u00f0\u009d\u0091\u00af\u00f0\u009d\u0091\u00a8\u00f0\u009d\u0091\u00b1\u00f0\u009d\u0091\u00ac\u00f0\u009d\u0091\u00ab \u00e2\u009c\u00a8"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00e2\u009c\u00a8\u00f0\u009d\u0091\u00ba\u00f0\u009d\u0091\u00af\u00f0\u009d\u0091\u00a8\u00f0\u009d\u0091\u00b0\u00f0\u009d\u0091\u00b2 \u00f0\u009d\u0091\u00ba\u00f0\u009d\u0091\u00af\u00f0\u009d\u0091\u00a8\u00f0\u009d\u0091\u00b1\u00f0\u009d\u0091\u00ac\u00f0\u009d\u0091\u00ab \u00e2\u009c\u00a8",
+      "timestamp_ms": 1721104572493,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721103062360,
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "\u00e2\u009c\u00a8\u00f0\u009d\u0091\u00ba\u00f0\u009d\u0091\u00af\u00f0\u009d\u0091\u00a8\u00f0\u009d\u0091\u00b0\u00f0\u009d\u0091\u00b2 \u00f0\u009d\u0091\u00ba\u00f0\u009d\u0091\u00af\u00f0\u009d\u0091\u00a8\u00f0\u009d\u0091\u00b1\u00f0\u009d\u0091\u00ac\u00f0\u009d\u0091\u00ab \u00e2\u009c\u00a8",
+          "timestamp": 1721104572
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721103061527,
+      "content": "Hi, Please contact Vijay 9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00e2\u009c\u00a8\u00f0\u009d\u0091\u00ba\u00f0\u009d\u0091\u00af\u00f0\u009d\u0091\u00a8\u00f0\u009d\u0091\u00b0\u00f0\u009d\u0091\u00b2 \u00f0\u009d\u0091\u00ba\u00f0\u009d\u0091\u00af\u00f0\u009d\u0091\u00a8\u00f0\u009d\u0091\u00b1\u00f0\u009d\u0091\u00ac\u00f0\u009d\u0091\u00ab \u00e2\u009c\u00a8",
+      "timestamp_ms": 1721063924199,
+      "content": "Hi",
+      "share": {
+        "link": "https://www.instagram.com/p/C9UBKzVt_9s/"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00e2\u009c\u00a8\u00f0\u009d\u0091\u00ba\u00f0\u009d\u0091\u00af\u00f0\u009d\u0091\u00a8\u00f0\u009d\u0091\u00b0\u00f0\u009d\u0091\u00b2 \u00f0\u009d\u0091\u00ba\u00f0\u009d\u0091\u00af\u00f0\u009d\u0091\u00a8\u00f0\u009d\u0091\u00b1\u00f0\u009d\u0091\u00ac\u00f0\u009d\u0091\u00ab \u00e2\u009c\u00a8",
+  "is_still_participant": true,
+  "thread_path": "inbox/shaikshajed_1452393799495480",
+  "magic_words": [
+    
+  ]
+}

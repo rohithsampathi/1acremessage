@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Medico"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720094411878,
+      "content": "Currently we are only listing Telangana.\nCan you send us location and price? \nWe'll get back to you on how we can work it out.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Medico",
+      "timestamp_ms": 1720094141662,
+      "content": "Or sell",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720094120811,
+      "content": "We don't deal in lease yet. Thank you. Will get back.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Medico",
+      "timestamp_ms": 1720087755347,
+      "content": "To lease",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Medico",
+      "timestamp_ms": 1720087738252,
+      "content": "100 bigha",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Medico",
+      "timestamp_ms": 1720087725552,
+      "content": "I have a land",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Medico",
+  "is_still_participant": true,
+  "thread_path": "inbox/medico_18011527007591014",
+  "magic_words": [
+    
+  ]
+}

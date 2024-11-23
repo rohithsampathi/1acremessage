@@ -1,0 +1,72 @@
+{
+  "participants": [
+    {
+      "name": "Srikrishnakanth Chitturi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Srikrishnakanth Chitturi",
+      "timestamp_ms": 1708939948840,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708939545265,
+      "content": "You can still call him to talk about it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srikrishnakanth Chitturi",
+      "timestamp_ms": 1708938490182,
+      "content": "About 1000 acre parcel where we need to invest min 100 acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srikrishnakanth Chitturi",
+      "timestamp_ms": 1708938469946,
+      "content": "Hey not that one",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708928724416,
+      "content": "Please contact Ratna Kiran \n9390155412. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708928712653,
+      "content": "40 acre one?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708928688968,
+      "content": "Hi, thanks for reaching out.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srikrishnakanth Chitturi",
+      "timestamp_ms": 1708926821301,
+      "content": "Looking for bulk land parcel you mention in the video",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srikrishnakanth Chitturi",
+      "timestamp_ms": 1708926809107,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Srikrishnakanth Chitturi",
+  "is_still_participant": true,
+  "thread_path": "inbox/srikrishnakanthchitturi_1358993092167552",
+  "magic_words": [
+    
+  ]
+}

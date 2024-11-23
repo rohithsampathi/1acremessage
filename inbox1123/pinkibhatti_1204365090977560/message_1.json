@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Pinki Bhatti"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718462743990,
+      "content": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pinki Bhatti",
+      "timestamp_ms": 1718426768110,
+      "content": "Syed 9840631663 Chennai, Mayajal 36000sq.ft 24cr budget ml",
+      "share": {
+        "share_text": "Syed 9840631663 Chennai, Mayajal 36000sq.ft 24cr budget ml"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pinki Bhatti",
+      "timestamp_ms": 1718426720594,
+      "content": "I am a broker I have Clint for Chennai",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pinki Bhatti",
+      "timestamp_ms": 1718426667503,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Pinki Bhatti",
+  "is_still_participant": true,
+  "thread_path": "inbox/pinkibhatti_1204365090977560",
+  "magic_words": [
+    
+  ]
+}

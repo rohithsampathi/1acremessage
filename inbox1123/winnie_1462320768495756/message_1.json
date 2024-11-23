@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "winnie"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723566698024,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "winnie",
+      "timestamp_ms": 1723559567590,
+      "content": "1450 square yards lot",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "winnie",
+      "timestamp_ms": 1723559536956,
+      "content": "Hi, \n\nCould you please provide more details about the land at manchirevula ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "winnie",
+  "is_still_participant": true,
+  "thread_path": "inbox/winnie_1462320768495756",
+  "magic_words": [
+    
+  ]
+}

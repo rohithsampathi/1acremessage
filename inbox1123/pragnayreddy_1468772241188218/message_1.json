@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Pragnay Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722078191395,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe shall help you in matching if we have :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pragnay Reddy",
+      "timestamp_ms": 1722076506926,
+      "content": "We are looking for a commercial land/plot for lease ranging from 500 to 2000 square yards in the following areas: Jubilee Hills, Banjara Hills, Hitech City, Financial District, Gachibowli, Sainikpuri, Himayat Nagar, Kompally, DD Colony, Madhapur, and Kondapur. Please let us know if you have any leads.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Pragnay Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/pragnayreddy_1468772241188218",
+  "magic_words": [
+    
+  ]
+}

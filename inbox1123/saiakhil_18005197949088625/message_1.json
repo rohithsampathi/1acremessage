@@ -1,0 +1,103 @@
+{
+  "participants": [
+    {
+      "name": "Sai akhil"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sai akhil",
+      "timestamp_ms": 1697797470386,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697778955782,
+      "content": "Hey tried reaching you ,when you are free can you connect to this number :9505778117",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Sai akhil",
+          "timestamp": 1697797470
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai akhil",
+      "timestamp_ms": 1697725923914,
+      "content": "9154196111",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697699198535,
+      "content": "can I have your number or will connect in Instagram",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai akhil",
+      "timestamp_ms": 1697696663731,
+      "content": "You can call me after 1",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697693237851,
+      "content": "cool, can we schedule a call ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai akhil",
+      "timestamp_ms": 1697558746938,
+      "content": "30k for reel",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697545564192,
+      "content": "how much will you charge?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai akhil",
+      "timestamp_ms": 1697542494336,
+      "content": "for promotion i charge",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai akhil",
+      "timestamp_ms": 1697542488213,
+      "content": "yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697517680274,
+      "content": "can we collaborate for a reel?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai akhil",
+      "timestamp_ms": 1697469019193,
+      "content": "hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697095271441,
+      "content": "Hey Akhil, can we collaborate for a reel?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sai akhil",
+  "is_still_participant": true,
+  "thread_path": "inbox/saiakhil_18005197949088625",
+  "magic_words": [
+    
+  ]
+}

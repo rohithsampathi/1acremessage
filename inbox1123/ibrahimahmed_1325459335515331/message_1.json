@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Ibrahim Ahmed"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ibrahim Ahmed",
+      "timestamp_ms": 1705816299755,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705733865894,
+      "content": "Hi, Please contact Ramakrishna \n7780122120",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ibrahim Ahmed",
+      "timestamp_ms": 1705733331793,
+      "content": "I also have some lands in Chevella for sale",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705714196980,
+      "content": "Thanks bhai",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ibrahim Ahmed",
+      "timestamp_ms": 1705693735516,
+      "content": "Good work keep going",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ibrahim Ahmed",
+      "timestamp_ms": 1705693722857,
+      "content": "Hello bhai",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ibrahim Ahmed",
+  "is_still_participant": true,
+  "thread_path": "inbox/ibrahimahmed_1325459335515331",
+  "magic_words": [
+    
+  ]
+}

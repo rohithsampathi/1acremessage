@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "Uday"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1699344168281,
+      "content": "Hey Mahanvith,  for more details please visit our website :https://www.1acre.in/, contact:9505778117",
+      "share": {
+        "link": "https://www.1acre.in/",
+        "share_text": "Hey Mahanvith,  for more details please visit our website :https://www.1acre.in/, contact:9505778117"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Uday",
+      "timestamp_ms": 1699342251836,
+      "content": "Please send details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Uday",
+      "timestamp_ms": 1699342251494,
+      "content": "Uday sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/CzDaSuht2Ey/?id=3225537394245067058_47651711013",
+        "share_text": "\u00f0\u009f\u008c\u00b3 Own 10 Acres for the Price of 1! \u00f0\u009f\u008c\u00b3\n\nStop limiting yourself to small plots. Experience value like never before with picturesque and fertile lands.\n\n\u00f0\u009f\u0093\u00b8 Features:\n\n> Large chunks of land available at unbeatable prices.\n> Each acre boasts natural beauty and intrinsic value.\n> Enjoy facilitated properties with unique features, like a serene stream passing through.\n\nUnlock exclusive access to the best deals in the market! \n\u00f0\u009f\u0091\u0089 Subscribe Now: https://www.1acre.in/subscribe\n\nBeauty, Value, and Nature \u00e2\u0080\u0093 All in One Place. Secure Your Acre Today!",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Uday",
+  "is_still_participant": true,
+  "thread_path": "inbox/uday_1292584245473065",
+  "magic_words": [
+    
+  ]
+}

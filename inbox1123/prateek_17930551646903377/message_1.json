@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Prateek"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Prateek",
+      "timestamp_ms": 1720329758203,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720315357530,
+      "content": "We currently only operate in telangana. \n\nWill keep you posted when we launch in other states",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Prateek",
+          "timestamp": 1720329758
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prateek",
+      "timestamp_ms": 1720291682733,
+      "content": "Any farm land located near Cuttack, Odisha, please ping me here\u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Prateek",
+  "is_still_participant": true,
+  "thread_path": "inbox/prateek_17930551646903377",
+  "magic_words": [
+    
+  ]
+}

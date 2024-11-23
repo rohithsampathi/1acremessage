@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Preetam Lokre"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717820441130,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717820440340,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Preetam Lokre",
+      "timestamp_ms": 1717818182819,
+      "content": "Sir want perfect location",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Preetam Lokre",
+      "timestamp_ms": 1717818181335,
+      "content": "Preetam sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C7wHbawyoaz/?id=3382235990642558643_47651711013",
+        "share_text": "46 acres | \u00e2\u0082\u00b911L per acre | Sindhanur, Karnataka | Link in bio \u00f0\u009f\u008c\u009f\n\n- Verified and facilitated by 1acre.in\n- Can start buying with a minimum lot of 5 acres\n- Perfect for fisheries with an expected lease of \u00e2\u0082\u00b945k per annum\n- 4.5 hrs from Hyderabad\n- On the way to Hampi and Goa\n\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 9959994737 \n\n#LandInvestment #Sindhanur #Karnataka #RealEstate #FisheriesLand #1acre.in",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Preetam Lokre",
+  "is_still_participant": true,
+  "thread_path": "inbox/preetamlokre_18022413803329673",
+  "magic_words": [
+    
+  ]
+}

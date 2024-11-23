@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Shaik Shaik"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729345856515,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shaik Shaik",
+      "timestamp_ms": 1729331369853,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/shaikshaik_1492001992193258/photos/463811073_1591020171841847_7211688223402279955_n_1591020168508514"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shaik Shaik",
+      "timestamp_ms": 1729331367772,
+      "content": "I need more info about this land. Especially inside pics .",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shaik Shaik",
+  "is_still_participant": true,
+  "thread_path": "inbox/shaikshaik_1492001992193258",
+  "magic_words": [
+    
+  ]
+}

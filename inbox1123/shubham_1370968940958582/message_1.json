@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Shubham"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720280967319,
+      "content": "Please leave a WhatsApp message \nHe shall get back to you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shubham",
+      "timestamp_ms": 1720280033529,
+      "content": "Phone receive nhi kr rha hai woh",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shubham",
+      "timestamp_ms": 1720268586356,
+      "content": "Haa",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720268372348,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shubham",
+      "timestamp_ms": 1720263767460,
+      "content": "Hello sir my uncle frd having 210 acre in odisha on road",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shubham",
+  "is_still_participant": true,
+  "thread_path": "inbox/shubham_1370968940958582",
+  "magic_words": [
+    
+  ]
+}

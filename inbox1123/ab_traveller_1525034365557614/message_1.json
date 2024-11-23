@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "AB_Traveller"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729664986439,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "AB_Traveller",
+      "timestamp_ms": 1729664133298,
+      "content": "Both \nIn Pune urban and rural areas",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729661821766,
+      "content": "Do you deal in agriculture and open plots ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "AB_Traveller",
+      "timestamp_ms": 1729615301196,
+      "content": "I am channel partner in Pune \nHow can we work together \n\nSales experience 16years \nReal estate 9 years \nLocal from Pune \n\nCall on \n9886542888\nAmit",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "AB_Traveller",
+  "is_still_participant": true,
+  "thread_path": "inbox/ab_traveller_1525034365557614",
+  "magic_words": [
+    
+  ]
+}

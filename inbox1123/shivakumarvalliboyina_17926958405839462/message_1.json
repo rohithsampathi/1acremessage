@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Shiva Kumar Valliboyina"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711256648714,
+      "content": "Benefits and pricing is given here.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shiva Kumar Valliboyina",
+      "timestamp_ms": 1711252613135,
+      "content": "Subscription pricing ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711200818517,
+      "content": "https://1acre.in/subscribe",
+      "share": {
+        "link": "https://1acre.in/subscribe",
+        "share_text": "https://1acre.in/subscribe"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711200787352,
+      "content": "No, currently on the website.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shiva Kumar Valliboyina",
+      "timestamp_ms": 1711186784781,
+      "content": "Do you have an IOS app to subscribe",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shiva Kumar Valliboyina",
+  "is_still_participant": true,
+  "thread_path": "inbox/shivakumarvalliboyina_17926958405839462",
+  "magic_words": [
+    
+  ]
+}

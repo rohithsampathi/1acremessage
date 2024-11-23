@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "o<\u00f0\u009f\u0090\u008a"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717689294222,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "o<\u00f0\u009f\u0090\u008a",
+  "is_still_participant": true,
+  "thread_path": "inbox/o_18004838729533292",
+  "magic_words": [
+    
+  ]
+}

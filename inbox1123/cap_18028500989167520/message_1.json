@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "CAP"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CAP",
+      "timestamp_ms": 1720094797982,
+      "content": "It's not responding can you please do let me know please",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720094561300,
+      "content": "1acre.in\n\nPlease check the website. You can call the sellers directly.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "1acre.in\n\nPlease check the website. You can call the sellers directly."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "CAP",
+      "timestamp_ms": 1720094418702,
+      "content": "Namastey sir can you suggest me 5 lakh to 7.5 lakhs range acre land in Telangana please I'm from Hyderabad",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "CAP",
+  "is_still_participant": true,
+  "thread_path": "inbox/cap_18028500989167520",
+  "magic_words": [
+    
+  ]
+}

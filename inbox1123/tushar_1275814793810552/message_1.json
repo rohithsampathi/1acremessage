@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Tushar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703584372781,
+      "content": "Hi you can contact seller 7416992650",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tushar",
+      "timestamp_ms": 1703583107145,
+      "content": "Share details",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3266090551506306414"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Tushar",
+  "is_still_participant": true,
+  "thread_path": "inbox/tushar_1275814793810552",
+  "magic_words": [
+    
+  ]
+}

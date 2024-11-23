@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Syed Hasan Razvi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1732187954377,
+      "content": "Please reach out to vijay and he will explain you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Syed Hasan Razvi",
+      "timestamp_ms": 1732187217966,
+      "content": "Need to Advertise my land, kindly contact",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719817386808,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Syed Hasan Razvi",
+      "timestamp_ms": 1719816142454,
+      "content": "Kindly revert back",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Syed Hasan Razvi",
+      "timestamp_ms": 1719816135513,
+      "content": "I want to sell my land",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Syed Hasan Razvi",
+  "is_still_participant": true,
+  "thread_path": "inbox/syedhasanrazvi_1475886503811841",
+  "magic_words": [
+    
+  ]
+}

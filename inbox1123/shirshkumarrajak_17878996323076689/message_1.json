@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Shirsh Kumar rajak"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721234243535,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shirsh Kumar rajak",
+      "timestamp_ms": 1721229728888,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shirsh Kumar rajak",
+  "is_still_participant": true,
+  "thread_path": "inbox/shirshkumarrajak_17878996323076689",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Shaik Raheem-Ud-Din"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707045469286,
+      "content": "Yes?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shaik Raheem-Ud-Din",
+      "timestamp_ms": 1707043905357,
+      "content": "Shaik sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C2xo0tqtJP4/?id=3292592346892637176_47651711013",
+        "share_text": "Thinking about purchasing land in Telangana? \n\nGet access to 1acre Premium that offers you: \n\u00f0\u009f\u00a4\u009d Hand Holding and Investment Guidance \n\u00f0\u009f\u008f\u009c\u00ef\u00b8\u008f Curated Land Parcels just for you \n\u00f0\u009f\u0091\u0081\u00ef\u00b8\u008f Access lands in Karnataka & Maharastra\n\u00f0\u009f\u0093\u008d Map view to see all lands available at a glance \n\nLife time membership for Rs 5000 only.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shaik Raheem-Ud-Din",
+  "is_still_participant": true,
+  "thread_path": "inbox/shaikraheemuddin_1269152347808968",
+  "magic_words": [
+    
+  ]
+}

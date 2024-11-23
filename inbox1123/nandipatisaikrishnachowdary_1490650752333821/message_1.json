@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Nandipati Sai Krishna Chowdary"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721522038396,
+      "content": "Hi, Please talk to Sandeep 9005464412, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nandipati Sai Krishna Chowdary",
+      "timestamp_ms": 1721518721100,
+      "content": "Hi Anna I am from Guntur beside Vijayawada to Chennai Highway 24+ acres are ready for sale no issues directly sale from farmers if you like to see I am ready to show my name is Sai Krishna my mobile number 7660927110",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nandipati Sai Krishna Chowdary",
+  "is_still_participant": true,
+  "thread_path": "inbox/nandipatisaikrishnachowdary_1490650752333821",
+  "magic_words": [
+    
+  ]
+}

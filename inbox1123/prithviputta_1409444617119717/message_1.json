@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Prithvi Putta"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Prithvi Putta",
+      "timestamp_ms": 1714616053833,
+      "content": "Will connect",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prithvi Putta",
+      "timestamp_ms": 1714616049215,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1714612258159,
+      "content": "Sure. This is Satish's number 7661933372",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prithvi Putta",
+      "timestamp_ms": 1714582134218,
+      "content": "Hello sir. \nWe are building a digital real estate platform as well. Would love to meet and discuss more about your project and our project whenever you are comfortable. Thank you in anticipation.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Prithvi Putta",
+  "is_still_participant": true,
+  "thread_path": "inbox/prithviputta_1409444617119717",
+  "magic_words": [
+    
+  ]
+}

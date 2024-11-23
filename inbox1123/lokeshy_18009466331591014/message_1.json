@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "L O K E SHy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718616718150,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "L O K E SHy",
+      "timestamp_ms": 1718616451364,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "L O K E SHy",
+  "is_still_participant": true,
+  "thread_path": "inbox/lokeshy_18009466331591014",
+  "magic_words": [
+    
+  ]
+}

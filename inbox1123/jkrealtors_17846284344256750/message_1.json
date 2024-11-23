@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "jk realtors"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "jk realtors",
+      "timestamp_ms": 1722149543508,
+      "content": "jk sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C9710vZgogm/?id=3421565062689753126_67775624749",
+        "share_text": "Let me help you find the perfect House, Plot and Land  you can contact us... \n\n#jkrealtors #realestate #realtor #plot #house #land #telanganarealestate #telanganaproperties #buyingahome #buyingandselling #hyderabadrealestate #shamshabadrealestate #realestateagent #realestatebuyers #realestateinvesting #nrirealestate #mortgage #investment #nribuyers #nrirealestateinvestment  #post #instapost #trending #viral",
+        "original_content_owner": "jkrealestate2024"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721239522766,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721239522115,
+      "content": "Hi, Please contact Vijay 9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "jk realtors",
+      "timestamp_ms": 1721236765131,
+      "content": "Doing real estate from 5 years \nCan you share Shamshabad land details 6303862192",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "jk realtors",
+      "timestamp_ms": 1721236688369,
+      "content": "Real estate agent from shamshabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "jk realtors",
+      "timestamp_ms": 1721236675401,
+      "content": "Hi brother my self jagadish Kumar",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "jk realtors",
+  "is_still_participant": true,
+  "thread_path": "inbox/jkrealtors_17846284344256750",
+  "magic_words": [
+    
+  ]
+}

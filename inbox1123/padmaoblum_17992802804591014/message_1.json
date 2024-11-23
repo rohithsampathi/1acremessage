@@ -1,0 +1,97 @@
+{
+  "participants": [
+    {
+      "name": "padma.oblum"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "padma.oblum",
+      "timestamp_ms": 1729134293639,
+      "content": "9848822958 padma",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1729137804
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729126801599,
+      "content": "Plz give us your number. Someone from the team will call you today, to help with the listing.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "padma.oblum",
+      "timestamp_ms": 1729097425777,
+      "content": "Not able to connect to Ramakrishna",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "padma.oblum",
+      "timestamp_ms": 1728817102942,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728809541484,
+      "content": "Please leave a message \nHe will get back tomorrow",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "padma.oblum",
+      "timestamp_ms": 1728809100979,
+      "content": "Want to upload ny property in chevella on your site",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "padma.oblum",
+      "timestamp_ms": 1728809069802,
+      "content": "Not able to connect to Ramakrishna garu",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728009952295,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "padma.oblum",
+      "timestamp_ms": 1727974639579,
+      "content": "Want to sell land . Do I contact Ramakrishna garu",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "padma.oblum",
+      "timestamp_ms": 1706113828381,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706113470473,
+      "content": "Hi, Please contact Ramakrishna \n7780122120",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "padma.oblum",
+      "timestamp_ms": 1706106105763,
+      "content": "How do i put my land up for sale with you",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "padma.oblum",
+  "is_still_participant": true,
+  "thread_path": "inbox/padmaoblum_17992802804591014",
+  "magic_words": [
+    
+  ]
+}

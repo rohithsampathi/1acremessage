@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Mithu khichar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723784059162,
+      "content": "Share your resume to Sandeep@1acre.in and we will get back to you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mithu khichar",
+      "timestamp_ms": 1723690195674,
+      "content": "Ab 2year me hu college \u00f0\u009f\u008e\u0093",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mithu khichar",
+      "timestamp_ms": 1723690162137,
+      "content": "12th",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723687583541,
+      "content": "Aur education?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723687568486,
+      "content": "Kaha se ho aap?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mithu khichar",
+      "timestamp_ms": 1723638686663,
+      "content": "Nahi i am fresher!!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723637402253,
+      "content": "Aap lands mein kaam karte ho?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mithu khichar",
+      "timestamp_ms": 1723600374229,
+      "content": "Kya sir me aapko join kar sakta hun ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mithu khichar",
+  "is_still_participant": true,
+  "thread_path": "inbox/mithukhichar_17980266287717597",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "participants": [
+    {
+      "name": "Indradev Gande"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Indradev Gande",
+      "timestamp_ms": 1729321395124,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729321356795,
+      "content": "Sadly we are not aware of any yet.\n\nWill let you know if we find any",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Indradev Gande",
+          "timestamp": 1729321395
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Indradev Gande",
+      "timestamp_ms": 1729321325644,
+      "content": "Any good reference like your portal which has verified properties",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Indradev Gande",
+      "timestamp_ms": 1729321308326,
+      "content": "Got it",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729320410864,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Indradev Gande",
+      "timestamp_ms": 1729320324161,
+      "content": "Not properties",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Indradev Gande",
+      "timestamp_ms": 1729320319303,
+      "content": "Ohh okay So you deal only in lands?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729320292795,
+      "content": "Hello Indradev \n\nWe are a marketplace for verified lands . \n\nWe currently have over 3500+ lands and you can explore all of them at www.1acre.in \n\nYou can call sellers directly",
+      "share": {
+        "link": "http://www.1acre.in/",
+        "share_text": "Hello Indradev \n\nWe are a marketplace for verified lands . \n\nWe currently have over 3500+ lands and you can explore all of them at www.1acre.in \n\nYou can call sellers directly"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Indradev Gande",
+      "timestamp_ms": 1729288206604,
+      "content": "I\u00e2\u0080\u0099m looking g for some invest options with max 1.8cr and seeking to have rental income of 70-90k per month. \n\nIt could be either small commercial  or even residential.\n\nDo you have any such properties within Hyderabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Indradev Gande",
+      "timestamp_ms": 1729288137996,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Indradev Gande",
+  "is_still_participant": true,
+  "thread_path": "inbox/indradevgande_1535120397882569",
+  "magic_words": [
+    
+  ]
+}

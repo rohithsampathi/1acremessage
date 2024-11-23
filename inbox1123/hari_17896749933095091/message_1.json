@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "hari"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730978974125,
+      "content": "We do not have any requirements for them now",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "hari",
+      "timestamp_ms": 1730974784383,
+      "content": "waterproofing work sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730955424141,
+      "content": "How can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "hari",
+      "timestamp_ms": 1730948633086,
+      "content": "Hi sir I am waterproofing work sir Bangalore sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "hari",
+  "is_still_participant": true,
+  "thread_path": "inbox/hari_17896749933095091",
+  "magic_words": [
+    
+  ]
+}

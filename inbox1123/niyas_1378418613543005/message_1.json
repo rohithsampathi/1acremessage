@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Niyas"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1732187920789,
+      "content": "Please contact Vijay at 7075191166 from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Niyas",
+      "timestamp_ms": 1732182161461,
+      "content": "I want to advertise my land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1732182157204,
+      "content": "Our team will get back to you soon \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Niyas",
+      "timestamp_ms": 1732182148476,
+      "content": "Hyy",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Niyas",
+  "is_still_participant": true,
+  "thread_path": "inbox/niyas_1378418613543005",
+  "magic_words": [
+    
+  ]
+}

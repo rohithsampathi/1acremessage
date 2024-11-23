@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Dimple Agarwal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dimple Agarwal",
+      "timestamp_ms": 1713800296847,
+      "content": "Thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713800282726,
+      "content": "Hi, Please talk to Ratna Kiran \n9390155412\nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dimple Agarwal",
+      "timestamp_ms": 1713800236575,
+      "content": "I have 12Acre land near Kucharam... looking for sale... can you pls tell me concerned person's number?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dimple Agarwal",
+      "timestamp_ms": 1713800181280,
+      "content": "Hi.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dimple Agarwal",
+      "timestamp_ms": 1701070837421,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701066431117,
+      "content": "You can contact to Vijay, 80-74450533, he can help you with your enquiries.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Dimple Agarwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/dimpleagarwal_1287352415991729",
+  "magic_words": [
+    
+  ]
+}

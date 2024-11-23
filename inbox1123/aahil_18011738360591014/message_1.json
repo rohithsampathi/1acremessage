@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "aahil"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "aahil",
+      "timestamp_ms": 1720235339518,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720235331681,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "aahil",
+      "timestamp_ms": 1720235263665,
+      "content": "Send me details",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3405467893277239784"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "aahil",
+  "is_still_participant": true,
+  "thread_path": "inbox/aahil_18011738360591014",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Esra Maryam"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718010626788,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Esra Maryam",
+      "timestamp_ms": 1718009804396,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Esra Maryam",
+  "is_still_participant": true,
+  "thread_path": "inbox/esramaryam_1427123742019065",
+  "magic_words": [
+    
+  ]
+}

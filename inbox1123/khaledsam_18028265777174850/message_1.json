@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Khaled Sam"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Khaled Sam",
+      "timestamp_ms": 1720245566483,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720244535124,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Khaled Sam",
+      "timestamp_ms": 1720243137139,
+      "content": "Village : bitnal  Taluqa umri ... District nanded",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720240681866,
+      "content": "Where?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Khaled Sam",
+      "timestamp_ms": 1720195708634,
+      "content": "I have 15 acre land for sale",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Khaled Sam",
+  "is_still_participant": true,
+  "thread_path": "inbox/khaledsam_18028265777174850",
+  "magic_words": [
+    
+  ]
+}

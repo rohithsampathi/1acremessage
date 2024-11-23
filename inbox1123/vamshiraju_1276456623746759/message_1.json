@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Vamshi Raju"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705453329311,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vamshi Raju",
+      "timestamp_ms": 1705429872636,
+      "content": "Pls call me tomm for a meaningful discussion",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vamshi Raju",
+  "is_still_participant": true,
+  "thread_path": "inbox/vamshiraju_1276456623746759",
+  "magic_words": [
+    
+  ]
+}

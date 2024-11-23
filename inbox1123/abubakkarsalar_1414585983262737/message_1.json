@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Abu Bakkar Salar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Abu Bakkar Salar",
+      "timestamp_ms": 1725809417739,
+      "content": "Thank you for the quick response.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725805012023,
+      "content": "Hi, Please contact Srikar\n8341149011, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abu Bakkar Salar",
+      "timestamp_ms": 1725803351550,
+      "content": "Can I know who is your graphics and videography team. I need to get my property video done as well for sale.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abu Bakkar Salar",
+      "timestamp_ms": 1725803351136,
+      "content": "Abu sent an attachment.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abu Bakkar Salar",
+      "timestamp_ms": 1725803296238,
+      "content": "Abu sent an attachment.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Abu Bakkar Salar",
+  "is_still_participant": true,
+  "thread_path": "inbox/abubakkarsalar_1414585983262737",
+  "magic_words": [
+    
+  ]
+}

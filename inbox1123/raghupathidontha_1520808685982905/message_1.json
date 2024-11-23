@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Raghupathi Dontha"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Raghupathi Dontha",
+      "timestamp_ms": 1725290470882,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725290457303,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Raghupathi Dontha",
+          "timestamp": 1725290470
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raghupathi Dontha",
+      "timestamp_ms": 1725290098729,
+      "content": "Price for 7 acers land?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Raghupathi Dontha",
+  "is_still_participant": true,
+  "thread_path": "inbox/raghupathidontha_1520808685982905",
+  "magic_words": [
+    
+  ]
+}

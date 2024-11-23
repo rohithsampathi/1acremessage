@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "\u00e0\u00bd\u00aa\u00e0\u00bd\u00b2\u00e0\u00bd\u0087\u00e0\u00bd\u00b4\u00e0\u00bd\u00a3\u00e0\u00bc\u008b \u00e0\u00bd\u00a7\u00e0\u00be\u00b2\u00e0\u00bd\u0093\u00e0\u00bc\u008b\u00e0\u00bd\u008f\u00e0\u00bd\u00b2\u00e0\u00bc\u008b\u00e0\u00bd\u00a8\u00e0\u00bd\u00a2\u00e0\u00bc\u008d"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00e0\u00bd\u00aa\u00e0\u00bd\u00b2\u00e0\u00bd\u0087\u00e0\u00bd\u00b4\u00e0\u00bd\u00a3\u00e0\u00bc\u008b \u00e0\u00bd\u00a7\u00e0\u00be\u00b2\u00e0\u00bd\u0093\u00e0\u00bc\u008b\u00e0\u00bd\u008f\u00e0\u00bd\u00b2\u00e0\u00bc\u008b\u00e0\u00bd\u00a8\u00e0\u00bd\u00a2\u00e0\u00bc\u008d",
+      "timestamp_ms": 1717781447089,
+      "content": "Okk",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717777324202,
+      "content": "Hi, at 1acre.in, we are currently listint only Telangana.\nWe'll start other states soon. \nWe'll keep you posted.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, at 1acre.in, we are currently listint only Telangana.\nWe'll start other states soon. \nWe'll keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00e0\u00bd\u00aa\u00e0\u00bd\u00b2\u00e0\u00bd\u0087\u00e0\u00bd\u00b4\u00e0\u00bd\u00a3\u00e0\u00bc\u008b \u00e0\u00bd\u00a7\u00e0\u00be\u00b2\u00e0\u00bd\u0093\u00e0\u00bc\u008b\u00e0\u00bd\u008f\u00e0\u00bd\u00b2\u00e0\u00bc\u008b\u00e0\u00bd\u00a8\u00e0\u00bd\u00a2\u00e0\u00bc\u008d",
+      "timestamp_ms": 1717774076645,
+      "content": "Hloo do you deal for land in shimla himachal pradesh also",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00e0\u00bd\u00aa\u00e0\u00bd\u00b2\u00e0\u00bd\u0087\u00e0\u00bd\u00b4\u00e0\u00bd\u00a3\u00e0\u00bc\u008b \u00e0\u00bd\u00a7\u00e0\u00be\u00b2\u00e0\u00bd\u0093\u00e0\u00bc\u008b\u00e0\u00bd\u008f\u00e0\u00bd\u00b2\u00e0\u00bc\u008b\u00e0\u00bd\u00a8\u00e0\u00bd\u00a2\u00e0\u00bc\u008d",
+  "is_still_participant": true,
+  "thread_path": "inbox/1021857709291123",
+  "magic_words": [
+    
+  ]
+}

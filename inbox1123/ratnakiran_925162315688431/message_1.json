@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Ratna Kiran"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726633886040,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/_u/sanjay_bhatt284",
+        "profile_share_username": "sanjay_bhatt284",
+        "profile_share_name": "sanjay bhatt"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722349913010,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C-DNwr_sC6O/?id=3423640662110645902_47651711013",
+        "share_text": "Hyderabad Land Parcels on 1acre.in\n\n3000+ verified lands visible on our Mapview feature.\n\nUse it to:\n- Study market trends\n- Compare land prices\n- Find investment locations\n\nMake informed real estate decisions. Visit 1acre.in/subscribe\n\n#HyderabadRealEstate #LandInvestment #CommercialRealEstate #RealEstateInvestor #LandParcels #PropertyMarket #InvestInHyderabad #RealEstateDevelopment #LandBanking #GroupBuying #PropertyInvestment #MapviewTechnology #VerifiedLands #RealEstateAnalysis #InvestmentOpportunities #LandComparison #MarketTrends #SmartInvesting #HyderabadProperty #1acrein",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ratna Kiran",
+  "is_still_participant": true,
+  "thread_path": "inbox/ratnakiran_925162315688431",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Anudeep Yedavelli"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722854420137,
+      "content": "Hello \nHow can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anudeep Yedavelli",
+      "timestamp_ms": 1722836661120,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anudeep Yedavelli",
+      "timestamp_ms": 1722836660706,
+      "content": "Anudeep sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C-HoG0Pt0Z4/?id=3424882431914100344_47651711013",
+        "share_text": "500+ land buyers & sellers can't be wrong. Here's why they're flocking to MapView this month:\n\nUnlock 3000+ verified land listings across Telangana on one interactive map. In just 10 minutes, find answers to burning questions like:\n- Where are the best-priced large land parcels?\n- Which plots offer lake frontage?\n- What's the going rate in Sangareddy?\n\nMapView doesn't just save you time\u00e2\u0080\u0094it could save you a fortune by helping you spot the perfect opportunity.\n\nExperience the MapView advantage. Subscribe now to make your land search 1000 times easier. https://www.1acre.in/subscribe\n\n#LandInvestment #PropertyMapping #TelanganaRealEstate #SmartInvesting #1acreMapView #LandOpportunities #1acre #realestate #buylands #selllands",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Anudeep Yedavelli",
+  "is_still_participant": true,
+  "thread_path": "inbox/anudeepyedavelli_1418220436234942",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Truly Raghuram"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718619024145,
+      "content": "1acre.in\n\nPlease check the website. You can call the sellers directly. \nYou can also access the MapView, if you silubscribe.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "1acre.in\n\nPlease check the website. You can call the sellers directly. \nYou can also access the MapView, if you silubscribe."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Truly Raghuram",
+      "timestamp_ms": 1718618837540,
+      "content": "Please help me in getting the details u",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Truly Raghuram",
+      "timestamp_ms": 1718618831061,
+      "content": "Around Srisailam Highway, Kalwakurthy, dindi , vikarabad, is fine",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Truly Raghuram",
+      "timestamp_ms": 1718618788223,
+      "content": "1 - 2 acres",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Truly Raghuram",
+      "timestamp_ms": 1718618775540,
+      "content": "I am looking for an agriculture land under 50lakhs which is of my total budget",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Truly Raghuram",
+      "timestamp_ms": 1718618755758,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Truly Raghuram",
+  "is_still_participant": true,
+  "thread_path": "inbox/trulyraghuram_1328619425208193",
+  "magic_words": [
+    
+  ]
+}

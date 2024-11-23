@@ -1,0 +1,94 @@
+{
+  "participants": [
+    {
+      "name": "Rahul Kisan Godse"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rahul Kisan Godse",
+      "timestamp_ms": 1718549044342,
+      "content": "Ok sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rahul Kisan Godse",
+      "timestamp_ms": 1718040014058,
+      "content": "Contact number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rahul Kisan Godse",
+      "timestamp_ms": 1718040003067,
+      "content": "How to connect you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717998354442,
+      "content": "Meanwhile. \nPlease send us the location, extent and price.\nIf anyone is interested, we will get in touch with you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717998307327,
+      "content": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rahul Kisan Godse",
+      "timestamp_ms": 1717995851539,
+      "content": "Nashik Maharashtra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717994577404,
+      "content": "Location",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717994574324,
+      "content": "Where's the land?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rahul Kisan Godse",
+      "timestamp_ms": 1717993623719,
+      "content": "How we can start with you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rahul Kisan Godse",
+      "timestamp_ms": 1717993611594,
+      "content": "We also have some property to sell",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717895333882,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rahul Kisan Godse",
+      "timestamp_ms": 1717861588220,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rahul Kisan Godse",
+  "is_still_participant": true,
+  "thread_path": "inbox/rahulkisangodse_1293406745379276",
+  "magic_words": [
+    
+  ]
+}

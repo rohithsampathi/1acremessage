@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Sai Srinivas"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730884985490,
+      "content": "Sorry we do not list or promote any ventures now",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Srinivas",
+      "timestamp_ms": 1730883852155,
+      "content": "I\u00e2\u0080\u0099ll share you deatils and \nLet me know if any leads there",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Srinivas",
+      "timestamp_ms": 1730883827081,
+      "content": "I\u00e2\u0080\u0099m having few ventures in amaravti",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3495199295807211213"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724393183092,
+      "content": "Please share your number and our team will get back to you :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Srinivas",
+      "timestamp_ms": 1724330759121,
+      "content": "Once if you say okay lets vist few sites and i even show you my ventures we can discuss regarding that",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Srinivas",
+      "timestamp_ms": 1724327835313,
+      "content": "Hiii Near amarvthi I\u00e2\u0080\u0099m having a Venture and If i can suggest you lands n Plots near to amaravthi and Vizag",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3440186346676381456"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Srinivas",
+      "timestamp_ms": 1724327760703,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sai Srinivas",
+  "is_still_participant": true,
+  "thread_path": "inbox/saisrinivas_1503531331044354",
+  "magic_words": [
+    
+  ]
+}

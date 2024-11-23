@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Billapati Harishwarreddy Patel"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718943725758,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Billapati Harishwarreddy Patel",
+      "timestamp_ms": 1718943455919,
+      "content": "Brother",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Billapati Harishwarreddy Patel",
+      "timestamp_ms": 1718943451555,
+      "content": "Hlo",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Billapati Harishwarreddy Patel",
+  "is_still_participant": true,
+  "thread_path": "inbox/billapatiharishwarreddypatel_1428736515188659",
+  "magic_words": [
+    
+  ]
+}

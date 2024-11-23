@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "Shrikant Pabbatwar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720256026886,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720256025734,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shrikant Pabbatwar",
+      "timestamp_ms": 1720255609274,
+      "content": "Bit",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shrikant Pabbatwar",
+      "timestamp_ms": 1720255604596,
+      "content": "Acer",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shrikant Pabbatwar",
+      "timestamp_ms": 1720255601267,
+      "content": "40",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720235626758,
+      "content": "Which land are you asking for ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shrikant Pabbatwar",
+      "timestamp_ms": 1720195501627,
+      "content": "Location name",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shrikant Pabbatwar",
+  "is_still_participant": true,
+  "thread_path": "inbox/shrikantpabbatwar_1409358240457148",
+  "magic_words": [
+    
+  ]
+}

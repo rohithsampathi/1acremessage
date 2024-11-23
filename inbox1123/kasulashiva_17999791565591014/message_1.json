@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Kasula Shiva"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kasula Shiva",
+      "timestamp_ms": 1711418345293,
+      "content": "Ok sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711415386351,
+      "content": "Plz call the number given in the video.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kasula Shiva",
+      "timestamp_ms": 1711385371324,
+      "content": "Am interested sir location vikarabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kasula Shiva",
+      "timestamp_ms": 1711385370320,
+      "content": "Kasula sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C4i6bwFSdhZ/?id=3324476468704696409_47651711013",
+        "share_text": "9032114737\n\nPlease call Bharath, from the team.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kasula Shiva",
+  "is_still_participant": true,
+  "thread_path": "inbox/kasulashiva_17999791565591014",
+  "magic_words": [
+    
+  ]
+}

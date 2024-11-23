@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "N.I.T.I.N"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704976481734,
+      "content": "Actually no, sorry. We don't yet know anyone that we can refer to.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "N.I.T.I.N",
+      "timestamp_ms": 1704976102657,
+      "content": "Any reference of someone dealing in the north region?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704975641361,
+      "content": "Hi, currently, we are only operational in Telangana. So can't be of much help. Thanks for reaching out.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "N.I.T.I.N",
+      "timestamp_ms": 1704973744066,
+      "content": "Hi - I need help in buying agriculture land near Delhi - (100-400) Kms away.\nLet me know if you can help",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "N.I.T.I.N",
+  "is_still_participant": true,
+  "thread_path": "inbox/nitin_1289594752434400",
+  "magic_words": [
+    
+  ]
+}

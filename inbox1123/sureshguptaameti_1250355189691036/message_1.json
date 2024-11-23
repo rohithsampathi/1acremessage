@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Suresh Gupta Ameti"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Suresh Gupta Ameti",
+      "timestamp_ms": 1699160212442,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697300667932,
+      "content": "Thank you",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Suresh Gupta Ameti",
+          "timestamp": 1699160212
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Suresh Gupta Ameti",
+      "timestamp_ms": 1696621513864,
+      "content": "Awesome idea",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Suresh Gupta Ameti",
+  "is_still_participant": true,
+  "thread_path": "inbox/sureshguptaameti_1250355189691036",
+  "magic_words": [
+    
+  ]
+}

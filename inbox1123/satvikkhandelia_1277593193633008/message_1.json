@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Satvik Khandelia"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710036355766,
+      "content": "Yes. Please contact Vijay\n9959994737, he'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Satvik Khandelia",
+      "timestamp_ms": 1710011971173,
+      "content": "Still available ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Satvik Khandelia",
+      "timestamp_ms": 1710011970816,
+      "content": "Satvik sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C2fBgsWSEGA/?id=3287352897691992448_47651711013",
+        "share_text": "1 acre 4 guntas agricultural land inside gated HMDA approved layout ,\n15 km from Shadnagar highway \nphysically verified by 1acre.in.\nQuoted price:3.36 per acre \nContact:1acre.in,9390674324",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Satvik Khandelia",
+  "is_still_participant": true,
+  "thread_path": "inbox/satvikkhandelia_1277593193633008",
+  "magic_words": [
+    
+  ]
+}

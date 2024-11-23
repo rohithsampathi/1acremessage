@@ -1,0 +1,51 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718087278362,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718087277337,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team. \nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1718086025493,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C6qyGm-q6nz/?id=3362720428281539059_47651711013",
+        "share_text": "2 acre lake-facing land, along with Permissions to build 100 lake-facing studios at 2.5Cr per acre.\nAnantagiri Hills, Vikarabad. \n\nTransaction facilitated by 1acre.in \nIf interested, get in touch with us. \n\nContact: 9959994737",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1718085700754,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C7_MHCFyNTH/?id=3386478704644904135_47651711013",
+        "share_text": "Half acre | \u00e2\u0082\u00b91.1 Cr | Anantagiri Hills | Link in bio \u00f0\u009f\u008c\u009f\n\n- Verified and facilitated by 1acre.in\n- Live on the slopes of Anantagiri Hills forest\n- Within 2 hrs drive from Hyderabad\n- Wake up to trekking every morning\n- Includes power, water, and resort access\n\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 9959994737 \n\n#AnantagiriHills #PrimePlot #RealEstate #NatureLiving #1acre.in",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "inbox/instagramuser_1352686782787551",
+  "magic_words": [
+    
+  ]
+}

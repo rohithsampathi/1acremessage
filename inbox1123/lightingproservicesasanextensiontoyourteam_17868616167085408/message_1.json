@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "LightingPro - Services as an extension to your team"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "LightingPro - Services as an extension to your team",
+      "timestamp_ms": 1711625622384,
+      "content": "I saw your video, missed the bus in Telangana",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711625607837,
+      "content": "Please contact Pratheek \n9390674324, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "LightingPro - Services as an extension to your team",
+      "timestamp_ms": 1711625572731,
+      "content": "Buying farm lands",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711625546004,
+      "content": "May I know what you are referring to?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "LightingPro - Services as an extension to your team",
+      "timestamp_ms": 1711625125407,
+      "content": "I am interested. Please call me on 9908344744 or email to nittala.sridhar@yahoo.com",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "LightingPro - Services as an extension to your team",
+  "is_still_participant": true,
+  "thread_path": "inbox/lightingproservicesasanextensiontoyourteam_17868616167085408",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Tahera Pq"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tahera Pq",
+      "timestamp_ms": 1702565838063,
+      "content": "Ok thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702561657000,
+      "content": "Yes sir, Pratheek is our team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tahera Pq",
+      "timestamp_ms": 1702559828374,
+      "content": "But i checked on fb  his number is different",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tahera Pq",
+      "timestamp_ms": 1702559767129,
+      "content": "Hello Sir \nI received a call from this number 9390674324  saying he is Prateek from 1acre.in just want to know if this is genuine number n he is  from 1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hello Sir \nI received a call from this number 9390674324  saying he is Prateek from 1acre.in just want to know if this is genuine number n he is  from 1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Tahera Pq",
+  "is_still_participant": true,
+  "thread_path": "inbox/taherapq_1233608288024632",
+  "magic_words": [
+    
+  ]
+}

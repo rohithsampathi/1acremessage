@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Nihaal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nihaal",
+      "timestamp_ms": 1717485816331,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717468645477,
+      "content": "Hi, Thanks for reaching out. Everything we do, is out in the open. You just get started.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Nihaal",
+          "timestamp": 1717485816
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nihaal",
+      "timestamp_ms": 1717417559648,
+      "content": "I am a property agent in manipal, Udupi \n\nI also want to build a systematic business like this how should get started",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nihaal",
+  "is_still_participant": true,
+  "thread_path": "inbox/nihaal_1409955680403508",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Nithesh Dupaguntla"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711360895277,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412\nYou can discuss with him.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nithesh Dupaguntla",
+      "timestamp_ms": 1711360401784,
+      "content": "I want to Buy Plots of People who r NRIs and want to sell off their unused properties\n(So that I can get at a better price)\n\nLocation:- Vijayawada, Andhra Pradesh, India",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nithesh Dupaguntla",
+      "timestamp_ms": 1711360346366,
+      "content": "Hello, can I get more info on this?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nithesh Dupaguntla",
+  "is_still_participant": true,
+  "thread_path": "inbox/nitheshdupaguntla_1343328543728311",
+  "magic_words": [
+    
+  ]
+}

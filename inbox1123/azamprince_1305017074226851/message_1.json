@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009f\u0091\u0091Azam \u00e2\u0099\u00a5\u00ef\u00b8\u008fPrince\u00f0\u009f\u00a4\u00aa"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1696395596031,
+      "content": "+91 80744 50533 Vijay 1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "+91 80744 50533 Vijay 1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u0091\u0091Azam \u00e2\u0099\u00a5\u00ef\u00b8\u008fPrince\u00f0\u009f\u00a4\u00aa",
+      "timestamp_ms": 1696068180599,
+      "content": "Hiii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00f0\u009f\u0091\u0091Azam \u00e2\u0099\u00a5\u00ef\u00b8\u008fPrince\u00f0\u009f\u00a4\u00aa",
+  "is_still_participant": true,
+  "thread_path": "inbox/azamprince_1305017074226851",
+  "magic_words": [
+    
+  ]
+}

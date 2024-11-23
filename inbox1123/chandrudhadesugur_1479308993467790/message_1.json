@@ -1,0 +1,97 @@
+{
+  "participants": [
+    {
+      "name": "Chandru Dhadesugur"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Chandru Dhadesugur",
+      "timestamp_ms": 1719282737100,
+      "content": "Kk",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719240771918,
+      "content": "Hi, we'll launch Karnataka soon. \nWill inform you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chandru Dhadesugur",
+      "timestamp_ms": 1719226402648,
+      "content": "Sir can u share your contact number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chandru Dhadesugur",
+      "timestamp_ms": 1719226333916,
+      "content": "Per acer - 20,00,000",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chandru Dhadesugur",
+      "timestamp_ms": 1719226293873,
+      "content": "100acre land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chandru Dhadesugur",
+      "timestamp_ms": 1719226277021,
+      "content": "Raichur (D) sindhanoor(T) dhadesugur near almnooor cross",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chandru Dhadesugur",
+      "timestamp_ms": 1719110435784,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719060841521,
+      "content": "Location, extent and price?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Chandru Dhadesugur",
+          "timestamp": 1719110435
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chandru Dhadesugur",
+      "timestamp_ms": 1719047375466,
+      "content": "Near sindhanoor",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chandru Dhadesugur",
+      "timestamp_ms": 1719047349100,
+      "content": "We have land for sale",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719047327785,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chandru Dhadesugur",
+      "timestamp_ms": 1719047214134,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Chandru Dhadesugur",
+  "is_still_participant": true,
+  "thread_path": "inbox/chandrudhadesugur_1479308993467790",
+  "magic_words": [
+    
+  ]
+}

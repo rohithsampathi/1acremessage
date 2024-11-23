@@ -1,0 +1,105 @@
+{
+  "participants": [
+    {
+      "name": "Satya Karuturi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Satya Karuturi",
+      "timestamp_ms": 1709731380621,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709731063488,
+      "content": "Sure. We'll give you a call.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Satya Karuturi",
+          "timestamp": 1709731380
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Satya Karuturi",
+      "timestamp_ms": 1709729213479,
+      "content": "Contacting you on your number but no luck.. Can you call me on +447424368737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Satya Karuturi",
+      "timestamp_ms": 1709729191452,
+      "content": "Hi Andi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701841323878,
+      "content": "Ok sure our team will connect with you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Satya Karuturi",
+      "timestamp_ms": 1701781918503,
+      "content": "I am in UK so call me in your evenings",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Satya Karuturi",
+      "timestamp_ms": 1701781900279,
+      "content": "+44 7424368737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701757749044,
+      "content": "can we have your contact number our team will connect with you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701757743316,
+      "content": "Thank you Satya",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Satya Karuturi",
+      "timestamp_ms": 1701729529876,
+      "content": "Do you have any fertile lands available in 2-3 hour journey from Miyapur .. \n\nI need a land without black soil, water facility available with a min of 5 acre for 2 crores",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1701757680
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Satya Karuturi",
+      "timestamp_ms": 1701729430837,
+      "content": "Hello Sir, Thanks for the videos and the website.. it's really great and appreciate the work you are doing",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1701757678
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Satya Karuturi",
+  "is_still_participant": true,
+  "thread_path": "inbox/satyakaruturi_1242891077113496",
+  "magic_words": [
+    
+  ]
+}

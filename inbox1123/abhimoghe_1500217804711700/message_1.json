@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "AbHi MogHe \u00f0\u009f\u0090\u008e"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721669330648,
+      "content": "Hi, Please contact Srikar\n8341149011, from the team tomorrow.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "AbHi MogHe \u00f0\u009f\u0090\u008e",
+      "timestamp_ms": 1721669085195,
+      "content": "What are the rates for that",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "AbHi MogHe \u00f0\u009f\u0090\u008e",
+      "timestamp_ms": 1721669074418,
+      "content": "Hello interested in yavatmal farm",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "AbHi MogHe \u00f0\u009f\u0090\u008e",
+  "is_still_participant": true,
+  "thread_path": "inbox/abhimoghe_1500217804711700",
+  "magic_words": [
+    
+  ]
+}

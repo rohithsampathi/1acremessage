@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "\u00d8\u00a7\u00d9\u0084\u00d8\u00b4\u00d9\u008a\u00d8\u00ae \u00d8\u00b9\u00d8\u00a8\u00d8\u00af\u00d8\u00a7\u00d9\u0084\u00d9\u0084\u00d9\u0087 \u00d8\u00a7\u00d9\u0094\u00d8\u00ad\u00d9\u0085\u00d8\u00af"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00d8\u00a7\u00d9\u0084\u00d8\u00b4\u00d9\u008a\u00d8\u00ae \u00d8\u00b9\u00d8\u00a8\u00d8\u00af\u00d8\u00a7\u00d9\u0084\u00d9\u0084\u00d9\u0087 \u00d8\u00a7\u00d9\u0094\u00d8\u00ad\u00d9\u0085\u00d8\u00af",
+      "timestamp_ms": 1716571065741,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716567726479,
+      "content": "9032114737\nYou can talk to Bharath, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00d8\u00a7\u00d9\u0084\u00d8\u00b4\u00d9\u008a\u00d8\u00ae \u00d8\u00b9\u00d8\u00a8\u00d8\u00af\u00d8\u00a7\u00d9\u0084\u00d9\u0084\u00d9\u0087 \u00d8\u00a7\u00d9\u0094\u00d8\u00ad\u00d9\u0085\u00d8\u00af",
+      "timestamp_ms": 1716566589299,
+      "content": "Hello, can I get more info on this?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00d8\u00a7\u00d9\u0084\u00d8\u00b4\u00d9\u008a\u00d8\u00ae \u00d8\u00b9\u00d8\u00a8\u00d8\u00af\u00d8\u00a7\u00d9\u0084\u00d9\u0084\u00d9\u0087 \u00d8\u00a7\u00d9\u0094\u00d8\u00ad\u00d9\u0085\u00d8\u00af",
+      "timestamp_ms": 1716566588806,
+      "content": "\u00e2\u0080\u008e\u00d8\u00a7\u00d9\u0084\u00d8\u00b4\u00d9\u008a\u00d8\u00ae\u00e2\u0080\u008e sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C4j3HBRt6Vt/?id=3324743324894995821_47651711013",
+        "share_text": "9032114737\n\nPlease call Bharath, from the team.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00e2\u0080\u008e\u00d8\u00a7\u00d9\u0084\u00d8\u00b4\u00d9\u008a\u00d8\u00ae \u00d8\u00b9\u00d8\u00a8\u00d8\u00af\u00d8\u00a7\u00d9\u0084\u00d9\u0084\u00d9\u0087 \u00d8\u00a7\u00d9\u0094\u00d8\u00ad\u00d9\u0085\u00d8\u00af\u00e2\u0080\u008e",
+  "is_still_participant": true,
+  "thread_path": "inbox/alshykhbdallhahmd_1428722945191839",
+  "magic_words": [
+    
+  ]
+}

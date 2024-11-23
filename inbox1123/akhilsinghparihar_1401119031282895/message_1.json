@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "AKHIL SINGH PARIHAR"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "AKHIL SINGH PARIHAR",
+      "timestamp_ms": 1718357390719,
+      "content": "?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "AKHIL SINGH PARIHAR",
+      "timestamp_ms": 1718357386108,
+      "content": "Hyee sir I wana work with u",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "AKHIL SINGH PARIHAR",
+  "is_still_participant": true,
+  "thread_path": "inbox/akhilsinghparihar_1401119031282895",
+  "magic_words": [
+    
+  ]
+}

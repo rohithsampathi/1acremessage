@@ -1,0 +1,105 @@
+{
+  "participants": [
+    {
+      "name": "Sindhu Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1699632814013,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sindhu Reddy",
+      "timestamp_ms": 1699631371201,
+      "content": "At 12 would be great",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1699631351902,
+      "content": "Sure,I will inform our team , will schedule a call in mrng , can we know at which time we can schedule call with you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1699631258315,
+      "content": "Hey Sindhu , can you share us your mobile number , you can expect update by mrng , we had aldready informed our team if you provide us your contact number, our team connect with you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sindhu Reddy",
+      "timestamp_ms": 1699631255171,
+      "content": "7995867682",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sindhu Reddy",
+      "timestamp_ms": 1699631131158,
+      "content": "??",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sindhu Reddy",
+      "timestamp_ms": 1699631129708,
+      "content": "When can I expect an update",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sindhu Reddy",
+      "timestamp_ms": 1699631022181,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/sindhureddy_1205484160842725/photos/380412239_838954574633137_6171253966994004075_n_838954571299804.jpg",
+          "creation_timestamp": 1699631020,
+          "backup_uri": "https://scontent.fmaa12-2.fna.fbcdn.net/v/t1.15752-9/380412239_838954574633137_6171253966994004075_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_ohc=qIVPgy0nq94Q7kNvgEusBfr&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fmaa12-2.fna&oh=03_Q7cD1QGqgFUgswOz--Up-FPjXbtidhpKF0AkF4QRyKpJhu98qg&oe=6766B3DD"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sindhu Reddy",
+      "timestamp_ms": 1699630983754,
+      "content": "Hey I have subscribed to premium content but it still shows susbcribe",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1698042511293,
+      "content": "Hey Sindhu , for more details please visit our website :https://www.1acre.in/, contact:7780122120",
+      "share": {
+        "link": "https://www.1acre.in/",
+        "share_text": "Hey Sindhu , for more details please visit our website :https://www.1acre.in/, contact:7780122120"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sindhu Reddy",
+      "timestamp_ms": 1697875487075,
+      "content": "Hi May I know where this is. Can you share the details I would like to look at it",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sindhu Reddy",
+      "timestamp_ms": 1697875486710,
+      "content": "Sindhu sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/CydGTBhNv_z/?carousel_share_child_media_id=3214753383847347580_47651711013",
+        "share_text": "Stop buying plots. Own 10 acres at the cost of one. Larger chunks of land available at good prices.\n...\n\u00f0\u009f\u0091\u0089 Get access to premium opportunities: https://www.1acre.in/subscribe",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sindhu Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/sindhureddy_1205484160842725",
+  "magic_words": [
+    
+  ]
+}

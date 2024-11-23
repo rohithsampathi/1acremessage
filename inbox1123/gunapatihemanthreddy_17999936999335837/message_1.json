@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "GUNAPATI HEMANTH REDDY"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1700464456372,
+      "content": "Hy sir , will inform our team you will get a call in 10 minutes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "GUNAPATI HEMANTH REDDY",
+      "timestamp_ms": 1700454433455,
+      "content": "No person contacted me",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "GUNAPATI HEMANTH REDDY",
+      "timestamp_ms": 1700454422453,
+      "content": "Hello Team",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1700113637922,
+      "content": "Ok sure , our team connects with you shortly.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "GUNAPATI HEMANTH REDDY",
+      "timestamp_ms": 1700110180395,
+      "content": "Mobile: 9542246659",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "GUNAPATI HEMANTH REDDY",
+      "timestamp_ms": 1700110167615,
+      "content": "I need land near Hyderabad kindly contact me for further details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "GUNAPATI HEMANTH REDDY",
+      "timestamp_ms": 1700110135245,
+      "content": "Hi team",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "GUNAPATI HEMANTH REDDY",
+  "is_still_participant": true,
+  "thread_path": "inbox/gunapatihemanthreddy_17999936999335837",
+  "magic_words": [
+    
+  ]
+}

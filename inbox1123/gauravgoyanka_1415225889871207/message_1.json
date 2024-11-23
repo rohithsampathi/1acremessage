@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Gaurav Goyanka"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720221644021,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gaurav Goyanka",
+      "timestamp_ms": 1720199655930,
+      "content": "Interested for 40 acres in Yavatmal, Maharashtra.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Gaurav Goyanka",
+  "is_still_participant": true,
+  "thread_path": "inbox/gauravgoyanka_1415225889871207",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Kishore Sai"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kishore Sai",
+      "timestamp_ms": 1709694855032,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709694806497,
+      "content": "Thanks for reaching out. We are not promoting plots.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kishore Sai",
+      "timestamp_ms": 1709692054483,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kishore Sai",
+      "timestamp_ms": 1709692050194,
+      "content": "We are developers and were thinking of advertising more",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709685961274,
+      "content": "kishoresai88 wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709685961030,
+      "content": "Hi, no. In general, we don't deal.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kishore Sai",
+      "timestamp_ms": 1709685198137,
+      "content": "Hi, do you also deal with plotting projects?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kishore Sai",
+  "is_still_participant": true,
+  "thread_path": "inbox/kishoresai_1289281829129716",
+  "magic_words": [
+    
+  ]
+}

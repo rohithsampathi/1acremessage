@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Ranjith reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ranjith reddy",
+      "timestamp_ms": 1718096923387,
+      "content": "He is not responding",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718091399413,
+      "content": "Hi, Please contact Bharath \n7780122120, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ranjith reddy",
+      "timestamp_ms": 1718090901981,
+      "content": "Hi we want to sell our land how to approach you",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ranjith reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/ranjithreddy_1408136080580156",
+  "magic_words": [
+    
+  ]
+}

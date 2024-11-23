@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "shreyamakhanii"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "shreyamakhanii",
+      "timestamp_ms": 1721111958538,
+      "content": "Orr",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "shreyamakhanii",
+      "timestamp_ms": 1721111954339,
+      "content": "Near city",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721090955840,
+      "content": "I guess this one?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721090942960,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C7InZjuKaVo/?id=3371117601243112808_47651711013",
+        "share_text": "Further:\n15km away from the Upcoming Nagpur-Goa Shakthipeeth expressway. \nA new railway line between Nagpur and Nanded is underway. \n\n10 Acres - 1.5Cr\n\nThis transaction is facilitated by 1acre.in, till the process of registration. \nIf you are interested in buying, \nContact: 9959994737\n\n#1acre #1acre.in #beauty #landscapephotography",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721090919462,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "shreyamakhanii",
+      "timestamp_ms": 1721080621008,
+      "content": "I am looking for 5 to 10 acre land with lake view",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "shreyamakhanii",
+  "is_still_participant": true,
+  "thread_path": "inbox/shreyamakhanii_1417943842932647",
+  "magic_words": [
+    
+  ]
+}

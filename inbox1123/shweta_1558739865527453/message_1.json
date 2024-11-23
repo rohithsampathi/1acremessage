@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Shweta"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shweta",
+      "timestamp_ms": 1730876502789,
+      "content": "no worries",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shweta",
+      "timestamp_ms": 1730876500257,
+      "content": "okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730876097605,
+      "content": "Sorry we do not offer this service",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shweta",
+      "timestamp_ms": 1730863814226,
+      "content": "do you help in land conversions?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730855232355,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shweta",
+      "timestamp_ms": 1730827716338,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shweta",
+  "is_still_participant": true,
+  "thread_path": "inbox/shweta_1558739865527453",
+  "magic_words": [
+    
+  ]
+}

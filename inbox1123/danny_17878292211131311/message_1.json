@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Danny"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Danny",
+      "timestamp_ms": 1725361673406,
+      "content": "I've texted in watsaap",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725361081678,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Danny",
+      "timestamp_ms": 1725358953692,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Danny",
+  "is_still_participant": true,
+  "thread_path": "inbox/danny_17878292211131311",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "participants": [
+    {
+      "name": "Hyderabad Growth"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730096952932,
+      "content": "At our office, in Financial distinct.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730096918746,
+      "content": "We could schedule sometime this week.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730096881957,
+      "content": "Sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hyderabad Growth",
+      "timestamp_ms": 1730008337969,
+      "content": "We have had a look at your platform and see some possible synergies.\n\nWe can have a meeting between your founders and our founders this week, if that works for you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hyderabad Growth",
+      "timestamp_ms": 1728966089271,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728966077214,
+      "content": "Ok.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Hyderabad Growth",
+          "timestamp": 1728966089
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hyderabad Growth",
+      "timestamp_ms": 1728965518906,
+      "content": "We haven\u00e2\u0080\u0099t tried your platform yet but will have a look.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hyderabad Growth",
+      "timestamp_ms": 1728965494220,
+      "content": "We understand but as mentioned, we are only referring to govt sites at this point for sensitive info such as this.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728965250210,
+      "content": "But on a different note, just wanted to find out-\n\nAre you someone who is interested in land? (Buying/selling). And if yes, did you find us useful? Or did you use our platform anytime?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728965249413,
+      "content": "Sure. \n\nBut why exactly is that? \n\nWe digitized the lakes from the HMDA official website data, Into a more usable format for people to use, and made that free for everyone.\n\nWe feel we could ask you to help!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hyderabad Growth",
+      "timestamp_ms": 1728964748112,
+      "content": "Hi there,\n\nAt this point we are yet to point our audience to any private platform for such information. If anything we are referring to govt sites.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728546103439,
+      "content": "Hello from 1acre.in \u00f0\u009f\u0091\u008b, \n\nIn context to recent demolitions by HYDRAA, We,at 1acre.in, are digitising HMDA lakes with their FTL and buffer zones so people can understand if their lands falls in these zones instantly. \n\nLink : www.1acre.in/lakes\n\nWe believe it helps a lot of people who are currently in distress. See if you can help spread the word about this :) \n\nThanks,\nTeam 1acre (edited)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728546005090,
+      "content": "We are digitising HMDA lakes with their FTL and buffer zones so people can understand if their lands falls in these zones instantly. \n\nLink : www.1acre.in/lakes\n\nWe believe it helps a lot of people who are currently in distress. See if you can help spread the word about this :) \n\nThanks,\nTeam 1acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728546004646,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DA7kPn7SO8R/?id=3475530940783587089_47651711013",
+        "share_text": "\u00f0\u009f\u0094\u0097 Visit www.1acre.in/lakes and find FTL & buffer zones instantly\u00e2\u009a\u00a1\u00ef\u00b8\u008f\n\nIf a required lake is not digitised yet, you can request for it and we will digitise it in priority \u00e2\u008f\u00ab\n\nShare it with friends and family and help them make informed decisions. \n\n#realestate #ftl #bufferzone #hydraa #hyderabad #lakes #hmda",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Hyderabad Growth",
+  "is_still_participant": true,
+  "thread_path": "inbox/hyderabadgrowth_18023365085591014",
+  "magic_words": [
+    
+  ]
+}

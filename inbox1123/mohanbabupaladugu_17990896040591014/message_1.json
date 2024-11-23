@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Mohan Babu Paladugu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704750330194,
+      "content": "Minium of 50-100 acres.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohan Babu Paladugu",
+      "timestamp_ms": 1704734983299,
+      "content": "Hi my name is mohan.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohan Babu Paladugu",
+      "timestamp_ms": 1704734957624,
+      "content": "Can we join for smaller quantity of 3 to 5 acres",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mohan Babu Paladugu",
+  "is_still_participant": true,
+  "thread_path": "inbox/mohanbabupaladugu_17990896040591014",
+  "magic_words": [
+    
+  ]
+}

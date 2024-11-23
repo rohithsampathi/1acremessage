@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Rakesh Rathee"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722014666662,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rakesh Rathee",
+      "timestamp_ms": 1722008106418,
+      "content": "Send Google location and other details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706279083928,
+      "content": "Please DM",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706279083561,
+      "content": "You sent a private reply to a comment on your Instagram post.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rakesh Rathee",
+  "is_still_participant": true,
+  "thread_path": "inbox/rakeshrathee_17911913276896291",
+  "magic_words": [
+    
+  ]
+}

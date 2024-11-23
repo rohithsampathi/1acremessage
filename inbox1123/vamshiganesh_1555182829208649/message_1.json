@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Vamshi Ganesh\u00e2\u009c\u00a8"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731317881776,
+      "content": "Please call our team member Venu at +91 76749 01201\n\nHe shall help you list it and share other details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vamshi Ganesh\u00e2\u009c\u00a8",
+      "timestamp_ms": 1731315844347,
+      "content": "Hi sir this is vamshi ganesh we have one property near sira Karnataka can you post or deal with that plot.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vamshi Ganesh\u00e2\u009c\u00a8",
+  "is_still_participant": true,
+  "thread_path": "inbox/vamshiganesh_1555182829208649",
+  "magic_words": [
+    
+  ]
+}

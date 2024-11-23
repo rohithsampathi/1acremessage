@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Indresham Kishore Mudhiraj"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719576922939,
+      "content": "Ok. We'll give you a call.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Indresham Kishore Mudhiraj",
+      "timestamp_ms": 1719575005906,
+      "content": "Whatsapp numder : 9553656418",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Indresham Kishore Mudhiraj",
+      "timestamp_ms": 1719574984725,
+      "content": "Needed lands in \nTellapur \nOsman Nagar \nkollur",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Indresham Kishore Mudhiraj",
+  "is_still_participant": true,
+  "thread_path": "inbox/indreshamkishoremudhiraj_1372429917480868",
+  "magic_words": [
+    
+  ]
+}

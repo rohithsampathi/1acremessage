@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Piyush Nahar."
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Piyush Nahar.",
+      "timestamp_ms": 1719315400469,
+      "content": "I want to make a similar video for 1 of my NA plots project, how do I do it?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Piyush Nahar.",
+      "timestamp_ms": 1719315400179,
+      "content": "Piyush sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C8mK8BgSVSE/?id=3397451074146751620_47651711013",
+        "share_text": "8 acres | 85 Lakhs per acre | Vikarabad | Link in bio \u00f0\u009f\u008c\u009f\n\n- Verified and facilitated by 1acre.in\n- Pure red soil mango farm\n- Within Vikarabad municipal limits\n- Surrounded by active vegetable cultivation and hillocks\n\nInterested? Get in touch now! \n\u00f0\u009f\u0093\u009e +91 9959994737",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Piyush Nahar.",
+  "is_still_participant": true,
+  "thread_path": "inbox/piyushnahar_1383667083024884",
+  "magic_words": [
+    
+  ]
+}

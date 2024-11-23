@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Veni"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705814444771,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Veni",
+      "timestamp_ms": 1705787438672,
+      "content": "How to contact you directly",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Veni",
+      "timestamp_ms": 1705787430557,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Veni",
+  "is_still_participant": true,
+  "thread_path": "inbox/veni_17991971111578489",
+  "magic_words": [
+    
+  ]
+}

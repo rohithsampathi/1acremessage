@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "sathish"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "sathish",
+      "timestamp_ms": 1716617871402,
+      "content": "Tq sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716617602041,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716617601188,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "sathish",
+      "timestamp_ms": 1716616659705,
+      "content": "I want to work with you sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "sathish",
+      "timestamp_ms": 1716616647246,
+      "content": "Hi sir I am from miryalaguda nalgonda dist",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716615412320,
+      "content": "Hi, may we know what you are referring to?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "sathish",
+      "timestamp_ms": 1716615064411,
+      "content": "Hello, can I get more info on this?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "sathish",
+  "is_still_participant": true,
+  "thread_path": "inbox/sathish_17882572389064165",
+  "magic_words": [
+    
+  ]
+}

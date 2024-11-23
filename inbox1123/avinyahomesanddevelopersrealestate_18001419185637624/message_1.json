@@ -1,0 +1,51 @@
+{
+  "participants": [
+    {
+      "name": "Avinya Homes and Developers | Real Estate"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724162451935,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724162450812,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Avinya Homes and Developers | Real Estate",
+      "timestamp_ms": 1724161594910,
+      "content": "Avinya sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C-5LUmKvuW3/?id=3438829584357713335_48982261623",
+        "share_text": "\u00f0\u009f\u0091\u0089 10 Acres of Commercial Land is for sale near Shadnagar.\n\u00f0\u009f\u0091\u0089 Located at NH44 Bangalore Highway.\n\u00f0\u009f\u0091\u0089 Very close to Regional Ring Road.\n\u00f0\u009f\u0091\u0089 Well suitable for Villa Project and Venture.\n\u00f0\u009f\u0091\u0089 Price is 4.5 Cr per acre.\n.\n.\n#realestate #landforsale #commerciallandforsale #avinyahomesanddevelopers #shadnagar #propertyforsale #venture",
+        "original_content_owner": "avinya.homes_developers"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Avinya Homes and Developers | Real Estate",
+      "timestamp_ms": 1723442586550,
+      "content": "Avinya sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C-jxmS_vp5e/?id=3432805477002419806_48982261623",
+        "share_text": "\u00f0\u009f\u0091\u0089 5 Acres of Commercial Land for sale @ Prime Location Hajipally near Shadnagar.\n\u00f0\u009f\u0091\u0089At a Price of 3.5 Crores per Acre.\n\u00f0\u009f\u0091\u00891km from Shadnagar.\n\u00f0\u009f\u0091\u00894.5km from Microsoft Data Centre.\n\u00f0\u009f\u0091\u0089Well Suitable for Venture or Villa Project.\n\u00f0\u009f\u0091\u0089Surrounding with Ventures.\nFor more details contact us:\n9010193134, 9618444423.\n.\n.\n#realestate #landforsale #propertyinvestment #shadnagarrealestate #avinyahomesanddevelopers #realestateinvesting #reelsinstagram",
+        "original_content_owner": "avinya.homes_developers"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Avinya Homes and Developers | Real Estate",
+  "is_still_participant": true,
+  "thread_path": "inbox/avinyahomesanddevelopersrealestate_18001419185637624",
+  "magic_words": [
+    
+  ]
+}

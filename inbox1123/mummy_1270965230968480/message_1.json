@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Mummy \u00f0\u009f\u00ab\u00b6\u00f0\u009f\u008f\u00bb\u00e2\u009d\u00a4\u00ef\u00b8\u008f"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mummy \u00f0\u009f\u00ab\u00b6\u00f0\u009f\u008f\u00bb\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "timestamp_ms": 1697700139231,
+      "content": "9182017242",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697700096048,
+      "content": "can i have your number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mummy \u00f0\u009f\u00ab\u00b6\u00f0\u009f\u008f\u00bb\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "timestamp_ms": 1697699749140,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697693172509,
+      "content": "can we schedule a call ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mummy \u00f0\u009f\u00ab\u00b6\u00f0\u009f\u008f\u00bb\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "timestamp_ms": 1697456873257,
+      "content": "You tell",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697454391295,
+      "content": "how it's work with you?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mummy \u00f0\u009f\u00ab\u00b6\u00f0\u009f\u008f\u00bb\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "timestamp_ms": 1697364470389,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697353418493,
+      "content": "Hey, can we collaborate for a reel?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mummy \u00f0\u009f\u00ab\u00b6\u00f0\u009f\u008f\u00bb\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+  "is_still_participant": true,
+  "thread_path": "inbox/mummy_1270965230968480",
+  "magic_words": [
+    
+  ]
+}

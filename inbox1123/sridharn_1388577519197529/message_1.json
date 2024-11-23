@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Sridhar N"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722163305750,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sridhar N",
+      "timestamp_ms": 1722137964405,
+      "content": "Hi, regarding Wipro Gopanpally I\u00e2\u0080\u0099m interested, can you share me details ? Is individual plot also available?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sridhar N",
+  "is_still_participant": true,
+  "thread_path": "inbox/sridharn_1388577519197529",
+  "magic_words": [
+    
+  ]
+}

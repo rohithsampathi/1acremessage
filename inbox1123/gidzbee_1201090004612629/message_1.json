@@ -1,0 +1,90 @@
+{
+  "participants": [
+    {
+      "name": "GidzBee \u00f0\u009f\u00ab\u00b6"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "GidzBee \u00f0\u009f\u00ab\u00b6",
+      "timestamp_ms": 1705114202945,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705111142380,
+      "content": "Hi, the price is 3cr per acre. Please contact Vijay for all the details. \n9959994737",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "GidzBee \u00f0\u009f\u00ab\u00b6",
+          "timestamp": 1705114202
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "GidzBee \u00f0\u009f\u00ab\u00b6",
+      "timestamp_ms": 1705079405102,
+      "content": "Price plz",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "GidzBee \u00f0\u009f\u00ab\u00b6",
+      "timestamp_ms": 1705079404831,
+      "content": "GidzBee sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C2AaHfgyD0q/?id=3278735392807337258_47651711013",
+        "share_text": "1acre facilitated property:\n5 acre land, very close to the city\nAt Mudimyal, 22km from ORR (APPA junction).\nJust 500mt away from the Highway. \nAvailable as 1/2 acre & 1 acre units or as a whole. \n\nYou can get in touch with us at: 9959994737",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "GidzBee \u00f0\u009f\u00ab\u00b6",
+      "timestamp_ms": 1704393233974,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704387487651,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "GidzBee \u00f0\u009f\u00ab\u00b6",
+          "timestamp": 1704393233
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "GidzBee \u00f0\u009f\u00ab\u00b6",
+      "timestamp_ms": 1704383756372,
+      "content": "Hi, I wanna know more details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "GidzBee \u00f0\u009f\u00ab\u00b6",
+      "timestamp_ms": 1704383755985,
+      "content": "GidzBee sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C1phjLHyPvy/?id=3272294156919700466_47651711013",
+        "share_text": "Missed the bus in Telangana. \nA lot of us have this feeling - We missed the bus in Telangana. We share that feeling with you. We wanted to find the next growth pockets and spent the last one year venturing out, researching and buying some lands (registering them). We aspire to aquire 1000 acres and would want to expand it to 5000 acres if others want to join in. Ping us, if you want to pick AT LEAST 100 acres at 2.5-4 lakh per acre. We\u00e2\u0080\u0099ll see how we can accommodate.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "GidzBee \u00f0\u009f\u00ab\u00b6",
+  "is_still_participant": true,
+  "thread_path": "inbox/gidzbee_1201090004612629",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Schnelle Prefab Spaces"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720440989636,
+      "content": "Thanks. We'll get back to you if anyone needs.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Schnelle Prefab Spaces",
+      "timestamp_ms": 1720440369404,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/schnelleprefabspaces_18012041786591014/photos/449526564_1148537766263582_7054868635586393464_n_1148537762930249.jpg",
+          "creation_timestamp": 1720440367,
+          "backup_uri": "https://scontent.fmaa12-2.fna.fbcdn.net/v/t1.15752-9/449526564_1148537766263582_7054868635586393464_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=9f807c&_nc_ohc=qFXfW4z-xGcQ7kNvgFf8nZA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fmaa12-2.fna&oh=03_Q7cD1QFhgcJhh6XCvvjVVQpGZxqqq2DEJcoHgSEcNAD18jKjaw&oe=6766C86B"
+        },
+        {
+          "uri": "your_instagram_activity/messages/inbox/schnelleprefabspaces_18012041786591014/photos/449903038_508364618194100_3101289824608188481_n_508364614860767.jpg",
+          "creation_timestamp": 1720440367,
+          "backup_uri": "https://scontent.fmaa12-1.fna.fbcdn.net/v/t1.15752-9/449903038_508364618194100_3101289824608188481_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=9f807c&_nc_ohc=nX3DqJsnPDcQ7kNvgE-JZ0S&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fmaa12-1.fna&oh=03_Q7cD1QH4RU1g-RO4pkQfsqW1uxTnOQ6LKrK6y0nkgPahDeas8Q&oe=6766B54C"
+        },
+        {
+          "uri": "your_instagram_activity/messages/inbox/schnelleprefabspaces_18012041786591014/photos/449814402_1196855154867060_3139670543993706002_n_1196855151533727.jpg",
+          "creation_timestamp": 1720440367,
+          "backup_uri": "https://scontent.fmaa12-1.fna.fbcdn.net/v/t1.15752-9/449814402_1196855154867060_3139670543993706002_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=9f807c&_nc_ohc=9BzCEFX29jkQ7kNvgEzZTgd&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fmaa12-1.fna&oh=03_Q7cD1QG2BsoGEiKgwIJfNY9AC-kykPo8w6nCqwdDLDggcX13-A&oe=6766C056"
+        },
+        {
+          "uri": "your_instagram_activity/messages/inbox/schnelleprefabspaces_18012041786591014/photos/449662012_448818178057845_3327380188143754316_n_448818174724512.jpg",
+          "creation_timestamp": 1720440367,
+          "backup_uri": "https://scontent.fmaa12-2.fna.fbcdn.net/v/t1.15752-9/449662012_448818178057845_3327380188143754316_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_ohc=WfNcXIJTXGoQ7kNvgE_TqAs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fmaa12-2.fna&oh=03_Q7cD1QFeHfEA82tfrs9ubzMq6PkbK6X3ciyJelRoP6q-l8UE9Q&oe=6766A4CC"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Schnelle Prefab Spaces",
+      "timestamp_ms": 1720440354929,
+      "content": "Hi there.   We are a custom prefab house building company.  Check out our product.  It would be a great addition for people buying farm lands.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Schnelle Prefab Spaces",
+  "is_still_participant": true,
+  "thread_path": "inbox/schnelleprefabspaces_18012041786591014",
+  "magic_words": [
+    
+  ]
+}

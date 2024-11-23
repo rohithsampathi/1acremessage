@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Hitesh Yaduvanshi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730965966226,
+      "content": "Explore www.1acre.in",
+      "share": {
+        "link": "http://www.1acre.in/",
+        "share_text": "Explore www.1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hitesh Yaduvanshi",
+      "timestamp_ms": 1730958283644,
+      "content": "Plot bta do",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hitesh Yaduvanshi",
+      "timestamp_ms": 1730958279633,
+      "content": "Bhai koi shi sa",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730955478955,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hitesh Yaduvanshi",
+      "timestamp_ms": 1730911182735,
+      "content": "Helo",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Hitesh Yaduvanshi",
+  "is_still_participant": true,
+  "thread_path": "inbox/hiteshyaduvanshi_1364250024960765",
+  "magic_words": [
+    
+  ]
+}

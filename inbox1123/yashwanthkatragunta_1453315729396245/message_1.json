@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Yashwanth Katragunta"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704603426463,
+      "content": "Sure. Please ping Ratna Kiran \n9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yashwanth Katragunta",
+      "timestamp_ms": 1704603388905,
+      "content": "Would like to have a meeting with you regarding prospects",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yashwanth Katragunta",
+      "timestamp_ms": 1704603374973,
+      "content": "We are developers since 30years",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yashwanth Katragunta",
+      "timestamp_ms": 1704603349863,
+      "content": "I saw your video about land in Maharashtra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704603282353,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yashwanth Katragunta",
+      "timestamp_ms": 1704603264685,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Yashwanth Katragunta",
+  "is_still_participant": true,
+  "thread_path": "inbox/yashwanthkatragunta_1453315729396245",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Taduri Sai Krishna"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709615355876,
+      "content": "We can only do a preliminary verification. You need to get a full legal verification from a lawyer, if you are looking to buy the land.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Taduri Sai Krishna",
+      "timestamp_ms": 1709615250005,
+      "content": "Can you please help me in verifying it",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Taduri Sai Krishna",
+      "timestamp_ms": 1709615229269,
+      "content": "I got an offer for 2 acres of land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Taduri Sai Krishna",
+      "timestamp_ms": 1709615212103,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Taduri Sai Krishna",
+  "is_still_participant": true,
+  "thread_path": "inbox/tadurisaikrishna_1319558972780299",
+  "magic_words": [
+    
+  ]
+}

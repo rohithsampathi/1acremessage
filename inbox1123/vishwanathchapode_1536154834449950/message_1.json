@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Vishwanath Chapode"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vishwanath Chapode",
+      "timestamp_ms": 1725278884731,
+      "content": "Hi, thanks for contacting us. We've received your message and appreciate your getting in touch.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725278883168,
+      "content": "Yes?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishwanath Chapode",
+      "timestamp_ms": 1725270054938,
+      "content": "Pune",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishwanath Chapode",
+      "timestamp_ms": 1725270048818,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vishwanath Chapode",
+  "is_still_participant": true,
+  "thread_path": "inbox/vishwanathchapode_1536154834449950",
+  "magic_words": [
+    
+  ]
+}

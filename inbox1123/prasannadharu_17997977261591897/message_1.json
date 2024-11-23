@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Prasanna Dharu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708305104683,
+      "content": "Hi, may I know what you are looking for?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prasanna Dharu",
+      "timestamp_ms": 1708283102973,
+      "content": "Hi sir \nHow we can contact you",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Prasanna Dharu",
+  "is_still_participant": true,
+  "thread_path": "inbox/prasannadharu_17997977261591897",
+  "magic_words": [
+    
+  ]
+}

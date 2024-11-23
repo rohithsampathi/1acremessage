@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Vinay Kumar N N"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705956103392,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vinay Kumar N N",
+      "timestamp_ms": 1705946420885,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vinay Kumar N N",
+  "is_still_participant": true,
+  "thread_path": "inbox/vinaykumarnn_1208970940489493",
+  "magic_words": [
+    
+  ]
+}

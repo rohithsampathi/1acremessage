@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "Grateful&thankful"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704928461804,
+      "content": "https://www.1acre.in/subscribe\n\nPlease go through and fill in the form at the end of the page. We'll get back to you.",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "https://www.1acre.in/subscribe\n\nPlease go through and fill in the form at the end of the page. We'll get back to you."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Grateful&thankful",
+      "timestamp_ms": 1704911643936,
+      "content": "Where and at what price pl",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Grateful&thankful",
+      "timestamp_ms": 1704911643572,
+      "content": "Grateful&thankful sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C1phjLHyPvy/?id=3272294156919700466_47651711013",
+        "share_text": "Missed the bus in Telangana. \nA lot of us have this feeling - We missed the bus in Telangana. We share that feeling with you. We wanted to find the next growth pockets and spent the last one year venturing out, researching and buying some lands (registering them). We aspire to aquire 1000 acres and would want to expand it to 5000 acres if others want to join in. Ping us, if you want to pick AT LEAST 100 acres at 2.5-4 lakh per acre. We\u00e2\u0080\u0099ll see how we can accommodate.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Grateful&thankful",
+  "is_still_participant": true,
+  "thread_path": "inbox/gratefulthankful_1309745407093409",
+  "magic_words": [
+    
+  ]
+}

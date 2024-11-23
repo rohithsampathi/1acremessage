@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Shrirup Samrutwar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720236388320,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720236387758,
+      "content": "Hi, Please contact Vijay 9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shrirup Samrutwar",
+      "timestamp_ms": 1720188875937,
+      "content": "Please share the details and location",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shrirup Samrutwar",
+      "timestamp_ms": 1720188868762,
+      "content": "I am interested in Yavatmal property",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shrirup Samrutwar",
+      "timestamp_ms": 1720188860532,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shrirup Samrutwar",
+  "is_still_participant": true,
+  "thread_path": "inbox/shrirupsamrutwar_1378991206824728",
+  "magic_words": [
+    
+  ]
+}

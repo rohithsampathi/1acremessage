@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "KaraN"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "KaraN",
+      "timestamp_ms": 1730697093377,
+      "content": "9158660914",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730697025198,
+      "content": "You can access the Mapview and keep checking. We'll keep uploading new listings.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730697020875,
+      "content": "Okay sure, please share your contact details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730697001655,
+      "content": "1acre.in/subscribe",
+      "share": {
+        "link": "http://1acre.in/subscribe",
+        "share_text": "1acre.in/subscribe"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "KaraN",
+      "timestamp_ms": 1730696939855,
+      "content": "Let me know if you have anything in Maharashtra near Aurangabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "KaraN",
+      "timestamp_ms": 1730696905794,
+      "content": "Okay\u00e2\u0080\u00a6",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730690761211,
+      "content": "We recently launched in Karnataka and we do not have any opportunities in that range yet \n\nWe shall keep you informed once we have more lands in Karnataka",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "KaraN",
+      "timestamp_ms": 1730614811600,
+      "content": "Within 150km range",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "KaraN",
+      "timestamp_ms": 1730614783812,
+      "content": "I\u00e2\u0080\u0099m look for a land near Bangalore\u00e2\u0080\u00a6",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "KaraN",
+      "timestamp_ms": 1730614750950,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "KaraN",
+  "is_still_participant": true,
+  "thread_path": "inbox/karan_1531051601623875",
+  "magic_words": [
+    
+  ]
+}

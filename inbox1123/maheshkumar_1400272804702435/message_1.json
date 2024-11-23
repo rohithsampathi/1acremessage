@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Mahesh Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mahesh Kumar",
+      "timestamp_ms": 1712050974872,
+      "content": "Hi sir good afternoon\nI am interested sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mahesh Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/maheshkumar_1400272804702435",
+  "magic_words": [
+    
+  ]
+}

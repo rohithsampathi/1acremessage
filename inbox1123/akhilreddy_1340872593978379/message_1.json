@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Akhil Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Akhil Reddy",
+      "timestamp_ms": 1721029660152,
+      "content": "Hi \nYes I have contacted via WhatsApp",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706759938744,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akhil Reddy",
+      "timestamp_ms": 1706739790136,
+      "content": "Can you suggest if there are any 1 acre lands near Shamshaad ORR",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akhil Reddy",
+      "timestamp_ms": 1706739756949,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Akhil Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/akhilreddy_1340872593978379",
+  "magic_words": [
+    
+  ]
+}

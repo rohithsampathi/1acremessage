@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Bhalaram Thingla"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726154284451,
+      "content": "Not everyone can message this account.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726154282821,
+      "content": "Hi, please let us know how we can help you.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Bhalaram Thingla",
+  "is_still_participant": true,
+  "thread_path": "inbox/bhalaramthingla_17930226758927305",
+  "magic_words": [
+    
+  ]
+}

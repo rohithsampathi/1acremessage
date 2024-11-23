@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "always_muniram__.07._"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718554011475,
+      "content": "At least 5-10 acres.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "always_muniram__.07._",
+      "timestamp_ms": 1718553145142,
+      "content": "Dis can we get 2 to 4acr ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "always_muniram__.07._",
+      "timestamp_ms": 1718553106810,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718545050465,
+      "content": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "always_muniram__.07._",
+          "timestamp": 1718553106
+        }
+      ],
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "always_muniram__.07._",
+      "timestamp_ms": 1718539401575,
+      "content": "How much!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "always_muniram__.07._",
+      "timestamp_ms": 1718539391436,
+      "content": "1acre land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "always_muniram__.07._",
+      "timestamp_ms": 1718539376572,
+      "content": "Bly near do u have any idea bro",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "always_muniram__.07._",
+      "timestamp_ms": 1718539361156,
+      "content": "always_muniram__.07._ sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C7wHbawyoaz/?id=3382235990642558643_47651711013",
+        "share_text": "46 acres | \u00e2\u0082\u00b911L per acre | Sindhanur, Karnataka | Link in bio \u00f0\u009f\u008c\u009f\n\n- Verified and facilitated by 1acre.in\n- Can start buying with a minimum lot of 5 acres\n- Perfect for fisheries with an expected lease of \u00e2\u0082\u00b945k per annum\n- 4.5 hrs from Hyderabad\n- On the way to Hampi and Goa\n\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 9959994737 \n\n#LandInvestment #Sindhanur #Karnataka #RealEstate #FisheriesLand #1acre.in",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "always_muniram__.07._",
+  "is_still_participant": true,
+  "thread_path": "inbox/always_muniram__07__18020541881255444",
+  "magic_words": [
+    
+  ]
+}

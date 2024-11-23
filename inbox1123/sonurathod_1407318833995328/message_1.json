@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Sonu Rathod"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716009738215,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716009737495,
+      "content": "Hi, Please talk to Vijay\n9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sonu Rathod",
+      "timestamp_ms": 1716007057023,
+      "content": "Iam from vikarabad local",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sonu Rathod",
+      "timestamp_ms": 1716000206076,
+      "content": "Yaaah",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715999562450,
+      "content": "Can you elaborate?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sonu Rathod",
+      "timestamp_ms": 1715998853690,
+      "content": "Can I join with you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715998024016,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sonu Rathod",
+      "timestamp_ms": 1715967017147,
+      "content": "Sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sonu Rathod",
+      "timestamp_ms": 1715967013063,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sonu Rathod",
+  "is_still_participant": true,
+  "thread_path": "inbox/sonurathod_1407318833995328",
+  "magic_words": [
+    
+  ]
+}

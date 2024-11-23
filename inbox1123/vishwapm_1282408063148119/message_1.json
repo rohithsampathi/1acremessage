@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Vishwa P M"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vishwa P M",
+      "timestamp_ms": 1708593790623,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708593358977,
+      "content": "Hi, currently, we are listing only in Telangana. We'll get back to you soon.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishwa P M",
+      "timestamp_ms": 1708572395885,
+      "content": "Actually I'm looking a land nearby Mangalore, Mysore and Bangalore that's for my builder. The main purpose of land is residential or farmhouse.\n\nIf you have any of my requirement, please let me know, after that I'll connect with my builder.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708571452534,
+      "content": "Hi, may i know what you are looking for? I'll connect accordingly.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishwa P M",
+      "timestamp_ms": 1708543061387,
+      "content": "Hii sir\n\nCan I get your number?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vishwa P M",
+  "is_still_participant": true,
+  "thread_path": "inbox/vishwapm_1282408063148119",
+  "magic_words": [
+    
+  ]
+}

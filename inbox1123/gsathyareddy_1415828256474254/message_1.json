@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "G Sathya Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723987957441,
+      "content": "Hi, Please contact Srikar 8341149011, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "G Sathya Reddy",
+      "timestamp_ms": 1723985958199,
+      "content": "send correct location",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "G Sathya Reddy",
+      "timestamp_ms": 1723985849365,
+      "content": "G Sathya sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C-fPv3FyPgg/?id=3431530700745537568_47651711013",
+        "share_text": "SOLD !",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "G Sathya Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/gsathyareddy_1415828256474254",
+  "magic_words": [
+    
+  ]
+}

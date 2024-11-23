@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "SHiiVA"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715399569297,
+      "content": "9032114737\nYou can talk to Bharath, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SHiiVA",
+      "timestamp_ms": 1715398437350,
+      "content": "8555044716",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SHiiVA",
+      "timestamp_ms": 1715398436337,
+      "content": "SHiiVA sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C4j3HBRt6Vt/?id=3324743324894995821_47651711013",
+        "share_text": "9032114737\n\nPlease call Bharath, from the team.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "SHiiVA",
+  "is_still_participant": true,
+  "thread_path": "inbox/shiiva_1375268103866020",
+  "magic_words": [
+    
+  ]
+}

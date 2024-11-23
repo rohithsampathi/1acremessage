@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Aman Singhaniya"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aman Singhaniya",
+      "timestamp_ms": 1717566175324,
+      "content": "Do let me know",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aman Singhaniya",
+      "timestamp_ms": 1717566168817,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717566124243,
+      "content": "Hi, 1acre.in is a listing platform for verified lands. \nCurrently, we are listing only for Telanagana. We'll start other states soon. We'll keep you posted.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, 1acre.in is a listing platform for verified lands. \nCurrently, we are listing only for Telanagana. We'll start other states soon. We'll keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aman Singhaniya",
+      "timestamp_ms": 1717565613522,
+      "content": "Do you guys help in selling lands also? \n\nOur family has approx 40000sqft land on the main road in Khurja,up nearby Khurja railway station and 30 mins from the new jewar airport which is being built",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Aman Singhaniya",
+  "is_still_participant": true,
+  "thread_path": "inbox/amansinghaniya_1322620642460629",
+  "magic_words": [
+    
+  ]
+}

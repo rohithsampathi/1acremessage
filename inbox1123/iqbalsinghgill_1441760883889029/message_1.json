@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Iqbal Singh GiLL"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Iqbal Singh GiLL",
+      "timestamp_ms": 1720937107493,
+      "content": "Which agency?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720859436161,
+      "content": "We don't really know. We just give it out to an agency.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Iqbal Singh GiLL",
+      "timestamp_ms": 1720852680131,
+      "content": "I have lot of properties in Punjab,Ludhiana but I don\u00e2\u0080\u0099t know how to make videos on it if you tell me how to create same videos of property like you i will very thankful to you \u00f0\u009f\u0098\u0087",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Iqbal Singh GiLL",
+      "timestamp_ms": 1720852377963,
+      "content": "I\u00e2\u0080\u0099m from Punjab nd I\u00e2\u0080\u0099m also a property dealer pls tell me which software or website you use to make your videos",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720363912296,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Iqbal Singh GiLL",
+      "timestamp_ms": 1720360810986,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Iqbal Singh GiLL",
+  "is_still_participant": true,
+  "thread_path": "inbox/iqbalsinghgill_1441760883889029",
+  "magic_words": [
+    
+  ]
+}

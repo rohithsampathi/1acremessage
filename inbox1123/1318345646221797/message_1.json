@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": ":))"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": ":))",
+      "timestamp_ms": 1717362334187,
+      "content": "Okay sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717354738797,
+      "content": "Please call us tomorrow after 10am at 9005464412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": ":))",
+      "timestamp_ms": 1717327039631,
+      "content": "Hi sir we would like to contact you\u00e2\u0080\u0099 for sale of our land in Banjara Hills",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": ":))",
+  "is_still_participant": true,
+  "thread_path": "inbox/1318345646221797",
+  "magic_words": [
+    
+  ]
+}

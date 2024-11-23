@@ -1,0 +1,89 @@
+{
+  "participants": [
+    {
+      "name": "rajesh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718389709384,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718389708412,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team. \nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "rajesh",
+      "timestamp_ms": 1718389498699,
+      "content": "Budget 2 to 2.5 cr",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "rajesh",
+      "timestamp_ms": 1718389476720,
+      "content": "Near Secunderabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "rajesh",
+      "timestamp_ms": 1718389463069,
+      "content": "200 to 300",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718389439416,
+      "content": "Budget/size/locality?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "rajesh",
+      "timestamp_ms": 1718389422746,
+      "content": "I am looking independent house or open land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718389374087,
+      "content": "Could you tell us in detail, About your requirement?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "rajesh",
+      "timestamp_ms": 1718389334380,
+      "content": "Can you help me",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "rajesh",
+      "timestamp_ms": 1718389321165,
+      "content": "I need property in city\u00e2\u0080\u0099s",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718389299468,
+      "content": "Hello Rajesh",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "rajesh",
+      "timestamp_ms": 1718388451772,
+      "content": "Hii \nThis is Rajesh",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "rajesh",
+  "is_still_participant": true,
+  "thread_path": "inbox/rajesh_1408406870554559",
+  "magic_words": [
+    
+  ]
+}

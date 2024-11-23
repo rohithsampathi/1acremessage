@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Vishnu Vardhan Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vishnu Vardhan Reddy",
+      "timestamp_ms": 1718639147414,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718639138252,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718639131258,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishnu Vardhan Reddy",
+      "timestamp_ms": 1718638920861,
+      "content": "Hi,\nIs this land available?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishnu Vardhan Reddy",
+      "timestamp_ms": 1718638903581,
+      "content": "Vishnu sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C8UcuuqywWV/?id=3392462775825139093_47651711013",
+        "share_text": "1 acre | \u00e2\u0082\u00b95.5 Cr | Peda-Golconda ORR | Link in bio \u00f0\u009f\u008c\u009f\n\n- Verified and facilitated by 1acre.in\n- Prime location at Peda-Golconda ORR exit\n- Between a blacktop road and a lake\n- 50m from a proposed 150\u00e2\u0080\u0099 road in the masterplan\n- Suitable for a primary residence (111go regulations apply)\n\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 9959994737 \n\n#PedaGolconda #PrimeLand #RealEstate #LuxuryLiving #1acre.in",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vishnu Vardhan Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/vishnuvardhanreddy_1449533429781275",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Keshava Chenna"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Keshava Chenna",
+      "timestamp_ms": 1708759611265,
+      "content": "Great, thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708759588177,
+      "content": "Hi, yes. There will be a slight delay and we are fixing that. Someone from the team will call you to explain meanwhile. Thank you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Keshava Chenna",
+      "timestamp_ms": 1708757872609,
+      "content": "Hi, I took the subscription, but it's not enabled yet. Will there be any delay?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Keshava Chenna",
+  "is_still_participant": true,
+  "thread_path": "inbox/keshavachenna_1301073114629188",
+  "magic_words": [
+    
+  ]
+}

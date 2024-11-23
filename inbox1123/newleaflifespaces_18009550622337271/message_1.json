@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Newleaf Lifespaces"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709715440922,
+      "content": "Please contact Vijay\n9959994737, he'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709715432430,
+      "content": "Hi, sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Newleaf Lifespaces",
+      "timestamp_ms": 1709712500033,
+      "content": "Have a 1 acre property near chevella for sale, let me know if you\u00e2\u0080\u0099d be interested in marketing and what are the terms?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Newleaf Lifespaces",
+  "is_still_participant": true,
+  "thread_path": "inbox/newleaflifespaces_18009550622337271",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Surekha Panangipalli"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707450847927,
+      "content": "Hi, thanks. Tbh, highly unlikely we can find a buyer for this at this point. We'll get back to you, once we have the system fot it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Surekha Panangipalli",
+      "timestamp_ms": 1707446928415,
+      "content": "I can share google maps location",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Surekha Panangipalli",
+      "timestamp_ms": 1707445793291,
+      "content": "Land is in jaggampeta  between  \nKakinada and rjy\n200 sqr just beside road",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707443045314,
+      "content": "But do let us know more details of your land. If someone asks meanwhile, we can connect.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707443015078,
+      "content": "Hi, currently only in Telangana, but we are launching soon for AP as well.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Surekha Panangipalli",
+      "timestamp_ms": 1707416756209,
+      "content": "Hi u sell land in andhra aswell or only Hyderabad",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Surekha Panangipalli",
+  "is_still_participant": true,
+  "thread_path": "inbox/surekhapanangipalli_17902460393936190",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "P M"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705126081316,
+      "content": "Hi, the price is 3cr per acre. Please contact Vijay for all the details. \n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "P M",
+      "timestamp_ms": 1705123397901,
+      "content": "Want to know details regarding mudimyal land\u00e2\u0080\u00a6\nRequired one acre \nPrice and location \nThx",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "P M",
+      "timestamp_ms": 1705123325193,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "P M",
+  "is_still_participant": true,
+  "thread_path": "inbox/pm_1206191024118732",
+  "magic_words": [
+    
+  ]
+}

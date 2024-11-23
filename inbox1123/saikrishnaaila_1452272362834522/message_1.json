@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Sai Krishna Aila"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sai Krishna Aila",
+      "timestamp_ms": 1723652842542,
+      "content": "\u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723643929953,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Krishna Aila",
+      "timestamp_ms": 1723637421266,
+      "content": "Kindly send the Details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Krishna Aila",
+      "timestamp_ms": 1723637395944,
+      "content": "Sai sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C-fPv3FyPgg/?id=3431530700745537568_47651711013",
+        "share_text": "SOLD !",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sai Krishna Aila",
+  "is_still_participant": true,
+  "thread_path": "inbox/saikrishnaaila_1452272362834522",
+  "magic_words": [
+    
+  ]
+}

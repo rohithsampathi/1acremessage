@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Adil Ahmed"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Adil Ahmed",
+      "timestamp_ms": 1718781024687,
+      "content": "Adil sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C7isunexfdc/?id=3378459388015933276_20479132112",
+        "share_text": "",
+        "original_content_owner": "adeeba_1720"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708317212879,
+      "content": "Hello, please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Adil Ahmed",
+      "timestamp_ms": 1708317039497,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Adil Ahmed",
+  "is_still_participant": true,
+  "thread_path": "inbox/adilahmed_1289452199114246",
+  "magic_words": [
+    
+  ]
+}

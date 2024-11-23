@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Rohit Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rohit Reddy",
+      "timestamp_ms": 1727682357823,
+      "content": "Okay will call tomorrow, thank you!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1727685668
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727602951674,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412\nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rohit Reddy",
+      "timestamp_ms": 1727600440544,
+      "content": "Let me know, thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rohit Reddy",
+      "timestamp_ms": 1727600433888,
+      "content": "I\u00e2\u0080\u0099m looking for lands around Vikarabad, ananthagiri hills around the forest",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rohit Reddy",
+      "timestamp_ms": 1727600221325,
+      "content": "Hi, is this still available??",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rohit Reddy",
+      "timestamp_ms": 1727600199095,
+      "content": "Rohit sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C8ZV7fkSx4e/?id=3393840241521139230_47651711013",
+        "share_text": "3 acres | 65 Lakhs per acre | Ananthagiri Hills | Link in bio \u00f0\u009f\u008c\u009f\n\n- Verified and facilitated by 1acre.in\n- 500 ft road frontage along a 40 ft blacktop road\n- Just 10 km from Vikarabad\n- Surrounded by beautiful views\n\nInterested? Get in touch now! \n\n\u00f0\u009f\u0093\u009e +91 9959994737",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rohit Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/rohitreddy_1462304885160286",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Urs Thota Kiran"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Urs Thota Kiran",
+      "timestamp_ms": 1728114635899,
+      "content": "Near NH44  nocto pharam jb daraga road",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Urs Thota Kiran",
+  "is_still_participant": true,
+  "thread_path": "inbox/ursthotakiran_1562145275183820",
+  "magic_words": [
+    
+  ]
+}

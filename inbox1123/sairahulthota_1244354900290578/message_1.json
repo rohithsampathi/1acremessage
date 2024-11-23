@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Sairahul Thota"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sairahul Thota",
+      "timestamp_ms": 1701492773643,
+      "content": "Thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sairahul Thota",
+      "timestamp_ms": 1701492772059,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701490445427,
+      "content": "Hi Rahul , we can help you , can we have your contact number, our team will connect with you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sairahul Thota",
+      "timestamp_ms": 1701486655177,
+      "content": "10-15 lakhs",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sairahul Thota",
+      "timestamp_ms": 1701486649785,
+      "content": "I am also interested in buying land near to Hyderabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sairahul Thota",
+      "timestamp_ms": 1701486637606,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sairahul Thota",
+  "is_still_participant": true,
+  "thread_path": "inbox/sairahulthota_1244354900290578",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u0093\u0084\u008b"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00f0\u0093\u0084\u008b",
+      "timestamp_ms": 1719212809174,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u0093\u0084\u008b",
+      "timestamp_ms": 1719212798416,
+      "content": "Oo y not \u00f0\u009f\u00a4\u009d",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719212782739,
+      "content": "If there's anyone interested, will reach out.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719212763721,
+      "content": "Meanwhile, Please send \nLocation \nExtent \nAnd price",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719212745421,
+      "content": "Hi, we are listing Telangana for now. We'll start Maharashtra soon. \nWill inform you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u0093\u0084\u008b",
+      "timestamp_ms": 1719212472690,
+      "content": "I\u00e2\u0080\u0099m having an 13 acer land in partur Maharashtra",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00f0\u0093\u0084\u008b",
+  "is_still_participant": true,
+  "thread_path": "inbox/1519673929430973",
+  "magic_words": [
+    
+  ]
+}

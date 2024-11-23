@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "\u00e2\u0098\u0085\u00e2\u008a\u00b9\u00d9\u00ad\u00e1\u00b5\u008f\u00f0\u009d\u0090\u0080\u00cb\u00a1\u00ca\u00b8\u00f0\u009d\u0090\u0080\u00e2\u0081\u00bf_23\u00d9\u00ad\u00e2\u008a\u00b9\u00e2\u0098\u0085"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00e2\u0098\u0085\u00e2\u008a\u00b9\u00d9\u00ad\u00e1\u00b5\u008f\u00f0\u009d\u0090\u0080\u00cb\u00a1\u00ca\u00b8\u00f0\u009d\u0090\u0080\u00e2\u0081\u00bf_23\u00d9\u00ad\u00e2\u008a\u00b9\u00e2\u0098\u0085",
+      "timestamp_ms": 1713094660118,
+      "content": "9640424213",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1713095895
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713093486994,
+      "content": "He'll call back. Plz give your number here.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00e2\u0098\u0085\u00e2\u008a\u00b9\u00d9\u00ad\u00e1\u00b5\u008f\u00f0\u009d\u0090\u0080\u00cb\u00a1\u00ca\u00b8\u00f0\u009d\u0090\u0080\u00e2\u0081\u00bf_23\u00d9\u00ad\u00e2\u008a\u00b9\u00e2\u0098\u0085",
+      "timestamp_ms": 1713093413062,
+      "content": "Not responding",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713055848763,
+      "content": "Hi, Please contact Ramakrishna \n7780122120, from the team. \nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00e2\u0098\u0085\u00e2\u008a\u00b9\u00d9\u00ad\u00e1\u00b5\u008f\u00f0\u009d\u0090\u0080\u00cb\u00a1\u00ca\u00b8\u00f0\u009d\u0090\u0080\u00e2\u0081\u00bf_23\u00d9\u00ad\u00e2\u008a\u00b9\u00e2\u0098\u0085",
+      "timestamp_ms": 1713030053692,
+      "content": "Bro ma land vundi 15km far from shamshabad we want to sale can u help me",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00e2\u0080\u008e\u00e2\u0098\u0085\u00e2\u008a\u00b9\u00d9\u00ad\u00e1\u00b5\u008f\u00f0\u009d\u0090\u0080\u00cb\u00a1\u00ca\u00b8\u00f0\u009d\u0090\u0080\u00e2\u0081\u00bf_23\u00d9\u00ad\u00e2\u008a\u00b9\u00e2\u0098\u0085\u00e2\u0080\u008e",
+  "is_still_participant": true,
+  "thread_path": "inbox/kalyan_23_18021060023143219",
+  "magic_words": [
+    
+  ]
+}

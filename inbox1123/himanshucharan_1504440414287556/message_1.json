@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Himanshu Charan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724920524839,
+      "content": "1acre.in/subscribe\nYou can explore the mapview here.\n\nWhat you can do for now, is go to your areas of interest on the Map, find lands/plots matching your criteria and call up the Owners/Agents and ask if something is for lease.",
+      "share": {
+        "link": "http://1acre.in/subscribe",
+        "share_text": "1acre.in/subscribe\nYou can explore the mapview here.\n\nWhat you can do for now, is go to your areas of interest on the Map, find lands/plots matching your criteria and call up the Owners/Agents and ask if something is for lease."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Himanshu Charan",
+      "timestamp_ms": 1724845529918,
+      "content": "Need a flat terrain",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Himanshu Charan",
+      "timestamp_ms": 1724845523518,
+      "content": "We are looking for 1000-1500 sq yards plot for setting up a sports facility. Location: Kokapet, Jubilee Hills, Banjara Hills, Gachibowli etc",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724844493867,
+      "content": "May we know your requirements?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724844483165,
+      "content": "We are launching this soon.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Himanshu Charan",
+      "timestamp_ms": 1724837636887,
+      "content": "Hi, do you also help out businesses looking to lease land in Hyderabad?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Himanshu Charan",
+  "is_still_participant": true,
+  "thread_path": "inbox/himanshucharan_1504440414287556",
+  "magic_words": [
+    
+  ]
+}

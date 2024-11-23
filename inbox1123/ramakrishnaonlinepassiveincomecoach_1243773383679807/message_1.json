@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Rama Krishna / Online Passive Income Coach"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1699701547108,
+      "content": "Can we connect on call ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rama Krishna / Online Passive Income Coach",
+      "timestamp_ms": 1699701499649,
+      "content": "Hi, thanks for contacting us. We've received your message and appreciate your getting in touch.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1699701496085,
+      "content": "Hey , we are interested to work with you for a collaboration , can we connect ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rama Krishna / Online Passive Income Coach",
+  "is_still_participant": true,
+  "thread_path": "inbox/ramakrishnaonlinepassiveincomecoach_1243773383679807",
+  "magic_words": [
+    
+  ]
+}

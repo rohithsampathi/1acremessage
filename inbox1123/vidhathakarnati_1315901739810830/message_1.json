@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Vidhatha Karnati"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708917704400,
+      "content": "Sure. He'll get back after the verification.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vidhatha Karnati",
+      "timestamp_ms": 1708917681448,
+      "content": "Ok . Sent all required documents to ramakrishna garu.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708917383698,
+      "content": "I'll inform.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708917370195,
+      "content": "Hi, Sorry about that. They'll get back, if they are busy.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vidhatha Karnati",
+      "timestamp_ms": 1708915407212,
+      "content": "No proper response from your team",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vidhatha Karnati",
+      "timestamp_ms": 1708617216609,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708616436894,
+      "content": "Hi, Please contact Ramakrishna \n7780122120, from the team. He'll help you list the land.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vidhatha Karnati",
+      "timestamp_ms": 1708608645779,
+      "content": "Hi . We have 2100 sqyards land (road facing ) in bodhan , nizamabad district. We are lookikg for potential buyers",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vidhatha Karnati",
+  "is_still_participant": true,
+  "thread_path": "inbox/vidhathakarnati_1315901739810830",
+  "magic_words": [
+    
+  ]
+}

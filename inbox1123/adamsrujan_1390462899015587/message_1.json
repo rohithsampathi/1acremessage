@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Adam Srujan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Adam Srujan",
+      "timestamp_ms": 1718557933670,
+      "content": "My Name : Ar.Srujan Kumar\nMobile      : 9000501111",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Adam Srujan",
+      "timestamp_ms": 1718557909227,
+      "content": "Pls inbox your contact or ping me your office address. Will come to your office and talk in detail",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Adam Srujan",
+  "is_still_participant": true,
+  "thread_path": "inbox/adamsrujan_1390462899015587",
+  "magic_words": [
+    
+  ]
+}

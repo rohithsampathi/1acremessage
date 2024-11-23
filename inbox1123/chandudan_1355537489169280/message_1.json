@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Chandu Dan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Chandu Dan",
+      "timestamp_ms": 1720114486924,
+      "content": "Understood. Please provide me 24 hrs. I will reach out to my parents in India and see if I can all the details possible.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1720146697
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720107656365,
+      "content": "Could you share more details of the land such as location, price etc to see if we can service this request",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chandu Dan",
+      "timestamp_ms": 1720103333663,
+      "content": "Please contact me for more details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chandu Dan",
+      "timestamp_ms": 1720103322035,
+      "content": "+15199913409 is my contact and whatsapp as well. The land is for 1 acre and is present in Andhra Pradesh",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chandu Dan",
+      "timestamp_ms": 1720103268454,
+      "content": "I would like to discuss about a plot that I am trying to sell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chandu Dan",
+      "timestamp_ms": 1720103248682,
+      "content": "Hello,",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Chandu Dan",
+  "is_still_participant": true,
+  "thread_path": "inbox/chandudan_1355537489169280",
+  "magic_words": [
+    
+  ]
+}

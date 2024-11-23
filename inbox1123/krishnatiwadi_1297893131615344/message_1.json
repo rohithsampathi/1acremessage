@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Krishna Tiwadi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Krishna Tiwadi",
+      "timestamp_ms": 1722182119083,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722180459636,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Krishna Tiwadi",
+          "timestamp": 1722182119
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722180455308,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Krishna Tiwadi",
+      "timestamp_ms": 1722174261198,
+      "content": "Hello Can u advertise of my plots situated at shadnagar",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Krishna Tiwadi",
+  "is_still_participant": true,
+  "thread_path": "inbox/krishnatiwadi_1297893131615344",
+  "magic_words": [
+    
+  ]
+}

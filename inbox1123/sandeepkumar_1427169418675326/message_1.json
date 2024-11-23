@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Sandeep Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721036829796,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721036828055,
+      "content": "Hi, Please contact Vijay 9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sandeep Kumar",
+      "timestamp_ms": 1720965631693,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sandeep Kumar",
+      "timestamp_ms": 1720965630726,
+      "content": "Sandeep sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C9UBLDXtmaU/?carousel_share_child_media_id=3410355958192799596_47651711013",
+        "share_text": "",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sandeep Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/sandeepkumar_1427169418675326",
+  "magic_words": [
+    
+  ]
+}

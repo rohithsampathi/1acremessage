@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "VK K"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "VK K",
+      "timestamp_ms": 1710248290008,
+      "content": "Thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "VK K",
+      "timestamp_ms": 1710248288359,
+      "content": "Oh okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710245295986,
+      "content": "Currently, we are listing only for Telanagna. Soon, we'll list other states as well.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "VK K",
+      "timestamp_ms": 1710244093756,
+      "content": "It is applicable\nFor Chennai as well ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "VK K",
+  "is_still_participant": true,
+  "thread_path": "inbox/vkk_1351196492945703",
+  "magic_words": [
+    
+  ]
+}

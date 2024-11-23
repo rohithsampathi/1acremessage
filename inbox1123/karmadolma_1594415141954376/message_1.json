@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Karma Dolma"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730806416911,
+      "content": "Please contact our team member ,pavan, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Karma Dolma",
+      "timestamp_ms": 1730800923508,
+      "content": "Karma sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DBQ7jWDythN/?id=3481544425569179725_47651711013",
+        "share_text": "32 acres single large parcel | Available at 24 Lakhs an acre | Near Jagtial \n\nVerified and Facilitated by 1acre.in \u00e2\u009c\u0085\n\n \u00f0\u009f\u0093\u008d Property Specs :\n\n\u00e2\u0096\u00aa\u00ef\u00b8\u008f Zoning : Free Zone beyond HMDA limits\n\u00e2\u0096\u00aa\u00ef\u00b8\u008f Access : Through Katcha road that is 500 meters from BT road\n\u00e2\u0096\u00aa\u00ef\u00b8\u008f Location : 10 KM from Karimnagar Highway & 13km from Jagitial town\n\u00e2\u0096\u00aa\u00ef\u00b8\u008f Proximity : 16 KM from Kondagattu\n\u00e2\u0096\u00aa\u00ef\u00b8\u008f Use case : Ideal for a retirement ranch\n\n\u00f0\u009f\u0093\u009e Interested? Get in touch now! +91 8341149011\n\n\u00f0\u009f\u0093\u00a9 For inquiries on buying, selling, or partnerships, DM us! \u00f0\u009f\u00a4\u009d\n\n#landforsale #propertyforsale #realestate #land #telangana #telanganarealestate #indiarealestate #buy #sell #buyland #sellandbuy #farmhouse #investment #landinvestment #agriculture #farmland #paddy #mangoplantation #karimnagar #karimnagarrealestate #jagtial #jagtialrealestate #ranch #retirement #reatirementranch #kondagattu #1acre",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730794350388,
+      "content": "Hi, Pavan here",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Karma Dolma",
+      "timestamp_ms": 1730793420262,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Karma Dolma",
+  "is_still_participant": true,
+  "thread_path": "inbox/karmadolma_1594415141954376",
+  "magic_words": [
+    
+  ]
+}

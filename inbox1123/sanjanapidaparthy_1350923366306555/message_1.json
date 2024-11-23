@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Sanjana Pidaparthy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sanjana Pidaparthy",
+      "timestamp_ms": 1709043404816,
+      "content": "Thankyou",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709043397407,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sanjana Pidaparthy",
+      "timestamp_ms": 1709043363801,
+      "content": "Hello, interested in buying 1acre in moinabad. Please let me know further details",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sanjana Pidaparthy",
+  "is_still_participant": true,
+  "thread_path": "inbox/sanjanapidaparthy_1350923366306555",
+  "magic_words": [
+    
+  ]
+}

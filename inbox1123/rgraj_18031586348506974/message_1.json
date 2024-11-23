@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009f\u0091\u0091\u00f0\u009d\u0090\u0091\u00f0\u009d\u0090\u0086RAJ\u00f0\u009f\u0098\u008e"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00f0\u009f\u0091\u0091\u00f0\u009d\u0090\u0091\u00f0\u009d\u0090\u0086RAJ\u00f0\u009f\u0098\u008e",
+      "timestamp_ms": 1720163846979,
+      "content": "Mudhol 587313",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1720169151
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u0091\u0091\u00f0\u009d\u0090\u0091\u00f0\u009d\u0090\u0086RAJ\u00f0\u009f\u0098\u008e",
+      "timestamp_ms": 1720163825480,
+      "content": "Karnataka",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720161350907,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u0091\u0091\u00f0\u009d\u0090\u0091\u00f0\u009d\u0090\u0086RAJ\u00f0\u009f\u0098\u008e",
+      "timestamp_ms": 1720155746644,
+      "content": "Mudhol land in Vian factory near 5.30 acre",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00f0\u009f\u0091\u0091\u00f0\u009d\u0090\u0091\u00f0\u009d\u0090\u0086RAJ\u00f0\u009f\u0098\u008e",
+  "is_still_participant": true,
+  "thread_path": "inbox/rgraj_18031586348506974",
+  "magic_words": [
+    
+  ]
+}

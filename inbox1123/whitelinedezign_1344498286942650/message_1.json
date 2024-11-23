@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "White Line Dezign"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711000851763,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "White Line Dezign",
+      "timestamp_ms": 1710997932912,
+      "content": "Interested in land near telengana",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "White Line Dezign",
+  "is_still_participant": true,
+  "thread_path": "inbox/whitelinedezign_1344498286942650",
+  "magic_words": [
+    
+  ]
+}

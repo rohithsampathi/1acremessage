@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Gaurav Agarwal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719117555432,
+      "content": "Ok. We'll get back to you on this soon. Thanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gaurav Agarwal",
+      "timestamp_ms": 1719116636308,
+      "content": "Synergy will help both of us in growing together",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gaurav Agarwal",
+      "timestamp_ms": 1719116612071,
+      "content": "What you are doing in Telangana, we can do the same in Jaipur!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719115171035,
+      "content": "Sure. What kind of collaboration do you have in mind?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gaurav Agarwal",
+      "timestamp_ms": 1719112972126,
+      "content": "We are interested in collaborating with you in Jaipur, Rajasthan",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gaurav Agarwal",
+      "timestamp_ms": 1719112952034,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Gaurav Agarwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/gauravagarwal_1366921441377123",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "varun sree harsha \u00f0\u009f\u0095\u00b5"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "varun sree harsha \u00f0\u009f\u0095\u00b5",
+      "timestamp_ms": 1708356521587,
+      "content": "Yes that helps a lot because price per acres varies a lot based on zone\u00e2\u0080\u00a6and some times lands are just beside but due to zone price is different",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1708357536
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708356387910,
+      "content": "Oh OK. They won't have that info. But we have it. We'll soon include that in our mapview.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "varun sree harsha \u00f0\u009f\u0095\u00b5",
+      "timestamp_ms": 1708356244118,
+      "content": "I am talking about Residential zone vs conservation zone like that",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708356185993,
+      "content": "We have it direction/highway tagged. You can search by direction in 'All lands' page. Is that what you meant? Or could you tell a little more about what other information you would like to see along with a land?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "varun sree harsha \u00f0\u009f\u0095\u00b5",
+      "timestamp_ms": 1708354823818,
+      "content": "Hi I think you have to ask mediators to capture the zone as one of the parameters for ur land listings",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "varun sree harsha \u00f0\u009f\u0095\u00b5",
+  "is_still_participant": true,
+  "thread_path": "inbox/varunsreeharsha_1268079017914251",
+  "magic_words": [
+    
+  ]
+}

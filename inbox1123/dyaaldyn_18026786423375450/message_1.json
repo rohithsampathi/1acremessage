@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "\u00d8\u00b6\u00d9\u008a\u00d8\u00a7\u00d8\u00a1 \u00d8\u00a7\u00d9\u0084\u00d8\u00af\u00d9\u008a\u00d9\u0086"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727635708482,
+      "content": "Hello, how can we help you?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00d8\u00b6\u00d9\u008a\u00d8\u00a7\u00d8\u00a1 \u00d8\u00a7\u00d9\u0084\u00d8\u00af\u00d9\u008a\u00d9\u0086",
+      "timestamp_ms": 1727630789041,
+      "content": "hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00e2\u0080\u008e\u00d8\u00b6\u00d9\u008a\u00d8\u00a7\u00d8\u00a1 \u00d8\u00a7\u00d9\u0084\u00d8\u00af\u00d9\u008a\u00d9\u0086\u00e2\u0080\u008e",
+  "is_still_participant": true,
+  "thread_path": "inbox/dyaaldyn_18026786423375450",
+  "magic_words": [
+    
+  ]
+}

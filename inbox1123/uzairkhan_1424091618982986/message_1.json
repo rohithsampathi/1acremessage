@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Uzair khan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722257280082,
+      "content": "Check our website 1acre.in to understand prices\n\nYou can subscribe to our mapview for more easy and intuitive understanding",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Check our website 1acre.in to understand prices\n\nYou can subscribe to our mapview for more easy and intuitive understanding"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Uzair khan",
+      "timestamp_ms": 1722255061704,
+      "content": "The price of vikarabad Ekmamdi village nawab pet mandal telengana",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Uzair khan",
+      "timestamp_ms": 1722255013469,
+      "content": "Please , kindly let me know..",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Uzair khan",
+  "is_still_participant": true,
+  "thread_path": "inbox/uzairkhan_1424091618982986",
+  "magic_words": [
+    
+  ]
+}

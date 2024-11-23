@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Mohammed Ishaq"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mohammed Ishaq",
+      "timestamp_ms": 1718936420780,
+      "content": "I will contact with your person and then talk with him\nThankss for the number",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1718936633
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718896126221,
+      "content": "The lands we post are facilitated lands by us where we help make the transaction happen\n\nIn these transactions , we also and take a facilitation fee of 2%\n\nIf the land is in Telangana and you are okay with the terms , we can consider your land for facilitation.\n\nFor more details , you can contact Mr vijay at 9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammed Ishaq",
+      "timestamp_ms": 1718893562322,
+      "content": "Sir can you tell me the procedure through which you can list my property on your account??",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammed Ishaq",
+      "timestamp_ms": 1718885999033,
+      "content": "We too have a land can you list it on your Instagram account?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammed Ishaq",
+      "timestamp_ms": 1718885970626,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mohammed Ishaq",
+  "is_still_participant": true,
+  "thread_path": "inbox/mohammedishaq_1295104395208806",
+  "magic_words": [
+    
+  ]
+}

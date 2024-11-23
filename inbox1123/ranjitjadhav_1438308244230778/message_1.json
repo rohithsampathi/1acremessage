@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Ranjit Jadhav"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ranjit Jadhav",
+      "timestamp_ms": 1720163746765,
+      "content": "Pune Maharashtra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ranjit Jadhav",
+      "timestamp_ms": 1720163741943,
+      "content": "9175683636",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720161391744,
+      "content": "Please drop your number here. We'll reach out.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720161374795,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ranjit Jadhav",
+      "timestamp_ms": 1720155529042,
+      "content": "I have in pune near hinjawadi IT PARK 15 acer for sale",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720149433782,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ranjit Jadhav",
+      "timestamp_ms": 1720149103056,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ranjit Jadhav",
+  "is_still_participant": true,
+  "thread_path": "inbox/ranjitjadhav_1438308244230778",
+  "magic_words": [
+    
+  ]
+}

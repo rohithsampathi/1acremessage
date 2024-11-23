@@ -1,0 +1,77 @@
+{
+  "participants": [
+    {
+      "name": "Dedeep Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dedeep Reddy",
+      "timestamp_ms": 1718266747016,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718266309531,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718266308614,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dedeep Reddy",
+      "timestamp_ms": 1718262011183,
+      "content": "So looking for a land around Hyderabad for development",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dedeep Reddy",
+      "timestamp_ms": 1718261993587,
+      "content": "We are actually builders",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718260989722,
+      "content": "Mostly only for sale. If you could detail as much as possible, on what you are exactly looking for, we can you how we can be of help.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dedeep Reddy",
+      "timestamp_ms": 1718260745250,
+      "content": "Or do you have any available for joint development?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dedeep Reddy",
+      "timestamp_ms": 1718260726992,
+      "content": "Do you only have lands for sale",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718260450248,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dedeep Reddy",
+      "timestamp_ms": 1718260300579,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Dedeep Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/dedeepreddy_1391006845625488",
+  "magic_words": [
+    
+  ]
+}

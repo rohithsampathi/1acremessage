@@ -1,0 +1,70 @@
+{
+  "participants": [
+    {
+      "name": "mysterious_jet"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "mysterious_jet",
+      "timestamp_ms": 1709715582031,
+      "content": "7569222602",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709715564929,
+      "content": "Sorry abt that. Will ask him to get back. Plz give your number.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "mysterious_jet",
+      "timestamp_ms": 1709707249556,
+      "content": "Hi \nI tried reaching this number too they are not responding the call and sent msg in whatsapp too no response yet",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "mysterious_jet",
+      "timestamp_ms": 1709641285695,
+      "content": "Okay \nThank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709641264915,
+      "content": "Hi, Please contact Ramakrishna \n7780122120. Send him the listing. He'll help you out.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "mysterious_jet",
+      "timestamp_ms": 1709640589502,
+      "content": "Messaged the number provided there but no response yet \nLet me know if this still available",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "mysterious_jet",
+      "timestamp_ms": 1709640563128,
+      "content": "I'm interested to know more about the land posted in 1acre.in\nhttps://www.1acre.in/verified-lands/rangareddy/kothur/1886",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "I'm interested to know more about the land posted in 1acre.in\nhttps://www.1acre.in/verified-lands/rangareddy/kothur/1886"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "mysterious_jet",
+      "timestamp_ms": 1709640498491,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "mysterious_jet",
+  "is_still_participant": true,
+  "thread_path": "inbox/mysterious_jet_17992782044608011",
+  "magic_words": [
+    
+  ]
+}

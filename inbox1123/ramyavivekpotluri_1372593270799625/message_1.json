@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Ramya Vivek Potluri"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718642013464,
+      "content": "Hi, \nWould suggest you to check the website. 1acre.in\nYou can call the sellers directly. \n\nYou can also subscribe, to get access to the MapView.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, \nWould suggest you to check the website. 1acre.in\nYou can call the sellers directly. \n\nYou can also subscribe, to get access to the MapView."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ramya Vivek Potluri",
+      "timestamp_ms": 1718637954991,
+      "content": "Hello sir I want lands in between from Hyderabad to Nizamabad  like dhomakonda and kamareddy",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ramya Vivek Potluri",
+  "is_still_participant": true,
+  "thread_path": "inbox/ramyavivekpotluri_1372593270799625",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Shashi Kiran Patel"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shashi Kiran Patel",
+      "timestamp_ms": 1710661262731,
+      "content": "Ok sir will call in evening",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710658021039,
+      "content": "Hi, Please contact Harish\n9032114737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shashi Kiran Patel",
+      "timestamp_ms": 1710650362501,
+      "content": "I am interested",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shashi Kiran Patel",
+  "is_still_participant": true,
+  "thread_path": "inbox/shashikiranpatel_1179386010111651",
+  "magic_words": [
+    
+  ]
+}

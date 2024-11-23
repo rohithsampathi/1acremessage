@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Perumala Mukesh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1698132915632,
+      "content": "Hey Mukesh , how can we help you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Perumala Mukesh",
+      "timestamp_ms": 1698101619134,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Perumala Mukesh",
+  "is_still_participant": true,
+  "thread_path": "inbox/perumalamukesh_17946168638707776",
+  "magic_words": [
+    
+  ]
+}

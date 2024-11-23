@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Prakash G"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Prakash G",
+      "timestamp_ms": 1711557675074,
+      "content": "\u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711557338716,
+      "content": "Yes, Please call.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prakash G",
+      "timestamp_ms": 1711554813485,
+      "content": "Hii team\nHow do I join the property listing. I am from Mahabubnagar. \nShould I need to call 9032114737 to submit an application?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Prakash G",
+  "is_still_participant": true,
+  "thread_path": "inbox/prakashg_1329468258446765",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Shivaji Chauhan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725968502421,
+      "content": "We'll launch in Gujarat soon. We'll keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shivaji Chauhan",
+      "timestamp_ms": 1725967410278,
+      "content": "Bharuch District",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shivaji Chauhan",
+      "timestamp_ms": 1725967405314,
+      "content": "It\u00e2\u0080\u0099s in Gujrat",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725759274380,
+      "content": "Could you tell us Location, extent and price?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shivaji Chauhan",
+      "timestamp_ms": 1725730101343,
+      "content": "Hi am willing to sell mine",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shivaji Chauhan",
+  "is_still_participant": true,
+  "thread_path": "inbox/shivajichauhan_17954692253817934",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Sudheer Buyyani"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720285983299,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720285982576,
+      "content": "Hi, Please contact Vijay 9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sudheer Buyyani",
+      "timestamp_ms": 1720285435389,
+      "content": "is it near chegunta?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sudheer Buyyani",
+      "timestamp_ms": 1720285421614,
+      "content": "watched ur 14 acre video near medak where exactly is the location?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sudheer Buyyani",
+  "is_still_participant": true,
+  "thread_path": "inbox/sudheerbuyyani_18033012446304881",
+  "magic_words": [
+    
+  ]
+}

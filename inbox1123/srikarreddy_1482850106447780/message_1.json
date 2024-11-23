@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Srikar Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723263679211,
+      "content": "Hello Srikar , \nThis is the team handling the account. \n\nWe have communicated the message to Ratna. \n\nYou can call him at 7661063355 to discuss more. Also we wish you good luck on your new gig :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srikar Reddy",
+      "timestamp_ms": 1723173398630,
+      "content": "Hi Ratna sir, congratulations on 1Lakh followers. I hope you remember your student \u00f0\u009f\u0098\u0085. I\u00e2\u0080\u0099ve been following this page since your early videos and I\u00e2\u0080\u0099m really proud of how far you\u00e2\u0080\u0099ve come in such a short time. Thank you for inspiring me to get started with my gig.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Srikar Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/srikarreddy_1482850106447780",
+  "magic_words": [
+    
+  ]
+}

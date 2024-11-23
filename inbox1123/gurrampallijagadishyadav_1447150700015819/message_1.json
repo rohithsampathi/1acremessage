@@ -1,0 +1,115 @@
+{
+  "participants": [
+    {
+      "name": "Gurrampalli Jagadish Yadav"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gurrampalli Jagadish Yadav",
+      "timestamp_ms": 1722501082483,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722500960026,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Gurrampalli Jagadish Yadav",
+          "timestamp": 1722501082
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gurrampalli Jagadish Yadav",
+      "timestamp_ms": 1722493480765,
+      "content": "Nearby Shamshabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gurrampalli Jagadish Yadav",
+      "timestamp_ms": 1722493460973,
+      "content": "We have land for sale",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722492604244,
+      "content": "How can we help you?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722492588968,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gurrampalli Jagadish Yadav",
+      "timestamp_ms": 1722489180111,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gurrampalli Jagadish Yadav",
+      "timestamp_ms": 1717828788998,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717821285803,
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Gurrampalli Jagadish Yadav",
+          "timestamp": 1717828788
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717821285053,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team.\nHe'll help you with listing it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gurrampalli Jagadish Yadav",
+      "timestamp_ms": 1717820951600,
+      "content": "We have land in Shamshabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gurrampalli Jagadish Yadav",
+      "timestamp_ms": 1717820930661,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717762309452,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gurrampalli Jagadish Yadav",
+      "timestamp_ms": 1717760924492,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Gurrampalli Jagadish Yadav",
+  "is_still_participant": true,
+  "thread_path": "inbox/gurrampallijagadishyadav_1447150700015819",
+  "magic_words": [
+    
+  ]
+}

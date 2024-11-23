@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Praveen Guptha"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Praveen Guptha",
+      "timestamp_ms": 1728675584381,
+      "content": "DJi air 3 ha",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Praveen Guptha",
+      "timestamp_ms": 1728675564620,
+      "content": "Drone edi sir meru use chesedhi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Praveen Guptha",
+      "timestamp_ms": 1717679437009,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717679375288,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will guide you how to proceed further :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Praveen Guptha",
+      "timestamp_ms": 1717679300214,
+      "content": "Hello bro vikarabad side ma lands unayee sale ki oka sare visiting ki vasthara",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716252376737,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Praveen Guptha",
+      "timestamp_ms": 1716236072032,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Praveen Guptha",
+  "is_still_participant": true,
+  "thread_path": "inbox/praveenguptha_1415938169799780",
+  "magic_words": [
+    
+  ]
+}

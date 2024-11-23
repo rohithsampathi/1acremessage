@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Ahmed Iqbal Mohammed"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ahmed Iqbal Mohammed",
+      "timestamp_ms": 1719251478193,
+      "content": "Okay but do you have such an inventory of 250 acre land parcel in any of the above locations?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719240646723,
+      "content": "1acre.in/subscribe\n\nIf you subscribe, you'll have access to the mapview. \nYou can call the sellers directly.",
+      "share": {
+        "link": "http://1acre.in/subscribe",
+        "share_text": "1acre.in/subscribe\n\nIf you subscribe, you'll have access to the mapview. \nYou can call the sellers directly."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ahmed Iqbal Mohammed",
+      "timestamp_ms": 1719229388603,
+      "content": "Hello,\n\n The following location we are looking for 250 acres for outright purchase, if you have any prospects pl do discuss them with us.  The budget per acre is below 10 lakhs. \n\u00e2\u0080\u00a2\tThimajipet\n\u00e2\u0080\u00a2\tArvapalli\n\u00e2\u0080\u00a2\tGadwal\n\u00e2\u0080\u00a2\tAlampur\n\u00e2\u0080\u00a2\tTandur\n\u00e2\u0080\u00a2\tNagarkurnool\n\u00e2\u0080\u00a2\tGuntipally\n\u00e2\u0080\u00a2\tThungathurty\n\u00e2\u0080\u00a2\tChegunta\n\u00e2\u0080\u00a2\tTunki Bolaram\n\u00e2\u0080\u00a2\tShanigram\n\u00e2\u0080\u00a2\tDomakonda\n\u00e2\u0080\u00a2\tReddypet\n\u00e2\u0080\u00a2\tWanaparthy\n\u00e2\u0080\u00a2\tKMPally\n\u00e2\u0080\u00a2\tKamareddy\n\nBest Regards",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ahmed Iqbal Mohammed",
+  "is_still_participant": true,
+  "thread_path": "inbox/ahmediqbalmohammed_1448977776499754",
+  "magic_words": [
+    
+  ]
+}

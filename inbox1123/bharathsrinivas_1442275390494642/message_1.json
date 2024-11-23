@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Bharath Srinivas"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bharath Srinivas",
+      "timestamp_ms": 1729664447584,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729661739683,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will guide you how to proceed further :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bharath Srinivas",
+      "timestamp_ms": 1729606438957,
+      "content": "Bharath 9844252143",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bharath Srinivas",
+      "timestamp_ms": 1729606376687,
+      "content": "Hi I have land to sell near Bowenpalli",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Bharath Srinivas",
+  "is_still_participant": true,
+  "thread_path": "inbox/bharathsrinivas_1442275390494642",
+  "magic_words": [
+    
+  ]
+}

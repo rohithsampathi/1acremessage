@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "pavishthala"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "pavishthala",
+      "timestamp_ms": 1724727813807,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724725830784,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412\nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724725823630,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "pavishthala",
+      "timestamp_ms": 1724693026339,
+      "content": "Hi I saw a post in your account. It mentioned a land of 40 acres which cost only 7 lakhs in yavatmal, maharashtra. Is that true? Is it available?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "pavishthala",
+  "is_still_participant": true,
+  "thread_path": "inbox/pavishthala_1375496113837724",
+  "magic_words": [
+    
+  ]
+}

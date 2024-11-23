@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Vyas Pawar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718100835460,
+      "content": "Hi, at 1acre.in, we are currently listint only Telangana.\nWe'll start other states soon. \nWe'll keep you posted.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, at 1acre.in, we are currently listint only Telangana.\nWe'll start other states soon. \nWe'll keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vyas Pawar",
+      "timestamp_ms": 1718100633829,
+      "content": "i need 1acre in Karnataka within 200 from Bangalore",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vyas Pawar",
+  "is_still_participant": true,
+  "thread_path": "inbox/vyaspawar_1420226052709187",
+  "magic_words": [
+    
+  ]
+}

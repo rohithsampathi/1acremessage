@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Balvanth Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706161886759,
+      "content": "Hi, Please contact Ramakrishna \n7780122120",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Balvanth Reddy",
+      "timestamp_ms": 1706160890251,
+      "content": "It is near to shankarpally town and hmda ventures",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Balvanth Reddy",
+      "timestamp_ms": 1706160871218,
+      "content": "Cost per gunta 10lac\nTotal cost 1.30lac",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Balvanth Reddy",
+      "timestamp_ms": 1706160853359,
+      "content": "13 guntas land for sale at Singapur village shankarpally mandal",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Balvanth Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/balvanthreddy_1268744167849073",
+  "magic_words": [
+    
+  ]
+}

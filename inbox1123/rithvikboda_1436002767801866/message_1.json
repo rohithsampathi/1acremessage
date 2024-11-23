@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Rithvik Boda"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722091548556,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will help you with it :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rithvik Boda",
+      "timestamp_ms": 1722088756637,
+      "content": "Hello, I just tried to purchase lifetime subscription. My payment has not gone through. I used my US credit card. Is there any way I can subscribe using it?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rithvik Boda",
+  "is_still_participant": true,
+  "thread_path": "inbox/rithvikboda_1436002767801866",
+  "magic_words": [
+    
+  ]
+}

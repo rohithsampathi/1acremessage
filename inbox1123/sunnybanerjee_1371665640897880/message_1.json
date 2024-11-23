@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Sunny Banerjee"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sunny Banerjee",
+      "timestamp_ms": 1709812043983,
+      "content": "Looking for Large Land Parcels in Bangalore",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sunny Banerjee",
+      "timestamp_ms": 1709812029912,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709803842984,
+      "content": "Bangalore not yet. Only in Telangana.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sunny Banerjee",
+      "timestamp_ms": 1709803555490,
+      "content": "Are these owner listed or listed through mediators?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sunny Banerjee",
+      "timestamp_ms": 1709803538461,
+      "content": "What type of lands you can suggest in Bangalore?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709795866207,
+      "content": "Not complete legal",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709795859839,
+      "content": "Preliminary verification done",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sunny Banerjee",
+      "timestamp_ms": 1709792747944,
+      "content": "Are all the lands here verified?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sunny Banerjee",
+  "is_still_participant": true,
+  "thread_path": "inbox/sunnybanerjee_1371665640897880",
+  "magic_words": [
+    
+  ]
+}

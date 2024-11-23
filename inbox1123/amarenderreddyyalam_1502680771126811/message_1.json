@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Amarender Reddy Yalam"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726214671139,
+      "content": "Share your number and our team will get back",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Amarender Reddy Yalam",
+      "timestamp_ms": 1726213062015,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726213050919,
+      "content": "Thank you for applying as a regional partner with 1acre.in.\nWe shall get back to you soon",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Amarender Reddy Yalam",
+          "timestamp": 1726213062
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726213042157,
+      "content": "Amarender Reddy Yalam replied to an ad. View ad(https://www.instagram.com/p/C_xXDFBM4qA/)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Amarender Reddy Yalam",
+      "timestamp_ms": 1726213040899,
+      "content": "Hello, Can I get more info on this?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Amarender Reddy Yalam",
+  "is_still_participant": true,
+  "thread_path": "inbox/amarenderreddyyalam_1502680771126811",
+  "magic_words": [
+    
+  ]
+}

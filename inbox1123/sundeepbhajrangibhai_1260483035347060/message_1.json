@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "SUNDEEP BHAJRANGI BHAI"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697694681602,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SUNDEEP BHAJRANGI BHAI",
+      "timestamp_ms": 1697687448667,
+      "content": "I",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "SUNDEEP BHAJRANGI BHAI",
+  "is_still_participant": true,
+  "thread_path": "inbox/sundeepbhajrangibhai_1260483035347060",
+  "magic_words": [
+    
+  ]
+}

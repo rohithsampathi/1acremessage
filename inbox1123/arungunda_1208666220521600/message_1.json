@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Arun Gunda"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Arun Gunda",
+      "timestamp_ms": 1704421656423,
+      "content": "Sure thank you...",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704388558947,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Arun Gunda",
+      "timestamp_ms": 1704387931745,
+      "content": "I am interested in buying land in maharashtra...pls share number to discuss on the same...",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704387465852,
+      "content": "Hi, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Arun Gunda",
+      "timestamp_ms": 1704383887417,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Arun Gunda",
+  "is_still_participant": true,
+  "thread_path": "inbox/arungunda_1208666220521600",
+  "magic_words": [
+    
+  ]
+}

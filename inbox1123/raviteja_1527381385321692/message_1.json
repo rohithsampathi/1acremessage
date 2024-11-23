@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Ravi Teja"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730265010985,
+      "content": "We are adding new lands everyday\nPlease check 1acre.in and explore lands in your area",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "We are adding new lands everyday\nPlease check 1acre.in and explore lands in your area"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravi Teja",
+      "timestamp_ms": 1730262517913,
+      "content": "Anything in kurnool?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ravi Teja",
+  "is_still_participant": true,
+  "thread_path": "inbox/raviteja_1527381385321692",
+  "magic_words": [
+    
+  ]
+}

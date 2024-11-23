@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Nag"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nag",
+      "timestamp_ms": 1703999414172,
+      "content": "Thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703996399581,
+      "content": "you can connect with pratheek, 9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nag",
+      "timestamp_ms": 1703958591354,
+      "content": "Is it possible to get a river touch property ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nag",
+  "is_still_participant": true,
+  "thread_path": "inbox/nag_1275355203856416",
+  "magic_words": [
+    
+  ]
+}

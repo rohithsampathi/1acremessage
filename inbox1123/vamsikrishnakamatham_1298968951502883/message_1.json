@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Vamsi Krishna Kamatham"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701066290910,
+      "content": "You can contact to Vijay, 80-74450533, he can help you with your enquiries.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vamsi Krishna Kamatham",
+      "timestamp_ms": 1700983148538,
+      "content": "I was approached to buy this, would like to check if price is fair or if you can suggest any alternatives",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vamsi Krishna Kamatham",
+      "timestamp_ms": 1700983106036,
+      "content": "https://maps.app.goo.gl/T2rsrLbrS9PjnvDe9",
+      "share": {
+        "link": "https://maps.app.goo.gl/T2rsrLbrS9PjnvDe9",
+        "share_text": "https://maps.app.goo.gl/T2rsrLbrS9PjnvDe9"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vamsi Krishna Kamatham",
+      "timestamp_ms": 1700983074506,
+      "content": "Can you let me know please?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vamsi Krishna Kamatham",
+      "timestamp_ms": 1700983063654,
+      "content": "I\u00e2\u0080\u0099m looking for advice on rates in Sadashivapet area",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vamsi Krishna Kamatham",
+      "timestamp_ms": 1700983040730,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vamsi Krishna Kamatham",
+  "is_still_participant": true,
+  "thread_path": "inbox/vamsikrishnakamatham_1298968951502883",
+  "magic_words": [
+    
+  ]
+}

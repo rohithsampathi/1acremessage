@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Abhishek Sagar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Abhishek Sagar",
+      "timestamp_ms": 1724573223995,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724568051542,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhishek Sagar",
+      "timestamp_ms": 1724567885081,
+      "content": "I am looking for open lands price range 1-2.5 cr",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724567839614,
+      "content": "Can we know what you are looking for, so we can connect with right person ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724567787530,
+      "content": "Hello Praveen",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhishek Sagar",
+      "timestamp_ms": 1724566311391,
+      "content": "Praveen Chikbalapur",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhishek Sagar",
+      "timestamp_ms": 1724566295757,
+      "content": "Can you please reach me at +91 90000 62288",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhishek Sagar",
+      "timestamp_ms": 1724566258779,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Abhishek Sagar",
+  "is_still_participant": true,
+  "thread_path": "inbox/abhisheksagar_1451926912866673",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Navin Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703739156438,
+      "content": "Hi you can connect with Ratna kiran ,7661-063355",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Navin Kumar",
+      "timestamp_ms": 1703697988127,
+      "content": "Hello, \nI Have small 600 yards plot, south facing Hmda layout at Ghatkesar near Infosys campus inside ORR. Let us know how to go further with this for listing privately as we are approached by a lot of developers for apartment but we want to sell land to direct client. Thank you",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Navin Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/navinkumar_18012179033107794",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Sa\u00c3\u00b1yam"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720236346835,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720236345978,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sa\u00c3\u00b1yam",
+      "timestamp_ms": 1720189555247,
+      "content": "What is the exact location of land near yavatmal",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sa\u00c3\u00b1yam",
+  "is_still_participant": true,
+  "thread_path": "inbox/sanyam_18011674730591014",
+  "magic_words": [
+    
+  ]
+}

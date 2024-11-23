@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Mekala Ramakanth"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mekala Ramakanth",
+      "timestamp_ms": 1703134643610,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703134596232,
+      "content": "You can contact to seller of this land directly at (9949941474)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mekala Ramakanth",
+      "timestamp_ms": 1703134374005,
+      "content": "More Details plz",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3262441259268829133"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mekala Ramakanth",
+  "is_still_participant": true,
+  "thread_path": "inbox/mekalaramakanth_1228896548500620",
+  "magic_words": [
+    
+  ]
+}

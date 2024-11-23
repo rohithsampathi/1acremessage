@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Crystal Times"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703040208823,
+      "content": "Our team will connect with you shorlty",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Crystal Times",
+      "timestamp_ms": 1702968673232,
+      "content": "7097979123",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701674716299,
+      "content": "Hi, can we have your contact number our team will connect with you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Crystal Times",
+      "timestamp_ms": 1701596106252,
+      "content": "Can you help",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Crystal Times",
+      "timestamp_ms": 1701596101133,
+      "content": "Mostly greenery land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Crystal Times",
+      "timestamp_ms": 1701596093810,
+      "content": "Looking for land on Gulbarga Hyderabad highway",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Crystal Times",
+      "timestamp_ms": 1701596059517,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Crystal Times",
+  "is_still_participant": true,
+  "thread_path": "inbox/crystaltimes_17979176879616136",
+  "magic_words": [
+    
+  ]
+}

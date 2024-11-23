@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Srinivas Narsin"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Srinivas Narsin",
+      "timestamp_ms": 1702491669229,
+      "content": "9866826999",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1702541269
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srinivas Narsin",
+      "timestamp_ms": 1702491665261,
+      "content": "Can u ask him to call",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1702541271
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srinivas Narsin",
+      "timestamp_ms": 1702491656374,
+      "content": "Ok",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1702541272
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702488979287,
+      "content": "you can connect with pratheek  9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srinivas Narsin",
+      "timestamp_ms": 1702488348306,
+      "content": "Looking for 2 acres land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srinivas Narsin",
+      "timestamp_ms": 1702488340221,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Srinivas Narsin",
+  "is_still_participant": true,
+  "thread_path": "inbox/srinivasnarsin_1214646486590796",
+  "magic_words": [
+    
+  ]
+}

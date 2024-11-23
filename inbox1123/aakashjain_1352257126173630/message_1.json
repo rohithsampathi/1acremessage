@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Aakash Jain"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708571425761,
+      "content": "https://www.1acre.in/subscribe",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "https://www.1acre.in/subscribe"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aakash Jain",
+      "timestamp_ms": 1708571423982,
+      "content": "How do I subscribe?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708571403141,
+      "content": "Hi, if you subscribe, you'll get access to MapView. You can check the prices in any area.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aakash Jain",
+      "timestamp_ms": 1708541092353,
+      "content": "What is the land rate in and around Ramdaspally ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Aakash Jain",
+  "is_still_participant": true,
+  "thread_path": "inbox/aakashjain_1352257126173630",
+  "magic_words": [
+    
+  ]
+}

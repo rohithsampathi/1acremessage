@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Surnar Vijay Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717637921961,
+      "content": "Hi, Please contact Bharath  \n7780122120, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Surnar Vijay Kumar",
+      "timestamp_ms": 1717637016329,
+      "content": "I want to sale my land",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Surnar Vijay Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/surnarvijaykumar_1346796576709328",
+  "magic_words": [
+    
+  ]
+}

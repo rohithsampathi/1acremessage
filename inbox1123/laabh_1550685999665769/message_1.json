@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "LAABH \u00f0\u009f\u0087\u00ae\u00f0\u009f\u0087\u00b3"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731157088817,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "LAABH \u00f0\u009f\u0087\u00ae\u00f0\u009f\u0087\u00b3",
+      "timestamp_ms": 1731153468124,
+      "content": "Laabhgroup here",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "LAABH \u00f0\u009f\u0087\u00ae\u00f0\u009f\u0087\u00b3",
+      "timestamp_ms": 1731153461682,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "LAABH \u00f0\u009f\u0087\u00ae\u00f0\u009f\u0087\u00b3",
+  "is_still_participant": true,
+  "thread_path": "inbox/laabh_1550685999665769",
+  "magic_words": [
+    
+  ]
+}

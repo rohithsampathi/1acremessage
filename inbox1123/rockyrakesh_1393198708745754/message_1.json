@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Rocky Rakesh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rocky Rakesh",
+      "timestamp_ms": 1707810581844,
+      "content": "Kolar",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rocky Rakesh",
+      "timestamp_ms": 1707810576824,
+      "content": "I want in karnataka",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707809888582,
+      "content": "https://www.1acre.in/subscribe\n\nPlease go through and subscribe (or) click 'talk to us->' at the end of the page and fill in the form. We'll get back to you.",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "https://www.1acre.in/subscribe\n\nPlease go through and subscribe (or) click 'talk to us->' at the end of the page and fill in the form. We'll get back to you."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rocky Rakesh",
+      "timestamp_ms": 1707805691919,
+      "content": "I am looking land in kolar",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rocky Rakesh",
+      "timestamp_ms": 1707805677310,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rocky Rakesh",
+  "is_still_participant": true,
+  "thread_path": "inbox/rockyrakesh_1393198708745754",
+  "magic_words": [
+    
+  ]
+}

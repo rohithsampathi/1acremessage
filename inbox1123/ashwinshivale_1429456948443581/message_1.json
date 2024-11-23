@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009d\u0098\u00bc\u00f0\u009d\u0099\u00a8\u00f0\u009d\u0099\u009d\u00f0\u009d\u0099\u00ac\u00f0\u009d\u0099\u009e\u00f0\u009d\u0099\u00a3 \u00f0\u009d\u0099\u008e\u00f0\u009d\u0099\u009d\u00f0\u009d\u0099\u009e\u00f0\u009d\u0099\u00ab\u00f0\u009d\u0099\u0096\u00f0\u009d\u0099\u00a1\u00f0\u009d\u0099\u009a"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719902509883,
+      "content": "We'll reach out.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719902503517,
+      "content": "We are currently listing Telangana. \nStarting Maharashtra soon.\n\nCould you tell us the location, extent and price?\n\nIn case someone asks, meanwhile.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0098\u00bc\u00f0\u009d\u0099\u00a8\u00f0\u009d\u0099\u009d\u00f0\u009d\u0099\u00ac\u00f0\u009d\u0099\u009e\u00f0\u009d\u0099\u00a3 \u00f0\u009d\u0099\u008e\u00f0\u009d\u0099\u009d\u00f0\u009d\u0099\u009e\u00f0\u009d\u0099\u00ab\u00f0\u009d\u0099\u0096\u00f0\u009d\u0099\u00a1\u00f0\u009d\u0099\u009a",
+      "timestamp_ms": 1719897045533,
+      "content": "Maharashtra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719878285969,
+      "content": "Hi. Which state?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0098\u00bc\u00f0\u009d\u0099\u00a8\u00f0\u009d\u0099\u009d\u00f0\u009d\u0099\u00ac\u00f0\u009d\u0099\u009e\u00f0\u009d\u0099\u00a3 \u00f0\u009d\u0099\u008e\u00f0\u009d\u0099\u009d\u00f0\u009d\u0099\u009e\u00f0\u009d\u0099\u00ab\u00f0\u009d\u0099\u0096\u00f0\u009d\u0099\u00a1\u00f0\u009d\u0099\u009a",
+      "timestamp_ms": 1719855445220,
+      "content": "I want to sell land",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00f0\u009d\u0098\u00bc\u00f0\u009d\u0099\u00a8\u00f0\u009d\u0099\u009d\u00f0\u009d\u0099\u00ac\u00f0\u009d\u0099\u009e\u00f0\u009d\u0099\u00a3 \u00f0\u009d\u0099\u008e\u00f0\u009d\u0099\u009d\u00f0\u009d\u0099\u009e\u00f0\u009d\u0099\u00ab\u00f0\u009d\u0099\u0096\u00f0\u009d\u0099\u00a1\u00f0\u009d\u0099\u009a",
+  "is_still_participant": true,
+  "thread_path": "inbox/ashwinshivale_1429456948443581",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Garfield Soares"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Garfield Soares",
+      "timestamp_ms": 1721964997079,
+      "content": "Noted. Thank you for the update.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721964247953,
+      "content": "We currently only operate in telangana. \n\nWill keep you posted when we launch in other states",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Garfield Soares",
+      "timestamp_ms": 1721897880468,
+      "content": "Hello. I am looking for around 1000-1500 sq mts of Agricultural Land in Goa.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Garfield Soares",
+  "is_still_participant": true,
+  "thread_path": "inbox/garfieldsoares_1437831470944006",
+  "magic_words": [
+    
+  ]
+}

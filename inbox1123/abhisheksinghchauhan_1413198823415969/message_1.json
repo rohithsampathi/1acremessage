@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Abhishek Singh Chauhan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723556293702,
+      "content": "Hi, Please contact Srikar 8341149011, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhishek Singh Chauhan",
+      "timestamp_ms": 1723553601542,
+      "content": "Manchirevula",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhishek Singh Chauhan",
+      "timestamp_ms": 1723553576015,
+      "content": "I would like to enquire about the 1450sqyd plot",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhishek Singh Chauhan",
+      "timestamp_ms": 1723553557152,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Abhishek Singh Chauhan",
+  "is_still_participant": true,
+  "thread_path": "inbox/abhisheksinghchauhan_1413198823415969",
+  "magic_words": [
+    
+  ]
+}

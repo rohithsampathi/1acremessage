@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Srimanu Sfi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Srimanu Sfi",
+      "timestamp_ms": 1721228976872,
+      "content": "Sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srimanu Sfi",
+      "timestamp_ms": 1721228968178,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721223385047,
+      "content": "Hi, Please talk to Sandeep 9005464412, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srimanu Sfi",
+      "timestamp_ms": 1721222711789,
+      "content": "I'm interested to join in 1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "I'm interested to join in 1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721221603635,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srimanu Sfi",
+      "timestamp_ms": 1721219555115,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Srimanu Sfi",
+  "is_still_participant": true,
+  "thread_path": "inbox/srimanusfi_1451293596271213",
+  "magic_words": [
+    
+  ]
+}

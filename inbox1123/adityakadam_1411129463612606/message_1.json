@@ -1,0 +1,70 @@
+{
+  "participants": [
+    {
+      "name": "Aditya Kadam"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aditya Kadam",
+      "timestamp_ms": 1720256138919,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720256127197,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aditya Kadam",
+      "timestamp_ms": 1720256110522,
+      "content": "Maharashtra Latur",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aditya Kadam",
+      "timestamp_ms": 1720256077037,
+      "content": "https://maps.app.goo.gl/4Ta8dsJjtTXEGeLM8?g_st=iw",
+      "share": {
+        "link": "https://maps.app.goo.gl/4Ta8dsJjtTXEGeLM8?g_st=iw",
+        "share_text": "https://maps.app.goo.gl/4Ta8dsJjtTXEGeLM8?g_st=iw"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720253549272,
+      "content": "Could you send location?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aditya Kadam",
+      "timestamp_ms": 1720252776086,
+      "content": "22lakh per ac",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aditya Kadam",
+      "timestamp_ms": 1720252756260,
+      "content": "I have five acres land to sell",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aditya Kadam",
+      "timestamp_ms": 1720252733707,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Aditya Kadam",
+  "is_still_participant": true,
+  "thread_path": "inbox/adityakadam_1411129463612606",
+  "magic_words": [
+    
+  ]
+}

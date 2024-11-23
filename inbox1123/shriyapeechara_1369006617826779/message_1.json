@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Shriya Peechara"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shriya Peechara",
+      "timestamp_ms": 1711196707334,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711178104637,
+      "content": "Hi, Please contact Ramakrishna \n7780122120, from the team. He'll help you with it.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Shriya Peechara",
+          "timestamp": 1711196707
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shriya Peechara",
+      "timestamp_ms": 1711175708463,
+      "content": "Hello is it available?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shriya Peechara",
+      "timestamp_ms": 1711175708112,
+      "content": "Shriya sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C2fBgsWSEGA/?id=3287352897691992448_47651711013",
+        "share_text": "1 acre 4 guntas agricultural land inside gated HMDA approved layout ,\n15 km from Shadnagar highway \nphysically verified by 1acre.in.\nQuoted price:3.36 per acre \nContact:1acre.in,9390674324",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shriya Peechara",
+  "is_still_participant": true,
+  "thread_path": "inbox/shriyapeechara_1369006617826779",
+  "magic_words": [
+    
+  ]
+}

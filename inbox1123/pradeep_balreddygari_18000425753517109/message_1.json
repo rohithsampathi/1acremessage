@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "pradeep_balreddygari"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "pradeep_balreddygari",
+      "timestamp_ms": 1704129822921,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704113851904,
+      "content": "Hi, Please contact Vijay \n7780122120",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "pradeep_balreddygari",
+      "timestamp_ms": 1704112102491,
+      "content": "Our land is for sale in near kadthal",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704085042690,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "pradeep_balreddygari",
+      "timestamp_ms": 1704062369378,
+      "content": "Hie",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "pradeep_balreddygari",
+  "is_still_participant": true,
+  "thread_path": "inbox/pradeep_balreddygari_18000425753517109",
+  "magic_words": [
+    
+  ]
+}

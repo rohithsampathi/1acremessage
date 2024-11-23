@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "D J"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "D J",
+      "timestamp_ms": 1715088351638,
+      "content": "Thanks will get in touch",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715088181871,
+      "content": "Hi, this is Ratna Kiran's number\n9390155412\nThanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "D J",
+      "timestamp_ms": 1715087909980,
+      "content": "We are from Lodha",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "D J",
+      "timestamp_ms": 1715087902743,
+      "content": "Please share you address we want to reach you out for business opportunity",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715087833997,
+      "content": "May I know regarding what?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "D J",
+      "timestamp_ms": 1715086379159,
+      "content": "Hi how can we reach out to you",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "D J",
+  "is_still_participant": true,
+  "thread_path": "inbox/dj_1286961259358934",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Darshan Revgade"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Darshan Revgade",
+      "timestamp_ms": 1729844830168,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729837225621,
+      "content": "Content views and engagement really depends a lot on context. \n\nIf you keep making good content, you will get trust and brings you customers in long term. \n\nWe get some high intent leads for a particular land video but the most of the times its very unreliable and not enough to make any transaction. You always need to have more reliable sources to get leads",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Darshan Revgade",
+          "timestamp": 1729844830
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Darshan Revgade",
+      "timestamp_ms": 1729833022778,
+      "content": "It would be very helpful if you reply",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Darshan Revgade",
+      "timestamp_ms": 1729833011748,
+      "content": "I am starting real estate broking in Maharashtra so I want to get an idea how many customers can we get through Instagram",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Darshan Revgade",
+      "timestamp_ms": 1729650312999,
+      "content": "How many customers do you get from Instagram who actually pay to buy the land",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Darshan Revgade",
+  "is_still_participant": true,
+  "thread_path": "inbox/darshanrevgade_18025332641591014",
+  "magic_words": [
+    
+  ]
+}

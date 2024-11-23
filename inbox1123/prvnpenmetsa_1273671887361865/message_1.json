@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Prvn Penmetsa"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Prvn Penmetsa",
+      "timestamp_ms": 1701761727251,
+      "content": "+919849626273",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701757812582,
+      "content": "Yes we have , can we have your contact number our team will connect with you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prvn Penmetsa",
+      "timestamp_ms": 1701717859962,
+      "content": "Ping me if you have lands around Hyderabad\u00e2\u0080\u00a6 in acres mostly.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Prvn Penmetsa",
+  "is_still_participant": true,
+  "thread_path": "inbox/prvnpenmetsa_1273671887361865",
+  "magic_words": [
+    
+  ]
+}

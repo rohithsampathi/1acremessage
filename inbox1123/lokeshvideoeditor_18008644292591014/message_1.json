@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "LOKESH | Video Editor"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718028964583,
+      "content": "Hi, Please talk to Sandeep 9005464412, from the team",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "LOKESH | Video Editor",
+      "timestamp_ms": 1718026437947,
+      "content": "Hello there, I'm Lokesh, I'm a freelance video editor and a graphic designer, I can edit your reels and YouTube videos in a more engaging  and better way, you can give me an opportunity.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "LOKESH | Video Editor",
+  "is_still_participant": true,
+  "thread_path": "inbox/lokeshvideoeditor_18008644292591014",
+  "magic_words": [
+    
+  ]
+}

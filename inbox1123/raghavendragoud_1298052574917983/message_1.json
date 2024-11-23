@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "@Raghavendra Goud"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703221517704,
+      "content": "you can connect with pratheek  9390674324,",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "@Raghavendra Goud",
+      "timestamp_ms": 1703217252343,
+      "content": "Hello \nMy self raghavendra \nI have couple of lands in chevella location \nI am agreement holder",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "@Raghavendra Goud",
+  "is_still_participant": true,
+  "thread_path": "inbox/raghavendragoud_1298052574917983",
+  "magic_words": [
+    
+  ]
+}

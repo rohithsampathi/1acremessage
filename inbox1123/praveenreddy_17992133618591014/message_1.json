@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Praveen Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705634298099,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Praveen Reddy",
+      "timestamp_ms": 1705630754026,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Praveen Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/praveenreddy_17992133618591014",
+  "magic_words": [
+    
+  ]
+}

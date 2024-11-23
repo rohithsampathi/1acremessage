@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "neha singh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "neha singh",
+      "timestamp_ms": 1704353808527,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704352154003,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "neha singh",
+      "timestamp_ms": 1704350673064,
+      "content": "This one could please let me know details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "neha singh",
+      "timestamp_ms": 1704350655540,
+      "content": "neha sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C1phjLHyPvy/?id=3272294156919700466_47651711013",
+        "share_text": "Missed the bus in Telangana. \nA lot of us have this feeling - We missed the bus in Telangana. We share that feeling with you. We wanted to find the next growth pockets and spent the last one year venturing out, researching and buying some lands (registering them). We aspire to aquire 1000 acres and would want to expand it to 5000 acres if others want to join in. Ping us, if you want to pick AT LEAST 100 acres at 2.5-4 lakh per acre. We\u00e2\u0080\u0099ll see how we can accommodate.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "neha singh",
+      "timestamp_ms": 1704350639761,
+      "content": "Which you have recently uploaded a video",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "neha singh",
+      "timestamp_ms": 1704350628247,
+      "content": "Greetings,\nThis is Neha Singh here, want to know more details about Acre land",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "neha singh",
+  "is_still_participant": true,
+  "thread_path": "inbox/nehasingh_18010045253151207",
+  "magic_words": [
+    
+  ]
+}

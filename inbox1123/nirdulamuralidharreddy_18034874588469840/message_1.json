@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "NIRDULA MURALIDHAR REDDY"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729239370526,
+      "content": "How can we help you !",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "NIRDULA MURALIDHAR REDDY",
+      "timestamp_ms": 1727693219792,
+      "content": "NIRDULA sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DAdiWBsyusS/?id=3467078335380253458_47651711013",
+        "share_text": "We hope this video helps in understanding FTL & buffer zones.\n\nDM us if you need more details and we will try to help you the best we can. \n\nDo comment what you think about the current situation with HYDRA. \n\n#hyderabad #realestate #hydra #demolition #land #lake",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "NIRDULA MURALIDHAR REDDY",
+      "timestamp_ms": 1727693215849,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "NIRDULA MURALIDHAR REDDY",
+  "is_still_participant": true,
+  "thread_path": "inbox/nirdulamuralidharreddy_18034874588469840",
+  "magic_words": [
+    
+  ]
+}

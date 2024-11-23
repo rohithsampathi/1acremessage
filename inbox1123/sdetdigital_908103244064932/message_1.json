@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "SDET DIGITAL"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "SDET DIGITAL",
+      "timestamp_ms": 1706694016773,
+      "content": "thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SDET DIGITAL",
+      "timestamp_ms": 1706694007914,
+      "content": "ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706691867708,
+      "content": "No",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SDET DIGITAL",
+      "timestamp_ms": 1706656593312,
+      "content": "If so I am interested",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SDET DIGITAL",
+      "timestamp_ms": 1706656587410,
+      "content": "https://www.instagram.com/reel/C2u6BTNSDqw/?igsh=MTEyYWQ3eHE1YXZ2aA==",
+      "share": {
+        "link": "https://www.instagram.com/reel/C2u6BTNSDqw/?igsh=MTEyYWQ3eHE1YXZ2aA==",
+        "share_text": "https://www.instagram.com/reel/C2u6BTNSDqw/?igsh=MTEyYWQ3eHE1YXZ2aA=="
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SDET DIGITAL",
+      "timestamp_ms": 1706656584868,
+      "content": "Hi Does this plot gets loan",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "SDET DIGITAL",
+  "is_still_participant": true,
+  "thread_path": "inbox/sdetdigital_908103244064932",
+  "magic_words": [
+    
+  ]
+}

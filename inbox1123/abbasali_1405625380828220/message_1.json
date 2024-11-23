@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Abbas Ali"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721279132290,
+      "content": "Hi, Please contact Bharath \n7780122120",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721279083681,
+      "content": "You can list them on 1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "You can list them on 1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abbas Ali",
+      "timestamp_ms": 1721277644335,
+      "content": "I am the owner of the plots",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abbas Ali",
+      "timestamp_ms": 1721277634644,
+      "content": "I have open plot for sale in Kapra and Cheeriyal",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Abbas Ali",
+  "is_still_participant": true,
+  "thread_path": "inbox/abbasali_1405625380828220",
+  "magic_words": [
+    
+  ]
+}

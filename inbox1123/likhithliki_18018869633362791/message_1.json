@@ -1,0 +1,76 @@
+{
+  "participants": [
+    {
+      "name": "Likhith Liki"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Likhith Liki",
+      "timestamp_ms": 1718352443117,
+      "content": "You have another phone number sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Likhith Liki",
+      "timestamp_ms": 1718352414160,
+      "content": "Will send documents in Instagram sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718080675838,
+      "content": "At 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "At 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Likhith Liki",
+      "timestamp_ms": 1718080657457,
+      "content": "Karnataka",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718080641704,
+      "content": "Is the land in Telangana?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Likhith Liki",
+      "timestamp_ms": 1718080591843,
+      "content": "Sir phone number send will details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718078518028,
+      "content": "Could you tell us the details? \nLocation, price & extent",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Likhith Liki",
+      "timestamp_ms": 1718071901418,
+      "content": "We have property sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Likhith Liki",
+      "timestamp_ms": 1718071874697,
+      "content": "Hi sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Likhith Liki",
+  "is_still_participant": true,
+  "thread_path": "inbox/likhithliki_18018869633362791",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Jagan Gillala"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723719539264,
+      "content": "May we know what are you looking for so we can connect you to right person",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723719514869,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jagan Gillala",
+      "timestamp_ms": 1723716652340,
+      "content": "Call",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Jagan Gillala",
+  "is_still_participant": true,
+  "thread_path": "inbox/jagangillala_1471118574281570",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Gopinath"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gopinath",
+      "timestamp_ms": 1705287650384,
+      "content": "Gopinath sent an attachment.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gopinath",
+      "timestamp_ms": 1704076063576,
+      "content": "Gopinath sent an attachment.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Gopinath",
+  "is_still_participant": true,
+  "thread_path": "inbox/gopinath_17861536143072186",
+  "magic_words": [
+    
+  ]
+}

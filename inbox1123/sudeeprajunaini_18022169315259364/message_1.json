@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Sudeep Raju Naini"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719302383941,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719302383250,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sudeep Raju Naini",
+      "timestamp_ms": 1719301463813,
+      "content": "My number 8328458607",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sudeep Raju Naini",
+      "timestamp_ms": 1719301447189,
+      "content": "Need development sites \u00ef\u00bf\u00bc",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sudeep Raju Naini",
+      "timestamp_ms": 1719301430990,
+      "content": "Sir I\u00e2\u0080\u0099m from vikarabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sudeep Raju Naini",
+      "timestamp_ms": 1719301412084,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sudeep Raju Naini",
+  "is_still_participant": true,
+  "thread_path": "inbox/sudeeprajunaini_18022169315259364",
+  "magic_words": [
+    
+  ]
+}

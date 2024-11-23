@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Vijay Krishna A"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709715464608,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vijay Krishna A",
+      "timestamp_ms": 1709709383266,
+      "content": "Sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vijay Krishna A",
+      "timestamp_ms": 1709709382276,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vijay Krishna A",
+  "is_still_participant": true,
+  "thread_path": "inbox/vijaykrishnaa_1304995067558579",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Vishnu Varma M"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704085027518,
+      "content": "Hi, how can we help?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishnu Varma M",
+      "timestamp_ms": 1704069149506,
+      "content": "Vishnu sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C1dru2NtM89/?id=3268961239848767293_47651711013",
+        "share_text": "Free for Buyers & Sellers\n\nWe have reached 1600+ verified listings on 1acre.in. Soon, we\u00e2\u0080\u0099ll reach 10,000. \nSellers can list their listing for FREE. Buyers can access all the data for FREE too. And if you like any land, you can call the seller directly. Only if you want our hand holding, in your land investment process, you can subscribe to 1acre.in premium.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vishnu Varma M",
+  "is_still_participant": true,
+  "thread_path": "inbox/vishnuvarmam_18010856762149093",
+  "magic_words": [
+    
+  ]
+}

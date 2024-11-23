@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "UrbanProp\u00f0\u009f\u008f\u0099\u00ef\u00b8\u008f"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "UrbanProp\u00f0\u009f\u008f\u0099\u00ef\u00b8\u008f",
+      "timestamp_ms": 1723520479190,
+      "content": "UrbanProp\u00f0\u009f\u008f\u0099\u00ef\u00b8\u008f sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C-mCa9jPfFq/?id=3433442414805512554_57817500230",
+        "share_text": "#realestate #reels #realestate #protools #free #freeadvertising #freefire #trending #trendingreels #trend #followforfollowback",
+        "original_content_owner": "urbanprop5"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718991696209,
+      "content": "How can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718991689060,
+      "content": "Hello there !",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "UrbanProp\u00f0\u009f\u008f\u0099\u00ef\u00b8\u008f",
+      "timestamp_ms": 1718988729670,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "UrbanProp\u00f0\u009f\u008f\u0099\u00ef\u00b8\u008f",
+  "is_still_participant": true,
+  "thread_path": "inbox/urbanprop_18009980420591014",
+  "magic_words": [
+    
+  ]
+}

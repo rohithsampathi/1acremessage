@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "oogway"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721390597141,
+      "content": "Hi, Please talk to Sandeep 9005464412, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "oogway",
+      "timestamp_ms": 1721389775219,
+      "content": "Hello, can i know more details of this job opening?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "oogway",
+      "timestamp_ms": 1721389774180,
+      "content": "oogway sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C9UBLDXtmaU/?carousel_share_child_media_id=3410355958192799596_47651711013",
+        "share_text": "",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "oogway",
+  "is_still_participant": true,
+  "thread_path": "inbox/oogway_18017863130379370",
+  "magic_words": [
+    
+  ]
+}

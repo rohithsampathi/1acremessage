@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Anand Patel"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anand Patel",
+      "timestamp_ms": 1731220824958,
+      "content": "hi\nmy uncle's land is for sale near to jogipet mandal in telangana",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Anand Patel",
+  "is_still_participant": true,
+  "thread_path": "inbox/anandpatel_1546214986773631",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Amit Kunchamwar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Amit Kunchamwar",
+      "timestamp_ms": 1721634126749,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721633758046,
+      "content": "He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721633749043,
+      "content": "From the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721633744729,
+      "content": "Hi, Please contact Srikar\n8341149011",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Amit Kunchamwar",
+      "timestamp_ms": 1721623574399,
+      "content": "Can you please share some more details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Amit Kunchamwar",
+      "timestamp_ms": 1721623555745,
+      "content": "You have mentioned about one property which is located At Telangana and maharashtra border",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721623430180,
+      "content": "Hello Amit",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Amit Kunchamwar",
+      "timestamp_ms": 1721622150048,
+      "content": "Hi, Amit is this side",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Amit Kunchamwar",
+  "is_still_participant": true,
+  "thread_path": "inbox/amitkunchamwar_1435341021201233",
+  "magic_words": [
+    
+  ]
+}

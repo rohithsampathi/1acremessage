@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "$h\u00e2\u0082\u00ac$h|]@\u00c2\u00ae"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "$h\u00e2\u0082\u00ac$h|]@\u00c2\u00ae",
+      "timestamp_ms": 1701128117140,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701093951371,
+      "content": "You can contact to Vijay, 80-74450533, he can help you with your enquiries.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "$h\u00e2\u0082\u00ac$h|]@\u00c2\u00ae",
+      "timestamp_ms": 1701090167760,
+      "content": "Any property which are near to Hyderabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701066409895,
+      "content": "Hy Shashi, can you just mention about which property you are describing?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "$h\u00e2\u0082\u00ac$h|]@\u00c2\u00ae",
+      "timestamp_ms": 1701042446386,
+      "content": "Location please",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "$h\u00e2\u0082\u00ac$h|]@\u00c2\u00ae",
+  "is_still_participant": true,
+  "thread_path": "inbox/hhr_17985126617591014",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Bobby Dev"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bobby Dev",
+      "timestamp_ms": 1710525882191,
+      "content": "As a partner",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bobby Dev",
+      "timestamp_ms": 1710525870665,
+      "content": "Thank you\nWe will also like to join u",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710525838895,
+      "content": "Currently, we are listing only Telangana.\nWe'll soon list Maharashtra. Will keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bobby Dev",
+      "timestamp_ms": 1710525025584,
+      "content": "I am from Mumbai India",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bobby Dev",
+      "timestamp_ms": 1710525014362,
+      "content": "Hello hru \nWe are interested to join your team.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Bobby Dev",
+  "is_still_participant": true,
+  "thread_path": "inbox/bobbydev_1337428697652409",
+  "magic_words": [
+    
+  ]
+}

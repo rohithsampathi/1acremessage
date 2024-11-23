@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "anjali"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719157728506,
+      "content": "Hi, we ate only listing Telangana currently.\nWe'll start Karnataka soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "anjali",
+      "timestamp_ms": 1719157354436,
+      "content": "I want land or plot in Bangalore Central",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718950588927,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "anjali",
+      "timestamp_ms": 1718948174810,
+      "content": "Hyy",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "anjali",
+  "is_still_participant": true,
+  "thread_path": "inbox/anjali_1396606145064835",
+  "magic_words": [
+    
+  ]
+}

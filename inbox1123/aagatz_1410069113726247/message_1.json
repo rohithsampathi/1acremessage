@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Aagat Z"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716632378845,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716632374954,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aagat Z",
+      "timestamp_ms": 1716631827446,
+      "content": "Does it comes under Maharashtra?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aagat Z",
+      "timestamp_ms": 1716631523577,
+      "content": "Hello can I get to know the exact location of tipeshwar land?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Aagat Z",
+  "is_still_participant": true,
+  "thread_path": "inbox/aagatz_1410069113726247",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Pavan Allena"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pavan Allena",
+      "timestamp_ms": 1709351778723,
+      "content": "Sure.. \n9490767676 is my number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709351743107,
+      "content": "Hi, regarding the premium, I'll have the team call you. Plz give your number. Ideally, you should get access to the premium page, if you are logged-in. \nAnd regarding the Anantagiri, Please call Ratna Kiran \n9390155412. He'll help you with the necessary information.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pavan Allena",
+      "timestamp_ms": 1709350824750,
+      "content": "I\u00e2\u0080\u0099m interested in that Anantagiri half acre plot",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pavan Allena",
+      "timestamp_ms": 1709350797878,
+      "content": "But unable to track the benefits",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pavan Allena",
+      "timestamp_ms": 1709350792271,
+      "content": "I have taken the premium membership a while ago",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pavan Allena",
+      "timestamp_ms": 1709350782456,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Pavan Allena",
+  "is_still_participant": true,
+  "thread_path": "inbox/pavanallena_1314062259993250",
+  "magic_words": [
+    
+  ]
+}

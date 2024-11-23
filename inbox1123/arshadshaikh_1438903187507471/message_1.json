@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Arshad Shaikh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717815415034,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team. \nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Arshad Shaikh",
+      "timestamp_ms": 1717814711889,
+      "content": "Arshad sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C7ys9k7Srbf/?id=3382964015692691167_47651711013",
+        "share_text": "2 acres | \u00e2\u0082\u00b95 Cr | Lakeview | Anantagiri Hills | Link in bio \u00f0\u009f\u008c\u009f\n\n- Verified and Facilitated by 1acre.in \n- Permissions for a 5-floor, 100-room lake view resort\n- Prime location near Vikarabad, perfect for a getaway\n\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 9959994737",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Arshad Shaikh",
+  "is_still_participant": true,
+  "thread_path": "inbox/arshadshaikh_1438903187507471",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Chakith Rao"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Chakith Rao",
+      "timestamp_ms": 1706550887494,
+      "content": "\u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706548389015,
+      "content": "Yes he can, but we are looking for people who can take upto 100 acres, at this stage. Smaller chunks won't be workable as of today.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chakith Rao",
+      "timestamp_ms": 1706538977339,
+      "content": "So legally he can buy in maharastra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chakith Rao",
+      "timestamp_ms": 1706538957412,
+      "content": "Hello , i have your video on maharastra lands .. can i buy 5 acres from you ? My father already have some agriculture lands in telangana",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Chakith Rao",
+  "is_still_participant": true,
+  "thread_path": "inbox/chakithrao_1323842512348139",
+  "magic_words": [
+    
+  ]
+}

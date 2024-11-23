@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Zidan Pathan (\u00d8\u00b2\u00d9\u008a\u00d8\u00af\u00d8\u00a7\u00d9\u0086 \u00d9\u00be\u00d9\u00b9\u00da\u00be\u00d8\u00a7\u00d9\u0086)"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720283484212,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Zidan Pathan (\u00d8\u00b2\u00d9\u008a\u00d8\u00af\u00d8\u00a7\u00d9\u0086 \u00d9\u00be\u00d9\u00b9\u00da\u00be\u00d8\u00a7\u00d9\u0086)",
+      "timestamp_ms": 1720282464849,
+      "content": "Near nashik do you have any farm land??",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00e2\u0080\u008eZidan Pathan (\u00d8\u00b2\u00d9\u008a\u00d8\u00af\u00d8\u00a7\u00d9\u0086 \u00d9\u00be\u00d9\u00b9\u00da\u00be\u00d8\u00a7\u00d9\u0086)\u00e2\u0080\u008e",
+  "is_still_participant": true,
+  "thread_path": "inbox/zidanpathanzydanpan_1415139819880326",
+  "magic_words": [
+    
+  ]
+}

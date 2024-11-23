@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Lahari Dasyam"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lahari Dasyam",
+      "timestamp_ms": 1708666901076,
+      "content": "Thank you !",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708666871656,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412, he'll help you out.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lahari Dasyam",
+      "timestamp_ms": 1708666815303,
+      "content": "How do I proceed ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lahari Dasyam",
+      "timestamp_ms": 1708666775925,
+      "content": "I am interested in this.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lahari Dasyam",
+      "timestamp_ms": 1708666720133,
+      "content": "Lahari sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C3rKRYASSu6/?id=3308783525704575930_47651711013",
+        "share_text": "\u00f0\u009f\u008c\u00be Explore prime agricultural land! Today, we\u00e2\u0080\u0099re featuring a 40-acre plot in Yavatmal, Maharashtra, just 400 km from Hyderabad. With fertile soil and irrigation access, this land is a farmer\u00e2\u0080\u0099s paradise. Located only 2 km from the state highway, with a short kacha road leading to it, it\u00e2\u0080\u0099s easily accessible. Priced at seven lakhs per acre and situated just 30 km from the Samridi Expressway, this opportunity is ripe for investment. All legal documentation is verified by 1acre.in Contact us now to seize this opportunity! \u00f0\u009f\u009a\u009c\u00f0\u009f\u0092\u00b0 #YavatmalLand #FertileAcres #AgriculturalInvestment #OneacreOpportunity \u00f0\u009f\u008c\u00b1",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Lahari Dasyam",
+  "is_still_participant": true,
+  "thread_path": "inbox/laharidasyam_17996180696591014",
+  "magic_words": [
+    
+  ]
+}

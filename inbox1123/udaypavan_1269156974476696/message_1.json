@@ -1,0 +1,96 @@
+{
+  "participants": [
+    {
+      "name": "Uday Pavan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701674662393,
+      "content": "Hy Uday you will receive call today.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Uday Pavan",
+      "timestamp_ms": 1701611499347,
+      "content": "Any call today",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Uday Pavan",
+      "timestamp_ms": 1701611494923,
+      "content": "Haven't received",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701570491774,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Uday Pavan",
+      "timestamp_ms": 1701528856856,
+      "content": "We are looking for 2 acres",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Uday Pavan",
+      "timestamp_ms": 1701528845852,
+      "content": "We would be interested",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Uday Pavan",
+      "timestamp_ms": 1701528840417,
+      "content": "Alright",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701528030148,
+      "content": "Yes , our team will connect with you shortly",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Uday Pavan",
+      "timestamp_ms": 1701528001475,
+      "content": "Is it farm land ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Uday Pavan",
+      "timestamp_ms": 1701527988806,
+      "content": "9666646106",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701527977156,
+      "content": "Yes, can we have your contact number.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Uday Pavan",
+      "timestamp_ms": 1701527950415,
+      "content": "?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Uday Pavan",
+      "timestamp_ms": 1701527949035,
+      "content": "Can we get one acre land within 10 to 15 lakhs",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Uday Pavan",
+  "is_still_participant": true,
+  "thread_path": "inbox/udaypavan_1269156974476696",
+  "magic_words": [
+    
+  ]
+}

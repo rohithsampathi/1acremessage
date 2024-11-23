@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Ravi Rao"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704629918281,
+      "content": "Yes, 2.5-4. A minium of 100 acres.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravi Rao",
+      "timestamp_ms": 1704628895686,
+      "content": "You were indicating \u00e2\u0082\u00b92lakhs / acre in the reel is  it near Maharashtra?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704595409955,
+      "content": "Where 1 acre?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravi Rao",
+      "timestamp_ms": 1704562111770,
+      "content": "Quick question can I buy only 1 acre land? What\u00e2\u0080\u0099s the price as on date? Are these lands are under which municipal authority? Permissions and clear title?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ravi Rao",
+  "is_still_participant": true,
+  "thread_path": "inbox/ravirao_1266155598109630",
+  "magic_words": [
+    
+  ]
+}

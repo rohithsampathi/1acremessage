@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Lokesh Chakravarthi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lokesh Chakravarthi",
+      "timestamp_ms": 1729250593141,
+      "content": "Pls let me know",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729239610610,
+      "content": "Not yet \n\nWe hope to have more listings in tirupati soon",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lokesh Chakravarthi",
+      "timestamp_ms": 1727679325446,
+      "content": "Do u have anything around tirupati ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Lokesh Chakravarthi",
+  "is_still_participant": true,
+  "thread_path": "inbox/lokeshchakravarthi_18032030765465766",
+  "magic_words": [
+    
+  ]
+}

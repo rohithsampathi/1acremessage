@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Rohan Singhai \u00f0\u009f\u00a7\u00bf"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707871289950,
+      "content": "Hi, may I know what you are looking for?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rohan Singhai \u00f0\u009f\u00a7\u00bf",
+      "timestamp_ms": 1707855024110,
+      "content": "Please share contact details ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rohan Singhai \u00f0\u009f\u00a7\u00bf",
+  "is_still_participant": true,
+  "thread_path": "inbox/rohansinghai_1254120972643098",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Praveen Yadav"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Praveen Yadav",
+      "timestamp_ms": 1707711554992,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707711458231,
+      "content": "Thanks for reaching out. We don't market/list layouts/plots.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Praveen Yadav",
+      "timestamp_ms": 1707709755584,
+      "content": "Dtcp layouts unnai mave",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Praveen Yadav",
+      "timestamp_ms": 1707709739452,
+      "content": "Site unnai",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707631875249,
+      "content": "Hi, sure. May I know what you are looking for? I'll connect someone from the team accordingly.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Praveen Yadav",
+      "timestamp_ms": 1707629730469,
+      "content": "Mi number send cheyandi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Praveen Yadav",
+  "is_still_participant": true,
+  "thread_path": "inbox/praveenyadav_1332060624860774",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Kabir"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kabir",
+      "timestamp_ms": 1699855614355,
+      "content": "Hello,\u00c2\u00a0\n\n\n\u00c2\u00a0 \u00c2\u00a0 \u00c2\u00a0 \u00c2\u00a0 \u00c2\u00a0 Thank you for choosing to collaborate with us. You can contact me on whatsapp/call for further communication.\n\nContact Number : +91 8179385673\n\nInstagram Reel + Youtube Short \nCollab Charges: 9k\n\nRegards\u00c2\u00a0\nkabir vlogs",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697269815110,
+      "content": "Hello Kabir, can we collaborate for a reel?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kabir",
+  "is_still_participant": true,
+  "thread_path": "inbox/kabir_871890304274868",
+  "magic_words": [
+    
+  ]
+}

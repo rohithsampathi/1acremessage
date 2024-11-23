@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Raja Shekar Rukmini"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716353785226,
+      "content": "Hi, currently we are listing only Telangana, will soon list Karnataka. Will keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raja Shekar Rukmini",
+      "timestamp_ms": 1716301782892,
+      "videos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/rajashekarrukmini_1383770933015784/videos/436230179_6970513106383219_4040407334405788326_n_1340555519945820.mp4",
+          "creation_timestamp": 1716301769,
+          "backup_uri": "https://video.fmaa12-2.fna.fbcdn.net/v/t42.3356-2/436230179_6970513106383219_4040407334405788326_n.mp4?_nc_cat=110&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=7N-ITalvkLIQ7kNvgHfQfEm&_nc_zt=28&_nc_ht=video.fmaa12-2.fna&_nc_gid=A8BGZRO9WXTOLVr2ZHmrpyD&oh=03_Q7cD1QFfWxI6wDJ8vBVTrBNk7aTtGkXDW7292CsXxCBJb7Zo7Q&oe=6741363F&dl=1"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raja Shekar Rukmini",
+      "timestamp_ms": 1716301608745,
+      "content": "I have 10 acre property facing the back waters of harobelle dam near kankapura, to be sold",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716301235993,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raja Shekar Rukmini",
+      "timestamp_ms": 1716299537216,
+      "content": "You missed a video chat",
+      "call_duration": 0,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raja Shekar Rukmini",
+      "timestamp_ms": 1716299534134,
+      "content": "propprompt started a video chat",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Raja Shekar Rukmini",
+  "is_still_participant": true,
+  "thread_path": "inbox/rajashekarrukmini_1383770933015784",
+  "magic_words": [
+    
+  ]
+}

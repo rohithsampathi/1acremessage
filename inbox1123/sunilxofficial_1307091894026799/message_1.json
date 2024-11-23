@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "SUNIL X OFFICIAL"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "SUNIL X OFFICIAL",
+      "timestamp_ms": 1713011040449,
+      "content": "K tqqq",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713010696350,
+      "content": "Probably by next month.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713010678476,
+      "content": "Hi, thanks for reaching out. We will be launching Karnataka soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SUNIL X OFFICIAL",
+      "timestamp_ms": 1713008347631,
+      "content": "From karanataka",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SUNIL X OFFICIAL",
+      "timestamp_ms": 1713008340432,
+      "content": "I am interested",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713008327851,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SUNIL X OFFICIAL",
+      "timestamp_ms": 1713007036373,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "SUNIL X OFFICIAL",
+  "is_still_participant": true,
+  "thread_path": "inbox/sunilxofficial_1307091894026799",
+  "magic_words": [
+    
+  ]
+}

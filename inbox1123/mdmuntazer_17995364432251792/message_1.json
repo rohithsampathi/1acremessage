@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Md Muntazer"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697269421363,
+      "content": "Hey, can we collaborate for a reel?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Md Muntazer",
+  "is_still_participant": true,
+  "thread_path": "inbox/mdmuntazer_17995364432251792",
+  "magic_words": [
+    
+  ]
+}

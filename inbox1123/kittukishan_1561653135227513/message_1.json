@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Kittu Kishan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731150999312,
+      "content": "Hello \nHow can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kittu Kishan",
+      "timestamp_ms": 1731123829156,
+      "content": "Hello sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kittu Kishan",
+  "is_still_participant": true,
+  "thread_path": "inbox/kittukishan_1561653135227513",
+  "magic_words": [
+    
+  ]
+}

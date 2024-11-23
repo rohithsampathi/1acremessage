@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Abdul Waheed shaik"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Abdul Waheed shaik",
+      "timestamp_ms": 1721762138343,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721749668080,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721749667282,
+      "content": "Hi, Please contact Vijay 9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abdul Waheed shaik",
+      "timestamp_ms": 1721747671973,
+      "content": "I want sell my commercial layout plots",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Abdul Waheed shaik",
+  "is_still_participant": true,
+  "thread_path": "inbox/abdulwaheedshaik_18005145938630287",
+  "magic_words": [
+    
+  ]
+}

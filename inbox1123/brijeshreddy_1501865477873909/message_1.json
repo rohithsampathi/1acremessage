@@ -1,0 +1,85 @@
+{
+  "participants": [
+    {
+      "name": "Brijesh Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730955523204,
+      "content": "Meanwhile you can check 1acre.in for more lands in amaravati",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Meanwhile you can check 1acre.in for more lands in amaravati"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730955502374,
+      "content": "We have posted before \nPosting more everyday",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Brijesh Reddy",
+      "timestamp_ms": 1730906223788,
+      "content": "But you haven\u00e2\u0080\u0099t posted anything yet",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3495199295807211213"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Brijesh Reddy",
+      "timestamp_ms": 1728536115662,
+      "content": "Ok thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728503827922,
+      "content": "Please contact our team member ,pavan, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Brijesh Reddy",
+      "timestamp_ms": 1728496711521,
+      "content": "We have some land near Vijayawada / close to Amaravati and might sell in future",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Brijesh Reddy",
+      "timestamp_ms": 1728496658462,
+      "content": "Not in AP too?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728269388239,
+      "content": "We currently only operate in telangana and recently launched in karnataka \n\nWill keep you posted when we have enough listings in that area",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Brijesh Reddy",
+      "timestamp_ms": 1728196859842,
+      "content": "If yes, what\u00e2\u0080\u0099s the average price there ? \n\nmain road facing, inside",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Brijesh Reddy",
+      "timestamp_ms": 1728196813492,
+      "content": "Hello. Have anything in Hoskote?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Brijesh Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/brijeshreddy_1501865477873909",
+  "magic_words": [
+    
+  ]
+}

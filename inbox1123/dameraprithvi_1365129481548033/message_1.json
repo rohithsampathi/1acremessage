@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Damera Prithvi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711125016118,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Damera Prithvi",
+      "timestamp_ms": 1711107951798,
+      "content": "Hey how much is the 100 acres bit that you are mentioning in the video. Can we take 50 acres",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Damera Prithvi",
+  "is_still_participant": true,
+  "thread_path": "inbox/dameraprithvi_1365129481548033",
+  "magic_words": [
+    
+  ]
+}

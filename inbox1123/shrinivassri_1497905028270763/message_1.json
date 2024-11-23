@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Shrinivas Sri"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726488470390,
+      "content": "Kindly check your WhatsApp.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shrinivas Sri",
+      "timestamp_ms": 1726487356479,
+      "content": "Srinivas 8977044117",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726487248846,
+      "content": "Okay. Kindly share your mobile number here. Srikar from our team will get in touch with you shortly.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shrinivas Sri",
+      "timestamp_ms": 1726486904940,
+      "content": "I have an Cashew Farm land In Narsipatnam 60Cents  trying to Sell",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726486846730,
+      "content": "Let us know how we can help you today",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726486818100,
+      "content": "Hi Mr Shrinivas",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shrinivas Sri",
+      "timestamp_ms": 1726486413168,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shrinivas Sri",
+  "is_still_participant": true,
+  "thread_path": "inbox/shrinivassri_1497905028270763",
+  "magic_words": [
+    
+  ]
+}

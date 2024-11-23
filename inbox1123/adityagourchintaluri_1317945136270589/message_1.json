@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Aditya Gour Chintaluri"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703661090998,
+      "content": "Hi , you can connect with pratheek  9390674324,",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aditya Gour Chintaluri",
+      "timestamp_ms": 1703655963507,
+      "content": "Hello, do you just offer lands (acres of lands ) or you also sell customer sites ? I do have a residential land in Shameerpet and wondering if you can market and sell it. My goal is to use that money and buy lands around Hyderabad. Potentially from 1acer.in",
+      "share": {
+        "link": "http://1acer.in/",
+        "share_text": "Hello, do you just offer lands (acres of lands ) or you also sell customer sites ? I do have a residential land in Shameerpet and wondering if you can market and sell it. My goal is to use that money and buy lands around Hyderabad. Potentially from 1acer.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Aditya Gour Chintaluri",
+  "is_still_participant": true,
+  "thread_path": "inbox/adityagourchintaluri_1317945136270589",
+  "magic_words": [
+    
+  ]
+}

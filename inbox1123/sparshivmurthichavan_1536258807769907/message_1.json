@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "S Parshivmurthi Chavan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "S Parshivmurthi Chavan",
+      "timestamp_ms": 1730260988375,
+      "content": "9380400690",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730256278241,
+      "content": "Share your number and our team will call back",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "S Parshivmurthi Chavan",
+      "timestamp_ms": 1730212697176,
+      "content": "Hello sir im interested in regional partner",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "S Parshivmurthi Chavan",
+  "is_still_participant": true,
+  "thread_path": "inbox/sparshivmurthichavan_1536258807769907",
+  "magic_words": [
+    
+  ]
+}

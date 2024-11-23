@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Priyadarshi Darshan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707978347179,
+      "content": "In Raichur district.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707978332508,
+      "content": "Currently, We have one, 46 acres land in Karnataka, totally legally verified and facilitated by us.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707978280823,
+      "content": "We are currently a listing platform for Telangana. We will launch other states very soon.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707978256460,
+      "content": "You can subscribe here.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707978235848,
+      "content": "https://www.1acre.in/subscribe",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "https://www.1acre.in/subscribe"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Priyadarshi Darshan",
+      "timestamp_ms": 1707937769860,
+      "content": "Do you have lands in karnataka?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Priyadarshi Darshan",
+      "timestamp_ms": 1707937743796,
+      "content": "How to subscribe",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Priyadarshi Darshan",
+  "is_still_participant": true,
+  "thread_path": "inbox/priyadarshidarshan_1205229297530950",
+  "magic_words": [
+    
+  ]
+}

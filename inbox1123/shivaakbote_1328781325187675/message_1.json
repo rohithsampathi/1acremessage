@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Shiva Akbote"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shiva Akbote",
+      "timestamp_ms": 1703049509009,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703047372443,
+      "content": "You can connect with  Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703047300266,
+      "content": "We are unable to reach you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703047202827,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shiva Akbote",
+      "timestamp_ms": 1703045432135,
+      "content": "Around",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shiva Akbote",
+      "timestamp_ms": 1703045428498,
+      "content": "Hii plz call me on 970100866 looking to buy land along hyd",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shiva Akbote",
+  "is_still_participant": true,
+  "thread_path": "inbox/shivaakbote_1328781325187675",
+  "magic_words": [
+    
+  ]
+}

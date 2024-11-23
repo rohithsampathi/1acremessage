@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Bhaskar Nandina"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711988078243,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412\nHe'll help you with the process.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bhaskar Nandina",
+      "timestamp_ms": 1711987925559,
+      "content": "45-60 acre \nKhistapur village, Dhanwada mandal, narayanpet dst,",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711987823286,
+      "content": "Hi, thanks for reaching out. May I know the location and extent?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bhaskar Nandina",
+      "timestamp_ms": 1711986859286,
+      "content": "I have a farm land I like to sell. Is there a number I can contact ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Bhaskar Nandina",
+  "is_still_participant": true,
+  "thread_path": "inbox/bhaskarnandina_1255640815839354",
+  "magic_words": [
+    
+  ]
+}

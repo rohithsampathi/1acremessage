@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "SUDHAKAR BICHALI"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697471790715,
+      "content": "Thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697471789008,
+      "content": "Hi, you can talk to Ratna Kiran 7661063355",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "SUDHAKAR BICHALI",
+  "is_still_participant": true,
+  "thread_path": "inbox/sudhakarbichali_1244555606938924",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Karthik Gowda"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Karthik Gowda",
+      "timestamp_ms": 1711550629925,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711547464603,
+      "content": "Hi, currently we are listing only Telangana. Will soon start Karnataka. Will keep you posted. Thanks for reaching out.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Karthik Gowda",
+      "timestamp_ms": 1711545257322,
+      "content": "Bangalore",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Karthik Gowda",
+      "timestamp_ms": 1711545208277,
+      "content": "I want to sell agriculture land",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Karthik Gowda",
+  "is_still_participant": true,
+  "thread_path": "inbox/karthikgowda_1381144779949741",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Leena"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Leena",
+      "timestamp_ms": 1705546059306,
+      "content": "Hi, saw your reel on land around Telangana. 1. Why do you feel prices will rise? 2. What time frame 3. What measures do you take not to be encroached or land does not get subsumed in road / development projects?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Leena",
+  "is_still_participant": true,
+  "thread_path": "inbox/leena_17974663301647336",
+  "magic_words": [
+    
+  ]
+}

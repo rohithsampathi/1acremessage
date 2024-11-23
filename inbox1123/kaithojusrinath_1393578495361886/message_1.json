@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Kaithoju Srinath"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721319813313,
+      "content": "1acre.in/subscribe  Please explore.",
+      "share": {
+        "link": "http://1acre.in/subscribe",
+        "share_text": "1acre.in/subscribe  Please explore."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kaithoju Srinath",
+      "timestamp_ms": 1721319301998,
+      "content": "I'm looking for some investment property in hyderabad with in 1cr budget can you suggest me some",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kaithoju Srinath",
+      "timestamp_ms": 1721319267544,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kaithoju Srinath",
+  "is_still_participant": true,
+  "thread_path": "inbox/kaithojusrinath_1393578495361886",
+  "magic_words": [
+    
+  ]
+}

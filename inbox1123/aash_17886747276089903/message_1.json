@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Aash"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723973706069,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aash",
+      "timestamp_ms": 1723971887689,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aash",
+      "timestamp_ms": 1723971887366,
+      "content": "Aash sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C-SOhO6tOrO/?id=3427866122793577166_47651711013",
+        "share_text": "Inviting Real Estate Agents dealing with lands to join 1acre.in community and going access to 50k+ subscribers.\n\nBenefits:\n1.\u00e2\u0081\u00a0 \u00e2\u0081\u00a0Properties listed with your number directly - Free of cost. \n2.\u00e2\u0081\u00a0 \u00e2\u0081\u00a0\u00e2\u0081\u00a0Dedicated profile with shareable listing pages\n3.\u00e2\u0081\u00a0 \u00e2\u0081\u00a0\u00e2\u0081\u00a0Preliminary Verification Certificate for each listing\n\nJoin 1000+ Agents who are reaping long-term benefits with 1acre.in Agent Network. \n\n#realestate #buylands #selllands #1acre #hyderabad #telangana",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Aash",
+  "is_still_participant": true,
+  "thread_path": "inbox/aash_17886747276089903",
+  "magic_words": [
+    
+  ]
+}

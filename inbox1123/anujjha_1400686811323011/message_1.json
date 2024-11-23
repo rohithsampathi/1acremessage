@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Anuj Jha"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719243273368,
+      "content": "Hi, we don't have the data yet, for goa. I am afraid we can't help much now.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anuj Jha",
+      "timestamp_ms": 1719241826116,
+      "content": "Possible?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anuj Jha",
+      "timestamp_ms": 1719241822724,
+      "content": "Hi we need industrial land in goa",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Anuj Jha",
+  "is_still_participant": true,
+  "thread_path": "inbox/anujjha_1400686811323011",
+  "magic_words": [
+    
+  ]
+}

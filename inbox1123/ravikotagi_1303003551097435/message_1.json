@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Ravi Kotagi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ravi Kotagi",
+      "timestamp_ms": 1703089850948,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravi Kotagi",
+      "timestamp_ms": 1703089846382,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703081126765,
+      "content": "Hy , you can connect with pratheek  9390674324,",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravi Kotagi",
+      "timestamp_ms": 1703079129642,
+      "content": "Looking for investment opportunities upto 1 cr in feburary for farming in vikrabad district",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravi Kotagi",
+      "timestamp_ms": 1703079088987,
+      "content": "We sir i am a subscriber",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ravi Kotagi",
+  "is_still_participant": true,
+  "thread_path": "inbox/ravikotagi_1303003551097435",
+  "magic_words": [
+    
+  ]
+}

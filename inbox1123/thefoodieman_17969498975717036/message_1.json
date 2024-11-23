@@ -1,0 +1,89 @@
+{
+  "participants": [
+    {
+      "name": "The Foodie Man"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Foodie Man",
+      "timestamp_ms": 1725858384193,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725848414524,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Foodie Man",
+          "timestamp": 1725858384
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "The Foodie Man",
+      "timestamp_ms": 1725845452370,
+      "content": "We are interested what are the next steps ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "The Foodie Man",
+      "timestamp_ms": 1725845452049,
+      "content": "The Foodie sent an attachment.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721055659735,
+      "content": "You can call the sellers directly.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721055647034,
+      "content": "1acre.in/subscribe  Please explore.",
+      "share": {
+        "link": "http://1acre.in/subscribe",
+        "share_text": "1acre.in/subscribe  Please explore."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "The Foodie Man",
+      "timestamp_ms": 1721049211711,
+      "content": "1-1.5 cr",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721049031910,
+      "content": "What is the total budget?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "The Foodie Man",
+      "timestamp_ms": 1721047589168,
+      "content": "Do you have any ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "The Foodie Man",
+      "timestamp_ms": 1721047584936,
+      "content": "We are looking for 30000-40000 per yard plots near financial district like TSPA or manchirevula",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "The Foodie Man",
+  "is_still_participant": true,
+  "thread_path": "inbox/thefoodieman_17969498975717036",
+  "magic_words": [
+    
+  ]
+}

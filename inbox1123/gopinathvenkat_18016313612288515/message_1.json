@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Gopinath Venkat"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706784374659,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gopinath Venkat",
+      "timestamp_ms": 1706781424918,
+      "content": "Can i have ur contact number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gopinath Venkat",
+      "timestamp_ms": 1706781411626,
+      "content": "Am looking for investment in land in telangana area",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gopinath Venkat",
+      "timestamp_ms": 1706781379120,
+      "content": "This is dr gopinath from andhra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gopinath Venkat",
+      "timestamp_ms": 1706781372839,
+      "content": "Hello 1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hello 1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Gopinath Venkat",
+  "is_still_participant": true,
+  "thread_path": "inbox/gopinathvenkat_18016313612288515",
+  "magic_words": [
+    
+  ]
+}

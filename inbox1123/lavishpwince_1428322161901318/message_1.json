@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Lavish pwince"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709860539220,
+      "content": "Hi, Please contact Vijay\n9959994737, he'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lavish pwince",
+      "timestamp_ms": 1709842466039,
+      "content": "Glad if there's any chance property",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lavish pwince",
+      "timestamp_ms": 1709842324891,
+      "content": "Hi\nI have been looking for land in Moinabad around 20-40gts",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Lavish pwince",
+  "is_still_participant": true,
+  "thread_path": "inbox/lavishpwince_1428322161901318",
+  "magic_words": [
+    
+  ]
+}

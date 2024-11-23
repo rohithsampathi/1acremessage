@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "suspciousreddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "suspciousreddy",
+      "timestamp_ms": 1721645652046,
+      "content": "Sure thank you...",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721630015243,
+      "content": "Hi, Please talk to Sandeep, from the team.\n7702801301\nOr email at sandeep@1acre.in",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "suspciousreddy",
+      "timestamp_ms": 1721536954093,
+      "content": "I\u00e2\u0080\u0099m interested to work in your company in any role , collaborations like land development projects , leasing projects ....",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721514991301,
+      "content": "Please tell us what kind of collaborations.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "suspciousreddy",
+      "timestamp_ms": 1721497789265,
+      "content": "Hi 1acre.in , I came across your profile and was impressed with your work in land development. Let\u00e2\u0080\u0099s connect and explore potential collaborations",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi 1acre.in , I came across your profile and was impressed with your work in land development. Let\u00e2\u0080\u0099s connect and explore potential collaborations"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "suspciousreddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/suspciousreddy_17939759828848966",
+  "magic_words": [
+    
+  ]
+}

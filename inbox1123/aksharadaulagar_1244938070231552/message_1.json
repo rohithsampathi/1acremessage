@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Akshara Daulagar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1696672384581,
+      "content": "Please contact (+91 80744 50533) Vijay from 1acre.in for more details.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akshara Daulagar",
+      "timestamp_ms": 1695489313533,
+      "content": "Send me contact number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akshara Daulagar",
+      "timestamp_ms": 1695489111468,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Akshara Daulagar",
+  "is_still_participant": true,
+  "thread_path": "inbox/aksharadaulagar_1244938070231552",
+  "magic_words": [
+    
+  ]
+}

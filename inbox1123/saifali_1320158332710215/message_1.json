@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Saif Ali \u00f0\u009f\u0094\u00a5"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709010082619,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Saif Ali \u00f0\u009f\u0094\u00a5",
+      "timestamp_ms": 1709009310913,
+      "content": "Hey can join your team ? \nis any position open ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Saif Ali \u00f0\u009f\u0094\u00a5",
+  "is_still_participant": true,
+  "thread_path": "inbox/saifali_1320158332710215",
+  "magic_words": [
+    
+  ]
+}

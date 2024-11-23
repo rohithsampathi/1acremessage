@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Sameer Godey Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726449766510,
+      "content": "Sameer Godey Kumar replied to an ad. View ad(https://www.instagram.com/p/C_xgHQQMrPy/)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sameer Godey Kumar",
+      "timestamp_ms": 1726449764641,
+      "content": "Cost ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sameer Godey Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/sameergodeykumar_1432882784768951",
+  "magic_words": [
+    
+  ]
+}

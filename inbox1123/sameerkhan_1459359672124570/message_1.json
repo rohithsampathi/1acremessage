@@ -1,0 +1,104 @@
+{
+  "participants": [
+    {
+      "name": "sameer khan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727773099240,
+      "content": "Hello , \n\nDue to unforeseen demand , we are not able to address each request so we have decided to digitised all lakes around hyderabad and make it accessible for free for everyone.\n\nTo help prioritise the digitisation process, fill the following form with your requirements. We will inform you once your required lake is digitised. \nRequirement form : https://forms.gle/LFThdXChRzH8Uz6M6 \n\nThanks for your patience.",
+      "share": {
+        "link": "https://forms.gle/LFThdXChRzH8Uz6M6",
+        "share_text": "Hello , \n\nDue to unforeseen demand , we are not able to address each request so we have decided to digitised all lakes around hyderabad and make it accessible for free for everyone.\n\nTo help prioritise the digitisation process, fill the following form with your requirements. We will inform you once your required lake is digitised. \nRequirement form : https://forms.gle/LFThdXChRzH8Uz6M6 \n\nThanks for your patience."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "sameer khan",
+      "timestamp_ms": 1727753102348,
+      "content": "Hey, Can you share FTL of Fox Sagar Lake in KML format please! \u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "sameer khan",
+      "timestamp_ms": 1725529259669,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725529237509,
+      "content": "You can check www.1acre.in where you can see the list view for free\n\nSubscription is only for mapview feature.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "sameer khan",
+          "timestamp": 1725529259
+        }
+      ],
+      "share": {
+        "link": "http://www.1acre.in/",
+        "share_text": "You can check www.1acre.in where you can see the list view for free\n\nSubscription is only for mapview feature."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "sameer khan",
+      "timestamp_ms": 1725517014637,
+      "content": "Just wanted to know whether you guys have lands around Medchal Highway",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "sameer khan",
+      "timestamp_ms": 1725516989288,
+      "content": "I\u00e2\u0080\u0099m interested to subscribe to 1acre map view feature",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "sameer khan",
+      "timestamp_ms": 1725516972748,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722163283804,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "sameer khan",
+      "timestamp_ms": 1722144792303,
+      "content": "Can you share the details of this?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "sameer khan",
+      "timestamp_ms": 1722144776547,
+      "content": "sameer sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C97HQOgSReY/?id=3421360243329275800_47651711013",
+        "share_text": "4 plots of 225 Sq Yds each | \u00e2\u0082\u00b980,000 per Sq Yd | Near Wipro-Gopanpalli | Link in bio \u00f0\u009f\u008c\u009f\n\n- Verified and facilitated by 1acre.in\n- Boutique villa community\n- 5-minute drive to Financial District and ORR\n- Surrounded by multiple 100\u00e2\u0080\u0099 roads and villa communities\n\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 8341149011\n\nDM us for more queries on buying, selling, or partnerships.\n\n#landforsale #gopanpalli #land #investment #propertyforsale #realestate",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "sameer khan",
+      "timestamp_ms": 1722144770081,
+      "content": "Hey",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "sameer khan",
+  "is_still_participant": true,
+  "thread_path": "inbox/sameerkhan_1459359672124570",
+  "magic_words": [
+    
+  ]
+}

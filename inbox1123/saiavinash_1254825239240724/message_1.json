@@ -1,0 +1,73 @@
+{
+  "participants": [
+    {
+      "name": "Sai Avinash"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sai Avinash",
+      "timestamp_ms": 1703139748080,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703081847014,
+      "content": "Hy , you can connect with pratheek  9390674324,",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Sai Avinash",
+          "timestamp": 1703139748
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Avinash",
+      "timestamp_ms": 1703043771028,
+      "content": "Please let me know if you have any",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Avinash",
+      "timestamp_ms": 1703043755084,
+      "content": "And ready construction open plots in Hyderabad.. my budget is below 15K per sqyard.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Avinash",
+      "timestamp_ms": 1703043679212,
+      "content": "I'm looking for a agricultural land in Hyderabad surroundings below 10L",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703042899776,
+      "content": "Hi, we deal with land. We ideally don't deal with plots. But let us know what you are looking for and we'll get back to you with what can be done.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Avinash",
+      "timestamp_ms": 1703006673856,
+      "content": "Is 1acre deals only with agricultural lands?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Avinash",
+      "timestamp_ms": 1703006613786,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sai Avinash",
+  "is_still_participant": true,
+  "thread_path": "inbox/saiavinash_1254825239240724",
+  "magic_words": [
+    
+  ]
+}

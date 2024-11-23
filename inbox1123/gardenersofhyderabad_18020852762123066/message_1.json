@@ -1,0 +1,100 @@
+{
+  "participants": [
+    {
+      "name": "Gardeners of Hyderabad"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712160535220,
+      "content": "Hi, this is Ratna Kiran's number:\n9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gardeners of Hyderabad",
+      "timestamp_ms": 1712160273993,
+      "content": "This is regarding an event",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gardeners of Hyderabad",
+      "timestamp_ms": 1712160273595,
+      "share": {
+        "link": "https://www.instagram.com/p/C3t28m8N2Gf/"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gardeners of Hyderabad",
+      "timestamp_ms": 1712160252011,
+      "content": "Hi could you please call me. I\u00e2\u0080\u0099m Reshma AGM marketing, Organo Eco habitats",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gardeners of Hyderabad",
+      "timestamp_ms": 1712160251624,
+      "share": {
+        "link": "https://www.instagram.com/p/C3t28m8N2Gf/"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gardeners of Hyderabad",
+      "timestamp_ms": 1712106529133,
+      "content": "Looking forward to meet you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gardeners of Hyderabad",
+      "timestamp_ms": 1712106519415,
+      "content": "Inviting few preferred Channel Partners and realtors. Please send your phone no. And email ID with RERA no.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gardeners of Hyderabad",
+      "timestamp_ms": 1712106443165,
+      "content": "Panel of Experts :\n- Mr. Shekhar Reddy, Chairman of IGBC\n- Mr. Rajasekhar Reddy, President of CREDAI \n- Mr. Nanda Kishore M, MD- Ramky Estates & Farms \n- \u00e2\u0081\u00a0Ram Reddy G - ARK Group- CMD\n- Ms. Swathi Puchalapali, Founder Director - TerraViridis\n- Mr. Dhamotharan S, Director - FHD Group\n\nAll confirmed.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gardeners of Hyderabad",
+      "timestamp_ms": 1712106401523,
+      "content": "Hi you are invited to the symposium",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gardeners of Hyderabad",
+      "timestamp_ms": 1712106390366,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/gardenersofhyderabad_18020852762123066/photos/434068183_288666460990428_6224083937269376387_n_288666457657095.jpg",
+          "creation_timestamp": 1712106389,
+          "backup_uri": "https://scontent.fmaa12-3.fna.fbcdn.net/v/t1.15752-9/434068183_288666460990428_6224083937269376387_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=EErADhJBoa8Q7kNvgHehFkT&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fmaa12-3.fna&oh=03_Q7cD1QHabLtxelxhGuXRq6FtIEvCPyTdMwBkUw2Qf_wLmZjbog&oe=6766B07B"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gardeners of Hyderabad",
+      "timestamp_ms": 1712106363121,
+      "content": "Call me at 8978399113",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gardeners of Hyderabad",
+      "timestamp_ms": 1712106349321,
+      "content": "Hi I\u00e2\u0080\u0099m Reshma from Organo Eco-Habitats",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Gardeners of Hyderabad",
+  "is_still_participant": true,
+  "thread_path": "inbox/gardenersofhyderabad_18020852762123066",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Anudeep Krishna"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anudeep Krishna",
+      "timestamp_ms": 1723439941250,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723433005118,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anudeep Krishna",
+      "timestamp_ms": 1723427754560,
+      "content": "Interested how can I contact you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anudeep Krishna",
+      "timestamp_ms": 1723427754190,
+      "content": "Anudeep sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C-fPv3FyPgg/?id=3431530700745537568_47651711013",
+        "share_text": "SOLD !",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Anudeep Krishna",
+  "is_still_participant": true,
+  "thread_path": "inbox/anudeepkrishna_1420132852706650",
+  "magic_words": [
+    
+  ]
+}

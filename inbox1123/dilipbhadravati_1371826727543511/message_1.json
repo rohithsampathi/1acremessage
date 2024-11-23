@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Dilip Bhadravati"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720276617216,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dilip Bhadravati",
+      "timestamp_ms": 1720275256873,
+      "content": "Is there agriculture land availabe nearby Chitradurga Karnataka",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dilip Bhadravati",
+      "timestamp_ms": 1720275181693,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Dilip Bhadravati",
+  "is_still_participant": true,
+  "thread_path": "inbox/dilipbhadravati_1371826727543511",
+  "magic_words": [
+    
+  ]
+}

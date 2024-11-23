@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Vinayak Akula"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1699989089922,
+      "content": "Hey Vinayak , you can connect with Pratheek 9505778117 , he can help you with your enquiry",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vinayak Akula",
+      "timestamp_ms": 1699946874589,
+      "content": "We're is the location",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vinayak Akula",
+      "timestamp_ms": 1699946874209,
+      "content": "Vinayak sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/CzDaWtstX5_/?carousel_share_child_media_id=3225537647564058402_47651711013",
+        "share_text": "Stop buying plots. Own 10 acres at the cost of one. Larger chunks of land available at good prices.\n...\n\u00f0\u009f\u0091\u0089 Get access to premium opportunities: https://www.1acre.in/subscribe",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vinayak Akula",
+  "is_still_participant": true,
+  "thread_path": "inbox/vinayakakula_1298684851530107",
+  "magic_words": [
+    
+  ]
+}

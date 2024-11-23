@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Maharshi Neela"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729601677728,
+      "content": "Please call our team member Venu at +91 76749 01201\n\nHe shall help you list it and share other details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Maharshi Neela",
+      "timestamp_ms": 1729581143787,
+      "content": "Hello how to put up my plots for sale on your platform?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Maharshi Neela",
+  "is_still_participant": true,
+  "thread_path": "inbox/maharshineela_1539500934109510",
+  "magic_words": [
+    
+  ]
+}

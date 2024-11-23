@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Anthariksh V \u00f0\u009f\u00a4\u00b4"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717719837516,
+      "content": "antharikshv wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717719837179,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412.\nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anthariksh V \u00f0\u009f\u00a4\u00b4",
+      "timestamp_ms": 1717696873285,
+      "content": "1.5Cr",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anthariksh V \u00f0\u009f\u00a4\u00b4",
+      "timestamp_ms": 1717696843187,
+      "content": "Hey! Can u let me know about the 10A land ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Anthariksh V \u00f0\u009f\u00a4\u00b4",
+  "is_still_participant": true,
+  "thread_path": "inbox/antharikshv_1280020236717877",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Rudraksh Choudhary"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717652295342,
+      "content": "Hi, Thanks for reaching out.\nWe are listing Telanagana as of now. \nWe'll start listing other states soon.\nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rudraksh Choudhary",
+      "timestamp_ms": 1717651409997,
+      "content": "24/7 light \n24/7 water availability \nSuitable transport \n40 feat road man",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rudraksh Choudhary",
+      "timestamp_ms": 1717651372179,
+      "content": "100 bigha \nJameen hai full convertable commercial mein \nUjjain MP location ma\n4line touch",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rudraksh Choudhary",
+  "is_still_participant": true,
+  "thread_path": "inbox/rudrakshchoudhary_1433029368097647",
+  "magic_words": [
+    
+  ]
+}

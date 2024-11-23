@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Ashutosh Yadav"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ashutosh Yadav",
+      "timestamp_ms": 1731176246157,
+      "content": "Okk",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731176154328,
+      "content": "We haven\u00e2\u0080\u0099t launched there yet",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ashutosh Yadav",
+      "timestamp_ms": 1731175324515,
+      "content": "Buy",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731171828868,
+      "content": "Buy or sell ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ashutosh Yadav",
+      "timestamp_ms": 1731156194838,
+      "content": "Ranchi Jharkhand",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731150986903,
+      "content": "What are you looking for ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ashutosh Yadav",
+      "timestamp_ms": 1731138446548,
+      "content": "Ranchi area location",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ashutosh Yadav",
+  "is_still_participant": true,
+  "thread_path": "inbox/ashutoshyadav_17996965073705141",
+  "magic_words": [
+    
+  ]
+}

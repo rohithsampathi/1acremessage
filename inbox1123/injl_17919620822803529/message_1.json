@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "injl"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697722544902,
+      "content": "Hi, please call Ratna Kiran 7661063355",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "injl",
+      "timestamp_ms": 1697717120755,
+      "content": "My real name is muzammil khan, I lives in hyderabad. Near charminar",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "injl",
+      "timestamp_ms": 1697717064771,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "injl",
+  "is_still_participant": true,
+  "thread_path": "inbox/injl_17919620822803529",
+  "magic_words": [
+    
+  ]
+}

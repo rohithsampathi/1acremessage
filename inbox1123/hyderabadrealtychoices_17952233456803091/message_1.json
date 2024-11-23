@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Hyderabadrealtychoices"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Hyderabadrealtychoices",
+      "timestamp_ms": 1720256930365,
+      "content": "Okay sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720252532309,
+      "content": "Hi, Please talk to Sandeep 9005464412, from the team",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hyderabadrealtychoices",
+      "timestamp_ms": 1720249952804,
+      "content": "Hello team,  this is bharath managing director -hyderabad realty choices pvt Ltd \n\nis there any channel partnership to collaborate with you regarding the agricultural lands",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Hyderabadrealtychoices",
+  "is_still_participant": true,
+  "thread_path": "inbox/hyderabadrealtychoices_17952233456803091",
+  "magic_words": [
+    
+  ]
+}

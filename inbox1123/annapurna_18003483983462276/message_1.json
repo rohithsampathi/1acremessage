@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Annapurna"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Annapurna",
+      "timestamp_ms": 1707792677749,
+      "content": "Thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706406950791,
+      "content": "And tell him your requirement in detail. Thanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706406923881,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Annapurna",
+      "timestamp_ms": 1706404030116,
+      "content": "Samshabad, Rallaguda",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Annapurna",
+      "timestamp_ms": 1706404015004,
+      "content": "South side",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Annapurna",
+      "timestamp_ms": 1706404010801,
+      "content": "Any leads",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Annapurna",
+      "timestamp_ms": 1706404006786,
+      "content": "We want land to develop it for a school",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Annapurna",
+      "timestamp_ms": 1706403986663,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Annapurna",
+  "is_still_participant": true,
+  "thread_path": "inbox/annapurna_18003483983462276",
+  "magic_words": [
+    
+  ]
+}

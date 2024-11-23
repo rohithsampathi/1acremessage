@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Bhaskar Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bhaskar Reddy",
+      "timestamp_ms": 1723208806955,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723202964387,
+      "content": "We are launching in Karnataka soon :)",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Bhaskar Reddy",
+          "timestamp": 1723208806
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bhaskar Reddy",
+      "timestamp_ms": 1723133755308,
+      "content": "You guys should expand to Bangalore area",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Bhaskar Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/bhaskarreddy_1491002605628634",
+  "magic_words": [
+    
+  ]
+}

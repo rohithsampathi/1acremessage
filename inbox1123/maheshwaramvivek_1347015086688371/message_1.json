@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Maheshwaram Vivek"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Maheshwaram Vivek",
+      "timestamp_ms": 1717949167482,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717949151343,
+      "content": "Hi, we don't market projects. Thanks for reaching out.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Maheshwaram Vivek",
+      "timestamp_ms": 1717944534615,
+      "content": "How can we contact you ..  reg our project marketing at mominpet",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Maheshwaram Vivek",
+  "is_still_participant": true,
+  "thread_path": "inbox/maheshwaramvivek_1347015086688371",
+  "magic_words": [
+    
+  ]
+}

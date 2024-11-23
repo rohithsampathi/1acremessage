@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "U D A Y \u00f0\u009f\u008e\u0093"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725178726798,
+      "content": "Share your requirement and we can connect you to right person from the team",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725178707025,
+      "content": "We dont take calls in instagram",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "U D A Y \u00f0\u009f\u008e\u0093",
+      "timestamp_ms": 1725178630317,
+      "content": "You missed a video chat",
+      "call_duration": 0,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "U D A Y \u00f0\u009f\u008e\u0093",
+      "timestamp_ms": 1725178628054,
+      "content": "i__smith__ started a video chat",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720168971517,
+      "content": "Hello \nLet us know how we can help you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "U D A Y \u00f0\u009f\u008e\u0093",
+      "timestamp_ms": 1720167514985,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "U D A Y \u00f0\u009f\u008e\u0093",
+  "is_still_participant": true,
+  "thread_path": "inbox/uday_1434264107967929",
+  "magic_words": [
+    
+  ]
+}

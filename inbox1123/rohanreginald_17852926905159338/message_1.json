@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Rohan Reginald"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rohan Reginald",
+      "timestamp_ms": 1712189966997,
+      "content": "Thank you so much. Will connect today.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712189919145,
+      "content": "Hi, Please contact Harish\n9032114737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rohan Reginald",
+      "timestamp_ms": 1712178114858,
+      "content": "Hello Sir.. Kindly do let me know where I could connect with you. I couldn't find a number on the ad.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rohan Reginald",
+  "is_still_participant": true,
+  "thread_path": "inbox/rohanreginald_17852926905159338",
+  "magic_words": [
+    
+  ]
+}

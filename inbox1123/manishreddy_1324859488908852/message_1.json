@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Manish Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706351783605,
+      "content": "Hello, boss. Nene. 7661933372",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manish Reddy",
+      "timestamp_ms": 1706345841643,
+      "content": "I misplaced sacha number. Excuse the direct message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manish Reddy",
+      "timestamp_ms": 1706341151305,
+      "content": "Thank you very much for the content , definitely makes me think and act :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manish Reddy",
+      "timestamp_ms": 1706341120798,
+      "content": "Hello boss !  How are you we meet long back with Sacha and Bharadwaj.\n\nIf you don\u00e2\u0080\u0099t mind can you pls share his number ? I want to discuss about Maharashtra",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Manish Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/manishreddy_1324859488908852",
+  "magic_words": [
+    
+  ]
+}

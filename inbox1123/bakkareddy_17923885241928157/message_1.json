@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "Bakkareddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722163204979,
+      "content": "We currently have only website www.1acre.in",
+      "share": {
+        "link": "http://www.1acre.in/",
+        "share_text": "We currently have only website www.1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bakkareddy",
+      "timestamp_ms": 1722150930437,
+      "content": "Is there any mobile app of its is available",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bakkareddy",
+      "timestamp_ms": 1722150930108,
+      "content": "Bakkareddy sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C9zg4yzNhFw/?id=3419221182429663600_47651711013",
+        "share_text": "Are you looking for cheapest and best lands near Hyderabad?\n\nAccess 3000+ verified lands, all over Telangana, in one single Map. Quickly spot the best opportunities matching your criteria. Few questions (and many more) the MapView can answer in less than 10 minutes\n\n1. Where can I get large land parcels for a cheap price?\n2. Wha are the prices of lands in the area of your interest (Ex: Chevalla)\n3. Can you find lands close to the ORR, in less than 1-2Cr?\n\nThe MapView makes accessing the data a thousand times easier. You don\u00e2\u0080\u0099t just save a ton of time, You should also save a good amount of money, by landing at the best opportunity, matching your criteria. \n\nFinding cheapest lands now simplified with 1acre.in MapView. Subscribe to premium and try today - https://www.1acre.in/subscribe\n\n#1acre #realestate #buylands #telangana #hyderabad #orr #selllands #lands #property #estate",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Bakkareddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/bakkareddy_17923885241928157",
+  "magic_words": [
+    
+  ]
+}

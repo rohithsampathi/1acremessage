@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Lakshmi Narayanan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710069652368,
+      "content": "Which one?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lakshmi Narayanan",
+      "timestamp_ms": 1710068699782,
+      "content": "Interested in the investment opportunity",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lakshmi Narayanan",
+      "timestamp_ms": 1710068674453,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Lakshmi Narayanan",
+  "is_still_participant": true,
+  "thread_path": "inbox/lakshminarayanan_17847730296169831",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Saurabh Chharia"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1698909163566,
+      "content": "can we schedule a call ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1698909090125,
+      "content": "hey Saurabh, would like to connect with you for an collaboration",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Saurabh Chharia",
+  "is_still_participant": true,
+  "thread_path": "inbox/saurabhchharia_1261715975222192",
+  "magic_words": [
+    
+  ]
+}

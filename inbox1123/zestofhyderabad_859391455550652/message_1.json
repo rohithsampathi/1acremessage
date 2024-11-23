@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Zest Of Hyderabad"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1694768797195,
+      "content": "Hi, could we collaborate for a reel?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Zest Of Hyderabad",
+  "is_still_participant": true,
+  "thread_path": "inbox/zestofhyderabad_859391455550652",
+  "magic_words": [
+    
+  ]
+}

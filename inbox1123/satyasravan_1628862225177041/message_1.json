@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Satya Sravan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Satya Sravan",
+      "timestamp_ms": 1727935929904,
+      "content": "Ok sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727928215511,
+      "content": "Please explore our website www.1acre.in where we have 3500+ lands \n\nUsing filters you can explore further",
+      "share": {
+        "link": "http://www.1acre.in/",
+        "share_text": "Please explore our website www.1acre.in where we have 3500+ lands \n\nUsing filters you can explore further"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Satya Sravan",
+      "timestamp_ms": 1727874963926,
+      "content": "Any small size plots (say 170 sq yds) available for sale in 20 km radius of financial district ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Satya Sravan",
+  "is_still_participant": true,
+  "thread_path": "inbox/satyasravan_1628862225177041",
+  "magic_words": [
+    
+  ]
+}

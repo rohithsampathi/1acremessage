@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Bhagavan Batta Kuruma"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703911163921,
+      "content": "Hi you can connect with vijay,80-74450533",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bhagavan Batta Kuruma",
+      "timestamp_ms": 1703828412686,
+      "content": "I want sell my agriculture land \nAt siddipet district total land 3.3 acres",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Bhagavan Batta Kuruma",
+  "is_still_participant": true,
+  "thread_path": "inbox/bhagavanbattakuruma_1256549495747903",
+  "magic_words": [
+    
+  ]
+}

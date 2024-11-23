@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Nikhil Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nikhil Kumar",
+      "timestamp_ms": 1717600183937,
+      "content": "OK ty",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717600103081,
+      "content": "Hi, Please talk to Sandeep 9005464412, from the team",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nikhil Kumar",
+      "timestamp_ms": 1717599799316,
+      "content": "I'm interested to work with you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nikhil Kumar",
+      "timestamp_ms": 1717599762098,
+      "content": "I have very good knowledge on that",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nikhil Kumar",
+      "timestamp_ms": 1717599748420,
+      "content": "Iam very much interested in realestate",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nikhil Kumar",
+      "timestamp_ms": 1717599733207,
+      "content": "Do you have any openings",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nikhil Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/nikhilkumar_1407420503983259",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Dheeraj Batchu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707225934165,
+      "content": "Hi, we don't deal with anything other than land. \nSo, yes. We can help you find land as per your requirement. \nPlease contact Ratna Kiran \n9390155412, Founder. \nHe'll help you with your requirement.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dheeraj Batchu",
+      "timestamp_ms": 1707221168106,
+      "content": "Also we need 4-5 acre land parcel for International school near Mokila",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dheeraj Batchu",
+      "timestamp_ms": 1707221145015,
+      "content": "Hi Any update?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706793358194,
+      "content": "Will get back to you on this.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dheeraj Batchu",
+      "timestamp_ms": 1706792679860,
+      "content": "Will you be able to help?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dheeraj Batchu",
+      "timestamp_ms": 1706792644006,
+      "content": "Hi, I am looking for help with reselling my flat in Kohinoor project",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Dheeraj Batchu",
+  "is_still_participant": true,
+  "thread_path": "inbox/dheerajbatchu_1282524119806440",
+  "magic_words": [
+    
+  ]
+}

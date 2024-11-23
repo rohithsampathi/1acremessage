@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Akram Khan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719397859142,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719397858664,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akram Khan",
+      "timestamp_ms": 1719396553431,
+      "content": "Hi ! We have land on vikarabad  patloor village we want to sale land !",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Akram Khan",
+  "is_still_participant": true,
+  "thread_path": "inbox/akramkhan_18010537490591014",
+  "magic_words": [
+    
+  ]
+}

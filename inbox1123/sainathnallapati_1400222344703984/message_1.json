@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Sainath Nallapati"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sainath Nallapati",
+      "timestamp_ms": 1714147006363,
+      "content": "Preferably a farm house",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sainath Nallapati",
+      "timestamp_ms": 1714147001363,
+      "content": "Looking to buy a land in loan",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1714143781343,
+      "content": "May I know what exactly are you looking for? I'll connect with the team accordingly.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sainath Nallapati",
+      "timestamp_ms": 1714134861535,
+      "content": "Let me know how do we connect",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sainath Nallapati",
+      "timestamp_ms": 1714134848764,
+      "content": "Hello, would like to know more about your firm",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sainath Nallapati",
+  "is_still_participant": true,
+  "thread_path": "inbox/sainathnallapati_1400222344703984",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Prashanth B"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Prashanth B",
+      "timestamp_ms": 1704478437293,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704477249381,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Prashanth B",
+          "timestamp": 1704478437
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prashanth B",
+      "timestamp_ms": 1704477177119,
+      "content": "Could you please provide more details on how we can take part i. Your land bank purchase which u r specifying as 100 acres each",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prashanth B",
+      "timestamp_ms": 1704477112479,
+      "content": "Hi Team",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Prashanth B",
+  "is_still_participant": true,
+  "thread_path": "inbox/prashanthb_1304322914295800",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Nandkumaar S Soni"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nandkumaar S Soni",
+      "timestamp_ms": 1720359432649,
+      "content": "Ok thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720355139866,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nandkumaar S Soni",
+      "timestamp_ms": 1720334899804,
+      "content": "Any pls massage",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nandkumaar S Soni",
+      "timestamp_ms": 1720334893345,
+      "content": "Near nagpur 4 to 5 lack acre",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nandkumaar S Soni",
+  "is_still_participant": true,
+  "thread_path": "inbox/nandkumaarssoni_18002969552627193",
+  "magic_words": [
+    
+  ]
+}

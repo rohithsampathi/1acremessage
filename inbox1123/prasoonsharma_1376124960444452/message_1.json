@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Prasoon Sharma"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Prasoon Sharma",
+      "timestamp_ms": 1720245247509,
+      "content": "V well.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720245182818,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prasoon Sharma",
+      "timestamp_ms": 1720245000391,
+      "content": "Hi. Kindly advise if you have some verified land offers near Jaipur, Rajasthan",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Prasoon Sharma",
+  "is_still_participant": true,
+  "thread_path": "inbox/prasoonsharma_1376124960444452",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Eshwar Smart"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Eshwar Smart",
+      "timestamp_ms": 1706280863810,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706058658808,
+      "content": "Hi, Please contact Ramakrishna \n7780122120",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Eshwar Smart",
+      "timestamp_ms": 1706028357547,
+      "content": "Regarding property sales",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Eshwar Smart",
+      "timestamp_ms": 1706028317373,
+      "content": "Send your contact number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706028231668,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Eshwar Smart",
+      "timestamp_ms": 1706027791399,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Eshwar Smart",
+  "is_still_participant": true,
+  "thread_path": "inbox/eshwarsmart_17992704080591014",
+  "magic_words": [
+    
+  ]
+}

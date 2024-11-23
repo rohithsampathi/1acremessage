@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "that_actor_nandu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "that_actor_nandu",
+      "timestamp_ms": 1724838565166,
+      "content": "9989501229",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724837693945,
+      "content": "Give us your number. Someone from the team will get in touch, to help you out.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "that_actor_nandu",
+      "timestamp_ms": 1724837104365,
+      "content": "Or a plot in a gated community",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "that_actor_nandu",
+      "timestamp_ms": 1724837090388,
+      "content": "For an individual house construction",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "that_actor_nandu",
+      "timestamp_ms": 1724837039428,
+      "content": "Basically around those areas",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "that_actor_nandu",
+      "timestamp_ms": 1724837029282,
+      "content": "Or Kollur",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "that_actor_nandu",
+      "timestamp_ms": 1724837007983,
+      "content": "Heyyy I\u00e2\u0080\u0099m looking for a residential plot near financial district / Khajaguda / Kakatiya Hills",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724833322981,
+      "content": "Hello! How can I assist you today?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724833315200,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "that_actor_nandu",
+      "timestamp_ms": 1724832281852,
+      "content": "Heyyyy :)",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "that_actor_nandu",
+  "is_still_participant": true,
+  "thread_path": "inbox/that_actor_nandu_1487323729334923",
+  "magic_words": [
+    
+  ]
+}

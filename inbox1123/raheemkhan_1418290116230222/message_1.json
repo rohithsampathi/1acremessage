@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Raheem Khan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720262409313,
+      "content": "Hi, Please contact Bharath \n7780122120, from the team, for listing lands.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raheem Khan",
+      "timestamp_ms": 1720262197735,
+      "content": "Sir I own multiple lands near village Nirdavelly located in keshampet mandal basically I am a reseller in the area so any who wants to sell lands contact\u00e2\u0080\u0099s me, so can you list my properties",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720261222151,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raheem Khan",
+      "timestamp_ms": 1720258486443,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Raheem Khan",
+  "is_still_participant": true,
+  "thread_path": "inbox/raheemkhan_1418290116230222",
+  "magic_words": [
+    
+  ]
+}

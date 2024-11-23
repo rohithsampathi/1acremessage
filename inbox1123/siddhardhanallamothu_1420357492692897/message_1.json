@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Siddhardha Nallamothu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717815386101,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717815384989,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Siddhardha Nallamothu",
+      "timestamp_ms": 1717811320751,
+      "content": "This is near Miryalaguda",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Siddhardha Nallamothu",
+      "timestamp_ms": 1717811314989,
+      "content": "I have land of 40 acr, Need marketing",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Siddhardha Nallamothu",
+      "timestamp_ms": 1717811291889,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Siddhardha Nallamothu",
+  "is_still_participant": true,
+  "thread_path": "inbox/siddhardhanallamothu_1420357492692897",
+  "magic_words": [
+    
+  ]
+}

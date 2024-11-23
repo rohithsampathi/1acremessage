@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "SCUDOMAX"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "SCUDOMAX",
+      "timestamp_ms": 1701770536355,
+      "content": "Thanks,want to know per sq yard value of residential plot",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701757501267,
+      "content": "Hy, if you want to know the government valuation you can find in dharani portal, the market price depends upon land location, on an average price may be between  75-1cr, from our understanding",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SCUDOMAX",
+      "timestamp_ms": 1701692418528,
+      "content": "Hello, what to know the land value in gurlakunta thanda in talkondapalli , ranga reddy",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "SCUDOMAX",
+  "is_still_participant": true,
+  "thread_path": "inbox/scudomax_1274941743901892",
+  "magic_words": [
+    
+  ]
+}

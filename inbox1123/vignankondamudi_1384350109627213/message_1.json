@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Vignan Kondamudi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710601635412,
+      "content": "Hi, Please contact Harish\n9032114737.\nIf he isn't reachable, drop a message. We'll get back.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vignan Kondamudi",
+      "timestamp_ms": 1710590335446,
+      "content": "Called to ur number but no response",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vignan Kondamudi",
+      "timestamp_ms": 1710590280981,
+      "content": "Just saw ur msg regarding freelance job",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vignan Kondamudi",
+      "timestamp_ms": 1710590216428,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vignan Kondamudi",
+  "is_still_participant": true,
+  "thread_path": "inbox/vignankondamudi_1384350109627213",
+  "magic_words": [
+    
+  ]
+}

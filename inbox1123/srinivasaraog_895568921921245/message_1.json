@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Srinivasa Rao G"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Srinivasa Rao G",
+      "timestamp_ms": 1722209168122,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722184635800,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srinivasa Rao G",
+      "timestamp_ms": 1722181159723,
+      "content": "Please send me details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srinivasa Rao G",
+      "timestamp_ms": 1722181146199,
+      "content": "Interested in gopanapally plots",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Srinivasa Rao G",
+  "is_still_participant": true,
+  "thread_path": "inbox/srinivasaraog_895568921921245",
+  "magic_words": [
+    
+  ]
+}

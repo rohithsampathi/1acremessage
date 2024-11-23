@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Whiskey"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Whiskey",
+      "timestamp_ms": 1705760294320,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705733883734,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Whiskey",
+      "timestamp_ms": 1705732999350,
+      "content": "I am looking for 2 acres in Medchal or Toopran for lesser price",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Whiskey",
+      "timestamp_ms": 1705732967993,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Whiskey",
+  "is_still_participant": true,
+  "thread_path": "inbox/whiskey_17877011673013910",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Suman Kandagatla"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728469664422,
+      "content": "You can subscribe to get access to the MapView and all the layers.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728469642902,
+      "content": "1acre.in/subscribe",
+      "share": {
+        "link": "http://1acre.in/subscribe",
+        "share_text": "1acre.in/subscribe"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Suman Kandagatla",
+      "timestamp_ms": 1728468892580,
+      "content": "I am buyer. I have an account with my phone number. +919346825563",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728456474917,
+      "content": "Are you a subsciber?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Suman Kandagatla",
+      "timestamp_ms": 1728455007866,
+      "content": "I am unable to see the map view with the dots as shown in the picture above. I tried on mobile and website. How do I see the map view?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728441714574,
+      "content": "Please check www.1acre.in where we have 3500 lands across Hyderabad.",
+      "share": {
+        "link": "http://www.1acre.in/",
+        "share_text": "Please check www.1acre.in where we have 3500 lands across Hyderabad."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Suman Kandagatla",
+      "timestamp_ms": 1728390917596,
+      "content": "I am looking for a residential plot 400-500 sq yards in Tellapur/ Kollur. Close to the gaudim international school. Let me know if you know of any.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Suman Kandagatla",
+  "is_still_participant": true,
+  "thread_path": "inbox/sumankandagatla_18039482531485016",
+  "magic_words": [
+    
+  ]
+}

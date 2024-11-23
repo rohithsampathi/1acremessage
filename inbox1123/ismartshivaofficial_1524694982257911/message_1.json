@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "iSmart Shiva Official"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728640145033,
+      "content": "Hello Shiva, \n\nIn context to recent demolitions by HYDRAA, We,at 1acre.in, are digitising HMDA lakes with their FTL and buffer zones so people can understand if their lands falls in these zones instantly. \n\nLink : www.1acre.in/lakes\n\nWe believe it helps a lot of people who are currently in distress. See if you can help spread the word about this :) \n\nThanks,\nTeam 1acre",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hello Shiva, \n\nIn context to recent demolitions by HYDRAA, We,at 1acre.in, are digitising HMDA lakes with their FTL and buffer zones so people can understand if their lands falls in these zones instantly. \n\nLink : www.1acre.in/lakes\n\nWe believe it helps a lot of people who are currently in distress. See if you can help spread the word about this :) \n\nThanks,\nTeam 1acre"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "iSmart Shiva Official",
+  "is_still_participant": true,
+  "thread_path": "inbox/ismartshivaofficial_1524694982257911",
+  "magic_words": [
+    
+  ]
+}

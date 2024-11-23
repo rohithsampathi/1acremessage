@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Dr Raghavendra Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722163241880,
+      "content": "We only deal in lands right now.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dr Raghavendra Reddy",
+      "timestamp_ms": 1722147858238,
+      "content": "Hey, we have a Villa at Saketh Bhu Sattva, and we want to sell it at earliest. Can you help us?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dr Raghavendra Reddy",
+      "timestamp_ms": 1722147821553,
+      "content": "Hey",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Dr Raghavendra Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/drraghavendrareddy_1392170345507163",
+  "magic_words": [
+    
+  ]
+}

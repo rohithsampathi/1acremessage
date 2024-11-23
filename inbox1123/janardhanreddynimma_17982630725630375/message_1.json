@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Janardhanreddy Nimma"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705579870711,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705579861629,
+      "content": "Hi Sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Janardhanreddy Nimma",
+      "timestamp_ms": 1705578175106,
+      "content": "Hello we are interested in selling our property around 5 acres  opposite to Konda pochamma project.would you help us out",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Janardhanreddy Nimma",
+  "is_still_participant": true,
+  "thread_path": "inbox/janardhanreddynimma_17982630725630375",
+  "magic_words": [
+    
+  ]
+}

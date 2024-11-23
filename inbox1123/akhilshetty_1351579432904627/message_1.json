@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Akhil shetty"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Akhil shetty",
+      "timestamp_ms": 1710582454351,
+      "content": "Ok thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710581254224,
+      "content": "Hi, Please contact Harish\n9032114737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akhil shetty",
+      "timestamp_ms": 1710580995831,
+      "content": "Nenu mi ani requirements match chestanu so naku intrest undi mi job vacancy ku ela apply cheyalo cheptara",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akhil shetty",
+      "timestamp_ms": 1710580877528,
+      "content": "How can I apply for this role",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akhil shetty",
+      "timestamp_ms": 1710580860546,
+      "content": "I am interested to work with you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akhil shetty",
+      "timestamp_ms": 1710580831389,
+      "content": "Hi \u00f0\u009f\u0091\u008b",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Akhil shetty",
+  "is_still_participant": true,
+  "thread_path": "inbox/akhilshetty_1351579432904627",
+  "magic_words": [
+    
+  ]
+}

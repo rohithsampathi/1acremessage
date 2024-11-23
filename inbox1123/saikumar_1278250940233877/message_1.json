@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Sai Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sai Kumar",
+      "timestamp_ms": 1702008400180,
+      "content": "Okay thank you bro",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702007342462,
+      "content": "You can connect with pratheek, 9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Kumar",
+      "timestamp_ms": 1701967607127,
+      "content": "Hi bro, can help me with finding right price of 1acre land in medak? \nExact place: HP gas, sardana road, muthaikota, medak.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sai Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/saikumar_1278250940233877",
+  "magic_words": [
+    
+  ]
+}

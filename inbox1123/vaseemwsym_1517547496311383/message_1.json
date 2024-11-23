@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "VASEEM\u00f0\u009f\u0098\u008a\u00e2\u0099\u00a1 \u00d9\u0088\u00d8\u00b3\u00d9\u008a\u00d9\u0085 \u00f0\u009f\u00a6\u008b"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721036812308,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721036811336,
+      "content": "Hi, Please contact Vijay 9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "VASEEM\u00f0\u009f\u0098\u008a\u00e2\u0099\u00a1 \u00d9\u0088\u00d8\u00b3\u00d9\u008a\u00d9\u0085 \u00f0\u009f\u00a6\u008b",
+      "timestamp_ms": 1720986343875,
+      "content": "I wanna join",
+      "share": {
+        "link": "https://www.instagram.com/p/C9UBKzVt_9s/"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00e2\u0080\u008eVASEEM\u00f0\u009f\u0098\u008a\u00e2\u0099\u00a1 \u00d9\u0088\u00d8\u00b3\u00d9\u008a\u00d9\u0085 \u00f0\u009f\u00a6\u008b\u00e2\u0080\u008e",
+  "is_still_participant": true,
+  "thread_path": "inbox/vaseemwsym_1517547496311383",
+  "magic_words": [
+    
+  ]
+}

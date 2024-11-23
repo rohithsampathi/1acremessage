@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Vishnuvardhan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vishnuvardhan",
+      "timestamp_ms": 1711862318177,
+      "content": "Ok thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711857299953,
+      "content": "Please contact Vijay\n9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711856518976,
+      "content": "Sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishnuvardhan",
+      "timestamp_ms": 1711854765434,
+      "content": "Hello sir, hope you're doing well.\nI have 1 acre of land for sale near chevella, could you post it in your page",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vishnuvardhan",
+  "is_still_participant": true,
+  "thread_path": "inbox/vishnuvardhan_1384097999652493",
+  "magic_words": [
+    
+  ]
+}

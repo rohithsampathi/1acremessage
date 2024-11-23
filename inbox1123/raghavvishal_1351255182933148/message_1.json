@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Raghav Vishal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Raghav Vishal",
+      "timestamp_ms": 1713597791997,
+      "content": "Without money investe money",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raghav Vishal",
+      "timestamp_ms": 1713597725816,
+      "content": "How to earn money sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713594838764,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raghav Vishal",
+      "timestamp_ms": 1713593709376,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Raghav Vishal",
+  "is_still_participant": true,
+  "thread_path": "inbox/raghavvishal_1351255182933148",
+  "magic_words": [
+    
+  ]
+}

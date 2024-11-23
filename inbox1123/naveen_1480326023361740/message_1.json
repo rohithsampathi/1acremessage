@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Naveen"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726455542686,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726451723428,
+      "content": "Naveen replied to an ad. View ad(https://www.instagram.com/p/C_xW-DVsF8Q/)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Naveen",
+      "timestamp_ms": 1726451722198,
+      "content": "Hello, Can I get more info on this?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Naveen",
+  "is_still_participant": true,
+  "thread_path": "inbox/naveen_1480326023361740",
+  "magic_words": [
+    
+  ]
+}

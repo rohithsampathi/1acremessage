@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Bachi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703315910457,
+      "content": "Hi , you can connect with pratheek  9390674324,",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bachi",
+      "timestamp_ms": 1703301407034,
+      "content": "Please do let me know",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bachi",
+      "timestamp_ms": 1703301401687,
+      "content": "Hello, I'm looking to buy acre land near puttaparthi, Anantapur",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Bachi",
+  "is_still_participant": true,
+  "thread_path": "inbox/bachi_1299350664792057",
+  "magic_words": [
+    
+  ]
+}

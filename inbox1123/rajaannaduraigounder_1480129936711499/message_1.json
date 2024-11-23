@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Raja Annadurai Gounder"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Raja Annadurai Gounder",
+      "timestamp_ms": 1732175830307,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1732175748486,
+      "content": "Okay our team will get in touch",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raja Annadurai Gounder",
+      "timestamp_ms": 1732119950780,
+      "content": "Salutations, One acre \nfor the sake of banking patanor. Ping me. We have more than 150+ banking potoner in India. Give me a call at 9500788404 for further details.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Raja Annadurai Gounder",
+  "is_still_participant": true,
+  "thread_path": "inbox/rajaannaduraigounder_1480129936711499",
+  "magic_words": [
+    
+  ]
+}

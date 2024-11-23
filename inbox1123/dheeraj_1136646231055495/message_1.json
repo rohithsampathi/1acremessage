@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "DHEERAJ \u00f0\u009f\u0094\u00b1"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "DHEERAJ \u00f0\u009f\u0094\u00b1",
+      "timestamp_ms": 1695103317168,
+      "content": "\u00f0\u009f\u0099\u008f\u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "DHEERAJ \u00f0\u009f\u0094\u00b1",
+      "timestamp_ms": 1695103311505,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "DHEERAJ \u00f0\u009f\u0094\u00b1",
+      "timestamp_ms": 1695103307688,
+      "content": "Okk",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1695103277269,
+      "content": "Hi, we only cover Telangana for now.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "DHEERAJ \u00f0\u009f\u0094\u00b1",
+      "timestamp_ms": 1695103010870,
+      "content": "Any properties near hubli\nDharwad ( dist ) KARNATAKA?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "DHEERAJ \u00f0\u009f\u0094\u00b1",
+  "is_still_participant": true,
+  "thread_path": "inbox/dheeraj_1136646231055495",
+  "magic_words": [
+    
+  ]
+}

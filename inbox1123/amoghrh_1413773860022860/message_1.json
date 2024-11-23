@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "AMOGH.RH"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "AMOGH.RH",
+      "timestamp_ms": 1717483509800,
+      "content": "Ok Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717483188471,
+      "content": "We'll soon start listing in other states. Will keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "AMOGH.RH",
+      "timestamp_ms": 1717482608560,
+      "content": "Ok I just saw a reel related to Karnataka so i texted you Anyhow Thank you for responding",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717482010557,
+      "content": "We are only listing Telangana for now.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "AMOGH.RH",
+      "timestamp_ms": 1717481516433,
+      "content": "Hello Sir Any Agricultural land near Chikka Tirupati around 6 acres",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "AMOGH.RH",
+  "is_still_participant": true,
+  "thread_path": "inbox/amoghrh_1413773860022860",
+  "magic_words": [
+    
+  ]
+}

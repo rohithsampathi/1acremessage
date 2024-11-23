@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Amit Sein"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Amit Sein",
+      "timestamp_ms": 1719041756632,
+      "content": "Ok \u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718644609977,
+      "content": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Amit Sein",
+      "timestamp_ms": 1718643419540,
+      "content": "My budget is around 2Cr for 3 acres land.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Amit Sein",
+      "timestamp_ms": 1718643388794,
+      "content": "Could you please find me a property of 1-3 acres land close proximity to Bangalore.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Amit Sein",
+      "timestamp_ms": 1718643325054,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Amit Sein",
+  "is_still_participant": true,
+  "thread_path": "inbox/amitsein_1469669841100066",
+  "magic_words": [
+    
+  ]
+}

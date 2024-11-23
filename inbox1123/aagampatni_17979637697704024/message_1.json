@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "AAGAM PATNI"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "AAGAM PATNI",
+      "timestamp_ms": 1718800232043,
+      "content": "Okkk",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718789862422,
+      "content": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "AAGAM PATNI",
+      "timestamp_ms": 1718784907266,
+      "content": "Land near jalna under 10 lakh per acrw",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "AAGAM PATNI",
+  "is_still_participant": true,
+  "thread_path": "inbox/aagampatni_17979637697704024",
+  "magic_words": [
+    
+  ]
+}

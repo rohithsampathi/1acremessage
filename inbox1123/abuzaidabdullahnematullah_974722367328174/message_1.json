@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Abu Zaid (Abdullah Nematullah)"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720195184341,
+      "content": "1acre.in/subscribe\n\nIf you subscribe, you'll have access to the MapView.\nYou can see all prices and available lands on one single map.",
+      "share": {
+        "link": "http://1acre.in/subscribe",
+        "share_text": "1acre.in/subscribe\n\nIf you subscribe, you'll have access to the MapView.\nYou can see all prices and available lands on one single map."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abu Zaid (Abdullah Nematullah)",
+      "timestamp_ms": 1720191384334,
+      "content": "Hello could you tell me the current price of per acre land in yacharam mandal?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711789911581,
+      "content": "Are you referring to any of our videos?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abu Zaid (Abdullah Nematullah)",
+      "timestamp_ms": 1711787691657,
+      "content": "How do you ensure that the chunk i buy will be safe?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abu Zaid (Abdullah Nematullah)",
+      "timestamp_ms": 1711787680587,
+      "content": "Hi about the land in maharashtra is it safe?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Abu Zaid (Abdullah Nematullah)",
+  "is_still_participant": true,
+  "thread_path": "inbox/abuzaidabdullahnematullah_974722367328174",
+  "magic_words": [
+    
+  ]
+}

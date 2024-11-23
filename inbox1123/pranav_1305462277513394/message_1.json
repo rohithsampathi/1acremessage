@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Pranav"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pranav",
+      "timestamp_ms": 1707586148637,
+      "content": "Interested",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Pranav",
+  "is_still_participant": true,
+  "thread_path": "inbox/pranav_1305462277513394",
+  "magic_words": [
+    
+  ]
+}

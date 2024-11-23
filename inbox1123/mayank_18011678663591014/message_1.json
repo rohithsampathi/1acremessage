@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Mayank"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720195097027,
+      "content": "1acre.in is a listing platform.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "1acre.in is a listing platform."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mayank",
+      "timestamp_ms": 1720194977605,
+      "content": "Sir ap land sell krte ho ya sirf jaankari dete ho?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720194908963,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mayank",
+      "timestamp_ms": 1720191901957,
+      "content": "Hello sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mayank",
+  "is_still_participant": true,
+  "thread_path": "inbox/mayank_18011678663591014",
+  "magic_words": [
+    
+  ]
+}

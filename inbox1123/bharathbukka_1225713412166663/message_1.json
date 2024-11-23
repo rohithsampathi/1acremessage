@@ -1,0 +1,72 @@
+{
+  "participants": [
+    {
+      "name": "Bharath Bukka"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706424967142,
+      "content": "He'll call back.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bharath Bukka",
+      "timestamp_ms": 1706424460863,
+      "content": "He is not lifting the call",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bharath Bukka",
+      "timestamp_ms": 1706372170156,
+      "content": "Kk",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706371842648,
+      "content": "He is the manager for listings and seller relations.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bharath Bukka",
+      "timestamp_ms": 1706365888839,
+      "content": "Like what is his position",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bharath Bukka",
+      "timestamp_ms": 1706365883231,
+      "content": "Kk",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706365865914,
+      "content": "Hi, Please contact Ramakrishna \n7780122120",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bharath Bukka",
+      "timestamp_ms": 1706365519967,
+      "content": "How can we contact u",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bharath Bukka",
+      "timestamp_ms": 1706365513977,
+      "content": "We have 10 acres land available for outrate",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Bharath Bukka",
+  "is_still_participant": true,
+  "thread_path": "inbox/bharathbukka_1225713412166663",
+  "magic_words": [
+    
+  ]
+}

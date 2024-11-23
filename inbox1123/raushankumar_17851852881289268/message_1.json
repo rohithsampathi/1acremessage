@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Raushan Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728300802730,
+      "content": "We will update once we launch in your region",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728300783137,
+      "content": "Abhi nahi hai",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raushan Kumar",
+      "timestamp_ms": 1728282794161,
+      "content": "Darbhanga district me koi plot nahi hai kya",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raushan Kumar",
+      "timestamp_ms": 1727410272809,
+      "content": "City-Darbhanga",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727410190747,
+      "content": "We will start listing bihar soon. Please give us:\nYour number\nArea/locations interested in.\nAnd how much land? \n\nWe will inform you as soon as we start listing Bihar.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raushan Kumar",
+      "timestamp_ms": 1727402075416,
+      "content": "Bihar me koi plot hai kya",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727363973064,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raushan Kumar",
+      "timestamp_ms": 1727350736246,
+      "content": "Hii sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Raushan Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/raushankumar_17851852881289268",
+  "magic_words": [
+    
+  ]
+}

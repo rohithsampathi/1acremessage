@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "real estate"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "real estate",
+      "timestamp_ms": 1728584601457,
+      "content": "real sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DA9BBJINPwy/?id=3475938963967245362_68176358287",
+        "share_text": "Land for sale\n#realestate #developing #landforsale #acre #siddipet #india #viral #developingsiddipet #landet #india #business",
+        "original_content_owner": "realestate6997"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "real estate",
+      "timestamp_ms": 1723991560233,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723990063726,
+      "content": "Hi, Please contact Venu \n7674901201, from the team.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "real estate",
+          "timestamp": 1723991560
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "real estate",
+      "timestamp_ms": 1723989999974,
+      "content": "real sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C91Kx-NPGOI/?id=3419686906571285384_68176358287",
+        "share_text": "3 acre for sale in siddipet \nSiddipet to kamareddy Highway \n8km for from siddipet \n#viral #realestate #landforsale #land #developing #developer #developingsiddipet #acre #siddipet #telangana #inda",
+        "original_content_owner": "realestate6997"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "real estate",
+  "is_still_participant": true,
+  "thread_path": "inbox/realestate_17846659482278288",
+  "magic_words": [
+    
+  ]
+}

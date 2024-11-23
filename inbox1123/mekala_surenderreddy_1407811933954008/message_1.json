@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "mekala_surenderreddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "mekala_surenderreddy",
+      "timestamp_ms": 1718386969859,
+      "content": "Okey \nThank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718385602999,
+      "content": "Hi, Please talk to Sandeep 9005464412, from the team",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "mekala_surenderreddy",
+      "timestamp_ms": 1718377448496,
+      "content": "Hello 1 Acre \ncan i know the timings nd off's ?\nis it Work from Office or Site visiting ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "mekala_surenderreddy",
+      "timestamp_ms": 1718377223080,
+      "content": "mekala_surenderreddy sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C8Mc9egymUa/?carousel_share_child_media_id=3390211989455922458_47651711013",
+        "share_text": "We are hiring ! \n\nRole : Product Guide \n\nDo apply if you align with our mission at 1acre.in \n\nOr \n\nRefer someone who could be a great fit ! \n\n#hiring #hyderabad #realestate",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "mekala_surenderreddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/mekala_surenderreddy_1407811933954008",
+  "magic_words": [
+    
+  ]
+}

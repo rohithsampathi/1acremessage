@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Tycon Real estate developer"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tycon Real estate developer",
+      "timestamp_ms": 1720970746703,
+      "content": "Please call me",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718672100852,
+      "content": "Hi, may we know what you are looking for? \nIt'll be easy for us to connect with the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tycon Real estate developer",
+      "timestamp_ms": 1718645764596,
+      "content": "Please send ur contact number",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Tycon Real estate developer",
+  "is_still_participant": true,
+  "thread_path": "inbox/tyconrealestatedeveloper_17971074644685388",
+  "magic_words": [
+    
+  ]
+}

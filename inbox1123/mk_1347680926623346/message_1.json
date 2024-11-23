@@ -1,0 +1,96 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009d\u0099\u0088\u00f0\u009d\u0099\u0086"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00f0\u009d\u0099\u0088\u00f0\u009d\u0099\u0086",
+      "timestamp_ms": 1716726401030,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716726342357,
+      "content": "Please contact Ramakrishna \n7780122120, from the team. \nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716726341887,
+      "content": "Hi, Thanks for getting touch.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "\u00f0\u009d\u0099\u0088\u00f0\u009d\u0099\u0086",
+          "timestamp": 1716726401
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0099\u0088\u00f0\u009d\u0099\u0086",
+      "timestamp_ms": 1716724648217,
+      "content": "Everything clear title and we decided to sell it a week before . I was suggested by one of my friends .",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0099\u0088\u00f0\u009d\u0099\u0086",
+      "timestamp_ms": 1716724570064,
+      "content": "This is located in the route between nagarkurnool to cherlaitikyala.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0099\u0088\u00f0\u009d\u0099\u0086",
+      "timestamp_ms": 1716724512122,
+      "content": "My family property .",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0099\u0088\u00f0\u009d\u0099\u0086",
+      "timestamp_ms": 1716724499004,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/mk_1347680926623346/photos/394804293_990825189090822_60757767065278092_n_1095983981494221.jpg",
+          "creation_timestamp": 1716724296,
+          "backup_uri": "https://scontent.fmaa12-1.fna.fbcdn.net/v/t1.15752-9/394804293_990825189090822_60757767065278092_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=9f807c&_nc_ohc=GYpaYBaQLOgQ7kNvgEePuTb&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fmaa12-1.fna&oh=03_Q7cD1QHmMY-cRHNuVuiYqw6oMSFnB6hUeAdI4pPEXyeopX8Gow&oe=6766C991"
+        }
+      ],
+      "videos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/mk_1347680926623346/videos/446368178_5882686541855399_5218011783383555106_n_1637579340330716.mp4",
+          "creation_timestamp": 1716724490,
+          "backup_uri": "https://video.fmaa12-2.fna.fbcdn.net/v/t42.3356-2/446368178_5882686541855399_5218011783383555106_n.mp4?_nc_cat=106&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=ruDjuxmUw1gQ7kNvgEBDESO&_nc_zt=28&_nc_ht=video.fmaa12-2.fna&_nc_gid=A8BGZRO9WXTOLVr2ZHmrpyD&oh=03_Q7cD1QHMDrnz7hJ7W-r699Y1rXEoGYWbstCHpLfBZQMbAhS89Q&oe=67411456&dl=1"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0099\u0088\u00f0\u009d\u0099\u0086",
+      "timestamp_ms": 1716724475255,
+      "content": "https://www.google.com/maps/place/16.521956,+78.309997/@16.5218888,78.3106086,17z/data=!3m1!1e3!4m4!3m3!8m2!3d16.5219557!4d78.3099971",
+      "share": {
+        "link": "https://www.google.com/maps/place/16.521956,+78.309997/@16.5218888,78.3106086,17z/data=!3m1!1e3!4m4!3m3!8m2!3d16.5219557!4d78.3099971",
+        "share_text": "https://www.google.com/maps/place/16.521956,+78.309997/@16.5218888,78.3106086,17z/data=!3m1!1e3!4m4!3m3!8m2!3d16.5219557!4d78.3099971"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0099\u0088\u00f0\u009d\u0099\u0086",
+      "timestamp_ms": 1716724278037,
+      "content": "Land at formed district nagarkurnool ,telangana 10.22 acres price is 60lakhs per acre 2 hrs from hyderbad 5 kms from nagarkurnool goverment medical colleg  , mini tank bund,busstand .",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00f0\u009d\u0099\u0088\u00f0\u009d\u0099\u0086",
+  "is_still_participant": true,
+  "thread_path": "inbox/mk_1347680926623346",
+  "magic_words": [
+    
+  ]
+}

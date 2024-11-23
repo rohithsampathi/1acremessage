@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Vidhaan Jain"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720095861064,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720095859611,
+      "content": "Hi, Please contact Vijay 9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vidhaan Jain",
+      "timestamp_ms": 1720095815177,
+      "content": "Give me details for the 40 acre land on Hyderabad Maharashtra highway",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vidhaan Jain",
+  "is_still_participant": true,
+  "thread_path": "inbox/vidhaanjain_1459388668793583",
+  "magic_words": [
+    
+  ]
+}

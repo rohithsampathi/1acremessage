@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Shrinivas M"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717679142946,
+      "content": "Hello \nPlease share your requirements (edited)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717679136864,
+      "content": "Hello \nPlease share your require",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shrinivas M",
+      "timestamp_ms": 1717675108899,
+      "content": "Hi sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shrinivas M",
+  "is_still_participant": true,
+  "thread_path": "inbox/shrinivasm_1002893707862884",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Caleb"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Caleb",
+      "timestamp_ms": 1730267367571,
+      "content": "Can mentor me",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Caleb",
+  "is_still_participant": true,
+  "thread_path": "inbox/caleb_1560561662011027",
+  "magic_words": [
+    
+  ]
+}

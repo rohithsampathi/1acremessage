@@ -1,0 +1,56 @@
+{
+  "participants": [
+    {
+      "name": "Rayapati Ganesh Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730965946691,
+      "content": "You can join the verified lands WhatsApp group to know about new listings instantly \n\nhttps://chat.whatsapp.com/E3ugM6b0IpzLwggHmWrEL2",
+      "share": {
+        "link": "https://chat.whatsapp.com/E3ugM6b0IpzLwggHmWrEL2",
+        "share_text": "You can join the verified lands WhatsApp group to know about new listings instantly \n\nhttps://chat.whatsapp.com/E3ugM6b0IpzLwggHmWrEL2"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730965862753,
+      "content": "Please explore our website 1acre.in to see available listings in amaravati",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Please explore our website 1acre.in to see available listings in amaravati"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rayapati Ganesh Reddy",
+      "timestamp_ms": 1730958352481,
+      "content": "The open plots",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730955472592,
+      "content": "Any specific requirements?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rayapati Ganesh Reddy",
+      "timestamp_ms": 1730917941824,
+      "content": "Need amaravati property",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rayapati Ganesh Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/rayapatiganeshreddy_1615087456553511",
+  "magic_words": [
+    
+  ]
+}

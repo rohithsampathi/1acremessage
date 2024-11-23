@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Koushik Reddy Dachireddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Koushik Reddy Dachireddy",
+      "timestamp_ms": 1716303884595,
+      "content": "Ok will call you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716281943431,
+      "content": "Hi, Please talk to Vijay\n9959994737, from the team. \nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Koushik Reddy Dachireddy",
+      "timestamp_ms": 1716278445144,
+      "content": "Can we see the land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Koushik Reddy Dachireddy",
+      "timestamp_ms": 1716278423721,
+      "content": "Koushik sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C7InZjuKaVo/?id=3371117601243112808_47651711013",
+        "share_text": "Further:\n15km away from the Upcoming Nagpur-Goa Shakthipeeth expressway. \nA new railway line between Nagpur and Nanded is underway. \n\n10 Acres - 1.5Cr\n\nThis transaction is facilitated by 1acre.in, till the process of registration. \nIf you are interested in buying, \nContact: 9959994737\n\n#1acre #1acre.in #beauty #landscapephotography",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Koushik Reddy Dachireddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/koushikreddydachireddy_1395200591873348",
+  "magic_words": [
+    
+  ]
+}

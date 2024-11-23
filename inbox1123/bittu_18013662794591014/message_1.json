@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "bittu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721450167676,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721450166866,
+      "content": "Hi, Please contact Vijay 9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "bittu",
+      "timestamp_ms": 1721443699245,
+      "content": "Tell me exactly location means where it is",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "bittu",
+      "timestamp_ms": 1721443678705,
+      "content": "Intrested I'm yavatmal 40 acr land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "bittu",
+      "timestamp_ms": 1721443669031,
+      "content": "Hie",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "bittu",
+  "is_still_participant": true,
+  "thread_path": "inbox/bittu_18013662794591014",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Kr Suri"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717218746662,
+      "content": "Sorry for that. Someone from the team will call you, to help.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kr Suri",
+      "timestamp_ms": 1717218664348,
+      "content": "Ur services r not good i hv phoned en number of times for 10 acres land but nobody answer my m no.9666159993",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kr Suri",
+  "is_still_participant": true,
+  "thread_path": "inbox/krsuri_18007509695591014",
+  "magic_words": [
+    
+  ]
+}

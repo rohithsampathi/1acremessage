@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Shaikh Taha"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719210811004,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shaikh Taha",
+      "timestamp_ms": 1719209521638,
+      "content": "Sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shaikh Taha",
+      "timestamp_ms": 1719209520588,
+      "content": "Hello\u00f0\u009f\u0091\u008b\u00f0\u009f\u0099\u008b\u00e2\u0080\u008d\u00e2\u0099\u0082\u00ef\u00b8\u008f sit",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shaikh Taha",
+  "is_still_participant": true,
+  "thread_path": "inbox/shaikhtaha_1376044650464669",
+  "magic_words": [
+    
+  ]
+}

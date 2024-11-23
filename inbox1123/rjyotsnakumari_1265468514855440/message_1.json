@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "R Jyotsna Kumari"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705570833070,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "R Jyotsna Kumari",
+      "timestamp_ms": 1705561554852,
+      "content": "Nearby hyd lo Amman\u00e2\u0080\u0099s farmlands one acre available vunte pls inform",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "R Jyotsna Kumari",
+  "is_still_participant": true,
+  "thread_path": "inbox/rjyotsnakumari_1265468514855440",
+  "magic_words": [
+    
+  ]
+}

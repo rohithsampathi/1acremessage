@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "frozenfiree23"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "frozenfiree23",
+      "timestamp_ms": 1718799623533,
+      "content": "Here is my portfolio. Please check",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "frozenfiree23",
+      "timestamp_ms": 1718799613564,
+      "content": "https://drive.google.com/drive/folders/1sVpoD4xDPb03vn3bFxYkVOJwAzqgyYSk?usp=sharing",
+      "share": {
+        "link": "https://drive.google.com/drive/folders/1sVpoD4xDPb03vn3bFxYkVOJwAzqgyYSk?usp=sharing",
+        "share_text": "https://drive.google.com/drive/folders/1sVpoD4xDPb03vn3bFxYkVOJwAzqgyYSk?usp=sharing"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "frozenfiree23",
+      "timestamp_ms": 1714543738717,
+      "content": "Can you give me his insta I'd?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1714543683261,
+      "content": "Hi, Please talk to Sandeep 9005464412, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "frozenfiree23",
+      "timestamp_ms": 1714539922842,
+      "content": "Hi, I am Anushka and I am a video editor and a thumbnail designer and I want to edit your videos and design your thumbnails. Can I get a chance?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "frozenfiree23",
+  "is_still_participant": true,
+  "thread_path": "inbox/frozenfiree23_17895091613997291",
+  "magic_words": [
+    
+  ]
+}

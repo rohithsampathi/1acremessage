@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Mallekedi Ramakrishna"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716264550536,
+      "content": "9032114737\nYou can talk to Bharath, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mallekedi Ramakrishna",
+      "timestamp_ms": 1716262028536,
+      "content": "Good morning sir..\nIam from Mahabubnagar Iam intrested to this oppertunity..",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mallekedi Ramakrishna",
+      "timestamp_ms": 1716262027388,
+      "content": "Mallekedi sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C4j3HBRt6Vt/?id=3324743324894995821_47651711013",
+        "share_text": "9032114737\n\nPlease call Bharath, from the team.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mallekedi Ramakrishna",
+  "is_still_participant": true,
+  "thread_path": "inbox/mallekediramakrishna_1395306078531015",
+  "magic_words": [
+    
+  ]
+}

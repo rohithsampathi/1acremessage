@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Rakesh Gujjarlapudi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710036290745,
+      "content": "Ours is a listing platform where anyone can list for free. We verify all lands. So, if you haven't already, you can check on 1acre.in\n\nWe do have a mapview for our premium subscribers, which makes the search much better. \n\nPlease contact Pratheek \n9390674324, for further enquiry.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Ours is a listing platform where anyone can list for free. We verify all lands. So, if you haven't already, you can check on 1acre.in\n\nWe do have a mapview for our premium subscribers, which makes the search much better. \n\nPlease contact Pratheek \n9390674324, for further enquiry."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rakesh Gujjarlapudi",
+      "timestamp_ms": 1710000050400,
+      "content": "Need more than 1 acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rakesh Gujjarlapudi",
+      "timestamp_ms": 1710000030263,
+      "content": "Do you have any land in vikarabad",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rakesh Gujjarlapudi",
+  "is_still_participant": true,
+  "thread_path": "inbox/rakeshgujjarlapudi_1380045440059862",
+  "magic_words": [
+    
+  ]
+}

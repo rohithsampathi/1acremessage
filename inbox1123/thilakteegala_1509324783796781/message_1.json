@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Thilak Teegala"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thilak Teegala",
+      "timestamp_ms": 1728306090633,
+      "content": "To call",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Thilak Teegala",
+      "timestamp_ms": 1728306088914,
+      "content": "Can I get your contact details please",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Thilak Teegala",
+      "timestamp_ms": 1727868932303,
+      "content": "Can u send any half acre farm house near hyderabad city please",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Thilak Teegala",
+  "is_still_participant": true,
+  "thread_path": "inbox/thilakteegala_1509324783796781",
+  "magic_words": [
+    
+  ]
+}

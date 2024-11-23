@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Hashmi Syed"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713661132399,
+      "content": "1acre.in\nPlease check website.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "1acre.in\nPlease check website."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hashmi Syed",
+      "timestamp_ms": 1713640505031,
+      "content": "Wers 10 llah per acre",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Hashmi Syed",
+  "is_still_participant": true,
+  "thread_path": "inbox/hashmisyed_1400130771386554",
+  "magic_words": [
+    
+  ]
+}

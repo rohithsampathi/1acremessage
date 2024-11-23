@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Ggunjan Sharrma"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711685320877,
+      "content": "Hi, currently only Telanalgana. Soon, we'll start listing Karnataka. Will keep you posted. Thanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ggunjan Sharrma",
+      "timestamp_ms": 1711684552463,
+      "content": "Is this website showing lands for Bangalore also?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ggunjan Sharrma",
+  "is_still_participant": true,
+  "thread_path": "inbox/ggunjansharrma_929614771956360",
+  "magic_words": [
+    
+  ]
+}

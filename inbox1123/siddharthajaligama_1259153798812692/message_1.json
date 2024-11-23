@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Siddhartha Jaligama"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Siddhartha Jaligama",
+      "timestamp_ms": 1697881968756,
+      "content": "Siddhartha sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1697883387
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/CyqA6DFBv2r/?id=3218388872744861099_9131780876",
+        "share_text": "5lakh- 45 lakh agricultural lands. Follow @1acre.in to get instant updates. All land listings are verified by @1acre.in \n\nBest options can be found for Software Employees to Invest on Lands",
+        "original_content_owner": "emceesidj"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Siddhartha Jaligama",
+      "timestamp_ms": 1697709440035,
+      "content": "9885737138",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697708800818,
+      "content": "can you share your contact number, would like to connect",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Siddhartha Jaligama",
+      "timestamp_ms": 1697707187272,
+      "content": "Hi we do paid promotions",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697699409233,
+      "content": "Hey, can we collaborate for a reel?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Siddhartha Jaligama",
+  "is_still_participant": true,
+  "thread_path": "inbox/siddharthajaligama_1259153798812692",
+  "magic_words": [
+    
+  ]
+}

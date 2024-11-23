@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "SHER MALLICK \u00f0\u009f\u00a6\u0081\u00f0\u009f\u0091\u0091"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720146820642,
+      "content": "Please check www.1acre.in where we have 3000+ lands listed across Telangana. \n\nYou can also subscribe to mapview for more intuitive search.",
+      "share": {
+        "link": "http://www.1acre.in/",
+        "share_text": "Please check www.1acre.in where we have 3000+ lands listed across Telangana. \n\nYou can also subscribe to mapview for more intuitive search."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SHER MALLICK \u00f0\u009f\u00a6\u0081\u00f0\u009f\u0091\u0091",
+      "timestamp_ms": 1720113379529,
+      "content": "Hi , \nI want to buy lands in acer around Hyderabad in the budget of 50-60 lakh per acer can u help?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "SHER MALLICK \u00f0\u009f\u00a6\u0081\u00f0\u009f\u0091\u0091",
+  "is_still_participant": true,
+  "thread_path": "inbox/shermallick_1417403022986286",
+  "magic_words": [
+    
+  ]
+}

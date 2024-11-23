@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "mouni.kunta"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722320325804,
+      "content": "Hello \n\nPlease check our website 1acre.in to explore 3000+ lands across Telangana. \n\nYou can filter them by area, price, highway direction etc to arrive at right set of lands for your interest. \n\nHope that helps :)",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hello \n\nPlease check our website 1acre.in to explore 3000+ lands across Telangana. \n\nYou can filter them by area, price, highway direction etc to arrive at right set of lands for your interest. \n\nHope that helps :)"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "mouni.kunta",
+      "timestamp_ms": 1722306239143,
+      "content": "Hi do u have anything in d range of 25-30l per acer",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "mouni.kunta",
+  "is_still_participant": true,
+  "thread_path": "inbox/mounikunta_1318021282935624",
+  "magic_words": [
+    
+  ]
+}

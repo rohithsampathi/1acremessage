@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Karan Gitay"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Karan Gitay",
+      "timestamp_ms": 1717663019286,
+      "content": "Thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717660684806,
+      "content": "Sure will keep you posted when we launch in Maharashtra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Karan Gitay",
+      "timestamp_ms": 1717660572901,
+      "content": "We are a real estate company having land banks in the konkan region of Maharashtra. For which i   would be keep on collaborating with you regarding the same.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1717660591
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717660505401,
+      "content": "Hello Karan. \n\nWe are actively working only in Telangana and will soon launch in Maharashtra.\n\nMay we know your requirement ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Karan Gitay",
+      "timestamp_ms": 1717658396841,
+      "content": "Hi are you guys active in Maharashtra?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Karan Gitay",
+  "is_still_participant": true,
+  "thread_path": "inbox/karangitay_1408348613892130",
+  "magic_words": [
+    
+  ]
+}

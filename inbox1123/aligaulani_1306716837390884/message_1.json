@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Ali Gaulani"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707584424888,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team. He'll give you the necessary details.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ali Gaulani",
+      "timestamp_ms": 1707583333039,
+      "content": "can i get more detail on this?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ali Gaulani",
+      "timestamp_ms": 1707583318789,
+      "content": "Ali sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C2xm0zqtx7U/?id=3292583557242232532_47651711013",
+        "share_text": "Explore more than 1700+ lands in Telangana and surrounding states.\n\nThank you for 1200+ Premium Subscribers. \n\nGet access to 1acre Premium that offers you: \n\u00f0\u009f\u00a4\u009d Hand Holding and Investment Guidance \n\u00f0\u009f\u008f\u009c\u00ef\u00b8\u008f Curated Land Parcels just for you \n\u00f0\u009f\u0091\u0081\u00ef\u00b8\u008f Access lands in Karnataka & Maharastra\n\u00f0\u009f\u0093\u008d Map view to see all lands available at a glance \n\nLife time membership for Rs 5000 only.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704983663688,
+      "content": "Sure. Please contact Vijay\n9959994737. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ali Gaulani",
+      "timestamp_ms": 1704980334010,
+      "content": "can you share more details on 15acre property",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ali Gaulani",
+  "is_still_participant": true,
+  "thread_path": "inbox/aligaulani_1306716837390884",
+  "magic_words": [
+    
+  ]
+}

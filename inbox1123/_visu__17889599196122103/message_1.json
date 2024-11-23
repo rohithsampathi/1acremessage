@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "_visu_"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "_visu_",
+      "timestamp_ms": 1731494069913,
+      "content": "Thanks for the responce",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731466386422,
+      "content": "We will be launching soon",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731466367225,
+      "content": "We havent launched in tamilnadu yet",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "_visu_",
+      "timestamp_ms": 1731460146360,
+      "content": "Do u have any property in tamil nadu",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "_visu_",
+  "is_still_participant": true,
+  "thread_path": "inbox/_visu__17889599196122103",
+  "magic_words": [
+    
+  ]
+}

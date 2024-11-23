@@ -1,0 +1,85 @@
+{
+  "participants": [
+    {
+      "name": "om"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "om",
+      "timestamp_ms": 1719312674187,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719312654472,
+      "content": "Sure. We will let u know. Thanks.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "om",
+          "timestamp": 1719312674
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "om",
+      "timestamp_ms": 1719312514863,
+      "content": "Get everything 3D scanned and surveyed, including drone surveys, with the best quality and fast delivery. We provide 3D modeling for whatever you need.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719312447441,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "om",
+      "timestamp_ms": 1719312441798,
+      "content": "BUT WE DO SURVEY'S ALL OVER INDIA",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719312430555,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "om",
+      "timestamp_ms": 1719312420082,
+      "content": "Mumbai",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719312405975,
+      "content": "Where are you from?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719312395920,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "om",
+      "timestamp_ms": 1719312353533,
+      "content": "For any kind of landsurvey contact me",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "om",
+  "is_still_participant": true,
+  "thread_path": "inbox/om_18010422659591014",
+  "magic_words": [
+    
+  ]
+}

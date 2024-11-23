@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Aniket Singh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aniket Singh",
+      "timestamp_ms": 1720197712320,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720194960467,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aniket Singh",
+      "timestamp_ms": 1720191525322,
+      "content": "Do you buy land in other states??",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Aniket Singh",
+  "is_still_participant": true,
+  "thread_path": "inbox/aniketsingh_18025078157225973",
+  "magic_words": [
+    
+  ]
+}

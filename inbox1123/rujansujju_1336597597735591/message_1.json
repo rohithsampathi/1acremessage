@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "$rujan Sujju"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707843477411,
+      "content": "Please contact Ramakrishna \n7780122120. He'll help you with the listing.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707843449362,
+      "content": "Hi, 1acre.in is for across Telangana.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, 1acre.in is for across Telangana."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "$rujan Sujju",
+      "timestamp_ms": 1707842101462,
+      "content": "Hi andi meeru only hyd local loney listings tisukuntara outside also consider chestara we have 3 acre land in Nirmal in city we wanted to sell just wanted to know the process",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3301878864414400113"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "$rujan Sujju",
+  "is_still_participant": true,
+  "thread_path": "inbox/rujansujju_1336597597735591",
+  "magic_words": [
+    
+  ]
+}

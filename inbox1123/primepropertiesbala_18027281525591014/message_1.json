@@ -1,0 +1,140 @@
+{
+  "participants": [
+    {
+      "name": "Prime properties bala"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Prime properties bala",
+      "timestamp_ms": 1731217562054,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731215862509,
+      "content": "Sure",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Prime properties bala",
+          "timestamp": 1731217562
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prime properties bala",
+      "timestamp_ms": 1731208865307,
+      "content": "Let me inform us",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prime properties bala",
+      "timestamp_ms": 1731208845610,
+      "content": "City",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prime properties bala",
+      "timestamp_ms": 1731208839327,
+      "content": "We also have projects in Bangalore",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prime properties bala",
+      "timestamp_ms": 1731051872031,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731048681690,
+      "content": "\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bc",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Prime properties bala",
+          "timestamp": 1731051872
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prime properties bala",
+      "timestamp_ms": 1731048562755,
+      "content": "There is Huge opportunity in indore",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prime properties bala",
+      "timestamp_ms": 1731048524233,
+      "content": "8109424356",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prime properties bala",
+      "timestamp_ms": 1731048515800,
+      "content": "Suree",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731048503549,
+      "content": "Share your number and our team will call you to discuss",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prime properties bala",
+      "timestamp_ms": 1731047658721,
+      "content": "Indore is the new hug for real estate investors",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prime properties bala",
+      "timestamp_ms": 1731047607135,
+      "content": "I want to be a partner",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prime properties bala",
+      "timestamp_ms": 1731047594795,
+      "content": "I am a real estate agent",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731043343164,
+      "content": "Ate you looking to sell, buy or partner ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731043312867,
+      "content": "We have started",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prime properties bala",
+      "timestamp_ms": 1730989235645,
+      "content": "Are you active in mp indore ujjain bhopal area",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prime properties bala",
+      "timestamp_ms": 1730989221705,
+      "content": "Hey",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Prime properties bala",
+  "is_still_participant": true,
+  "thread_path": "inbox/primepropertiesbala_18027281525591014",
+  "magic_words": [
+    
+  ]
+}

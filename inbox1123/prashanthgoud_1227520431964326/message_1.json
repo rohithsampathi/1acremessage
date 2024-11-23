@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Prashanth Goud"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718159242567,
+      "content": "1acre.in/subscribe",
+      "share": {
+        "link": "http://1acre.in/subscribe",
+        "share_text": "1acre.in/subscribe"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prashanth Goud",
+      "timestamp_ms": 1718124565098,
+      "content": "Prashanth sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C8EAMcQNdWH/?id=3387833674659911047_47651711013",
+        "share_text": "Buying Verified Lands around Hyderabad Simplified. Survey Maps, Transparent Pricing and direct Seller Contact. Subscribe to 1acre.in Premium and explore MapView now. \n\nVisit: https://www.1acre.in/subscribe\n\n#landsinhyderabad #hyderabadreal #privatelandforsale #landsurveymaps #buylands #landsforsale #buy1acreland",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717599409316,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717599408654,
+      "content": "You sent a private reply to a comment on your Instagram post.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Prashanth Goud",
+  "is_still_participant": true,
+  "thread_path": "inbox/prashanthgoud_1227520431964326",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "participants": [
+    {
+      "name": "Gowrav Singh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gowrav Singh",
+      "timestamp_ms": 1721465028628,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721463424271,
+      "content": "Hi, Please talk to Sandeep 9005464412, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gowrav Singh",
+      "timestamp_ms": 1721451781619,
+      "content": "Hello, can I get more info on this?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gowrav Singh",
+      "timestamp_ms": 1721451781254,
+      "share": {
+        "link": "https://www.instagram.com/p/C9UBKziNtKx/"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gowrav Singh",
+      "timestamp_ms": 1710569573450,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710563844585,
+      "content": "Hi, Please contact Harish\n9032114737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gowrav Singh",
+      "timestamp_ms": 1710561064570,
+      "content": "Hi \nI am interested in the job posting by you as listing associate  I will call you morning .\nThank you",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Gowrav Singh",
+  "is_still_participant": true,
+  "thread_path": "inbox/gowravsingh_1303215717734560",
+  "magic_words": [
+    
+  ]
+}

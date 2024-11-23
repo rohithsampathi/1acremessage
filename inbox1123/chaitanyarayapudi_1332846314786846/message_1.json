@@ -1,0 +1,72 @@
+{
+  "participants": [
+    {
+      "name": "Chaitanya Rayapudi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Chaitanya Rayapudi",
+      "timestamp_ms": 1726209674283,
+      "content": "Ok thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726209660413,
+      "content": "Hi, Please contact Ratna Kiran, our founder at 9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chaitanya Rayapudi",
+      "timestamp_ms": 1726209028602,
+      "content": "Preferably the decision maker",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chaitanya Rayapudi",
+      "timestamp_ms": 1726209014246,
+      "content": "I am Chaitanya Rayapudi from Supra Earth. I would like to meet.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726208951349,
+      "content": "How can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726208946160,
+      "content": "Hyderabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chaitanya Rayapudi",
+      "timestamp_ms": 1726208832620,
+      "content": "Where is your company based out of?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726208807807,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chaitanya Rayapudi",
+      "timestamp_ms": 1726208467380,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Chaitanya Rayapudi",
+  "is_still_participant": true,
+  "thread_path": "inbox/chaitanyarayapudi_1332846314786846",
+  "magic_words": [
+    
+  ]
+}

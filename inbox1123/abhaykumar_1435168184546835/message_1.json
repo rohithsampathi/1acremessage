@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "Abhay Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717993458667,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717993454614,
+      "content": "Sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhay Kumar",
+      "timestamp_ms": 1717993160590,
+      "content": "I am from Lucknow, Uttar Pradesh. If need any help/ collaboration then do inform.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1717993446
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717993031452,
+      "content": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhay Kumar",
+      "timestamp_ms": 1717992809227,
+      "content": "Hey.! This is Abhay. Do you guys operate in Uttar Pradesh also ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Abhay Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/abhaykumar_1435168184546835",
+  "magic_words": [
+    
+  ]
+}

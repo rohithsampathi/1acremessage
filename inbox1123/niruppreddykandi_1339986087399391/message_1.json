@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Nirupp Reddy Kandi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nirupp Reddy Kandi",
+      "timestamp_ms": 1707240464267,
+      "content": "The roads are being done, like in 1 year they would be good. So do you think theres going to be any development? \nThanks in advance",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nirupp Reddy Kandi",
+      "timestamp_ms": 1707240412448,
+      "content": "What do you think about the investment on Vijaywada highway",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nirupp Reddy Kandi",
+      "timestamp_ms": 1707240392686,
+      "content": "Hey",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nirupp Reddy Kandi",
+  "is_still_participant": true,
+  "thread_path": "inbox/niruppreddykandi_1339986087399391",
+  "magic_words": [
+    
+  ]
+}

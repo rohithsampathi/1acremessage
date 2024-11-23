@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Shakti Naveen"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724239847819,
+      "content": "Hi, Please contact Srikar\n8341149011, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shakti Naveen",
+      "timestamp_ms": 1724234870139,
+      "content": "Hi\n\nMyself Naveen from the Royal Kingdom Group \n\nI'm interested in a paid collaboration, please share your price details",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shakti Naveen",
+  "is_still_participant": true,
+  "thread_path": "inbox/shaktinaveen_1530042221721338",
+  "magic_words": [
+    
+  ]
+}

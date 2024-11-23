@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "ranjeev_rout"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ranjeev_rout",
+      "timestamp_ms": 1717688387678,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717669767880,
+      "content": "We currently only operate in telangana. \n\nWill keep you posted when we launch in other states",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "ranjeev_rout",
+      "timestamp_ms": 1717669195296,
+      "content": "Any plots in Odisha",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "ranjeev_rout",
+  "is_still_participant": true,
+  "thread_path": "inbox/ranjeev_rout_1315562233164753",
+  "magic_words": [
+    
+  ]
+}

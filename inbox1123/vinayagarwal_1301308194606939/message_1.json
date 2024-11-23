@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Vinay Agarwal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719378764816,
+      "content": "We will tell you when we list Jaipur.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vinay Agarwal",
+      "timestamp_ms": 1719378460538,
+      "content": "Sir 2.5 cr ki property hai 10 L ka commission hai",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vinay Agarwal",
+      "timestamp_ms": 1719335510177,
+      "content": "Thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719311916385,
+      "content": "Hi, thanks for reaching out. \nWe are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vinay Agarwal",
+      "timestamp_ms": 1719305275466,
+      "content": "We have a property to list",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vinay Agarwal",
+      "timestamp_ms": 1719305264073,
+      "content": "We are from Jaipur",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vinay Agarwal",
+      "timestamp_ms": 1719305255113,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vinay Agarwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/vinayagarwal_1301308194606939",
+  "magic_words": [
+    
+  ]
+}

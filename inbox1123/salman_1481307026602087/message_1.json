@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009d\u0090\u0092\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a6\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00a7"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0092\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a6\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00a7",
+      "timestamp_ms": 1721991351808,
+      "content": "9989443840",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721964154336,
+      "content": "Please share your number and we shall get back to you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0092\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a6\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00a7",
+      "timestamp_ms": 1721907484657,
+      "content": "I have tried to reach but there is no response. \nI have to sell my land located in rajendra nagar (607 sq yrds)",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00f0\u009d\u0090\u0092\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a6\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00a7",
+  "is_still_participant": true,
+  "thread_path": "inbox/salman_1481307026602087",
+  "magic_words": [
+    
+  ]
+}

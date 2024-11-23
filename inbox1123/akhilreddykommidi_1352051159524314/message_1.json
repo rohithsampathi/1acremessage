@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Akhil Reddy Kommidi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Akhil Reddy Kommidi",
+      "timestamp_ms": 1708672956186,
+      "content": "Ok thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708672787801,
+      "content": "Hi, Please contact Ramakrishna \n7780122120, from the team. He'll help you out.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akhil Reddy Kommidi",
+      "timestamp_ms": 1708672327314,
+      "content": "Hi, I want to put up a land for sale. It\u00e2\u0080\u0099s 20 acres or agricultural land. How do I go about this? Thank you",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Akhil Reddy Kommidi",
+  "is_still_participant": true,
+  "thread_path": "inbox/akhilreddykommidi_1352051159524314",
+  "magic_words": [
+    
+  ]
+}

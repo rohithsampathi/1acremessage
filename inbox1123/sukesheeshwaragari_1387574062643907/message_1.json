@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Sukesh Eeshwaragari"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1714893862080,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sukesh Eeshwaragari",
+      "timestamp_ms": 1714889489137,
+      "content": "So give me u r number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sukesh Eeshwaragari",
+      "timestamp_ms": 1714880534039,
+      "content": "I want 1 acer land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1714869109252,
+      "content": "Hi, may I know what you are looking for? Will connect with the team accordingly.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sukesh Eeshwaragari",
+      "timestamp_ms": 1714844824823,
+      "content": "Hi place provaid u r number",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sukesh Eeshwaragari",
+  "is_still_participant": true,
+  "thread_path": "inbox/sukesheeshwaragari_1387574062643907",
+  "magic_words": [
+    
+  ]
+}

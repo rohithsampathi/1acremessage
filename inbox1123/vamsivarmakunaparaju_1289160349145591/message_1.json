@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Vamsi Varma Kunaparaju"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701408205030,
+      "content": "Hi , for more details you can contact:9505778117,PRATHEEK",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vamsi Varma Kunaparaju",
+      "timestamp_ms": 1701404702723,
+      "content": "Best and productive land",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3247388589952767919"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vamsi Varma Kunaparaju",
+      "timestamp_ms": 1701404695023,
+      "content": "Pls give info about andhra too",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3247388589952767919"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vamsi Varma Kunaparaju",
+  "is_still_participant": true,
+  "thread_path": "inbox/vamsivarmakunaparaju_1289160349145591",
+  "magic_words": [
+    
+  ]
+}

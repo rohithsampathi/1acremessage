@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Prudhvi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711329973407,
+      "content": "Hi, Please check on the website. \n1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, Please check on the website. \n1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prudhvi",
+      "timestamp_ms": 1711310111730,
+      "content": "Hi bro i am looking to buy a property jn jayagiri in warangal \n\nDo you have any idea how much is the land selling over there per acre",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Prudhvi",
+  "is_still_participant": true,
+  "thread_path": "inbox/prudhvi_1329625561762655",
+  "magic_words": [
+    
+  ]
+}

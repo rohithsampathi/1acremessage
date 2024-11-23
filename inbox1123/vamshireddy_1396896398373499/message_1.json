@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Vamshi Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vamshi Reddy",
+      "timestamp_ms": 1716114561318,
+      "content": "Ok, Thankyou",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716114517907,
+      "content": "Call me tomorrow. Satish. 7661933372",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vamshi Reddy",
+      "timestamp_ms": 1716114030593,
+      "content": "Not now but i had worked in a farmland project",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716107776481,
+      "content": "Are you currently working somewhere? What do you want to work on?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vamshi Reddy",
+      "timestamp_ms": 1716107440742,
+      "content": "Hi I am Vamshi interested in this sector of land and prices, if  there is any vacancy I would love to work",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vamshi Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/vamshireddy_1396896398373499",
+  "magic_words": [
+    
+  ]
+}

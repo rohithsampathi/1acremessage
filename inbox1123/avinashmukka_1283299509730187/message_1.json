@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Avinash Mukka"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706771823299,
+      "content": "Sure. Please coordinate with Pratheek. He'll arrange for a meet.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Avinash Mukka",
+      "timestamp_ms": 1706771553666,
+      "content": "Need to meet actually",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Avinash Mukka",
+      "timestamp_ms": 1706771545103,
+      "content": "do you have office in hyderabad?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Avinash Mukka",
+      "timestamp_ms": 1706771537187,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702866499115,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Avinash Mukka",
+      "timestamp_ms": 1702866489177,
+      "content": "can i call now?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702866477988,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Avinash Mukka",
+      "timestamp_ms": 1702866370693,
+      "content": "hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702705766277,
+      "content": "Hi, Pratheek  9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Avinash Mukka",
+      "timestamp_ms": 1702703562027,
+      "content": "hi what is your phone number andi?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Avinash Mukka",
+  "is_still_participant": true,
+  "thread_path": "inbox/avinashmukka_1283299509730187",
+  "magic_words": [
+    
+  ]
+}

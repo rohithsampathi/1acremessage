@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Amit Saraogi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Amit Saraogi",
+      "timestamp_ms": 1716867953843,
+      "content": "We are wanting to buy a beeeder farm",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1716868763
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716867910511,
+      "content": "Sure sir, very soon.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Amit Saraogi",
+      "timestamp_ms": 1716867447369,
+      "content": "Launch in Bihar and West Bengal",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Amit Saraogi",
+  "is_still_participant": true,
+  "thread_path": "inbox/amitsaraogi_1413006896761494",
+  "magic_words": [
+    
+  ]
+}

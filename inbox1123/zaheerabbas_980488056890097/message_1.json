@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Zaheer abbas"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Zaheer abbas",
+      "timestamp_ms": 1720253748473,
+      "content": "Yeah sure \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720253727404,
+      "content": "We shall assess and get back",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Zaheer abbas",
+      "timestamp_ms": 1720253556393,
+      "content": "https://drive.google.com/drive/folders/10ZZia_N-kf__KWuoMJUhOCjAS2Gifo6J?usp=sharing",
+      "share": {
+        "link": "https://drive.google.com/drive/folders/10ZZia_N-kf__KWuoMJUhOCjAS2Gifo6J?usp=sharing",
+        "share_text": "https://drive.google.com/drive/folders/10ZZia_N-kf__KWuoMJUhOCjAS2Gifo6J?usp=sharing"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Zaheer abbas",
+      "timestamp_ms": 1720252965968,
+      "content": "Hello\nMy name is Zaheer\nI'm a video editor with 1 year of experience and a passion for creating unique video content. I've worked on various video editing styles and honed my skills to deliver engaging and compelling videos. I'm proficient in Adobe Premiere Pro and After Effects and have edited over 1000+ videos.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1720253511
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Zaheer abbas",
+  "is_still_participant": true,
+  "thread_path": "inbox/zaheerabbas_980488056890097",
+  "magic_words": [
+    
+  ]
+}

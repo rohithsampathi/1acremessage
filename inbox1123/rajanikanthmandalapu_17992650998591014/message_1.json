@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Rajanikanth Mandalapu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rajanikanth Mandalapu",
+      "timestamp_ms": 1706053724568,
+      "content": "\u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705998516874,
+      "content": "Hi, Please contact Ramakrishna \n7780122120",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rajanikanth Mandalapu",
+      "timestamp_ms": 1705989702664,
+      "content": "For selling",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rajanikanth Mandalapu",
+      "timestamp_ms": 1705989694224,
+      "content": "How to post my land details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rajanikanth Mandalapu",
+      "timestamp_ms": 1705989636798,
+      "content": "Good morning",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rajanikanth Mandalapu",
+      "timestamp_ms": 1705989633961,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rajanikanth Mandalapu",
+  "is_still_participant": true,
+  "thread_path": "inbox/rajanikanthmandalapu_17992650998591014",
+  "magic_words": [
+    
+  ]
+}

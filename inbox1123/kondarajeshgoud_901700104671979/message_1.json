@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Konda Rajesh Goud"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Konda Rajesh Goud",
+      "timestamp_ms": 1705653641529,
+      "content": "And your good name plz",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Konda Rajesh Goud",
+      "timestamp_ms": 1705653603313,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705653559324,
+      "content": "Hello Rajesh",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Konda Rajesh Goud",
+          "timestamp": 1705653603
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Konda Rajesh Goud",
+      "timestamp_ms": 1705651165420,
+      "content": "This is Rajesh Goud",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Konda Rajesh Goud",
+      "timestamp_ms": 1705651157788,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Konda Rajesh Goud",
+  "is_still_participant": true,
+  "thread_path": "inbox/kondarajeshgoud_901700104671979",
+  "magic_words": [
+    
+  ]
+}

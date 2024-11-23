@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "Rahul Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719381384665,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719381383847,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team.\nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rahul Reddy",
+      "timestamp_ms": 1719381074265,
+      "content": "Please share more details about this property",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3398205287994974809"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rahul Reddy",
+      "timestamp_ms": 1716110936744,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716110144030,
+      "content": "Hi, Please talk to Ratna Kiran \n9390155412\nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rahul Reddy",
+      "timestamp_ms": 1716108673310,
+      "content": "Instrested In the property",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rahul Reddy",
+      "timestamp_ms": 1716108662882,
+      "content": "Rahul sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C7InZjuKaVo/?id=3371117601243112808_47651711013",
+        "share_text": "Further:\n15km away from the Upcoming Nagpur-Goa Shakthipeeth expressway. \nA new railway line between Nagpur and Nanded is underway. \n\n10 Acres - 1.5Cr\n\nThis transaction is facilitated by 1acre.in, till the process of registration. \nIf you are interested in buying, \nContact: 9959994737\n\n#1acre #1acre.in #beauty #landscapephotography",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rahul Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/rahulreddy_1363128598413107",
+  "magic_words": [
+    
+  ]
+}

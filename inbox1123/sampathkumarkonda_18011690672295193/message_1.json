@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Sampath Kumar Konda"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704347816826,
+      "content": "you can connect with pratheek, 9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sampath Kumar Konda",
+      "timestamp_ms": 1704342753145,
+      "content": "Hi you send the details on 8919915054",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sampath Kumar Konda",
+  "is_still_participant": true,
+  "thread_path": "inbox/sampathkumarkonda_18011690672295193",
+  "magic_words": [
+    
+  ]
+}

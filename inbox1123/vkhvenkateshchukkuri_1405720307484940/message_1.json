@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "VKH Venkatesh chukkuri"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723089079182,
+      "content": "Hi, Please contact Srikar\n8341149011",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "VKH Venkatesh chukkuri",
+      "timestamp_ms": 1723061648657,
+      "content": "Call me number 9032200551",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "VKH Venkatesh chukkuri",
+      "timestamp_ms": 1723061636613,
+      "content": "Hi sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "VKH Venkatesh chukkuri",
+  "is_still_participant": true,
+  "thread_path": "inbox/vkhvenkateshchukkuri_1405720307484940",
+  "magic_words": [
+    
+  ]
+}

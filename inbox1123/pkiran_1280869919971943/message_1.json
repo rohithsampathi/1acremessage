@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "P Kiran"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712671026237,
+      "content": "Hi, Please contact Ramakrishna \n7780122120, to list the land.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "P Kiran",
+      "timestamp_ms": 1712669149936,
+      "content": "65 guntas \n\nhttps://maps.app.goo.gl/fhn1Z6bdFVzXTqUN8?g_st=iw",
+      "share": {
+        "link": "https://maps.app.goo.gl/fhn1Z6bdFVzXTqUN8?g_st=iw",
+        "share_text": "65 guntas \n\nhttps://maps.app.goo.gl/fhn1Z6bdFVzXTqUN8?g_st=iw"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "P Kiran",
+      "timestamp_ms": 1712393239267,
+      "content": "Can i get A what's app number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706977494739,
+      "content": "Please let me know more details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "P Kiran",
+      "timestamp_ms": 1706968790461,
+      "content": "Hi do u deal I agriland sale",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "P Kiran",
+  "is_still_participant": true,
+  "thread_path": "inbox/pkiran_1280869919971943",
+  "magic_words": [
+    
+  ]
+}

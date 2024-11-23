@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Sagar Jethwani"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720086087318,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sagar Jethwani",
+      "timestamp_ms": 1720085777777,
+      "content": "Pls share details on 9963371000",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3404084211142933072"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sagar Jethwani",
+  "is_still_participant": true,
+  "thread_path": "inbox/sagarjethwani_1454272869304471",
+  "magic_words": [
+    
+  ]
+}

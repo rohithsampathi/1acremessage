@@ -1,0 +1,94 @@
+{
+  "participants": [
+    {
+      "name": "Mahi Kalyankar (Champ)"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mahi Kalyankar (Champ)",
+      "timestamp_ms": 1718698201279,
+      "content": "it's near by telangana",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718698142373,
+      "content": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mahi Kalyankar (Champ)",
+      "timestamp_ms": 1718696988466,
+      "content": "wt happened",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mahi Kalyankar (Champ)",
+      "timestamp_ms": 1718696967290,
+      "content": "hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mahi Kalyankar (Champ)",
+      "timestamp_ms": 1718346951049,
+      "content": "Raichur  district",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718328158974,
+      "content": "mahikalyankar wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718328158412,
+      "content": "Where are the plots? Which place?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mahi Kalyankar (Champ)",
+      "timestamp_ms": 1718299880232,
+      "content": "It mean layout",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mahi Kalyankar (Champ)",
+      "timestamp_ms": 1718299869945,
+      "content": "Can u sel it",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mahi Kalyankar (Champ)",
+      "timestamp_ms": 1718299855054,
+      "content": "I have plots",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718280494268,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mahi Kalyankar (Champ)",
+      "timestamp_ms": 1718273597917,
+      "content": "hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mahi Kalyankar (Champ)",
+  "is_still_participant": true,
+  "thread_path": "inbox/mahikalyankarchamp_1434930611241084",
+  "magic_words": [
+    
+  ]
+}

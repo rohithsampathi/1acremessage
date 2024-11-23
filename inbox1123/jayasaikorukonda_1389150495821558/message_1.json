@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Jayasai Korukonda"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jayasai Korukonda",
+      "timestamp_ms": 1723447929318,
+      "content": "I want to sale my land in Amaravathi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723432860064,
+      "content": "Can you share more details of your requirement",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jayasai Korukonda",
+      "timestamp_ms": 1723402183260,
+      "content": "In Vijayawada i need",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jayasai Korukonda",
+      "timestamp_ms": 1723402171622,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Jayasai Korukonda",
+  "is_still_participant": true,
+  "thread_path": "inbox/jayasaikorukonda_1389150495821558",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Shaik Muzaffer"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708769759351,
+      "content": "Hi, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shaik Muzaffer",
+      "timestamp_ms": 1708764408174,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shaik Muzaffer",
+  "is_still_participant": true,
+  "thread_path": "inbox/shaikmuzaffer_1212694726782584",
+  "magic_words": [
+    
+  ]
+}

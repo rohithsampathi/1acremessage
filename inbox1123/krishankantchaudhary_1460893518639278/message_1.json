@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "krishan kant Chaudhary"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720958109349,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "krishan kant Chaudhary",
+      "timestamp_ms": 1720956356263,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "krishan kant Chaudhary",
+  "is_still_participant": true,
+  "thread_path": "inbox/krishankantchaudhary_1460893518639278",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Nitin Vaishnav"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728269311994,
+      "content": "Can you share your requirements more clearly please",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728269298882,
+      "content": "Hello Nithin",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nitin Vaishnav",
+      "timestamp_ms": 1728175326240,
+      "content": "Hyd land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nitin Vaishnav",
+      "timestamp_ms": 1728157154293,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nitin Vaishnav",
+  "is_still_participant": true,
+  "thread_path": "inbox/nitinvaishnav_1353214212730463",
+  "magic_words": [
+    
+  ]
+}

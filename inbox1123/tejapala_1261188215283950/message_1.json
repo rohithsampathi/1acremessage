@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Teja Pala"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Teja Pala",
+      "timestamp_ms": 1704449701270,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704444310710,
+      "content": "tejapala9 wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704444310500,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Teja Pala",
+      "timestamp_ms": 1704425775767,
+      "content": "Hi sir 1 acre 10 to 15 lakhs lo unai annaru ga we are interested 5 people",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Teja Pala",
+  "is_still_participant": true,
+  "thread_path": "inbox/tejapala_1261188215283950",
+  "magic_words": [
+    
+  ]
+}

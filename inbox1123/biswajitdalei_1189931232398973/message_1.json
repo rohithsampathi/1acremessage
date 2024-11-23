@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Biswajit Dalei"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1695040343406,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Biswajit Dalei",
+      "timestamp_ms": 1695038428301,
+      "content": "Hy",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Biswajit Dalei",
+  "is_still_participant": true,
+  "thread_path": "inbox/biswajitdalei_1189931232398973",
+  "magic_words": [
+    
+  ]
+}

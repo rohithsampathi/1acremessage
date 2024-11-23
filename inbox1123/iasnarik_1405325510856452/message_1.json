@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "iasnarik"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725958404405,
+      "content": "Hi, Please contact Srikar 8341149011, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "iasnarik",
+      "timestamp_ms": 1725901747362,
+      "content": "Looking for 450 to 500 sq yards plot in  nagole , dilshuknagar, alkapuri colony,",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "iasnarik",
+  "is_still_participant": true,
+  "thread_path": "inbox/iasnarik_1405325510856452",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "MaDhU_YaDaV"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "MaDhU_YaDaV",
+      "timestamp_ms": 1716684255130,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716684220851,
+      "content": "9032114737\nYou can talk to Bharath, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "MaDhU_YaDaV",
+      "timestamp_ms": 1716683882565,
+      "content": "Hii I want to work in 1 acre.in",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "MaDhU_YaDaV",
+      "timestamp_ms": 1716683881728,
+      "content": "MaDhU_YaDaV sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C4j3HBRt6Vt/?id=3324743324894995821_47651711013",
+        "share_text": "9032114737\n\nPlease call Bharath, from the team.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "MaDhU_YaDaV",
+  "is_still_participant": true,
+  "thread_path": "inbox/madhu_yadav_1370283577707382",
+  "magic_words": [
+    
+  ]
+}

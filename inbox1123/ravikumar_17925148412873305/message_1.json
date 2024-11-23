@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Ravi Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715925641380,
+      "content": "He's on some site visit.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715925628601,
+      "content": "Cheyochu. In case he is busy, plz drop him a message. He'll call back.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravi Kumar",
+      "timestamp_ms": 1715925612379,
+      "content": "Lepatle bro cal",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravi Kumar",
+      "timestamp_ms": 1715925525055,
+      "content": "Cal cheyyocha",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715925501242,
+      "content": "Hi, Please talk to Vijay\n9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravi Kumar",
+      "timestamp_ms": 1715925480613,
+      "content": "Isnapur ayina parvaledhu",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravi Kumar",
+      "timestamp_ms": 1715925449885,
+      "content": "Naku patancheruvu land kavali",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravi Kumar",
+      "timestamp_ms": 1715925392663,
+      "content": "Helo bro",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ravi Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/ravikumar_17925148412873305",
+  "magic_words": [
+    
+  ]
+}

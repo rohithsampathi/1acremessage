@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Srikanth Suryadevara"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1699340672498,
+      "content": "Sure, you connect with our relationship manager pratheek (9505778117)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srikanth Suryadevara",
+      "timestamp_ms": 1699303216566,
+      "content": "I\u00e2\u0080\u0099m interested in this",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srikanth Suryadevara",
+      "timestamp_ms": 1699303216176,
+      "content": "Srikanth sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/CyVBLFLRdiT/",
+        "share_text": "Investment size : 19 lakhs\nLand size : 12 Guntas\nLocation : Sangareddy, Gongulur, Pulkal\n\nCopy Link: https://1acre.in/verified-lands/sangareddy/pulkal/786\n(or)\nclick the link in bio\n\nYou can copy the above link to view the listing and contact the seller directly.\nVerified by 1acre.in\n\nFollow @1acre.in to receive instant notification of all verified lands in Telangana between 5 lakh to 45 lakhs in investment size.\n\nTag your friends or share this post, if you believe they might benefit from this information!\n\n1acre.in - Buy verified agricultural lands around Hyderabad (Telangana)\n\n#agriculturelands #landforsale #telangana #hyderabad #Sangareddy #farmland #1acre",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srikanth Suryadevara",
+      "timestamp_ms": 1699302997773,
+      "content": "Hello I\u00e2\u0080\u0099m interested in this land can u please share the details of land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srikanth Suryadevara",
+      "timestamp_ms": 1699302997338,
+      "content": "Srikanth sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/CyfUQ2zruSu/?carousel_share_child_media_id=3215377774364495918_47651711013",
+        "share_text": "",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Srikanth Suryadevara",
+  "is_still_participant": true,
+  "thread_path": "inbox/srikanthsuryadevara_1311891126876992",
+  "magic_words": [
+    
+  ]
+}

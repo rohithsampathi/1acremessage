@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Kumar msah"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718604326463,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kumar msah",
+      "timestamp_ms": 1718604129993,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kumar msah",
+  "is_still_participant": true,
+  "thread_path": "inbox/kumarmsah_17888666082048285",
+  "magic_words": [
+    
+  ]
+}

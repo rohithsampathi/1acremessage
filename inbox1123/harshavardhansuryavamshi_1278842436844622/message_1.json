@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Harshavardhan suryavamshi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1698900368120,
+      "content": "Hey Harshavardhan , for more details please visit our website :https://www.1acre.in/, contact:9505778117",
+      "share": {
+        "link": "https://www.1acre.in/",
+        "share_text": "Hey Harshavardhan , for more details please visit our website :https://www.1acre.in/, contact:9505778117"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harshavardhan suryavamshi",
+      "timestamp_ms": 1698754596392,
+      "content": "I have seen your add with lake facing hill top land could you pls send details",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Harshavardhan suryavamshi",
+  "is_still_participant": true,
+  "thread_path": "inbox/harshavardhansuryavamshi_1278842436844622",
+  "magic_words": [
+    
+  ]
+}

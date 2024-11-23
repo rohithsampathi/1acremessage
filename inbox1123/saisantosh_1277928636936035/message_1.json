@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Sai Santosh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1698042989662,
+      "content": "Hey Sainath, for more details please visit our website :https://www.1acre.in/, contact:7780122120",
+      "share": {
+        "link": "https://www.1acre.in/",
+        "share_text": "Hey Sainath, for more details please visit our website :https://www.1acre.in/, contact:7780122120"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Santosh",
+      "timestamp_ms": 1698026875235,
+      "content": "Hello..can you kindly share the details of land of lake view..15L per acre",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sai Santosh",
+  "is_still_participant": true,
+  "thread_path": "inbox/saisantosh_1277928636936035",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Saisatyanarayana Puppala"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Saisatyanarayana Puppala",
+      "timestamp_ms": 1720536676947,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Saisatyanarayana Puppala",
+      "timestamp_ms": 1715659952139,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715657361027,
+      "content": "9032114737\nYou can talk to Bharath, from the team.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Saisatyanarayana Puppala",
+          "timestamp": 1715659952
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Saisatyanarayana Puppala",
+      "timestamp_ms": 1715620123374,
+      "content": "Hello sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Saisatyanarayana Puppala",
+      "timestamp_ms": 1715620122354,
+      "content": "Saisatyanarayana sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C4j3HBRt6Vt/?id=3324743324894995821_47651711013",
+        "share_text": "9032114737\n\nPlease call Bharath, from the team.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Saisatyanarayana Puppala",
+  "is_still_participant": true,
+  "thread_path": "inbox/saisatyanarayanapuppala_1380304680036999",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Ramesh Munjala"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ramesh Munjala",
+      "timestamp_ms": 1706372534598,
+      "content": "Sure ,\nThank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706372463518,
+      "content": "Hi, Please contact Ramakrishna \n7780122120",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ramesh Munjala",
+      "timestamp_ms": 1706369539562,
+      "content": "Total 2 Acres",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ramesh Munjala",
+      "timestamp_ms": 1706369530211,
+      "content": "Agricultural land for sale in 16 Lakhs Per Acre near Warangal\n180 kms from Hyderabad \n\nBlack Top Road Facing Land with proper water availability",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ramesh Munjala",
+      "timestamp_ms": 1706369362904,
+      "content": "I'm from Warangal",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ramesh Munjala",
+      "timestamp_ms": 1706369351154,
+      "content": "I'm Ramesh\nBasically I'm a student\nBy Passion I'm a Real Estate Consultant dealing in Mediating Buying and Selling of agricultural lands",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ramesh Munjala",
+      "timestamp_ms": 1706369330055,
+      "content": "Hi sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ramesh Munjala",
+  "is_still_participant": true,
+  "thread_path": "inbox/rameshmunjala_18010965584488569",
+  "magic_words": [
+    
+  ]
+}

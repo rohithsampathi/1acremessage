@@ -1,0 +1,79 @@
+{
+  "participants": [
+    {
+      "name": "Nagarjun Gowda"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nagarjun Gowda",
+      "timestamp_ms": 1729518573120,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729495415173,
+      "content": "8341149011",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Nagarjun Gowda",
+          "timestamp": 1729518573
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nagarjun Gowda",
+      "timestamp_ms": 1729483010231,
+      "content": "Can you send me the watsapp number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729480296789,
+      "content": "Share more details such as price and exact location",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729480280593,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nagarjun Gowda",
+      "timestamp_ms": 1729321368050,
+      "content": "I am from sakleshpur,Karnataka.I have a total 5acres of coffee plantation for sale. If you guys have any buyer and interested. Please take it forward",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729320601863,
+      "content": "How can we help you !",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729320597713,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nagarjun Gowda",
+      "timestamp_ms": 1729259573304,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nagarjun Gowda",
+  "is_still_participant": true,
+  "thread_path": "inbox/nagarjungowda_1509514027108478",
+  "magic_words": [
+    
+  ]
+}

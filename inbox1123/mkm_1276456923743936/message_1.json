@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "mkm"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710069629395,
+      "content": "Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "mkm",
+      "timestamp_ms": 1710066381092,
+      "content": "Need to discuss on few properties",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710061937422,
+      "content": "May i know what you are looking for? I'll connect accordingly.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "mkm",
+      "timestamp_ms": 1710061199005,
+      "content": "Hi share your contact details",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "mkm",
+  "is_still_participant": true,
+  "thread_path": "inbox/mkm_1276456923743936",
+  "magic_words": [
+    
+  ]
+}

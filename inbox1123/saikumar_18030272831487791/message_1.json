@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "sai kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721613255868,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721613255203,
+      "content": "Hi, Please contact Vijay 9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "sai kumar",
+      "timestamp_ms": 1721534726120,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721514939866,
+      "content": "Are you an agent?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "sai kumar",
+      "timestamp_ms": 1721495012496,
+      "content": "Heyy I have 8 acre 12 gunta property for sale in kokapet",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "sai kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/saikumar_18030272831487791",
+  "magic_words": [
+    
+  ]
+}

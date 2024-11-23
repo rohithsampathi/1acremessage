@@ -1,0 +1,72 @@
+{
+  "participants": [
+    {
+      "name": "Vasavi Siddi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vasavi Siddi",
+      "timestamp_ms": 1704421364983,
+      "content": "Sure!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vasavi Siddi",
+      "timestamp_ms": 1704421360866,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704421346620,
+      "content": "If you could ping on WhatsApp or call that number, it would be easier. Thanks.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Vasavi Siddi",
+          "timestamp": 1704421360
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vasavi Siddi",
+      "timestamp_ms": 1704421292029,
+      "content": "Can you please send me email with more details and the process",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704421289709,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vasavi Siddi",
+      "timestamp_ms": 1704421082380,
+      "content": "Hi want to know more details about the land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vasavi Siddi",
+      "timestamp_ms": 1704421082016,
+      "content": "Vasavi sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C1phjLHyPvy/?id=3272294156919700466_47651711013",
+        "share_text": "Missed the bus in Telangana. \nA lot of us have this feeling - We missed the bus in Telangana. We share that feeling with you. We wanted to find the next growth pockets and spent the last one year venturing out, researching and buying some lands (registering them). We aspire to aquire 1000 acres and would want to expand it to 5000 acres if others want to join in. Ping us, if you want to pick AT LEAST 100 acres at 2.5-4 lakh per acre. We\u00e2\u0080\u0099ll see how we can accommodate.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vasavi Siddi",
+  "is_still_participant": true,
+  "thread_path": "inbox/vasavisiddi_1274290987297162",
+  "magic_words": [
+    
+  ]
+}

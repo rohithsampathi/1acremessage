@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Harish Manchineni"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Harish Manchineni",
+      "timestamp_ms": 1701497504514,
+      "content": "Okay thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701489319634,
+      "content": "Hi , you can connect to our relationship manager PRATHEEK,9505778117,",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harish Manchineni",
+      "timestamp_ms": 1701451415784,
+      "content": "Message me your number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harish Manchineni",
+      "timestamp_ms": 1701451409898,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Harish Manchineni",
+  "is_still_participant": true,
+  "thread_path": "inbox/harishmanchineni_1266074004785892",
+  "magic_words": [
+    
+  ]
+}

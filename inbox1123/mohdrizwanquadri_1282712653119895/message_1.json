@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Mohd Rizwan Quadri"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707752663493,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohd Rizwan Quadri",
+      "timestamp_ms": 1707752431156,
+      "content": "Hiii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mohd Rizwan Quadri",
+  "is_still_participant": true,
+  "thread_path": "inbox/mohdrizwanquadri_1282712653119895",
+  "magic_words": [
+    
+  ]
+}

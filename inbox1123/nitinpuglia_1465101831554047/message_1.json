@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Nitin Puglia"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720256133712,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nitin Puglia",
+      "timestamp_ms": 1720254970465,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nitin Puglia",
+  "is_still_participant": true,
+  "thread_path": "inbox/nitinpuglia_1465101831554047",
+  "magic_words": [
+    
+  ]
+}

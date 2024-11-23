@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Kiran Jayakar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kiran Jayakar",
+      "timestamp_ms": 1709458378796,
+      "content": "Ok Bro",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709450415998,
+      "content": "Please contact Ramakrishna \n7780122120",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kiran Jayakar",
+      "timestamp_ms": 1709449471259,
+      "content": "I Want Leads",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kiran Jayakar",
+      "timestamp_ms": 1709449464839,
+      "content": "Im A Property Consultant Bro",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709448394184,
+      "content": "I'll connect accordingly",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709448387339,
+      "content": "Hi, may I know what you are looking for?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kiran Jayakar",
+      "timestamp_ms": 1709446177949,
+      "content": "Share You're Number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kiran Jayakar",
+      "timestamp_ms": 1709446170559,
+      "content": "Hi Bro",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706938387821,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kiran Jayakar",
+      "timestamp_ms": 1706938312827,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kiran Jayakar",
+  "is_still_participant": true,
+  "thread_path": "inbox/kiranjayakar_1326081048783977",
+  "magic_words": [
+    
+  ]
+}

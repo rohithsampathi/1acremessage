@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Property for sale"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723006461094,
+      "content": "Not currently. We just started listing Maharashtra.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Property for sale",
+      "timestamp_ms": 1723000566655,
+      "content": "Hi \nDo you have any land near jalna , Maharashtra",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Property for sale",
+  "is_still_participant": true,
+  "thread_path": "inbox/propertyforsale_17846928393271311",
+  "magic_words": [
+    
+  ]
+}

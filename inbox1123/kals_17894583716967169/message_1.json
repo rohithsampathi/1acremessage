@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "kals"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708160926083,
+      "content": "It's a farmhouse plot.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708160916046,
+      "content": "Hi, You can contact Satish 7661933372",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "kals",
+      "timestamp_ms": 1708157808317,
+      "content": "Share your contact details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "kals",
+      "timestamp_ms": 1708157798522,
+      "content": "Interested in the farm house",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "kals",
+  "is_still_participant": true,
+  "thread_path": "inbox/kals_17894583716967169",
+  "magic_words": [
+    
+  ]
+}

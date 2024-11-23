@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Sathyanarayana Kummari"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725503738016,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sathyanarayana Kummari",
+      "timestamp_ms": 1725461112469,
+      "content": "Share your contact details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sathyanarayana Kummari",
+      "timestamp_ms": 1725461102997,
+      "content": "You missed an audio call",
+      "call_duration": 0,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sathyanarayana Kummari",
+      "timestamp_ms": 1725461097822,
+      "content": "satya_k8 started an audio call",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sathyanarayana Kummari",
+      "timestamp_ms": 1725461090801,
+      "content": "I would like to advertise with you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sathyanarayana Kummari",
+      "timestamp_ms": 1725461079204,
+      "content": "I have an open plot of 1600 square yards in siddipet town, 100 feet road facing plot",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sathyanarayana Kummari",
+  "is_still_participant": true,
+  "thread_path": "inbox/sathyanarayanakummari_18035784467326297",
+  "magic_words": [
+    
+  ]
+}

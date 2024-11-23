@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Uday kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721008163518,
+      "content": "Hi, Please contact Bharath \n7780122120.\nYou can list it on 1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, Please contact Bharath \n7780122120.\nYou can list it on 1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Uday kumar",
+      "timestamp_ms": 1720967283711,
+      "content": "Swarnagiri, yadhagiri gutta ki 35km untadhi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Uday kumar",
+      "timestamp_ms": 1720967146741,
+      "content": "Hi sir,\nMy parents want to sell one acre land(full bore water)present paddy cultivating in that land near to yadadhi bhongir and close to (RRR)...and 2km distance form highway",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Uday kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/udaykumar_1315855026468671",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Pavan Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723566605655,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723566598740,
+      "content": "We only deal in lands. \n\nWe promote only the lands we choose to facilitate.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pavan Reddy",
+      "timestamp_ms": 1723565479676,
+      "content": "Hi! You promote all type of properties in HYD?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Pavan Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/pavanreddy_1426776285379303",
+  "magic_words": [
+    
+  ]
+}

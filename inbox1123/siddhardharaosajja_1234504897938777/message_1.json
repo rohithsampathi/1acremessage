@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Siddhardha Rao Sajja"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706088292806,
+      "content": "https://www.1acre.in/subscribe\n\nPlease go through and subscribe or click 'talk to us->' at the end of the page and fill in the form. We'll get back to you.",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "https://www.1acre.in/subscribe\n\nPlease go through and subscribe or click 'talk to us->' at the end of the page and fill in the form. We'll get back to you."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Siddhardha Rao Sajja",
+      "timestamp_ms": 1706085107963,
+      "content": "Found your content very interesting, I would like to connect for more details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Siddhardha Rao Sajja",
+      "timestamp_ms": 1706085070610,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Siddhardha Rao Sajja",
+  "is_still_participant": true,
+  "thread_path": "inbox/siddhardharaosajja_1234504897938777",
+  "magic_words": [
+    
+  ]
+}

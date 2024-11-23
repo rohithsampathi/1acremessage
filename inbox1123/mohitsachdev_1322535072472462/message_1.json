@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Mohit Sachdev"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710896442235,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohit Sachdev",
+      "timestamp_ms": 1710870606156,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mohit Sachdev",
+  "is_still_participant": true,
+  "thread_path": "inbox/mohitsachdev_1322535072472462",
+  "magic_words": [
+    
+  ]
+}

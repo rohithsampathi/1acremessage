@@ -1,0 +1,72 @@
+{
+  "participants": [
+    {
+      "name": "Anil Mak"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724751188993,
+      "content": "\u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anil Mak",
+      "timestamp_ms": 1724750747916,
+      "content": "7013835822",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724750709187,
+      "content": "Share your number and our team with get back to you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anil Mak",
+      "timestamp_ms": 1724750366846,
+      "content": "I'm real-estate agent",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anil Mak",
+      "timestamp_ms": 1724750355822,
+      "content": "I'm from Guntur, Andhra Pradesh",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724747857444,
+      "content": "Where are you from and what do with us.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anil Mak",
+      "timestamp_ms": 1724747106053,
+      "content": "I want to join with 1acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724744742499,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anil Mak",
+      "timestamp_ms": 1724657941820,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Anil Mak",
+  "is_still_participant": true,
+  "thread_path": "inbox/anilmak_1550532516343127",
+  "magic_words": [
+    
+  ]
+}

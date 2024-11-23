@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Allu Nawin"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719316062900,
+      "content": "Hello \u00f0\u009f\u0091\u008b \nHow can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Allu Nawin",
+      "timestamp_ms": 1719315000881,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Allu Nawin",
+  "is_still_participant": true,
+  "thread_path": "inbox/allunawin_1267336117985981",
+  "magic_words": [
+    
+  ]
+}

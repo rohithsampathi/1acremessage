@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "DevOps School"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "DevOps School",
+      "timestamp_ms": 1729247599222,
+      "content": "DevOps sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DBQuQylg_ya/?id=3481485975925030042_68834494506",
+        "share_text": "Whether you're commuting or exploring, make safety your top priority. Safe rides lead to memorable journeys.\n\n#MotoShare #BikeRentals #RideWithMotoShare #MotorbikeRentals #RentARide #ExploreOnWheels #RideAndExplore #ExploreIndia #TwoWheelerTrips #BikeAndSave #BikersOfIndia #BikerInMe #BikeLove #IndiaOnWheels #RideIndia #RideSafe #HelmetOn",
+        "original_content_owner": "motoshare.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720183639756,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "DevOps School",
+      "timestamp_ms": 1720179536379,
+      "content": "DM the details of 40 acres land project",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "DevOps School",
+  "is_still_participant": true,
+  "thread_path": "inbox/devopsschool_1392743335461927",
+  "magic_words": [
+    
+  ]
+}

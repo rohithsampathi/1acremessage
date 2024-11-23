@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "GMK Sterling Properties"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "GMK Sterling Properties",
+      "timestamp_ms": 1706460186524,
+      "content": "Sure thank you!!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706454853686,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "GMK Sterling Properties",
+      "timestamp_ms": 1706452710302,
+      "content": "I have a commercial Property for sale 7220 square feet @pragathi nagar, Kukatpally.\n\nPlease Let me know when would be a good time to discuss it.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "GMK Sterling Properties",
+  "is_still_participant": true,
+  "thread_path": "inbox/gmksterlingproperties_17887139561991992",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Sai Ram Yerram"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727434159140,
+      "content": "You can call Srikar from the team at 8341149011",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Ram Yerram",
+      "timestamp_ms": 1727433918492,
+      "content": "Contact no",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727433813937,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Ram Yerram",
+      "timestamp_ms": 1727429267287,
+      "content": "My land is for sale near shadnagar",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Ram Yerram",
+      "timestamp_ms": 1727429246691,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sai Ram Yerram",
+  "is_still_participant": true,
+  "thread_path": "inbox/sairamyerram_1479946366731455",
+  "magic_words": [
+    
+  ]
+}

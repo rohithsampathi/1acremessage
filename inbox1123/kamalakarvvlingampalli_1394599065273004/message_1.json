@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Kamalakar V V Lingampalli"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709013402259,
+      "content": "Hi, may I know what you are looking for?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kamalakar V V Lingampalli",
+      "timestamp_ms": 1709012326553,
+      "content": "How to reach ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kamalakar V V Lingampalli",
+  "is_still_participant": true,
+  "thread_path": "inbox/kamalakarvvlingampalli_1394599065273004",
+  "magic_words": [
+    
+  ]
+}

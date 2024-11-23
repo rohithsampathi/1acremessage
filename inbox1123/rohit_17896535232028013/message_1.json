@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "\u00e2\u0098\u00a0\u00c5\u0094\u00c3\u0098H\u00c4\u00ae\u00c5\u00a2\u00e2\u0098\u00a0\u00ef\u00b8\u008e"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722478999573,
+      "content": "We currently only operate in telangana. \n\nWill keep you posted when we launch in other states",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00e2\u0098\u00a0\u00c5\u0094\u00c3\u0098H\u00c4\u00ae\u00c5\u00a2\u00e2\u0098\u00a0\u00ef\u00b8\u008e",
+      "timestamp_ms": 1722443389285,
+      "content": "sitamarhi, sursand location me koi land hai",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00e2\u0098\u00a0\u00c5\u0094\u00c3\u0098H\u00c4\u00ae\u00c5\u00a2\u00e2\u0098\u00a0\u00ef\u00b8\u008e",
+      "timestamp_ms": 1722443372256,
+      "content": "hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00e2\u0098\u00a0\u00c5\u0094\u00c3\u0098H\u00c4\u00ae\u00c5\u00a2\u00e2\u0098\u00a0\u00ef\u00b8\u008e",
+  "is_still_participant": true,
+  "thread_path": "inbox/rohit_17896535232028013",
+  "magic_words": [
+    
+  ]
+}

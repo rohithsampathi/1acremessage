@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Dr.Bharat Vardhan Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722744232942,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dr.Bharat Vardhan Reddy",
+      "timestamp_ms": 1722714010956,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dr.Bharat Vardhan Reddy",
+      "timestamp_ms": 1722714007105,
+      "content": "Can you please suggest any",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dr.Bharat Vardhan Reddy",
+      "timestamp_ms": 1722713991715,
+      "content": "I want to sell my land near Vikarabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dr.Bharat Vardhan Reddy",
+      "timestamp_ms": 1722713976506,
+      "content": "https://maps.app.goo.gl/AsmpLHzDzpDiavU76?g_st=iw",
+      "share": {
+        "link": "https://maps.app.goo.gl/AsmpLHzDzpDiavU76?g_st=iw",
+        "share_text": "https://maps.app.goo.gl/AsmpLHzDzpDiavU76?g_st=iw"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Dr.Bharat Vardhan Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/drbharatvardhanreddy_1506944934034573",
+  "magic_words": [
+    
+  ]
+}

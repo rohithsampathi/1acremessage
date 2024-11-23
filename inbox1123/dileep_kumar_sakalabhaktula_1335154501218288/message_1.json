@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "DiLeEp_KuMaR_SaKaLaBhAkTuLa"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "DiLeEp_KuMaR_SaKaLaBhAkTuLa",
+      "timestamp_ms": 1703240191213,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703238158659,
+      "content": "Hi , you can connect with pratheek  9390674324,",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "DiLeEp_KuMaR_SaKaLaBhAkTuLa",
+          "timestamp": 1703240191
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "DiLeEp_KuMaR_SaKaLaBhAkTuLa",
+      "timestamp_ms": 1703223723271,
+      "content": "How can I contact you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "DiLeEp_KuMaR_SaKaLaBhAkTuLa",
+      "timestamp_ms": 1703223714949,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "DiLeEp_KuMaR_SaKaLaBhAkTuLa",
+  "is_still_participant": true,
+  "thread_path": "inbox/dileep_kumar_sakalabhaktula_1335154501218288",
+  "magic_words": [
+    
+  ]
+}

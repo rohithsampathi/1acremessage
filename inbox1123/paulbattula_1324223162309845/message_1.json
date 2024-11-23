@@ -1,0 +1,62 @@
+{
+  "participants": [
+    {
+      "name": "Paul Battula"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Paul Battula",
+      "timestamp_ms": 1722765008621,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722744295494,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Paul Battula",
+      "timestamp_ms": 1722514068302,
+      "content": "Could you pls share the location",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Paul Battula",
+      "timestamp_ms": 1722514057275,
+      "content": "Paul sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C-FfBsWyVsF/?id=3424279547473386245_47651711013",
+        "share_text": "4 acres | \u00e2\u0082\u00b93 Cr per acre | Just off Shadnagar bypass | Link in bio \u00f0\u009f\u008c\u009f\n\n\u00e2\u009c\u0085 Verified and facilitated by 1acre.in\n\n- Ideal for plotting\n- Surrounded by multiple layouts\n- 1 km from Bengaluru Highway\n- 2 km from Shadnagar\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 8341149011\n\nDM us for more queries on buying, selling, or partnerships.\n\n#landforsale #shadnagar #land #investment",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701757873488,
+      "content": "Hi Paul, can we have your contact number our team will connect with you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Paul Battula",
+      "timestamp_ms": 1701700788686,
+      "content": "What is the future of real estate market  in Telangana after the gov change and which areas to concentrate??  Interested invest \n\nThis is paul battula from USA \u00f0\u009f\u0087\u00ba\u00f0\u009f\u0087\u00b8",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3250190184243299632"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Paul Battula",
+  "is_still_participant": true,
+  "thread_path": "inbox/paulbattula_1324223162309845",
+  "magic_words": [
+    
+  ]
+}

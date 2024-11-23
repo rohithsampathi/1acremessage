@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Umme Quba Abdulqayyum"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Umme Quba Abdulqayyum",
+      "timestamp_ms": 1723246248019,
+      "content": "Where",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Umme Quba Abdulqayyum",
+      "timestamp_ms": 1723246247724,
+      "content": "Umme sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C5_QX_KSK_5/?id=3350468664897351673_47651711013",
+        "share_text": "Can you still get lands for 10 lakhs per acre in Telangana? Many people inquire about this regularly. Just head to the map view on 1acre.in where we have over 2200 listed lands. They are color-coded based on price, making it easy to spot the cheapest land in any area. Plus, you can contact sellers directly as their numbers are provided. Interested? Subscribe to our premium membership on 1acre.in! \u00f0\u009f\u008c\u0090\u00f0\u009f\u0091\u00a8\u00e2\u0080\u008d\u00f0\u009f\u0092\u00bc",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Umme Quba Abdulqayyum",
+  "is_still_participant": true,
+  "thread_path": "inbox/ummequbaabdulqayyum_1479183213481294",
+  "magic_words": [
+    
+  ]
+}

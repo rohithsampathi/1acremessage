@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "aamersalahuddin"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704352082968,
+      "content": "Hi, Please contact Vijay\n9959994737. Thanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "aamersalahuddin",
+      "timestamp_ms": 1704350699269,
+      "content": "Hello I have 9 Acres land for sale at Marpalle kalan village, Vikarabad, Telangana. It can be divided into 1 acre bits. Let me know If you are interested to work on selling it. My contact number is 7989517091",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "aamersalahuddin",
+  "is_still_participant": true,
+  "thread_path": "inbox/aamersalahuddin_1254186562639371",
+  "magic_words": [
+    
+  ]
+}

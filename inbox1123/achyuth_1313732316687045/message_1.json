@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Achyuth"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Achyuth",
+      "timestamp_ms": 1706859819419,
+      "content": "Thanks I'll contact him",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1706859897
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706859669637,
+      "content": "Please contact Harish\n9989738297. He'll help you and set up a meeting.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706859635300,
+      "content": "Hi, sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Achyuth",
+      "timestamp_ms": 1706859597337,
+      "content": "We have both buy and sell requests in our family..",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Achyuth",
+      "timestamp_ms": 1706859563531,
+      "content": "Do you have an office location where we can meet face to face?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Achyuth",
+      "timestamp_ms": 1706859531596,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Achyuth",
+  "is_still_participant": true,
+  "thread_path": "inbox/achyuth_1313732316687045",
+  "magic_words": [
+    
+  ]
+}

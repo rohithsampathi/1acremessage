@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Munna bhiya \u00f0\u009f\u00a5\u0083"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724745464353,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Munna bhiya \u00f0\u009f\u00a5\u0083",
+      "timestamp_ms": 1724733903551,
+      "content": "Hlo sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Munna bhiya \u00f0\u009f\u00a5\u0083",
+  "is_still_participant": true,
+  "thread_path": "inbox/munnabhiya_17847474921280498",
+  "magic_words": [
+    
+  ]
+}

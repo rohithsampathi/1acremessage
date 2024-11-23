@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Naresh Kalluri"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724637771092,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Naresh Kalluri",
+      "timestamp_ms": 1724586558137,
+      "content": "Actually I am thinking abt dis",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Naresh Kalluri",
+      "timestamp_ms": 1724586542983,
+      "content": "Nice idea sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724568121139,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Naresh Kalluri",
+      "timestamp_ms": 1724488414476,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Naresh Kalluri",
+  "is_still_participant": true,
+  "thread_path": "inbox/nareshkalluri_1067816614774728",
+  "magic_words": [
+    
+  ]
+}

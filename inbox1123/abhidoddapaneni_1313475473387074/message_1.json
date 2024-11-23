@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Abhi Doddapaneni"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Abhi Doddapaneni",
+      "timestamp_ms": 1705857645171,
+      "content": "Sounds good, thank you!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705814324526,
+      "content": "Meanwhile, Please WhatsApp  Ratna Kiran +91 9390155412\nto discuss your specific requirements.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705814270339,
+      "content": "Hey, yes we do. Sorry about that. We are brining in NRI login very soon.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhi Doddapaneni",
+      "timestamp_ms": 1705786345316,
+      "content": "Hi, Do you support customers from USA as well? I tried to sign up but I didn\u00e2\u0080\u0099t see an option for USA number",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Abhi Doddapaneni",
+  "is_still_participant": true,
+  "thread_path": "inbox/abhidoddapaneni_1313475473387074",
+  "magic_words": [
+    
+  ]
+}

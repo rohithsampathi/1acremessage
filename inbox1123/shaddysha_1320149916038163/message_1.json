@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "shaddysha"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724226794878,
+      "content": "Thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "shaddysha",
+      "timestamp_ms": 1724215783583,
+      "content": "Promising endeavour, good going..!!",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "shaddysha",
+  "is_still_participant": true,
+  "thread_path": "inbox/shaddysha_1320149916038163",
+  "magic_words": [
+    
+  ]
+}

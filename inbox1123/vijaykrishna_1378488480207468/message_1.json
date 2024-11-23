@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Vijay Krishna"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721749651722,
+      "content": "We don't have any such in Bangalore. We'll inform you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vijay Krishna",
+      "timestamp_ms": 1721748200819,
+      "content": "Hello team, I won a plot in Bengaluru, looking for it to be secured like fencing and monitoring purpose.. was there any service like that?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vijay Krishna",
+  "is_still_participant": true,
+  "thread_path": "inbox/vijaykrishna_1378488480207468",
+  "magic_words": [
+    
+  ]
+}

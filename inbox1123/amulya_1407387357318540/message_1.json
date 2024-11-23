@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Amulya"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720828954260,
+      "content": "Hi which one?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Amulya",
+      "timestamp_ms": 1720814795736,
+      "content": "Hello, can I get more info on this?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Amulya",
+  "is_still_participant": true,
+  "thread_path": "inbox/amulya_1407387357318540",
+  "magic_words": [
+    
+  ]
+}

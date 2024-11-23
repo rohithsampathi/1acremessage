@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Aravind Kaluri"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703660963346,
+      "content": "Hi , you can connect with pratheek  9390674324,",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aravind Kaluri",
+      "timestamp_ms": 1703598001884,
+      "content": "I am interested",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aravind Kaluri",
+      "timestamp_ms": 1703597993315,
+      "content": "I have seen your reel about 1acre for 10 lakhs",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aravind Kaluri",
+      "timestamp_ms": 1703597977933,
+      "content": "Hey",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Aravind Kaluri",
+  "is_still_participant": true,
+  "thread_path": "inbox/aravindkaluri_1306591300741518",
+  "magic_words": [
+    
+  ]
+}

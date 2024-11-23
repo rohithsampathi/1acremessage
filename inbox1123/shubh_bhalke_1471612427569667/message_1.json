@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "shubh_bhalke"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720178900981,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720178893904,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "shubh_bhalke",
+      "timestamp_ms": 1720177975413,
+      "content": "Yavatmal land location?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "shubh_bhalke",
+  "is_still_participant": true,
+  "thread_path": "inbox/shubh_bhalke_1471612427569667",
+  "magic_words": [
+    
+  ]
+}

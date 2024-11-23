@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Real Estate Guru"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Real Estate Guru",
+      "timestamp_ms": 1729797126735,
+      "content": "Real sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DBgYi8BvVRS/?id=3485894065616933970_69005166330",
+        "share_text": "\u00e2\u0080\u00aa+91\u00c2\u00a078930\u00c2\u00a062424\u00e2\u0080\u00ac. \n\n#hydra #realestateeducation #hyderabadrealestate #hmda",
+        "original_content_owner": "realestateguru2469"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Real Estate Guru",
+  "is_still_participant": true,
+  "thread_path": "inbox/realestateguru_17852768163302331",
+  "magic_words": [
+    
+  ]
+}

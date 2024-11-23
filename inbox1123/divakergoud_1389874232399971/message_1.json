@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Divaker goud\u00f0\u009f\u0098\u008e"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Divaker goud\u00f0\u009f\u0098\u008e",
+      "timestamp_ms": 1726066239961,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726051044933,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Divaker goud\u00f0\u009f\u0098\u008e",
+      "timestamp_ms": 1726042336919,
+      "content": "Hey im want to sell my land",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Divaker goud\u00f0\u009f\u0098\u008e",
+  "is_still_participant": true,
+  "thread_path": "inbox/divakergoud_1389874232399971",
+  "magic_words": [
+    
+  ]
+}

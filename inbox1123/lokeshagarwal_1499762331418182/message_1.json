@@ -1,0 +1,89 @@
+{
+  "participants": [
+    {
+      "name": "Lokesh Agarwal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727773916602,
+      "content": "Hello , \n\nDue to unforeseen demand , we are not able to address each request so we have decided to digitised all lakes around hyderabad and make it accessible for free for everyone.\n\nTo help prioritise the digitisation process, fill the following form with your requirements. We will inform you once your required lake is digitised. \nRequirement form : https://forms.gle/LFThdXChRzH8Uz6M6 \n\nThanks for your patience.",
+      "share": {
+        "link": "https://forms.gle/LFThdXChRzH8Uz6M6",
+        "share_text": "Hello , \n\nDue to unforeseen demand , we are not able to address each request so we have decided to digitised all lakes around hyderabad and make it accessible for free for everyone.\n\nTo help prioritise the digitisation process, fill the following form with your requirements. We will inform you once your required lake is digitised. \nRequirement form : https://forms.gle/LFThdXChRzH8Uz6M6 \n\nThanks for your patience."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lokesh Agarwal",
+      "timestamp_ms": 1727624002518,
+      "content": "sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727623976212,
+      "content": "Sure, will call back in working hours tomorrow",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lokesh Agarwal",
+      "timestamp_ms": 1727623945418,
+      "content": "my number is 80193 96999",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lokesh Agarwal",
+      "timestamp_ms": 1727623939620,
+      "content": "yes sure tried to call",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lokesh Agarwal",
+      "timestamp_ms": 1727623926092,
+      "content": "You missed an audio call",
+      "call_duration": 0,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lokesh Agarwal",
+      "timestamp_ms": 1727623919799,
+      "content": "lokesh.agarwal09 started an audio call",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727620031447,
+      "content": "If it is a lake, there's publicly available data we can work on. Can connect you to an expert to understand it better",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lokesh Agarwal",
+      "timestamp_ms": 1727614707548,
+      "content": "our apartment is next to nalla so would you be able to help",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lokesh Agarwal",
+      "timestamp_ms": 1727614692033,
+      "content": "need assistance in relation to hydra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lokesh Agarwal",
+      "timestamp_ms": 1727614668025,
+      "content": "hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Lokesh Agarwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/lokeshagarwal_1499762331418182",
+  "magic_words": [
+    
+  ]
+}

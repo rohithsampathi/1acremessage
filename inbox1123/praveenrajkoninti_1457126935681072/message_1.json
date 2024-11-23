@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Praveen Raj Koninti"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722684727463,
+      "content": "9032114737\nYou can talk to Bharath, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Praveen Raj Koninti",
+      "timestamp_ms": 1722684308251,
+      "content": "Location. Names company. 1 kilometre  chillapalli road first bit Jharasangam. Zaherabad sangaredd",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Praveen Raj Koninti",
+      "timestamp_ms": 1722684235781,
+      "content": "Add  my land for sale",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722682330506,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Praveen Raj Koninti",
+      "timestamp_ms": 1722681785514,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Praveen Raj Koninti",
+  "is_still_participant": true,
+  "thread_path": "inbox/praveenrajkoninti_1457126935681072",
+  "magic_words": [
+    
+  ]
+}

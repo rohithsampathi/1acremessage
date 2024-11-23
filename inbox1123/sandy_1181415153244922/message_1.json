@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "sandy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "sandy",
+      "timestamp_ms": 1704539398684,
+      "content": "Okay thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704534975853,
+      "content": "Hi, Please contact Ramakrishna \n7780122120",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "sandy",
+      "timestamp_ms": 1704525920359,
+      "content": "How can we approach to sell the lands near our Village or Mondal",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "sandy",
+  "is_still_participant": true,
+  "thread_path": "inbox/sandy_1181415153244922",
+  "magic_words": [
+    
+  ]
+}

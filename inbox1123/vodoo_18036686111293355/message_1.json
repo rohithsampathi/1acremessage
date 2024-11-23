@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "vodoo"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "vodoo",
+      "timestamp_ms": 1722666614615,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722654599798,
+      "content": "We currently only operate in telangana. \n\nWill keep you posted when we launch in other states",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "vodoo",
+          "timestamp": 1722666614
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "vodoo",
+      "timestamp_ms": 1722632240976,
+      "content": "Budget",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "vodoo",
+      "timestamp_ms": 1722632229217,
+      "content": "I have of 25-40 lac",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "vodoo",
+      "timestamp_ms": 1722632213184,
+      "content": "Hi, did you have property in area around wani, Maharashtra do let me known.i likely to invest in it.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "vodoo",
+  "is_still_participant": true,
+  "thread_path": "inbox/vodoo_18036686111293355",
+  "magic_words": [
+    
+  ]
+}

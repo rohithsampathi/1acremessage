@@ -1,0 +1,65 @@
+{
+  "participants": [
+    {
+      "name": "ASRITH DESHPANDE"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ASRITH DESHPANDE",
+      "timestamp_ms": 1720859900351,
+      "content": "Hello , I'm interested to intern",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "ASRITH DESHPANDE",
+      "timestamp_ms": 1720859899791,
+      "content": "ASRITH sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C9UBLDXtmaU/?carousel_share_child_media_id=3410355958192799596_47651711013",
+        "share_text": "",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711000825510,
+      "content": "Hi, Please contact Harish\n9032114737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "ASRITH DESHPANDE",
+      "timestamp_ms": 1710999784472,
+      "content": "Interested to work with you and heard of the freelance opportunity.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "ASRITH DESHPANDE",
+      "timestamp_ms": 1706204175335,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706201514811,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "ASRITH DESHPANDE",
+      "timestamp_ms": 1706186678408,
+      "content": "50 acres Land available in Zaheerabad . \nVillage : Govindapur \n6 km from Zaheerabad",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "ASRITH DESHPANDE",
+  "is_still_participant": true,
+  "thread_path": "inbox/asrithdeshpande_1191688222216610",
+  "magic_words": [
+    
+  ]
+}

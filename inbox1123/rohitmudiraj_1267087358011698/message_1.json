@@ -1,0 +1,65 @@
+{
+  "participants": [
+    {
+      "name": "Rohit Mudiraj"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rohit Mudiraj",
+      "timestamp_ms": 1716294778886,
+      "content": "Ohk thank u",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716294686268,
+      "content": "Hi, Please talk to Ratna Kiran \n9390155412\nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rohit Mudiraj",
+      "timestamp_ms": 1716294558453,
+      "content": "Can u share location I wanna visit",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rohit Mudiraj",
+      "timestamp_ms": 1716294545147,
+      "content": "Ohk",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716281858345,
+      "content": "10 acre. 15 lakh per acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rohit Mudiraj",
+      "timestamp_ms": 1716277130600,
+      "content": "1.5cr 15 acer",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rohit Mudiraj",
+      "timestamp_ms": 1716277130164,
+      "content": "Rohit sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C7InZjuKaVo/?id=3371117601243112808_47651711013",
+        "share_text": "Further:\n15km away from the Upcoming Nagpur-Goa Shakthipeeth expressway. \nA new railway line between Nagpur and Nanded is underway. \n\n10 Acres - 1.5Cr\n\nThis transaction is facilitated by 1acre.in, till the process of registration. \nIf you are interested in buying, \nContact: 9959994737\n\n#1acre #1acre.in #beauty #landscapephotography",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rohit Mudiraj",
+  "is_still_participant": true,
+  "thread_path": "inbox/rohitmudiraj_1267087358011698",
+  "magic_words": [
+    
+  ]
+}

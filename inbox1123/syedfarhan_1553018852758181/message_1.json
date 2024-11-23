@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Syed Farhan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727928097690,
+      "content": "Hello , \n\nDue to unforeseen demand , we are not able to address each request so we have decided to digitise all lakes around hyderabad and make it accessible for free \n\nTo help prioritise the digitisation process, fill the following form with your requirements. We will inform you once your required lake is digitised. \nRequirement form : https://forms.gle/LFThdXChRzH8Uz6M6 \n\nThanks for your patience.",
+      "share": {
+        "link": "https://forms.gle/LFThdXChRzH8Uz6M6",
+        "share_text": "Hello , \n\nDue to unforeseen demand , we are not able to address each request so we have decided to digitise all lakes around hyderabad and make it accessible for free \n\nTo help prioritise the digitisation process, fill the following form with your requirements. We will inform you once your required lake is digitised. \nRequirement form : https://forms.gle/LFThdXChRzH8Uz6M6 \n\nThanks for your patience."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Syed Farhan",
+      "timestamp_ms": 1727869923328,
+      "content": "Hi , I would like to enquire about BUFFER ZONE in around area in Bhagvatguda, Budvel Village. There is Esi River flowing through that area and i want to ensure FTL or Buffer Zone before making any decision",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Syed Farhan",
+  "is_still_participant": true,
+  "thread_path": "inbox/syedfarhan_1553018852758181",
+  "magic_words": [
+    
+  ]
+}

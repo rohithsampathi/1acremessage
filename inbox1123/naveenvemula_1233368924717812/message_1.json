@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Naveen Vemula"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709428306007,
+      "content": "Hi, the price is not negotiable. Please contact Ratna Kiran \n9390155412 to get an understanding of the place and the project.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Naveen Vemula",
+      "timestamp_ms": 1709398958044,
+      "content": "Interested in 1/2 acre land near ananthagiri hills but the price quoted is little high i feel. Is it still available and negotiable?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Naveen Vemula",
+  "is_still_participant": true,
+  "thread_path": "inbox/naveenvemula_1233368924717812",
+  "magic_words": [
+    
+  ]
+}

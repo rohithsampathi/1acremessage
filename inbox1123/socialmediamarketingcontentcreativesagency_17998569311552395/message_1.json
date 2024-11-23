@@ -1,0 +1,224 @@
+{
+  "participants": [
+    {
+      "name": "Social media marketing | Content creatives agency"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Social media marketing | Content creatives agency",
+      "timestamp_ms": 1723876160633,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Social media marketing | Content creatives agency",
+      "timestamp_ms": 1720862814466,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Social media marketing | Content creatives agency",
+      "timestamp_ms": 1720852023248,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720677948089,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C9M-cQUyaVi/?carousel_share_child_media_id=3408373629309222638_47651711013",
+        "share_text": "",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Social media marketing | Content creatives agency",
+      "timestamp_ms": 1713769766747,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Social media marketing | Content creatives agency",
+      "timestamp_ms": 1713676469339,
+      "content": "Hey did you check the mail? Any update?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713522334113,
+      "content": "sandeep@1acre.in",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Social media marketing | Content creatives agency",
+      "timestamp_ms": 1713521564025,
+      "content": "Hey, can you share your email address. I\u00e2\u0080\u0099ll share you the document.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Social media marketing | Content creatives agency",
+      "timestamp_ms": 1713352042282,
+      "content": "Moksh Bollikonda has invited you to join a video meeting on Google Meet.\n\nJoin the meeting: https://meet.google.com/cwx-vixr-xfa",
+      "share": {
+        "link": "https://meet.google.com/cwx-vixr-xfa",
+        "share_text": "Moksh Bollikonda has invited you to join a video meeting on Google Meet.\n\nJoin the meeting: https://meet.google.com/cwx-vixr-xfa"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713351678223,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Social media marketing | Content creatives agency",
+      "timestamp_ms": 1713351661586,
+      "content": "Yes sure will send u the link in 2 mins.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713351603570,
+      "content": "Can we have a call now?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713348126483,
+      "content": "4:30pm",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Social media marketing | Content creatives agency",
+      "timestamp_ms": 1713347187515,
+      "content": "Let me know the time then we can have  it then.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Social media marketing | Content creatives agency",
+      "timestamp_ms": 1713347169602,
+      "content": "Yes sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713347169055,
+      "content": "Or a little late?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713347155078,
+      "content": "Hi, Sorry. Can we have it at 4pm?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Social media marketing | Content creatives agency",
+      "timestamp_ms": 1713346943524,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Social media marketing | Content creatives agency",
+      "timestamp_ms": 1713285177405,
+      "content": "Okay then, I\u00e2\u0080\u0099ll share you the link at 3. \u00f0\u009f\u0098\u0083",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713283791977,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Social media marketing | Content creatives agency",
+      "timestamp_ms": 1713283594891,
+      "content": "Let\u00e2\u0080\u0099s have a meet in the afternoon around 3? Does that work for you?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713282241955,
+      "content": "Sure. Let's do it tomorrow.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Social media marketing | Content creatives agency",
+      "timestamp_ms": 1713281280880,
+      "content": "Can we have a meet online, I think it would be a much better way for you to understand us and us to to know you and your vision with content creation properly.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713277975627,
+      "content": "What are the commercials generally?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Social media marketing | Content creatives agency",
+      "timestamp_ms": 1713269587575,
+      "content": "You\u00e2\u0080\u0099re already getting good, reach. So, with right strategies and quality content creation, you can scale your brand to new heights.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Social media marketing | Content creatives agency",
+      "timestamp_ms": 1713269516393,
+      "content": "https://www.instagram.com/reel/C40lVuxSz2B/?igsh=Z2RjNWVudGxzbm85",
+      "share": {
+        "link": "https://www.instagram.com/reel/C40lVuxSz2B/?id=3329450245582699905_47651711013",
+        "share_text": "\u00f0\u009f\u008c\u009f Wondering where to find the cheapest lands around Hyderabad? Curious about fair prices in specific regions? Look no further than 1acre.in for all your land investment queries! \u00f0\u009f\u008f\u00a1\u00f0\u009f\u0092\u00b0\n\nWe understand the time, effort, and money involved in visiting multiple lands with agents to ensure the right investment. That\u00e2\u0080\u0099s why we\u00e2\u0080\u0099ve simplified the process for you.\n\nWith our subscription, gain access to our unique map view feature. Thousands of lands across Telangana are visually mapped and color-coded according to prices. From the comfort of your desk, observe trends, compare prices in different areas, and make informed decisions about your investments.\n\nSay goodbye to endless site visits and hello to effortless land exploration with 1acre.in. Subscribe today and unlock the power of informed decision-making! \u00f0\u009f\u0092\u00bc\u00e2\u009c\u00a8 #1acreInsights #LandInvestment #InformedDecisions \u00f0\u009f\u008c\u00bf\u00f0\u009f\u0097\u00ba\u00ef\u00b8\u008f",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Social media marketing | Content creatives agency",
+      "timestamp_ms": 1713269434468,
+      "content": "https://www.instagram.com/reel/C358L-Eyi34/?igsh=MWtwMWFhNHhrejY2aw==",
+      "share": {
+        "link": "https://www.instagram.com/reel/C358L-Eyi34/?id=3312943706264972792_3909726250",
+        "share_text": "Commercial property vs residential property!\n.\n.\n.\n.\n.\n.\n.\n#commercial #commercialproperty #residential #residentialproperty #realestate #commercialrealestate #realestateinvesting #realestateagent #loans #loanoriginator #money #wealth",
+        "original_content_owner": "kiranvedantam"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Social media marketing | Content creatives agency",
+      "timestamp_ms": 1713269403010,
+      "content": "https://www.instagram.com/reel/C4ZuJzxShMs/?igsh=MWxjdTZzZHpiNWw3Zg==",
+      "share": {
+        "link": "https://www.instagram.com/reel/C4ZuJzxShMs/?igsh=MWxjdTZzZHpiNWw3Zg==",
+        "share_text": "https://www.instagram.com/reel/C4ZuJzxShMs/?igsh=MWxjdTZzZHpiNWw3Zg=="
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Social media marketing | Content creatives agency",
+      "timestamp_ms": 1713269384173,
+      "content": "Hey, so the main reason we contacted you, we\u00e2\u0080\u0099ve seen the talking head videos that you make and we see that you\u00e2\u0080\u0099re passionate about creating content. So, the video now you\u00e2\u0080\u0099re making can be much better in terms of quality of the video and editing. You can look at these examples of editing and video quality.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713256413672,
+      "content": "Hi, Thanks for contacting. Will get back to you. Can you send me some of your portfolio profiles?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Social media marketing | Content creatives agency",
+      "timestamp_ms": 1713184761272,
+      "content": "Hi,\n\nI hope this message finds you well!\n\nI stumbled upon your profile and couldn\u00e2\u0080\u0099t help but notice the incredible potential you have. Your content speaks volumes, and I believe with the right strategy and support, your online presence can soar to new heights.\n\nAt brand.hashira, we specialize in providing personalized social media management and personal branding services designed to amplify your Instagram and YouTube.\n\nHere\u00e2\u0080\u0099s how we can help you shine:\n\n- Quality video editing\n- \u00e2\u0081\u00a0Social Media Management\n- Personal Branding\n- Instagram and YouTube Management\n- Strategy Building\n- \u00e2\u0081\u00a0Thumbnail Designing\n\nWe understand that every client is unique, which is why we take a personalized approach to every project we undertake. Your success is our priority, and we\u00e2\u0080\u0099re committed to going above and beyond to help you achieve your goals.\n\nFeel free to reply, and we can find a time that works for you, to have a call and discuss in detail.\n\nWarm regards,\n\nTeam Brand.Hashira",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Social media marketing | Content creatives agency",
+  "is_still_participant": true,
+  "thread_path": "inbox/socialmediamarketingcontentcreativesagency_17998569311552395",
+  "magic_words": [
+    
+  ]
+}

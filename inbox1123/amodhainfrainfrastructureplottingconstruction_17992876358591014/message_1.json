@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Amodha Infra | Infrastructure | Plotting | Construction"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Amodha Infra | Infrastructure | Plotting | Construction",
+      "timestamp_ms": 1706160431898,
+      "content": "Thank you sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706160414759,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Amodha Infra | Infrastructure | Plotting | Construction",
+      "timestamp_ms": 1706160400325,
+      "content": "Send ur contact number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Amodha Infra | Infrastructure | Plotting | Construction",
+      "timestamp_ms": 1706160381811,
+      "content": "You missed an audio call",
+      "call_duration": 0,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Amodha Infra | Infrastructure | Plotting | Construction",
+      "timestamp_ms": 1706160380122,
+      "content": "amodhainfra started an audio call",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Amodha Infra | Infrastructure | Plotting | Construction",
+  "is_still_participant": true,
+  "thread_path": "inbox/amodhainfrainfrastructureplottingconstruction_17992876358591014",
+  "magic_words": [
+    
+  ]
+}

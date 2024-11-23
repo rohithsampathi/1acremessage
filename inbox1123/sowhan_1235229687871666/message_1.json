@@ -1,0 +1,51 @@
+{
+  "participants": [
+    {
+      "name": "sowhan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697779327527,
+      "content": "Hey Sowhan , for more details please visit our website :https://www.1acre.in/, contact:7780122120",
+      "share": {
+        "link": "https://1acre.in/",
+        "share_text": "Looking to Buy land in Telangana? Get Exclusive Access to Verified Land Deals in Telangana and Protect Your Investment with our services like Free Verification, Surveying, Monitoring, and More!"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697779272971,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/CyfUQ2zruSu/?carousel_share_child_media_id=3215377778256831662_47651711013",
+        "share_text": "From 5 lakh to 45 lakh: Discover the prime land opportunities around Hyderabad now! \n...\n\u00f0\u009f\u0094\u00a5Don't miss out on the next big deal. \n...\nFollow us @1acre.in for instant updates.\n...\n#agricultureland #vikarabad #sangareddy #landforsale #1acre #telangana #farmland",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "sowhan",
+      "timestamp_ms": 1697552198028,
+      "content": "6 lakhs",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "sowhan",
+      "timestamp_ms": 1697552184810,
+      "content": "Can you send details for the post which is 1 acre 6lacks",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "sowhan",
+  "is_still_participant": true,
+  "thread_path": "inbox/sowhan_1235229687871666",
+  "magic_words": [
+    
+  ]
+}

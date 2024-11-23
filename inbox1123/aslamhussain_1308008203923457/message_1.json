@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Aslam Hussain"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aslam Hussain",
+      "timestamp_ms": 1708144171437,
+      "content": "And I replied",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708143872539,
+      "content": "I pinged you on WhatsApp",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708143786176,
+      "content": "Can you send me the location?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708143779051,
+      "content": "We can list it on 1acre.in and also actively pitch it, If the deal is good. We charge 2% on sale, to facilitate.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "We can list it on 1acre.in and also actively pitch it, If the deal is good. We charge 2% on sale, to facilitate."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aslam Hussain",
+      "timestamp_ms": 1708113140669,
+      "content": "Hello my name is Aslam and I live in the USA and wanting to sell my land in Chevella it is 32 guntas and 100 Mtrs from main road. \n\nI wanted to inquire how does this work with you listing it and what % do you sell it for? \n\nYou can call me or what\u00e2\u0080\u0099s app me on +18477560293 or reply here",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Aslam Hussain",
+  "is_still_participant": true,
+  "thread_path": "inbox/aslamhussain_1308008203923457",
+  "magic_words": [
+    
+  ]
+}

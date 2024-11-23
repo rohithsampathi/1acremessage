@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Chetan Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Chetan Reddy",
+      "timestamp_ms": 1708675215926,
+      "content": "Ok I\u00e2\u0080\u0099ll call back in a bit",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708672759747,
+      "content": "Please call back Ratna Kiran \n9390155412, to discuss.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708672733662,
+      "content": "Hi, we called you on this number, but couldn't reach.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708598674990,
+      "content": "Sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chetan Reddy",
+      "timestamp_ms": 1708598507614,
+      "content": "Please call me on 9985057575",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708593128829,
+      "content": "So which would you go for?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708593114671,
+      "content": "There are two options-\n1) You can list it directly for free. Interested buyers will call you. \n2) We can do a private listing (visible only to premium subscribers) and handle the potential buyers ourselves. And further promotion on WhatsApp or instagram depends on how good the deal is, to the end buyer.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chetan Reddy",
+      "timestamp_ms": 1708572786978,
+      "content": "Hi I have 5 acres to sell in Shamshabad. Please let me know if you have any clients directly. Can also sell in 1acre bits.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Chetan Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/chetanreddy_1370619034339679",
+  "magic_words": [
+    
+  ]
+}

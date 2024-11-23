@@ -1,0 +1,76 @@
+{
+  "participants": [
+    {
+      "name": "Journey Jahan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720246930989,
+      "content": "1acre.in\n\nPlease check the website. \nWe are currently listing Telangana.\nWe'll start other states soon.\n\nThere are currently 3000+ verified lands. You can call the sellers directly. \n\nIf you subscribe, you'll also get access to the mapview.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "1acre.in\n\nPlease check the website. \nWe are currently listing Telangana.\nWe'll start other states soon.\n\nThere are currently 3000+ verified lands. You can call the sellers directly. \n\nIf you subscribe, you'll also get access to the mapview."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Journey Jahan",
+      "timestamp_ms": 1720245831500,
+      "content": "Upto 10 lakh",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720245690234,
+      "content": "What are you looking for?\nAnd what's the budget?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Journey Jahan",
+      "timestamp_ms": 1720245614016,
+      "content": "We can invest anywhere",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720245598397,
+      "content": "We currently only operate in telangana. \n\nWill keep you posted when we launch in Karnataka",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Journey Jahan",
+      "timestamp_ms": 1720245564976,
+      "content": "Looking for investment in land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Journey Jahan",
+      "timestamp_ms": 1720245557164,
+      "content": "I'm from Bangalore",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720245542419,
+      "content": "Hello \u00f0\u009f\u0091\u008b",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Journey Jahan",
+      "timestamp_ms": 1720245478801,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Journey Jahan",
+  "is_still_participant": true,
+  "thread_path": "inbox/journeyjahan_1269052777811779",
+  "magic_words": [
+    
+  ]
+}

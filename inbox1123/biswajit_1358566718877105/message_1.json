@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Biswajit"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708929402461,
+      "content": "Hi, Please contact Pratheek \n9390674324, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Biswajit",
+      "timestamp_ms": 1708928978812,
+      "content": "Can I get more details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Biswajit",
+      "timestamp_ms": 1708928971903,
+      "content": "Regarding investment",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Biswajit",
+      "timestamp_ms": 1708928960154,
+      "content": "Saw ur reel",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Biswajit",
+      "timestamp_ms": 1708928954272,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Biswajit",
+  "is_still_participant": true,
+  "thread_path": "inbox/biswajit_1358566718877105",
+  "magic_words": [
+    
+  ]
+}

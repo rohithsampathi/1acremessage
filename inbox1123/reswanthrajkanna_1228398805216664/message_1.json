@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Reswanth Raj kanna"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705195016016,
+      "content": "?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Reswanth Raj kanna",
+      "timestamp_ms": 1705170863269,
+      "content": "H",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Reswanth Raj kanna",
+      "timestamp_ms": 1702753129568,
+      "content": "V",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Reswanth Raj kanna",
+  "is_still_participant": true,
+  "thread_path": "inbox/reswanthrajkanna_1228398805216664",
+  "magic_words": [
+    
+  ]
+}

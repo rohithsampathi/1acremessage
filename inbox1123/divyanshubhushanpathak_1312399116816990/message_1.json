@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Divyanshu Bhushan Pathak"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1714564397576,
+      "content": "We are a listing platform, that too limited to Telangana. Will keep you informed when there's a chance.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Divyanshu Bhushan Pathak",
+      "timestamp_ms": 1714563892839,
+      "content": "As an agent you can say.. I sell Developers projects to end users..",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1714286262337,
+      "content": "Can you elaborate a little more on what kind of channel partnerships?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1714286200841,
+      "content": "Hi, Thanks for reaching out.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Divyanshu Bhushan Pathak",
+      "timestamp_ms": 1714265869167,
+      "content": "Hi Team\nI am Divyanshu \nHave been working as Channel partner with all the Developers in Bangalore for last 8 years.\n Do you have any channel partner program?.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Divyanshu Bhushan Pathak",
+  "is_still_participant": true,
+  "thread_path": "inbox/divyanshubhushanpathak_1312399116816990",
+  "magic_words": [
+    
+  ]
+}

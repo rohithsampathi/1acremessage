@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Nithin Rao"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711692879801,
+      "content": "Hi, Please contact Pratheek \n9390674324, from the team. \nHe'll help you with the process. Thanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nithin Rao",
+      "timestamp_ms": 1711692835462,
+      "content": "Hello, planning to buy land around Sadashivpet as along term investment, am a NRI living in US. Can you suggest me good options, also what\u00e2\u0080\u0099s the average price in that area ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nithin Rao",
+  "is_still_participant": true,
+  "thread_path": "inbox/nithinrao_1351528249574132",
+  "magic_words": [
+    
+  ]
+}

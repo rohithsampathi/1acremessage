@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Manmohan Singh Pawar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Manmohan Singh Pawar",
+      "timestamp_ms": 1720244883941,
+      "content": "Sure thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720244697360,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720244696610,
+      "content": "Hi, Please contact Vijay 9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manmohan Singh Pawar",
+      "timestamp_ms": 1720244365941,
+      "content": "The 40acre land near Hyderabad is it available?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Manmohan Singh Pawar",
+  "is_still_participant": true,
+  "thread_path": "inbox/manmohansinghpawar_1459633402102369",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "jyo"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "jyo",
+      "timestamp_ms": 1706861269151,
+      "content": "Hi \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706859612138,
+      "content": "Thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "jyo",
+      "timestamp_ms": 1706859386068,
+      "content": "Good job",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "jyo",
+  "is_still_participant": true,
+  "thread_path": "inbox/jyo_17851662282130959",
+  "magic_words": [
+    
+  ]
+}

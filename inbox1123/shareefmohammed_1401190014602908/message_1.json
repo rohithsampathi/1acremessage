@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "Shareef Mohammed"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729239560313,
+      "content": "We have digitised most lakes on google maps and now you can check directly. \n\nLink : www.1acre.in/lakes\n\nIf your lake is mentioned on HMDA website and is not there on our website, you can request for it .\n\nWe will digitise it on priority basis",
+      "share": {
+        "link": "http://www.1acre.in/lakes",
+        "share_text": "We have digitised most lakes on google maps and now you can check directly. \n\nLink : www.1acre.in/lakes\n\nIf your lake is mentioned on HMDA website and is not there on our website, you can request for it .\n\nWe will digitise it on priority basis"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shareef Mohammed",
+      "timestamp_ms": 1727680711189,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shareef Mohammed",
+      "timestamp_ms": 1727680588559,
+      "content": "Sir can you please provide the klm map superimposed on google map for ramantapur chinna cheruvu with FTL and buffer zone",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shareef Mohammed",
+      "timestamp_ms": 1727680511396,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shareef Mohammed",
+  "is_still_participant": true,
+  "thread_path": "inbox/shareefmohammed_1401190014602908",
+  "magic_words": [
+    
+  ]
+}

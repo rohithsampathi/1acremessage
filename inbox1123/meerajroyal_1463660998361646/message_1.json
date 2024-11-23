@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Meeraj Royal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725278736522,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Meeraj Royal",
+      "timestamp_ms": 1725277600025,
+      "content": "Meeraj sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C-67r_0NVkR/?id=3439323773654096145_47651711013",
+        "share_text": "Are you looking for land parcels for investment or development?\n\n1acre.in's Premium Subscription MapView offers:\n- Access to 3000+ verified lands across Telangana, Andhra Pradesh, Karnataka, and Maharashtra on a single interactive map\n- Data on proximity to key infrastructure and amenities\n- Compare prices to identify optimal investments\n\nOur MapView makes land information transparent for you. Save valuable time and potentially significant capital by quickly identifying opportunities that align with your criteria.\n\nExperience an easy perspective on land acquisition search. Link to Subscribe in comments.\n\n#1acre #BuyLand #Selllands #RealEstate #Investment #MapView",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Meeraj Royal",
+  "is_still_participant": true,
+  "thread_path": "inbox/meerajroyal_1463660998361646",
+  "magic_words": [
+    
+  ]
+}

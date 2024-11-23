@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Jitender Soni"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712657372375,
+      "content": "Hello, may I know what you are looking for? I'll connect with the team accordingly.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jitender Soni",
+      "timestamp_ms": 1712654013842,
+      "content": "Share contact and office details please",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Jitender Soni",
+  "is_still_participant": true,
+  "thread_path": "inbox/jitendersoni_1372038327530613",
+  "magic_words": [
+    
+  ]
+}

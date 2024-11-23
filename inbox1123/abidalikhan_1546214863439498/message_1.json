@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Abid Ali Khan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731950079921,
+      "content": "Please contact our team member ,pavan, at 83411 49011\n\nHe will understand your requirements and help you :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abid Ali Khan",
+      "timestamp_ms": 1731949196013,
+      "content": "Looking for help to buy lands",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abid Ali Khan",
+      "timestamp_ms": 1731949178864,
+      "content": "This is Dr. Abid",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abid Ali Khan",
+      "timestamp_ms": 1731949153443,
+      "content": "I am dr \u00e0\u00b0\u0085\u00e0\u00b0\u00ac\u00e0\u00b0\u00bf\u00e0\u00b0\u00a1\u00e0\u00b1\u008d",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abid Ali Khan",
+      "timestamp_ms": 1731949143943,
+      "content": "Where do you have your office",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abid Ali Khan",
+      "timestamp_ms": 1731949135513,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Abid Ali Khan",
+  "is_still_participant": true,
+  "thread_path": "inbox/abidalikhan_1546214863439498",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "participants": [
+    {
+      "name": "Prashanth Burukunta"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724465182029,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prashanth Burukunta",
+      "timestamp_ms": 1724429396888,
+      "content": "Want to sell my property",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prashanth Burukunta",
+      "timestamp_ms": 1724429376607,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prashanth Burukunta",
+      "timestamp_ms": 1724295490123,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724291748286,
+      "content": "Please contact Ratna Kiran \n9390155412\nHe can help you with it.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Prashanth Burukunta",
+          "timestamp": 1724295490
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prashanth Burukunta",
+      "timestamp_ms": 1724290276369,
+      "content": "Any lands similar to to these please tell me",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prashanth Burukunta",
+      "timestamp_ms": 1724290249283,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prashanth Burukunta",
+      "timestamp_ms": 1724290245300,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724289816313,
+      "content": "It's already sold. Sorry.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Prashanth Burukunta",
+          "timestamp": 1724290245
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prashanth Burukunta",
+      "timestamp_ms": 1724257583431,
+      "content": "Interested can you please send me the owner number",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3373573828072004236"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Prashanth Burukunta",
+  "is_still_participant": true,
+  "thread_path": "inbox/prashanthburukunta_1373527900701412",
+  "magic_words": [
+    
+  ]
+}

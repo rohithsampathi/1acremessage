@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Dr Srinivas"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dr Srinivas",
+      "timestamp_ms": 1720368876117,
+      "content": "Nice. Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720368735219,
+      "content": "Not yet. But we'll be starting in a month's time at max.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dr Srinivas",
+      "timestamp_ms": 1720367638347,
+      "content": "Hi, any update on properties in and around Vizag?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708673013494,
+      "content": "Hi, thanks for reaching out. Currently doing only Telangana. But soon, will cover other states.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dr Srinivas",
+      "timestamp_ms": 1708672860052,
+      "content": "Hi, anything near vizag?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Dr Srinivas",
+  "is_still_participant": true,
+  "thread_path": "inbox/drsrinivas_1312058743519393",
+  "magic_words": [
+    
+  ]
+}

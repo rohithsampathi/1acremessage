@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "aftab_awati_f3"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728618605792,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "aftab_awati_f3",
+      "timestamp_ms": 1728579953530,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "aftab_awati_f3",
+  "is_still_participant": true,
+  "thread_path": "inbox/aftab_awati_f3_18037693223127466",
+  "magic_words": [
+    
+  ]
+}

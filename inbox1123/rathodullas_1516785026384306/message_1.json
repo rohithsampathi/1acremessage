@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Rathod Ullas"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726208730307,
+      "content": "You can call sandeep at 9005464412 for more details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726208718583,
+      "content": "May we know the requirements so we can take the discussion forward",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rathod Ullas",
+      "timestamp_ms": 1726205052469,
+      "content": "Can you share office address",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726205047667,
+      "content": "Thank you for applying as a regional partner with 1acre.in.\nWe shall get back to you soon",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726205042468,
+      "content": "Rathod Ullas replied to an ad. View ad(https://www.instagram.com/p/C_xWYoiMQ-v/)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rathod Ullas",
+      "timestamp_ms": 1726205040852,
+      "content": "Hello, Can I get more info on this?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rathod Ullas",
+  "is_still_participant": true,
+  "thread_path": "inbox/rathodullas_1516785026384306",
+  "magic_words": [
+    
+  ]
+}

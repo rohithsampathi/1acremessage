@@ -1,0 +1,100 @@
+{
+  "participants": [
+    {
+      "name": "Vineeth Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vineeth Reddy",
+      "timestamp_ms": 1708961002196,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708936603160,
+      "content": "Gamaya farms",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Vineeth Reddy",
+          "timestamp": 1708961002
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vineeth Reddy",
+      "timestamp_ms": 1708935547117,
+      "content": "Whats the name of the community",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vineeth Reddy",
+      "timestamp_ms": 1708935537925,
+      "content": "Vineeth sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C3akRPJSMmQ/?id=3304112790797076880_47651711013",
+        "share_text": "\u00f0\u009f\u008c\u00bf Welcome to 1acre.in,Explore a stunning half-acre plot in a 50-acre sustainable farm community on Ananthegiri hills. \u00f0\u009f\u008f\u009e\u00ef\u00b8\u008f Surrounded by 3000 acres of lush Ananthagiri forest, find tranquility like never before.\n\nAs an owner, enjoy exclusive access to a charming clubhouse and cozy hobbit cottages. With underground power and water supply, rainwater harvesting, and security provided, embrace a sustainable lifestyle amidst nature\u00e2\u0080\u0099s embrace. \u00f0\u009f\u008c\u00b3\u00f0\u009f\u0092\u00a7\u00f0\u009f\u008f\u00a1\n\nSeeking more than an investment? Build your dream farmhouse and live in harmony with nature. \u00f0\u009f\u008c\u00bf\n\nInterested? Contact us today! Price: 1.1 crore for the entire property. \u00f0\u009f\u0092\u00b0 #AnanthegiriLiving #1acre #SustainableCommunity #NatureRetreat \u00f0\u009f\u009a\u0080",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vineeth Reddy",
+      "timestamp_ms": 1705901230666,
+      "content": "Yes sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705901160819,
+      "content": "Can I call now?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vineeth Reddy",
+      "timestamp_ms": 1705900903680,
+      "content": "9912922200 \nVineeth Reddy\nNewmark Urbanspaces",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705900818600,
+      "content": "Can we have your number? We'll get in touch.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vineeth Reddy",
+      "timestamp_ms": 1705853417329,
+      "content": "Hey i filled in the form and dint really hear back from you guys, would it be possible to schedule time for a call this week??",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704897020740,
+      "content": "https://www.1acre.in/subscribe\n\nPlease go through and fill in the form at the end of the page. We'll get back to you.",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "https://www.1acre.in/subscribe\n\nPlease go through and fill in the form at the end of the page. We'll get back to you."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vineeth Reddy",
+      "timestamp_ms": 1704895019504,
+      "content": "Hey , We are interested in acquiring bulk parcels of land and recently came across your profile. \nWill you be available in Hyderabad to meet and discuss about this in detail?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vineeth Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/vineethreddy_1146022820139729",
+  "magic_words": [
+    
+  ]
+}

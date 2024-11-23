@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Kiran Arcot"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kiran Arcot",
+      "timestamp_ms": 1721969566372,
+      "content": "Thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721964489154,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will help you with details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721964460877,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kiran Arcot",
+      "timestamp_ms": 1721828546798,
+      "content": "Hello, we have two plots, one in bibinagar 250 sq yards, it's in Narne estate, exactly opposite to AIMS.\n\nSecond land parcel is one acre of land in vilpatti, Kodaikanal.\n\nLooking to sell these two.\n\nLet me know if you guys are willing to take it up.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kiran Arcot",
+  "is_still_participant": true,
+  "thread_path": "inbox/kiranarcot_1484909519576770",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Aqib Tanveer \u00f0\u009f\u0091\u0091"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720256058843,
+      "content": "Thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aqib Tanveer \u00f0\u009f\u0091\u0091",
+      "timestamp_ms": 1720255840776,
+      "content": "\u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Aqib Tanveer \u00f0\u009f\u0091\u0091",
+  "is_still_participant": true,
+  "thread_path": "inbox/aqibtanveer_1451935026203986",
+  "magic_words": [
+    
+  ]
+}

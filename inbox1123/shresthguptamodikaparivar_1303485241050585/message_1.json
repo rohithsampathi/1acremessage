@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Shresth Gupta (Modi Ka Parivar)"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702635624522,
+      "content": "you can connect with pratheek  9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shresth Gupta (Modi Ka Parivar)",
+      "timestamp_ms": 1702578632622,
+      "content": "My whatsapp contact 9949677553",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shresth Gupta (Modi Ka Parivar)",
+      "timestamp_ms": 1702578616462,
+      "content": "Hello, I'm interested in purchasing bulk land around hyderabad in budget of 5-10 lakh/acre",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shresth Gupta (Modi Ka Parivar)",
+  "is_still_participant": true,
+  "thread_path": "inbox/shresthguptamodikaparivar_1303485241050585",
+  "magic_words": [
+    
+  ]
+}

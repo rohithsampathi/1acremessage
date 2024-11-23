@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Govindrao Pawar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Govindrao Pawar",
+      "timestamp_ms": 1715976574684,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Govindrao Pawar",
+      "timestamp_ms": 1704776641072,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704776628705,
+      "content": "you can connect with pratheek, 9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Govindrao Pawar",
+      "timestamp_ms": 1704776560244,
+      "content": "Can I get u r number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704775697203,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Govindrao Pawar",
+      "timestamp_ms": 1704770325183,
+      "content": "Hi sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Govindrao Pawar",
+  "is_still_participant": true,
+  "thread_path": "inbox/govindraopawar_17856246540095560",
+  "magic_words": [
+    
+  ]
+}

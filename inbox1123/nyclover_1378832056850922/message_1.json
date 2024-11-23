@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "NYC Lover"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "NYC Lover",
+      "timestamp_ms": 1707139422979,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707139361218,
+      "content": "1acre.in/logout",
+      "share": {
+        "link": "http://1acre.in/logout",
+        "share_text": "1acre.in/logout"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707139351883,
+      "content": "Hi. Sorry for the trouble. \nIt usually takes some time.\nPlease logout after a few hours, login back and check. Thanks.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "NYC Lover",
+          "timestamp": 1707139422
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "NYC Lover",
+      "timestamp_ms": 1707139156009,
+      "content": "Looks like I can't access premium listings",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "NYC Lover",
+      "timestamp_ms": 1707139133718,
+      "content": "Hello - I have subscribed thru 9849166505 Krish.piscean@gmail.com",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706881145730,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "NYC Lover",
+      "timestamp_ms": 1706880396807,
+      "content": "Hello there - we are looking for farm lands near Vikarabad with river view or closer to forest reserve area for farm houses. Let me know if you can direct us.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "NYC Lover",
+  "is_still_participant": true,
+  "thread_path": "inbox/nyclover_1378832056850922",
+  "magic_words": [
+    
+  ]
+}

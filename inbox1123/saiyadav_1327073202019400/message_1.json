@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Sai Yadav"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sai Yadav",
+      "timestamp_ms": 1710219961417,
+      "content": "I will call after 2 hours",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Yadav",
+      "timestamp_ms": 1710219944726,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710219928248,
+      "content": "Hi, Please contact Vijay\n9959994737. If there's anything we can help, he'll let you know.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Yadav",
+      "timestamp_ms": 1710218241903,
+      "content": "Land is located at sangareddy. Kondapur mandal. Actually my grand father lost land certificate which was given by government. To make it into patta land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710218128886,
+      "content": "Where is the land and what is the issue?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Yadav",
+      "timestamp_ms": 1710218057418,
+      "content": "There is a issue with our land. Want to talk about it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710217989421,
+      "content": "May I know what you are looking for?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Yadav",
+      "timestamp_ms": 1710217795565,
+      "content": "Office address please!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710217758637,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Yadav",
+      "timestamp_ms": 1710216476863,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sai Yadav",
+  "is_still_participant": true,
+  "thread_path": "inbox/saiyadav_1327073202019400",
+  "magic_words": [
+    
+  ]
+}

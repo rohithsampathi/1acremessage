@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Varun Sai"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Varun Sai",
+      "timestamp_ms": 1704190680566,
+      "content": "Yeah suree",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704189588291,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Varun Sai",
+      "timestamp_ms": 1704175787774,
+      "content": "Hi\nWhat is the minimum amount for a 150-200 square yard\u00e2\u0080\u0099s outskirts of Wipro circle\nOutskirts 5-10kms",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Varun Sai",
+      "timestamp_ms": 1703155042667,
+      "content": "Hi\nWhat is the minimum amount for a 150-200 square yard\u00e2\u0080\u0099s outskirts of Wipro circle\nOutskirts 5-10kms",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Varun Sai",
+  "is_still_participant": true,
+  "thread_path": "inbox/varunsai_1287237399335671",
+  "magic_words": [
+    
+  ]
+}

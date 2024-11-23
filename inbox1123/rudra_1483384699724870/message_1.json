@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Rudra."
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rudra.",
+      "timestamp_ms": 1720259373973,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rudra.",
+      "timestamp_ms": 1720259368873,
+      "content": "Okkay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720259355372,
+      "content": "Hi, Please contact Ratna Kiran  9390155412. \nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rudra.",
+      "timestamp_ms": 1720258989637,
+      "content": "Heyss i am from nagpur.\nWe want to sell our 14 acre of land which is situated near adegaon bor tiger reserve. It is exactly opposite to the ticket counter for jungle safari.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rudra.",
+  "is_still_participant": true,
+  "thread_path": "inbox/rudra_1483384699724870",
+  "magic_words": [
+    
+  ]
+}

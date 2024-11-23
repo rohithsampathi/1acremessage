@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Khan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711415361731,
+      "content": "Not yet. Soon.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Khan",
+      "timestamp_ms": 1711393951392,
+      "content": "Bangalore",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Khan",
+      "timestamp_ms": 1711393947457,
+      "content": "I guys there in Banga",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Khan",
+  "is_still_participant": true,
+  "thread_path": "inbox/khan_1416982329697705",
+  "magic_words": [
+    
+  ]
+}

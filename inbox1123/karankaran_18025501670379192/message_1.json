@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Karan Karan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727767826868,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Karan Karan",
+      "timestamp_ms": 1727764515258,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Karan Karan",
+  "is_still_participant": true,
+  "thread_path": "inbox/karankaran_18025501670379192",
+  "magic_words": [
+    
+  ]
+}

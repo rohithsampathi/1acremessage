@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Affan Ayan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717598565185,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717598564181,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team.\nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Affan Ayan",
+      "timestamp_ms": 1717596283279,
+      "content": "I want to sell 10 acres land near 20 kms from Sangareddy",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Affan Ayan",
+      "timestamp_ms": 1717596246291,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Affan Ayan",
+  "is_still_participant": true,
+  "thread_path": "inbox/affanayan_1026489372144198",
+  "magic_words": [
+    
+  ]
+}

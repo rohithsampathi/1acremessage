@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Harrshaa Nuthakkii"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Harrshaa Nuthakkii",
+      "timestamp_ms": 1712992347156,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712981815538,
+      "content": "We are a listing platform only for Lands. I am afraid we won't be of much help wrt to flats. Thanks for reaching out.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harrshaa Nuthakkii",
+      "timestamp_ms": 1712981516576,
+      "content": "To sell",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harrshaa Nuthakkii",
+      "timestamp_ms": 1712981511532,
+      "content": "Flat",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712913552177,
+      "content": "Do you have some land that you are looking to sell?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712913525727,
+      "content": "We are a listing platform for verified lands. Free for both buyers and sellers.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harrshaa Nuthakkii",
+      "timestamp_ms": 1712913476356,
+      "content": "Do u sell property",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Harrshaa Nuthakkii",
+  "is_still_participant": true,
+  "thread_path": "inbox/harrshaanuthakkii_18019512788170613",
+  "magic_words": [
+    
+  ]
+}

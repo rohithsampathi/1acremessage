@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Ranjith Kumar Hr"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ranjith Kumar Hr",
+      "timestamp_ms": 1731996827238,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731996806964,
+      "content": "Our team will get in touch",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ranjith Kumar Hr",
+      "timestamp_ms": 1731950500855,
+      "content": "8904144103",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731950094635,
+      "content": "Share your number and our team will call you to discuss",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ranjith Kumar Hr",
+      "timestamp_ms": 1731949014548,
+      "content": "I have a genuine properties in Bangalore international airport near property",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729661893177,
+      "content": "Sorry \nWe didn\u00e2\u0080\u0099t understand your request",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ranjith Kumar Hr",
+      "timestamp_ms": 1729621686910,
+      "content": "Bangalore properties details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ranjith Kumar Hr",
+      "timestamp_ms": 1729621684563,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ranjith Kumar Hr",
+  "is_still_participant": true,
+  "thread_path": "inbox/ranjithkumarhr_1067465828094255",
+  "magic_words": [
+    
+  ]
+}

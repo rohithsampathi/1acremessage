@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Yash"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1699340613193,
+      "content": "Sure will connect",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yash",
+      "timestamp_ms": 1699340557839,
+      "content": "Hi, you have a unique value proposition. I work as a channel partner for multiple real estate companies in Hyderabad. Is there any chance you have such opportunities? I would love to work with you for mutual growth. If interested, please connect with me at your convenience.\n\nYashwanth Putreddy\n8977886969",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Yash",
+  "is_still_participant": true,
+  "thread_path": "inbox/yash_1290307579036100",
+  "magic_words": [
+    
+  ]
+}

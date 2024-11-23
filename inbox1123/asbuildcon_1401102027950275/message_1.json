@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "A.S BUILDCON"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "A.S BUILDCON",
+      "timestamp_ms": 1719296846039,
+      "content": "Give me a contact of farm or resort",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719290695167,
+      "content": "How can we help?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719290669136,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "A.S BUILDCON",
+      "timestamp_ms": 1719289633738,
+      "content": "Hello sir we made cottages and developing farms & Resorts",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719289383535,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "A.S BUILDCON",
+      "timestamp_ms": 1719288404108,
+      "content": "Hello sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "A.S BUILDCON",
+  "is_still_participant": true,
+  "thread_path": "inbox/asbuildcon_1401102027950275",
+  "magic_words": [
+    
+  ]
+}

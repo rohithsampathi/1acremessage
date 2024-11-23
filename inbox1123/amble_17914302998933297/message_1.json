@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": ".amble"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715657318994,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": ".amble",
+      "timestamp_ms": 1715655165431,
+      "content": "Hello \nWould like to understand more about your services. I am looking for someone to scout property around Hyderabad",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": ".amble",
+  "is_still_participant": true,
+  "thread_path": "inbox/amble_17914302998933297",
+  "magic_words": [
+    
+  ]
+}

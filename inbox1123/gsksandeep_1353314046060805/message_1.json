@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "gsk.sandeep"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "gsk.sandeep",
+      "timestamp_ms": 1710360219912,
+      "content": "I saw your video on polling land. Would like to know more details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710294400636,
+      "content": "Hi, Doing good. May I know what you are looking for?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "gsk.sandeep",
+      "timestamp_ms": 1710291456661,
+      "content": "Hi. How you doing join you or team?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "gsk.sandeep",
+  "is_still_participant": true,
+  "thread_path": "inbox/gsksandeep_1353314046060805",
+  "magic_words": [
+    
+  ]
+}

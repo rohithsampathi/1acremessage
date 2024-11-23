@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Ramesh Goud Suruvu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710751615558,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ramesh Goud Suruvu",
+      "timestamp_ms": 1710748505125,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ramesh Goud Suruvu",
+  "is_still_participant": true,
+  "thread_path": "inbox/rameshgoudsuruvu_1386276706106765",
+  "magic_words": [
+    
+  ]
+}

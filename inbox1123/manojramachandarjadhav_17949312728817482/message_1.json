@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Manoj Ramachandar Jadhav"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Manoj Ramachandar Jadhav",
+      "timestamp_ms": 1722485409554,
+      "content": "\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722485392737,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manoj Ramachandar Jadhav",
+      "timestamp_ms": 1722484268690,
+      "content": "I'm from Bangalore",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manoj Ramachandar Jadhav",
+      "timestamp_ms": 1722484266283,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722479064966,
+      "content": "We currently only operate in telangana. \n\nWill keep you posted when we launch in other states",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manoj Ramachandar Jadhav",
+      "timestamp_ms": 1722437443661,
+      "content": "I want to work as realtor",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manoj Ramachandar Jadhav",
+      "timestamp_ms": 1722437438930,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Manoj Ramachandar Jadhav",
+  "is_still_participant": true,
+  "thread_path": "inbox/manojramachandarjadhav_17949312728817482",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "participants": [
+    {
+      "name": "David Onesimus K"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702541163252,
+      "content": "you can connect with pratheek  9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "David Onesimus K",
+      "timestamp_ms": 1702541075627,
+      "content": "Any update on my query ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701581888655,
+      "content": "Our team will connect with you shortly",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "David Onesimus K",
+      "timestamp_ms": 1701574090158,
+      "content": "9885613556",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701570550394,
+      "content": "Can we have your contact number our team will connect with you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "David Onesimus K",
+      "timestamp_ms": 1701532333661,
+      "content": "Can you please help me?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "David Onesimus K",
+      "timestamp_ms": 1701532328924,
+      "content": "That\u00e2\u0080\u0099s my budget",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "David Onesimus K",
+      "timestamp_ms": 1701532321877,
+      "content": "Regarding this",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "David Onesimus K",
+      "timestamp_ms": 1701532317269,
+      "content": "https://www.instagram.com/reel/C0Q6zYRyZA3/",
+      "share": {
+        "link": "https://www.instagram.com/reel/C0Q6zYRyZA3/",
+        "share_text": "https://www.instagram.com/reel/C0Q6zYRyZA3/"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701512646218,
+      "content": "Hi , how can we help you?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "David Onesimus K",
+      "timestamp_ms": 1701506818695,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "David Onesimus K",
+  "is_still_participant": true,
+  "thread_path": "inbox/davidonesimusk_1238859957507180",
+  "magic_words": [
+    
+  ]
+}

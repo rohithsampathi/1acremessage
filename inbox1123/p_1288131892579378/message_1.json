@@ -1,0 +1,79 @@
+{
+  "participants": [
+    {
+      "name": "$P"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "$P",
+      "timestamp_ms": 1703193139620,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "$P",
+      "timestamp_ms": 1703193136544,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703125221248,
+      "content": "Hy you can connect with Ratna kiran ,7661-063355",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "$P",
+          "timestamp": 1703193136
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "$P",
+      "timestamp_ms": 1703095988960,
+      "content": "Which is around 135 sqyards",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "$P",
+      "timestamp_ms": 1703095978358,
+      "content": "Also, we have one property behind Jubilee bus stop",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "$P",
+      "timestamp_ms": 1703095919818,
+      "content": "We wanted your help to sell this properties",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "$P",
+      "timestamp_ms": 1703095903509,
+      "content": "Size about 300sqyards",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "$P",
+      "timestamp_ms": 1703095894237,
+      "content": "We have two properties in Patencheru pocharam village",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "$P",
+      "timestamp_ms": 1703095875252,
+      "content": "Hello Sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "$P",
+  "is_still_participant": true,
+  "thread_path": "inbox/p_1288131892579378",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "AMARJOT CHHINA"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "AMARJOT CHHINA",
+      "timestamp_ms": 1720268201847,
+      "content": "Okay, sir, do as soon as possible",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720261216349,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "AMARJOT CHHINA",
+      "timestamp_ms": 1720258622335,
+      "content": "Sir I want to buy almost5 acre land for farming in Uttarakhand near kashipur Udham Singh Nagar per acre price should be not more than 30,00,000 \u00ef\u00bf\u00bc",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "AMARJOT CHHINA",
+      "timestamp_ms": 1720258556502,
+      "content": "Hlo",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "AMARJOT CHHINA",
+  "is_still_participant": true,
+  "thread_path": "inbox/amarjotchhina_1430337688362209",
+  "magic_words": [
+    
+  ]
+}

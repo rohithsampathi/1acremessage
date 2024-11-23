@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Dandanayak Gopikrishna"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1698991139271,
+      "content": "Yes we have ,  for more details please visit our website :https://www.1acre.in/, contact:9505778117",
+      "share": {
+        "link": "https://www.1acre.in/",
+        "share_text": "Yes we have ,  for more details please visit our website :https://www.1acre.in/, contact:9505778117"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dandanayak Gopikrishna",
+      "timestamp_ms": 1698991053390,
+      "content": "Hi do you have 1 acre of land in kamareddy district which is near by stream or with good water facility",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1698991015351,
+      "content": "Hi Gopikrishna, how can we help you?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dandanayak Gopikrishna",
+      "timestamp_ms": 1698912051409,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Dandanayak Gopikrishna",
+  "is_still_participant": true,
+  "thread_path": "inbox/dandanayakgopikrishna_1294801908584003",
+  "magic_words": [
+    
+  ]
+}

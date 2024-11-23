@@ -1,0 +1,94 @@
+{
+  "participants": [
+    {
+      "name": "kavitha patel"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "kavitha patel",
+      "timestamp_ms": 1717254349013,
+      "content": "Cheyaledhu",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "kavitha patel",
+      "timestamp_ms": 1717254345133,
+      "content": "Cl chestanu annaru",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "kavitha patel",
+      "timestamp_ms": 1717254337076,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "kavitha patel",
+      "timestamp_ms": 1715393190621,
+      "content": "Job process yenti sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "kavitha patel",
+      "timestamp_ms": 1715358807154,
+      "content": "K",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715358797835,
+      "content": "9032114737\nYou can talk to Bharath, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "kavitha patel",
+      "timestamp_ms": 1715358304558,
+      "content": "Medhi sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "kavitha patel",
+      "timestamp_ms": 1715358207009,
+      "content": "Num pettadi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "kavitha patel",
+      "timestamp_ms": 1715358206100,
+      "content": "kavitha sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C4j3HBRt6Vt/?id=3324743324894995821_47651711013",
+        "share_text": "9032114737\n\nPlease call Bharath, from the team.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "kavitha patel",
+      "timestamp_ms": 1715358167600,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "kavitha patel",
+      "timestamp_ms": 1715358166460,
+      "content": "kavitha sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C4j3HBRt6Vt/?id=3324743324894995821_47651711013",
+        "share_text": "9032114737\n\nPlease call Bharath, from the team.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "kavitha patel",
+  "is_still_participant": true,
+  "thread_path": "inbox/kavithapatel_18005005151591014",
+  "magic_words": [
+    
+  ]
+}

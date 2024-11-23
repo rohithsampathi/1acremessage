@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "S H R I"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718836590530,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "S H R I",
+      "timestamp_ms": 1718815834744,
+      "content": "Hello! \nThe feed looks quite interesting looking forward to connect. \nThis is regarding a 3.16 acres of NA land in Belgaum on Pune Bangalore national highway.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "S H R I",
+  "is_still_participant": true,
+  "thread_path": "inbox/shri_1444735260257826",
+  "magic_words": [
+    
+  ]
+}

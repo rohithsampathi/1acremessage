@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Shivraj Amale"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shivraj Amale",
+      "timestamp_ms": 1731771266252,
+      "content": "Hey",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shivraj Amale",
+  "is_still_participant": true,
+  "thread_path": "inbox/shivrajamale_1567284284672358",
+  "magic_words": [
+    
+  ]
+}

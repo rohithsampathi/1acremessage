@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Laxman Singh Rathod"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706691817596,
+      "content": "Yes?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Laxman Singh Rathod",
+      "timestamp_ms": 1706669236267,
+      "content": "Laxman sent an attachment.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Laxman Singh Rathod",
+  "is_still_participant": true,
+  "thread_path": "inbox/laxmansinghrathod_1245654450156687",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Dinnu rmvth"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dinnu rmvth",
+      "timestamp_ms": 1730272177379,
+      "content": "\u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730271410360,
+      "content": "How can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730271405561,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dinnu rmvth",
+      "timestamp_ms": 1730269142356,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Dinnu rmvth",
+  "is_still_participant": true,
+  "thread_path": "inbox/dinnurmvth_17982328880760375",
+  "magic_words": [
+    
+  ]
+}

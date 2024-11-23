@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Bharath Guttikonda"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bharath Guttikonda",
+      "timestamp_ms": 1715841360561,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715839573309,
+      "content": "1acre.in/subscribe\nYou can subscribe to get access to the MapView. \nWe are a listing platform. You can call the sellers directly, if you like any land. \nThanks",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Bharath Guttikonda",
+          "timestamp": 1715841360
+        }
+      ],
+      "share": {
+        "link": "http://1acre.in/subscribe",
+        "share_text": "1acre.in/subscribe\nYou can subscribe to get access to the MapView. \nWe are a listing platform. You can call the sellers directly, if you like any land. \nThanks"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bharath Guttikonda",
+      "timestamp_ms": 1715838265906,
+      "content": "I have a budget of 1 cr",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bharath Guttikonda",
+      "timestamp_ms": 1715838257522,
+      "content": "10- 15 lakhs per acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bharath Guttikonda",
+      "timestamp_ms": 1715838246626,
+      "content": "I am looking for Agricultural Land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715837177043,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bharath Guttikonda",
+      "timestamp_ms": 1715837156677,
+      "content": "Hi \u00f0\u009f\u0091\u008b",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Bharath Guttikonda",
+  "is_still_participant": true,
+  "thread_path": "inbox/bharathguttikonda_1329566635103568",
+  "magic_words": [
+    
+  ]
+}

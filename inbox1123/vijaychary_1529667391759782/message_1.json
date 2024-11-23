@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Vijay Chary"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725188792582,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725188791956,
+      "content": "Hi, Please contact Vijay 9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vijay Chary",
+      "timestamp_ms": 1725188754652,
+      "content": "Vkb lake view land price",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725188709327,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vijay Chary",
+      "timestamp_ms": 1725182097249,
+      "content": "Hi Anna",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vijay Chary",
+  "is_still_participant": true,
+  "thread_path": "inbox/vijaychary_1529667391759782",
+  "magic_words": [
+    
+  ]
+}

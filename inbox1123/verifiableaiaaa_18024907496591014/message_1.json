@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "VerifiableAI | AAA"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "VerifiableAI | AAA",
+      "timestamp_ms": 1729354667703,
+      "content": "Hello 1arce.in Team,\n\nI'm sure you're receiving numerous messages on your social media platforms daily, as well as having visitors on your website. Handling this large volume of messages and visitors manually can be extremely exhausting and time-consuming. Our chatbot solution can not only help you organize this process but also prevent the loss of important sales opportunities.\n\nOur bot can quickly respond to hundreds of inquiries in a personalized way, gather necessary information, and send it directly to your CRM system. Whether it's on Instagram or your website, this solution will ensure you don't miss any opportunity to engage with potential customers.\n\nIf you're not capturing visitor information effectively from your website, you could be losing valuable sales. The bot will help convert visitors into customers by quickly collecting their data and passing it on to your team to take timely action.\n\nI'm sure you'd be interested in seeing how this solution can streamline your process and boost your conversions both through your social media and your website.\n\nBest regards,\nMustafa",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "VerifiableAI | AAA",
+  "is_still_participant": true,
+  "thread_path": "inbox/verifiableaiaaa_18024907496591014",
+  "magic_words": [
+    
+  ]
+}

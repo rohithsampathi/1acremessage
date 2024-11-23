@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Siddaling Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709983542177,
+      "content": "Please contact Ratna Kiran \n9390155412\nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709983526245,
+      "content": "Regarding the 46 acres land in Karnataka,",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Siddaling Reddy",
+      "timestamp_ms": 1709982388999,
+      "content": "Anywhere in Karnataka",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709972069257,
+      "content": "Hi, may I know which land you are referring to?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Siddaling Reddy",
+      "timestamp_ms": 1709971424535,
+      "content": "How can we follow it up",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Siddaling Reddy",
+      "timestamp_ms": 1709971415578,
+      "content": "I am interested in purchase",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Siddaling Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/siddalingreddy_1364562824942079",
+  "magic_words": [
+    
+  ]
+}

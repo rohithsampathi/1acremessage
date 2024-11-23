@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Mahesh Ravala DOP"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707589042659,
+      "content": "Hi, sure. Please contact Pratheek \n9390674324, from the team. He'll help you with the necessary details. Thanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mahesh Ravala DOP",
+      "timestamp_ms": 1707587639977,
+      "content": "Please let me know the details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mahesh Ravala DOP",
+      "timestamp_ms": 1707587629138,
+      "content": "Hello 1acre. Interested in 100 acres project",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mahesh Ravala DOP",
+  "is_still_participant": true,
+  "thread_path": "inbox/maheshravaladop_1279650436759761",
+  "magic_words": [
+    
+  ]
+}

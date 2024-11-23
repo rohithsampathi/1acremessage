@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Srilakshmi Nalubolu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Srilakshmi Nalubolu",
+      "timestamp_ms": 1720415219634,
+      "content": "Ok thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720414186893,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srilakshmi Nalubolu",
+      "timestamp_ms": 1720372909869,
+      "content": "https://www.instagram.com/leelagardenstirupati?igsh=MWZwbW10ZHJ0Z2p1cg==",
+      "share": {
+        "link": "https://www.instagram.com/_u/leelagardenstirupati",
+        "profile_share_username": "leelagardenstirupati",
+        "profile_share_name": "Leela Gardens Tirupati"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srilakshmi Nalubolu",
+      "timestamp_ms": 1720372862995,
+      "content": "Hi, I am from Leelagardens ,tirupati.we have 6.5 acre mango garden layout. Can you do marketing for farm land plots and farm houses... Pls reply.",
+      "share": {
+        "share_text": "Hi, I am from Leelagardens ,tirupati.we have 6.5 acre mango garden layout. Can you do marketing for farm land plots and farm houses... Pls reply."
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Srilakshmi Nalubolu",
+  "is_still_participant": true,
+  "thread_path": "inbox/srilakshminalubolu_18011950727591014",
+  "magic_words": [
+    
+  ]
+}

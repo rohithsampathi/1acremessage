@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Yash Yadav"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720221552597,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yash Yadav",
+      "timestamp_ms": 1720201178768,
+      "content": "Yash sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C8_88ylSF7J/?id=3404707903587245769_47651711013",
+        "share_text": "40 acres | \u00e2\u0082\u00b97 lakhs per acre | Near Yavatmal, Maharashtra | Link in bio \u00f0\u009f\u008c\u009f\n\n- Verified and facilitated by 1acre.in\n- Extremely fertile, canal-irrigated land\n- Only 6 hours from Hyderabad\n- Well-connected to national highways, expressways, and railways\n- Ideal for active agriculture and investment\n\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 9959994737\n\n\u00f0\u009f\u0093\u00ac\u00f0\u009f\u0093\u00a9 DM us for more queries on buying, selling, or partnerships",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717752218707,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yash Yadav",
+      "timestamp_ms": 1717751490107,
+      "content": "Yash sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C7ys9k7Srbf/?id=3382964015692691167_47651711013",
+        "share_text": "2 acres | \u00e2\u0082\u00b95 Cr | Lakeview | Anantagiri Hills | Link in bio \u00f0\u009f\u008c\u009f\n\n- Verified and Facilitated by 1acre.in \n- Permissions for a 5-floor, 100-room lake view resort\n- Prime location near Vikarabad, perfect for a getaway\n\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 9959994737",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Yash Yadav",
+  "is_still_participant": true,
+  "thread_path": "inbox/yashyadav_1457816108949841",
+  "magic_words": [
+    
+  ]
+}

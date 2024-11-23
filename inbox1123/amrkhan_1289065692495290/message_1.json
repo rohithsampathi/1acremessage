@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "\u00d8\u00b9\u00d8\u00a7\u00d9\u0085\u00d8\u00b1 \u00d8\u00ae\u00d8\u00a7\u00d9\u0086 \u00f0\u009f\u0098\u008e"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697870135790,
+      "content": "Hey aamir , for more details please visit our website :https://www.1acre.in/, contact:7780122120",
+      "share": {
+        "link": "https://1acre.in/",
+        "share_text": "Looking to Buy land in Telangana? Get Exclusive Access to Verified Land Deals in Telangana and Protect Your Investment with our services like Free Verification, Surveying, Monitoring, and More!"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00d8\u00b9\u00d8\u00a7\u00d9\u0085\u00d8\u00b1 \u00d8\u00ae\u00d8\u00a7\u00d9\u0086 \u00f0\u009f\u0098\u008e",
+      "timestamp_ms": 1697846651792,
+      "content": "Hi I am interested in purchasing land in vikharabad",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00e2\u0080\u008e\u00d8\u00b9\u00d8\u00a7\u00d9\u0085\u00d8\u00b1 \u00d8\u00ae\u00d8\u00a7\u00d9\u0086 \u00f0\u009f\u0098\u008e\u00e2\u0080\u008e",
+  "is_still_participant": true,
+  "thread_path": "inbox/amrkhan_1289065692495290",
+  "magic_words": [
+    
+  ]
+}

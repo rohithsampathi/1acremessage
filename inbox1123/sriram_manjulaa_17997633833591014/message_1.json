@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "sriram_manjulaa"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709785321368,
+      "content": "May I know what you are looking for? I'll connect accordingly.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "sriram_manjulaa",
+      "timestamp_ms": 1709782636098,
+      "content": "Office location",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "sriram_manjulaa",
+      "timestamp_ms": 1709782594557,
+      "content": "sriram_manjulaa sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C4MdRj3S2wH/?id=3318155775553793031_47651711013",
+        "share_text": "\u00f0\u009f\u008c\u00be Welcome to 1acre.in! If you\u00e2\u0080\u0099re on the hunt for agricultural land in Telangana, verifying its authenticity is crucial. Here\u00e2\u0080\u0099s how you can do it yourself:\n\n1. Request the Pattadar passbook for the land you\u00e2\u0080\u0099re interested in. This document contains vital details like district, mandal, village, and survey number.\n\n2. Head over to the Dharani portal and enter these details, including the sub-survey number. This will allow you to cross-check if the land is listed on the portal and if there are any disputes or prohibitions associated with it.\n\n3. Double-check the survey number and location by comparing them with cadastral maps on the Dharani portal. Ensure they align with the claimed land location.\n\nThis quick process takes just five minutes and can help identify 90% of potential issues. Once you\u00e2\u0080\u0099ve completed these initial verifications, you can then enlist the help of a lawyer to scrutinize additional documents for added assurance before making your purchase. \u00f0\u009f\u008c\u00bf\u00f0\u009f\u0092\u00bc #LandVerification #DharaniPortal #TelanganaAgriculture #1acreTips \u00f0\u009f\u009a\u009c",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "sriram_manjulaa",
+  "is_still_participant": true,
+  "thread_path": "inbox/sriram_manjulaa_17997633833591014",
+  "magic_words": [
+    
+  ]
+}

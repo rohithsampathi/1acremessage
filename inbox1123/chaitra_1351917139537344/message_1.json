@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Chaitra"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Chaitra",
+      "timestamp_ms": 1710244160243,
+      "content": "Okay thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710243854058,
+      "content": "No. We are a listing platform for buying and selling of verified lands.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chaitra",
+      "timestamp_ms": 1710241053387,
+      "content": "Empty land like 3360 sqft",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chaitra",
+      "timestamp_ms": 1710241040623,
+      "content": "Hi do you also take land for rental",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Chaitra",
+  "is_still_participant": true,
+  "thread_path": "inbox/chaitra_1351917139537344",
+  "magic_words": [
+    
+  ]
+}

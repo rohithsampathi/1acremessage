@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Soul Maker's \u00f0\u009f\u0093\u00b8"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715581911230,
+      "content": "1acre.in\nPlease check out the website.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "1acre.in\nPlease check out the website."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715581894393,
+      "content": "Hi, Thanks for reaching out. We are a listing platform for verified lands in Telangana.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Soul Maker's \u00f0\u009f\u0093\u00b8",
+      "timestamp_ms": 1715539713678,
+      "content": "Please update me regarding your venture or location to invest",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Soul Maker's \u00f0\u009f\u0093\u00b8",
+      "timestamp_ms": 1715539686669,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Soul Maker's \u00f0\u009f\u0093\u00b8",
+  "is_still_participant": true,
+  "thread_path": "inbox/soulmakers_18030040688066669",
+  "magic_words": [
+    
+  ]
+}

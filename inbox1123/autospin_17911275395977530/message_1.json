@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "autospin"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721055612527,
+      "content": "1acre.in please check the website.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "1acre.in please check the website."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "autospin",
+      "timestamp_ms": 1721051288854,
+      "content": "Hey I'm interested in buying land sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "autospin",
+  "is_still_participant": true,
+  "thread_path": "inbox/autospin_17911275395977530",
+  "magic_words": [
+    
+  ]
+}

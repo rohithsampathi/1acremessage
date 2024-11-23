@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "TV9 Telugu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728544912437,
+      "content": "We are digitising HMDA lakes with their FTL and buffer zones so people can understand if their lands falls in these zones instantly. \n\nWe believe it helps a lot of people who are currently in distress. See if you can help spread the word about this :) \n\nThanks,\nTeam 1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "We are digitising HMDA lakes with their FTL and buffer zones so people can understand if their lands falls in these zones instantly. \n\nWe believe it helps a lot of people who are currently in distress. See if you can help spread the word about this :) \n\nThanks,\nTeam 1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728544861780,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DA7kPn7SO8R/?id=3475530940783587089_47651711013",
+        "share_text": "\u00f0\u009f\u0094\u0097 Visit www.1acre.in/lakes and find FTL & buffer zones instantly\u00e2\u009a\u00a1\u00ef\u00b8\u008f\n\nIf a required lake is not digitised yet, you can request for it and we will digitise it in priority \u00e2\u008f\u00ab\n\nShare it with friends and family and help them make informed decisions. \n\n#realestate #ftl #bufferzone #hydraa #hyderabad #lakes #hmda",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "TV9 Telugu",
+  "is_still_participant": true,
+  "thread_path": "inbox/tv9telugu_1502317257827337",
+  "magic_words": [
+    
+  ]
+}

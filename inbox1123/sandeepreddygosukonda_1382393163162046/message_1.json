@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Sandeepreddy Gosukonda"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713745959756,
+      "content": "Hi, Please talk to Ratna Kiran \n9390155412\nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sandeepreddy Gosukonda",
+      "timestamp_ms": 1713727107216,
+      "content": "5-6 acres road face bit",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sandeepreddy Gosukonda",
+      "timestamp_ms": 1713727092669,
+      "content": "Need land in Moinabad,sangi,aziznagar for outrate my budget is 7-8cr peracre",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sandeepreddy Gosukonda",
+  "is_still_participant": true,
+  "thread_path": "inbox/sandeepreddygosukonda_1382393163162046",
+  "magic_words": [
+    
+  ]
+}

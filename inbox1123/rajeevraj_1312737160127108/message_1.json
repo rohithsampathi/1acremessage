@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Rajeev Raj"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702870191630,
+      "content": "https://www.1acre.in/verified-lands/hanumakonda/dharmasagar/283, you can copy paste the above link and you can find the all the details .",
+      "share": {
+        "link": "https://www.1acre.in/verified-lands/hanumakonda/dharmasagar/283",
+        "share_text": "https://www.1acre.in/verified-lands/hanumakonda/dharmasagar/283, you can copy paste the above link and you can find the all the details ."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rajeev Raj",
+      "timestamp_ms": 1702867663677,
+      "content": "Where is the location u have put it on reels 8lakhs per acre?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rajeev Raj",
+  "is_still_participant": true,
+  "thread_path": "inbox/rajeevraj_1312737160127108",
+  "magic_words": [
+    
+  ]
+}

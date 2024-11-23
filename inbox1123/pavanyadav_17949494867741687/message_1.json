@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Pavan Yadav"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pavan Yadav",
+      "timestamp_ms": 1705488780214,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705488766112,
+      "content": "Please contact Pratheek 9390674324. He'll arrange a meet.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705488750088,
+      "content": "Sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pavan Yadav",
+      "timestamp_ms": 1705484790336,
+      "content": "I want to meet Ratna Kiran garu \nOnce.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705453428243,
+      "content": "Hello Pavan",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pavan Yadav",
+      "timestamp_ms": 1705425808267,
+      "content": "Hi \n\nThis is Pavan from Shamshabad.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Pavan Yadav",
+  "is_still_participant": true,
+  "thread_path": "inbox/pavanyadav_17949494867741687",
+  "magic_words": [
+    
+  ]
+}

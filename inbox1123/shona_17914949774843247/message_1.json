@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "shona"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702708135798,
+      "content": "Hi, Pratheek  9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "shona",
+      "timestamp_ms": 1702707520685,
+      "content": "Hi can I get ur phone number",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "shona",
+  "is_still_participant": true,
+  "thread_path": "inbox/shona_17914949774843247",
+  "magic_words": [
+    
+  ]
+}

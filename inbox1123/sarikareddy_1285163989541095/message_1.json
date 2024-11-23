@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Sarika Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708401221400,
+      "content": "https://www.1acre.in/subscribe\n\nPlease go through and subscribe (or) click 'talk to us->' at the end of the page and fill in the form. Someone from the team will get back to you, to dicuss on your requirement.",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "https://www.1acre.in/subscribe\n\nPlease go through and subscribe (or) click 'talk to us->' at the end of the page and fill in the form. Someone from the team will get back to you, to dicuss on your requirement."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sarika Reddy",
+      "timestamp_ms": 1708371853039,
+      "content": "Please let me know mire details, thank you so much. Appreciate your help",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sarika Reddy",
+      "timestamp_ms": 1708371835835,
+      "content": "I will be in India for 2 months starting coming Sunday",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sarika Reddy",
+      "timestamp_ms": 1708371818373,
+      "content": "Hello sir, I would like to join in buying the properties",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sarika Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/sarikareddy_1285163989541095",
+  "magic_words": [
+    
+  ]
+}

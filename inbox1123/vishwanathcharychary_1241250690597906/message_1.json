@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Vishwanathchary Chary"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vishwanathchary Chary",
+      "timestamp_ms": 1706156578780,
+      "content": "K",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706156465293,
+      "content": "Hi, Please contact Ramakrishna \n7780122120",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishwanathchary Chary",
+      "timestamp_ms": 1706156428781,
+      "content": "2core 20lakh",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishwanathchary Chary",
+      "timestamp_ms": 1706156396068,
+      "content": "Hi anna near Konda Pochamma Dam 1 acre for sale main road 1bit",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vishwanathchary Chary",
+  "is_still_participant": true,
+  "thread_path": "inbox/vishwanathcharychary_1241250690597906",
+  "magic_words": [
+    
+  ]
+}

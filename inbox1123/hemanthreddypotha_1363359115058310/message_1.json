@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Hemanth Reddy Potha"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Hemanth Reddy Potha",
+      "timestamp_ms": 1711708391272,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711708307419,
+      "content": "Hi, Please contact Ramakrishna \n7780122120, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hemanth Reddy Potha",
+      "timestamp_ms": 1711708199712,
+      "content": "Loyapally... Sagar road.. 20kms from ibrahimpatnam",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711708115581,
+      "content": "Hi, Where's the land located?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hemanth Reddy Potha",
+      "timestamp_ms": 1711705760552,
+      "content": "I have my own 1acre land for sale",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Hemanth Reddy Potha",
+  "is_still_participant": true,
+  "thread_path": "inbox/hemanthreddypotha_1363359115058310",
+  "magic_words": [
+    
+  ]
+}

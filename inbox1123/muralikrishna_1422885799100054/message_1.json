@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Murali Krishna"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Murali Krishna",
+      "timestamp_ms": 1729239647744,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729239164875,
+      "content": "Please contact our team member , Pavan, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Murali Krishna",
+      "timestamp_ms": 1727884177581,
+      "content": "I need lands for Development, do u have any lands",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727867664586,
+      "content": "How can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727867661121,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Murali Krishna",
+      "timestamp_ms": 1727861779825,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Murali Krishna",
+  "is_still_participant": true,
+  "thread_path": "inbox/muralikrishna_1422885799100054",
+  "magic_words": [
+    
+  ]
+}

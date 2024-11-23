@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "lasyanaresh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708064109499,
+      "content": "Please contact Vijay\n9959994737, from the team. He'll help you with the requirement.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708064076216,
+      "content": "Hi, thanks for reaching out.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "lasyanaresh",
+      "timestamp_ms": 1708061710580,
+      "content": "We want half acre land around orr to launch furniture store 9989199992",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3257715394924346413"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "lasyanaresh",
+      "timestamp_ms": 1708061660137,
+      "content": "We want half acre commercial around orr",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3257715394924346413"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "lasyanaresh",
+  "is_still_participant": true,
+  "thread_path": "inbox/lasyanaresh_17850176964143343",
+  "magic_words": [
+    
+  ]
+}

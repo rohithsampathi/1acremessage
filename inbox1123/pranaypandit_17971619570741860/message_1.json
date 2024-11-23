@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Pranay Pandit"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720414858136,
+      "content": "Please do some research.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720414849188,
+      "content": "We are not sure of that yet.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pranay Pandit",
+      "timestamp_ms": 1720414831477,
+      "content": "But I am a Nepalese citizen .\nSo According to law may I",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720414785121,
+      "content": "Good to hear.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pranay Pandit",
+      "timestamp_ms": 1720414497022,
+      "content": "You missed an audio call",
+      "call_duration": 0,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pranay Pandit",
+      "timestamp_ms": 1720414495366,
+      "content": "pranay123672 started an audio call",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pranay Pandit",
+      "timestamp_ms": 1720414479050,
+      "content": "Hi \nI am interested in investing in land.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Pranay Pandit",
+  "is_still_participant": true,
+  "thread_path": "inbox/pranaypandit_17971619570741860",
+  "magic_words": [
+    
+  ]
+}

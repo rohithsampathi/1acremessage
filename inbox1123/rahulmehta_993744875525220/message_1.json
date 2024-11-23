@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "RAHUL MEHTA"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718836338448,
+      "content": "We currently only operate in telangana. \n\nWill keep you posted when we launch in other states",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "RAHUL MEHTA",
+      "timestamp_ms": 1718816458948,
+      "content": "Don't you deal in jharkhand",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "RAHUL MEHTA",
+  "is_still_participant": true,
+  "thread_path": "inbox/rahulmehta_993744875525220",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "vnr2023"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701319235275,
+      "content": "Hi , for more details please visit our website :https://www.1acre.in/, contact:7780122120",
+      "share": {
+        "link": "https://www.1acre.in/",
+        "share_text": "Hi , for more details please visit our website :https://www.1acre.in/, contact:7780122120"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "vnr2023",
+      "timestamp_ms": 1701311541392,
+      "content": "I am looking for 2lakh per acre investment purpose agriculture lands around Hyderabad",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "vnr2023",
+  "is_still_participant": true,
+  "thread_path": "inbox/vnr2023_17893251824933835",
+  "magic_words": [
+    
+  ]
+}

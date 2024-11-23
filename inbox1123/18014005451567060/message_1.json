@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009f\u0091\u0081\u00f0\u009f\u0091\u0081\u00e2\u0080\u008d\u00f0\u009f\u0097\u00a8"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00f0\u009f\u0091\u0081\u00f0\u009f\u0091\u0081\u00e2\u0080\u008d\u00f0\u009f\u0097\u00a8",
+      "timestamp_ms": 1722969358813,
+      "content": "4000 sqft plot?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u0091\u0081\u00f0\u009f\u0091\u0081\u00e2\u0080\u008d\u00f0\u009f\u0097\u00a8",
+      "timestamp_ms": 1722969351099,
+      "content": "How much for a promotion inside banglore",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u0091\u0081\u00f0\u009f\u0091\u0081\u00e2\u0080\u008d\u00f0\u009f\u0097\u00a8",
+      "timestamp_ms": 1722969339695,
+      "content": "Hey",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00f0\u009f\u0091\u0081\u00f0\u009f\u0091\u0081\u00e2\u0080\u008d\u00f0\u009f\u0097\u00a8",
+  "is_still_participant": true,
+  "thread_path": "inbox/18014005451567060",
+  "magic_words": [
+    
+  ]
+}

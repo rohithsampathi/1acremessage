@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Tushar Pol"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tushar Pol",
+      "timestamp_ms": 1731347196363,
+      "content": "Any plot in pune",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Tushar Pol",
+  "is_still_participant": true,
+  "thread_path": "inbox/tusharpol_1589549062443515",
+  "magic_words": [
+    
+  ]
+}

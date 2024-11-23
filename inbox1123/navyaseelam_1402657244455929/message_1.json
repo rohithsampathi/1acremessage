@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Navya Seelam"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723301977065,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Navya Seelam",
+      "timestamp_ms": 1723300508576,
+      "content": "We are interested and want to discuss further",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Navya Seelam",
+      "timestamp_ms": 1723300479755,
+      "content": "Can u share the location?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Navya Seelam",
+      "timestamp_ms": 1723300471284,
+      "content": "https://www.instagram.com/reel/C-fPv3FyPgg/?igsh=MWNzbGtkN3lhY2VnbQ==",
+      "share": {
+        "link": "https://www.instagram.com/reel/C-fPv3FyPgg/?id=3431530700745537568_47651711013",
+        "share_text": "SOLD !",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Navya Seelam",
+  "is_still_participant": true,
+  "thread_path": "inbox/navyaseelam_1402657244455929",
+  "magic_words": [
+    
+  ]
+}

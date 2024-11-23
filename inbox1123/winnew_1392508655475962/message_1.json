@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "Winnew"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Winnew",
+      "timestamp_ms": 1718259530841,
+      "content": "What is the best price ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Winnew",
+      "timestamp_ms": 1718259509102,
+      "content": "Bro actually we have govt assigned land so we want to sell it",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Winnew",
+      "timestamp_ms": 1718258450583,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718257325270,
+      "content": "1acre.in\nPlease check on the website.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Winnew",
+          "timestamp": 1718258450
+        }
+      ],
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "1acre.in\nPlease check on the website."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Winnew",
+      "timestamp_ms": 1718257149429,
+      "content": "Darul, near vikarabad what is the land rate",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Winnew",
+  "is_still_participant": true,
+  "thread_path": "inbox/winnew_1392508655475962",
+  "magic_words": [
+    
+  ]
+}

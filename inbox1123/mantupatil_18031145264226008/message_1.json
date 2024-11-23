@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Mantu Patil"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723383135362,
+      "content": "We are launching Karnataka soon. Follow our account and we'll keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mantu Patil",
+      "timestamp_ms": 1723306485802,
+      "content": "hi \ncan uuh help to sell our land located @ talokote",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mantu Patil",
+  "is_still_participant": true,
+  "thread_path": "inbox/mantupatil_18031145264226008",
+  "magic_words": [
+    
+  ]
+}

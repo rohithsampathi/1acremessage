@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "graphic designer/Artist"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707361168180,
+      "content": "Hi, Please tell",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "graphic designer/Artist",
+      "timestamp_ms": 1707327237364,
+      "content": "Junine",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "graphic designer/Artist",
+  "is_still_participant": true,
+  "thread_path": "inbox/graphicdesignerartist_18007165226514499",
+  "magic_words": [
+    
+  ]
+}

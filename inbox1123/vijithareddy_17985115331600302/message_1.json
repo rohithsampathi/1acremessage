@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Vijitha reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702635664949,
+      "content": "you can connect with pratheek  9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vijitha reddy",
+      "timestamp_ms": 1702618384362,
+      "content": "Hi\nCan u suggest lands near mahabubnagar\nBudget 50 to 60 lakhs\nAround 3 acres",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vijitha reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/vijithareddy_17985115331600302",
+  "magic_words": [
+    
+  ]
+}

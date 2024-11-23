@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Shashank Kalluri"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706855586662,
+      "content": "Hi, sorry. Some server problem. Please try after a while. We are fixing this in 3-4 days, it never occurs again.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shashank Kalluri",
+      "timestamp_ms": 1706853256389,
+      "content": "Unable to open your website",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shashank Kalluri",
+  "is_still_participant": true,
+  "thread_path": "inbox/shashankkalluri_1353896836008475",
+  "magic_words": [
+    
+  ]
+}

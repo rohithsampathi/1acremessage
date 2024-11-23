@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Ankit Kothari"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717660433363,
+      "content": "We currently operate only in Telangana. \n\nWill launch in other states soon and keep you posted \n\nThanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ankit Kothari",
+      "timestamp_ms": 1717659294867,
+      "content": "Any land near Ahmedabad for textile factory",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ankit Kothari",
+  "is_still_participant": true,
+  "thread_path": "inbox/ankitkothari_1298186661568932",
+  "magic_words": [
+    
+  ]
+}

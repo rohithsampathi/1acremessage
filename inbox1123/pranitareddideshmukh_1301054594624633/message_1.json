@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "pranita reddi deshmukh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697004012308,
+      "content": "Please contact (+91 80744 50533) Vijay from 1acre.in for more details.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Please contact (+91 80744 50533) Vijay from 1acre.in for more details."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "pranita reddi deshmukh",
+      "timestamp_ms": 1696944720672,
+      "content": "Bhongir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "pranita reddi deshmukh",
+      "timestamp_ms": 1696944716145,
+      "content": "Any properties in bhuvanghiri",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "pranita reddi deshmukh",
+  "is_still_participant": true,
+  "thread_path": "inbox/pranitareddideshmukh_1301054594624633",
+  "magic_words": [
+    
+  ]
+}

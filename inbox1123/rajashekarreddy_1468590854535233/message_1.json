@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Rajashekar Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723566629267,
+      "content": "Please call our team member Venu at +91 76749 01201\n\nHe shall help you list it and share other details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rajashekar Reddy",
+      "timestamp_ms": 1723562792612,
+      "content": "I want to put my land on your site what is the process...?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rajashekar Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/rajashekarreddy_1468590854535233",
+  "magic_words": [
+    
+  ]
+}

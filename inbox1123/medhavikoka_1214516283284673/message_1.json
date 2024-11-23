@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Medhavi Koka"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1700130937703,
+      "content": "9505778117, he will help you with your enquiries.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Medhavi Koka",
+      "timestamp_ms": 1700129065873,
+      "content": "Hii, can u please share your contact number",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Medhavi Koka",
+  "is_still_participant": true,
+  "thread_path": "inbox/medhavikoka_1214516283284673",
+  "magic_words": [
+    
+  ]
+}

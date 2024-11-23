@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Prashant Khamankar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720240303824,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prashant Khamankar",
+      "timestamp_ms": 1720240272033,
+      "content": "Ph no please",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prashant Khamankar",
+      "timestamp_ms": 1720240267572,
+      "content": "Interested in Yavatmal land",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Prashant Khamankar",
+  "is_still_participant": true,
+  "thread_path": "inbox/prashantkhamankar_1377338177002167",
+  "magic_words": [
+    
+  ]
+}

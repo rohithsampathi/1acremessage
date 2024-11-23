@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Ravi Yadav"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721799949357,
+      "content": "Hi, Please contact Srikar\n8341149011, from the team. \nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravi Yadav",
+      "timestamp_ms": 1721797249078,
+      "content": "Narsingi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravi Yadav",
+      "timestamp_ms": 1721797242263,
+      "content": "1800 sq. Yards details pl",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ravi Yadav",
+  "is_still_participant": true,
+  "thread_path": "inbox/raviyadav_1341675373887335",
+  "magic_words": [
+    
+  ]
+}

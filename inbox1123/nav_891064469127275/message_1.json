@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "nav"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701858567062,
+      "content": "Sure,our team will connect on Saturday",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "nav",
+      "timestamp_ms": 1701857871448,
+      "content": "9618193461 \nOnly Saturday and Sunday I'm available",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701853520444,
+      "content": "Can we have your contact number our team will connect with you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "nav",
+      "timestamp_ms": 1701851837225,
+      "content": "Sangareddy side what's acre cost",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "nav",
+      "timestamp_ms": 1701851817144,
+      "content": "Want to invest in lands near hyderabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "nav",
+      "timestamp_ms": 1701851801590,
+      "content": "Following your page",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "nav",
+      "timestamp_ms": 1701851794142,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "nav",
+  "is_still_participant": true,
+  "thread_path": "inbox/nav_891064469127275",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Vyshnavi Surya"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718950605912,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718950605148,
+      "content": "Hi, Please contact Vijay 9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vyshnavi Surya",
+      "timestamp_ms": 1718946649691,
+      "content": "Hello could you please share more details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vyshnavi Surya",
+      "timestamp_ms": 1718946648936,
+      "content": "Vyshnavi sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C8ZV7fkSx4e/?id=3393840241521139230_47651711013",
+        "share_text": "3 acres | 65 Lakhs per acre | Ananthagiri Hills | Link in bio \u00f0\u009f\u008c\u009f\n\n- Verified and facilitated by 1acre.in\n- 500 ft road frontage along a 40 ft blacktop road\n- Just 10 km from Vikarabad\n- Surrounded by beautiful views\n\nInterested? Get in touch now! \n\n\u00f0\u009f\u0093\u009e +91 9959994737",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vyshnavi Surya",
+      "timestamp_ms": 1718946583794,
+      "content": "Vyshnavi sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C8ZV7fkSx4e/?id=3393840241521139230_47651711013",
+        "share_text": "3 acres | 65 Lakhs per acre | Ananthagiri Hills | Link in bio \u00f0\u009f\u008c\u009f\n\n- Verified and facilitated by 1acre.in\n- 500 ft road frontage along a 40 ft blacktop road\n- Just 10 km from Vikarabad\n- Surrounded by beautiful views\n\nInterested? Get in touch now! \n\n\u00f0\u009f\u0093\u009e +91 9959994737",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vyshnavi Surya",
+  "is_still_participant": true,
+  "thread_path": "inbox/vyshnavisurya_1444853413578442",
+  "magic_words": [
+    
+  ]
+}

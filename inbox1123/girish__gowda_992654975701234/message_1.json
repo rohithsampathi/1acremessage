@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Girish__Gowda"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Girish__Gowda",
+      "timestamp_ms": 1720236285392,
+      "content": "Thanks \u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Girish__Gowda",
+      "timestamp_ms": 1720236282325,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720236276938,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412\nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720236265301,
+      "content": "Might be possible.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Girish__Gowda",
+      "timestamp_ms": 1720236240262,
+      "content": "I need 100+ acre as a single plot",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Girish__Gowda",
+      "timestamp_ms": 1720236203685,
+      "content": "Intrested",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3405429436274227402"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Girish__Gowda",
+  "is_still_participant": true,
+  "thread_path": "inbox/girish__gowda_992654975701234",
+  "magic_words": [
+    
+  ]
+}

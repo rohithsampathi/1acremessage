@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Genevieve"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701489678150,
+      "content": "Hy mam, we have lands in Aushapur, you can connect to our relationship manager PRATHEEK,9505778117,",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Genevieve",
+      "timestamp_ms": 1701453235586,
+      "content": "Hello. What about Aushapur",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Genevieve",
+  "is_still_participant": true,
+  "thread_path": "inbox/genevieve_1206719164048774",
+  "magic_words": [
+    
+  ]
+}

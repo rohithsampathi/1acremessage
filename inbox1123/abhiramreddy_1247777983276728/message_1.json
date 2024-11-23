@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Abhiram Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Abhiram Reddy",
+      "timestamp_ms": 1707637947728,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707584507392,
+      "content": "Please contact Vijay\n9959994737, from the team. He'll give you the necessary details. Thanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707584476135,
+      "content": "Hi, sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhiram Reddy",
+      "timestamp_ms": 1707579606835,
+      "content": "Hi, interested in the velimela 850sqyrd plot. Can you share details and a mode of contact to take the discussion forward.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Abhiram Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/abhiramreddy_1247777983276728",
+  "magic_words": [
+    
+  ]
+}

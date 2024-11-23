@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Kamakshi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710762383002,
+      "content": "Plz call the number given in the video",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kamakshi",
+      "timestamp_ms": 1710761599049,
+      "content": "I'm interested",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kamakshi",
+      "timestamp_ms": 1710761589014,
+      "content": "Kamakshi sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C4i6bwFSdhZ/?id=3324476468704696409_47651711013",
+        "share_text": "9032114737\n\nPlease call Bharath, from the team.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kamakshi",
+  "is_still_participant": true,
+  "thread_path": "inbox/kamakshi_18018400013481569",
+  "magic_words": [
+    
+  ]
+}

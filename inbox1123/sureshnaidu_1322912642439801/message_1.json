@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Suresh Naidu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Suresh Naidu",
+      "timestamp_ms": 1705384826506,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705383443447,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Suresh Naidu",
+          "timestamp": 1705384826
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Suresh Naidu",
+      "timestamp_ms": 1705382791971,
+      "content": "Need some assistance for the property purchase",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Suresh Naidu",
+      "timestamp_ms": 1705382777943,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Suresh Naidu",
+  "is_still_participant": true,
+  "thread_path": "inbox/sureshnaidu_1322912642439801",
+  "magic_words": [
+    
+  ]
+}

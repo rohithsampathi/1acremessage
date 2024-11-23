@@ -1,0 +1,88 @@
+{
+  "participants": [
+    {
+      "name": "Mallikarjun Police patil"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717815274024,
+      "content": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mallikarjun Police patil",
+      "timestamp_ms": 1717812064275,
+      "content": "Reply",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mallikarjun Police patil",
+      "timestamp_ms": 1717781054478,
+      "content": "4 acer kere ede",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mallikarjun Police patil",
+      "timestamp_ms": 1717781040701,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mallikarjun Police patil",
+      "timestamp_ms": 1717779184644,
+      "content": "Sindhanur",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mallikarjun Police patil",
+      "timestamp_ms": 1717779180419,
+      "content": "R H. No 4 Bengali road",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mallikarjun Police patil",
+      "timestamp_ms": 1717779164198,
+      "content": "Near sindhanur",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717779141894,
+      "content": "Where?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mallikarjun Police patil",
+      "timestamp_ms": 1717779053978,
+      "content": "30 acer,s",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mallikarjun Police patil",
+      "timestamp_ms": 1717779016153,
+      "content": "One place selling",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mallikarjun Police patil",
+      "timestamp_ms": 1717779000192,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mallikarjun Police patil",
+  "is_still_participant": true,
+  "thread_path": "inbox/mallikarjunpolicepatil_18008303342591014",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "MS Khan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "MS Khan",
+      "timestamp_ms": 1705475971833,
+      "content": "Thank. If you have any better options please let me know",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705475881772,
+      "content": "Sure. We'll let you know if anything comes to us in that budget.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "MS Khan",
+      "timestamp_ms": 1705474118229,
+      "content": "Please let me know if you have any such options available",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "MS Khan",
+      "timestamp_ms": 1705474107115,
+      "content": "Hello\nI am looking 1000 Sq yards to 1 acre in Moinabad or surrounding areas my budget is 15 L",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "MS Khan",
+  "is_still_participant": true,
+  "thread_path": "inbox/mskhan_1348449489883401",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "amit.goyal0003"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718957992502,
+      "content": "1acre.in\n\nPlease check the website.\nYou can call the sellers directly.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "1acre.in\n\nPlease check the website.\nYou can call the sellers directly."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "amit.goyal0003",
+      "timestamp_ms": 1718956822062,
+      "content": "?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "amit.goyal0003",
+      "timestamp_ms": 1718451383028,
+      "content": "Hi..  I'm looking 1 acre land and my budget is 10 lakh",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "amit.goyal0003",
+  "is_still_participant": true,
+  "thread_path": "inbox/amitgoyal0003_17984486201678458",
+  "magic_words": [
+    
+  ]
+}

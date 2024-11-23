@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Vishal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726315196639,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishal",
+      "timestamp_ms": 1726306100984,
+      "content": "Interested in 1000sqyds near Chilkur temple, send me owner details",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vishal",
+  "is_still_participant": true,
+  "thread_path": "inbox/vishal_1486597719408539",
+  "magic_words": [
+    
+  ]
+}

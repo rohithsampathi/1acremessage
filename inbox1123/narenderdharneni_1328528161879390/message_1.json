@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Narender Dharneni"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724914837476,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Narender Dharneni",
+      "timestamp_ms": 1724909632409,
+      "content": "Hello im looking to sell a home in kukatpally and need your help let me know the process and fee for posting an ad on ur website",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Narender Dharneni",
+      "timestamp_ms": 1704309941693,
+      "content": "Hello which location is your recent post related to",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Narender Dharneni",
+  "is_still_participant": true,
+  "thread_path": "inbox/narenderdharneni_1328528161879390",
+  "magic_words": [
+    
+  ]
+}

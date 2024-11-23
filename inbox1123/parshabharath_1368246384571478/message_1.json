@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Parsha Bharath"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712461372458,
+      "content": "He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712461322177,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Parsha Bharath",
+      "timestamp_ms": 1712459715594,
+      "content": "Can you please tell us 1 acre  before shamirpet while coming to Hyderabad from karimnagar",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Parsha Bharath",
+  "is_still_participant": true,
+  "thread_path": "inbox/parshabharath_1368246384571478",
+  "magic_words": [
+    
+  ]
+}

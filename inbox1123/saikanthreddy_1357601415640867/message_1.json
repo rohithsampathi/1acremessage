@@ -1,0 +1,63 @@
+{
+  "participants": [
+    {
+      "name": "Saikanth Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Saikanth Reddy",
+      "timestamp_ms": 1709311304525,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709311238398,
+      "content": "Pl, talk to him.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Saikanth Reddy",
+      "timestamp_ms": 1709310224600,
+      "content": "I have some deals",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Saikanth Reddy",
+      "timestamp_ms": 1709310220470,
+      "content": "Around 50-70 lakh",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Saikanth Reddy",
+      "timestamp_ms": 1709310208966,
+      "content": "If anyone need lands",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709310193710,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Saikanth Reddy",
+      "timestamp_ms": 1709309484101,
+      "content": "Bro nen 50-60 lakhs around lo ill try to manage",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3251801253210556633"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Saikanth Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/saikanthreddy_1357601415640867",
+  "magic_words": [
+    
+  ]
+}

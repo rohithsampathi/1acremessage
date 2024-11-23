@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Kaushik Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719370607246,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719370605941,
+      "content": "Please contact Vijay\n9959994737, from the team. I'll give him context. \nWe can explore what else can be done along with listing it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719370521301,
+      "content": "Please check 1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Please check 1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719370513723,
+      "content": "We can list them on the website.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719370499216,
+      "content": "We are a listing platform for verified lands and plots.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719370482098,
+      "content": "Hello, thanks for reaching out.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kaushik Reddy",
+      "timestamp_ms": 1719353634255,
+      "content": "Hi ,I own hmda plots(7 of them)  at chevella, the venture is next to the highway itself.Can you help me sell them? Or do you  deal  only with agri lands? Kindly reply!!\nThanks in advance.",
+      "share": {
+        "share_text": "Hi ,I own hmda plots(7 of them)  at chevella, the venture is next to the highway itself.Can you help me sell them? Or do you  deal  only with agri lands? Kindly reply!!\nThanks in advance."
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kaushik Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/kaushikreddy_1371566947579927",
+  "magic_words": [
+    
+  ]
+}

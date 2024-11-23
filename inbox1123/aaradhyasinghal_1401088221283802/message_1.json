@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Aaradhya Singhal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720221158833,
+      "content": "aaradhyasinghal wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720221158275,
+      "content": "May we know what you are looking for ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aaradhya Singhal",
+      "timestamp_ms": 1720213968706,
+      "content": "Contact me",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Aaradhya Singhal",
+  "is_still_participant": true,
+  "thread_path": "inbox/aaradhyasinghal_1401088221283802",
+  "magic_words": [
+    
+  ]
+}

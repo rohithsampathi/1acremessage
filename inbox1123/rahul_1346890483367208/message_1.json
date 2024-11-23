@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Rahul"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715405337661,
+      "content": "Hi, Please talk to Vijay\n9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rahul",
+      "timestamp_ms": 1715404808468,
+      "content": "Preferably that has scope for commercial growth",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rahul",
+      "timestamp_ms": 1715404792809,
+      "content": "Hi, I\u00e2\u0080\u0099m looking for a plot around 50 lac budget",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rahul",
+  "is_still_participant": true,
+  "thread_path": "inbox/rahul_1346890483367208",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Deshmukh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720098015720,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Deshmukh",
+      "timestamp_ms": 1720097812498,
+      "content": "If it good for plotting, we can surely take a good speed",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720097729896,
+      "content": "Ok. We'll get back you on how we can collaborate.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Deshmukh",
+      "timestamp_ms": 1720095419621,
+      "content": "If there is good deal then we have our investors in different cities too",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Deshmukh",
+      "timestamp_ms": 1720095341228,
+      "content": "We operate in Pune, Akola, Wardha, Nagpur, Yavatmal, Nashik",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720095294862,
+      "content": "What areas do you operate in?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720095255487,
+      "content": "Hi, Thanks for getting in touch.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Deshmukh",
+      "timestamp_ms": 1720094887311,
+      "content": "Hello,\n\nMyself Mandar Deshmukh, I just saw your reel of yavatmal 40 acres. My family is in real estate advisory since 2001 and we have work with top developers of India in Land Acquisition.\n\nI look forward to connecting and discussing how we can work together \n\nRegards,\nMandar Deshmukh \nVP - Land & Investment Advisory\nShashwati Consultancy \n9067859295",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Deshmukh",
+  "is_still_participant": true,
+  "thread_path": "inbox/deshmukh_1422740345785266",
+  "magic_words": [
+    
+  ]
+}

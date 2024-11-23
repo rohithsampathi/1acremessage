@@ -1,0 +1,98 @@
+{
+  "participants": [
+    {
+      "name": "Gautham Bv"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gautham Bv",
+      "timestamp_ms": 1709092625120,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709057068673,
+      "content": "Sure",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Gautham Bv",
+          "timestamp": 1709092625
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gautham Bv",
+      "timestamp_ms": 1709056215206,
+      "content": "I can help you out",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gautham Bv",
+      "timestamp_ms": 1709056204032,
+      "content": "You can contact me for business setup in bangalore",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gautham Bv",
+      "timestamp_ms": 1709056171122,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709046489373,
+      "content": "Hey, sure. We will be launching karnataka/Bangalore soon. We will collaborate.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Gautham Bv",
+          "timestamp": 1709056171
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gautham Bv",
+      "timestamp_ms": 1708593311975,
+      "content": "I am into realestate from past 20 years",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gautham Bv",
+      "timestamp_ms": 1708593284924,
+      "content": "I am from bangalore",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708593252717,
+      "content": "Sure. How would you want to collaborate.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gautham Bv",
+      "timestamp_ms": 1708593182684,
+      "content": "I can work as channel patner with you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gautham Bv",
+      "timestamp_ms": 1708593154135,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Gautham Bv",
+  "is_still_participant": true,
+  "thread_path": "inbox/gauthambv_1327464485313624",
+  "magic_words": [
+    
+  ]
+}

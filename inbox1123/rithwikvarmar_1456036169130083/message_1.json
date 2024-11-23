@@ -1,0 +1,70 @@
+{
+  "participants": [
+    {
+      "name": "R\u00cc\u008cIT\u00cc\u008cHWI\u00cc\u0088K\u00cc\u00a7 V\u00c3\u0080RM\u00c3\u0081\u00c2\u00ae\u00e2\u009c\u00a8\u00f0\u009f\u0092\u00ab"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "R\u00cc\u008cIT\u00cc\u008cHWI\u00cc\u0088K\u00cc\u00a7 V\u00c3\u0080RM\u00c3\u0081\u00c2\u00ae\u00e2\u009c\u00a8\u00f0\u009f\u0092\u00ab",
+      "timestamp_ms": 1720437350634,
+      "content": "Okay thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720430109406,
+      "content": "We are doing closer to city and also not layouts.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "R\u00cc\u008cIT\u00cc\u008cHWI\u00cc\u0088K\u00cc\u00a7 V\u00c3\u0080RM\u00c3\u0081\u00c2\u00ae\u00e2\u009c\u00a8\u00f0\u009f\u0092\u00ab",
+      "timestamp_ms": 1720427398654,
+      "content": "Please reply",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "R\u00cc\u008cIT\u00cc\u008cHWI\u00cc\u0088K\u00cc\u00a7 V\u00c3\u0080RM\u00c3\u0081\u00c2\u00ae\u00e2\u009c\u00a8\u00f0\u009f\u0092\u00ab",
+      "timestamp_ms": 1720426085595,
+      "content": "Will they come and shoot if I buy premium",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "R\u00cc\u008cIT\u00cc\u008cHWI\u00cc\u0088K\u00cc\u00a7 V\u00c3\u0080RM\u00c3\u0081\u00c2\u00ae\u00e2\u009c\u00a8\u00f0\u009f\u0092\u00ab",
+      "timestamp_ms": 1720425798032,
+      "content": "My location is Warangal",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "R\u00cc\u008cIT\u00cc\u008cHWI\u00cc\u0088K\u00cc\u00a7 V\u00c3\u0080RM\u00c3\u0081\u00c2\u00ae\u00e2\u009c\u00a8\u00f0\u009f\u0092\u00ab",
+      "timestamp_ms": 1720425740057,
+      "content": "Will you do open layout plots",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720425114116,
+      "content": "1acre.in is a listing platform.\nPlease check the website.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "1acre.in is a listing platform.\nPlease check the website."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "R\u00cc\u008cIT\u00cc\u008cHWI\u00cc\u0088K\u00cc\u00a7 V\u00c3\u0080RM\u00c3\u0081\u00c2\u00ae\u00e2\u009c\u00a8\u00f0\u009f\u0092\u00ab",
+      "timestamp_ms": 1720422827877,
+      "content": "Hello sir how to promote in your platform?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "R\u00cc\u008cIT\u00cc\u008cHWI\u00cc\u0088K\u00cc\u00a7 V\u00c3\u0080RM\u00c3\u0081\u00c2\u00ae\u00e2\u009c\u00a8\u00f0\u009f\u0092\u00ab",
+  "is_still_participant": true,
+  "thread_path": "inbox/rithwikvarmar_1456036169130083",
+  "magic_words": [
+    
+  ]
+}

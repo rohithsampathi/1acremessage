@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Ali Hassan Mirza"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704299253441,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ali Hassan Mirza",
+      "timestamp_ms": 1704295537482,
+      "content": "I'm interested in lands in vikarabad, Chevella and surrounding areas",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ali Hassan Mirza",
+  "is_still_participant": true,
+  "thread_path": "inbox/alihassanmirza_1200157651389190",
+  "magic_words": [
+    
+  ]
+}

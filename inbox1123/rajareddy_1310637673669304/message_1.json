@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Raja Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701408137056,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raja Reddy",
+      "timestamp_ms": 1701403099014,
+      "content": "Hi Sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Raja Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/rajareddy_1310637673669304",
+  "magic_words": [
+    
+  ]
+}

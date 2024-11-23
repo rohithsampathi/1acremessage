@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Lohi Uppalapati"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720146877785,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lohi Uppalapati",
+      "timestamp_ms": 1720112681641,
+      "content": "Hi Team, Please share details about 40 Acres land near Yavatmal posted by you. It\u00e2\u0080\u0099s 7 Lakh per acre.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Lohi Uppalapati",
+  "is_still_participant": true,
+  "thread_path": "inbox/lohiuppalapati_1427681431958827",
+  "magic_words": [
+    
+  ]
+}

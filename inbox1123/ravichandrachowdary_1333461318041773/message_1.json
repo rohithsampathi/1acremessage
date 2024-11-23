@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Ravi Chandra Chowdary"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ravi Chandra Chowdary",
+      "timestamp_ms": 1718376291956,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718285286372,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718285285149,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravi Chandra Chowdary",
+      "timestamp_ms": 1718283339387,
+      "content": "Looking for some property around shamshabad to kothur area",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravi Chandra Chowdary",
+      "timestamp_ms": 1718283299154,
+      "content": "May i have your number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravi Chandra Chowdary",
+      "timestamp_ms": 1718283251488,
+      "content": "Hi Sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ravi Chandra Chowdary",
+  "is_still_participant": true,
+  "thread_path": "inbox/ravichandrachowdary_1333461318041773",
+  "magic_words": [
+    
+  ]
+}

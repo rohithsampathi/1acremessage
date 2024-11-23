@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Abhishek"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Abhishek",
+      "timestamp_ms": 1729860513746,
+      "content": "8766334259",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729846144426,
+      "content": "Share your number and we shall arrange a call back",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhishek",
+      "timestamp_ms": 1729845834223,
+      "content": "I did not received any update from your representative",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729480139674,
+      "content": "You can call pavan after 10am today \nHe will help you with the details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhishek",
+      "timestamp_ms": 1729451103307,
+      "content": "Can ypu help me with this right now?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhishek",
+      "timestamp_ms": 1729451093352,
+      "content": "Only whatsapp?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729447297521,
+      "content": "Please contact our team member ,pavan, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhishek",
+      "timestamp_ms": 1729437754351,
+      "content": "Hello 32 acre land price please",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Abhishek",
+  "is_still_participant": true,
+  "thread_path": "inbox/abhishek_1528697985189646",
+  "magic_words": [
+    
+  ]
+}

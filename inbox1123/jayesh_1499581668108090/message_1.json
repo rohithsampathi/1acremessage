@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "JAYESH"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724255026242,
+      "content": "Sure \nOur team will get back to you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "JAYESH",
+      "timestamp_ms": 1724252382974,
+      "content": "Hi 1acre team \nThis is Jayesh from Bangalore I actually have an ancestral property in Anantapur town (near Mg petrol , bunk ballary bypass road) i m looking forward to sell it so please do contact me 9886072902",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "JAYESH",
+  "is_still_participant": true,
+  "thread_path": "inbox/jayesh_1499581668108090",
+  "magic_words": [
+    
+  ]
+}

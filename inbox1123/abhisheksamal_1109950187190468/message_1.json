@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Abhishek Samal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Abhishek Samal",
+      "timestamp_ms": 1730942495329,
+      "content": "Free de",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Abhishek Samal",
+  "is_still_participant": true,
+  "thread_path": "inbox/abhisheksamal_1109950187190468",
+  "magic_words": [
+    
+  ]
+}

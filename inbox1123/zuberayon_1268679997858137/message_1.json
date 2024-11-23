@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Zuber Ayon"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706117711972,
+      "content": "zuber_ayon wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706117711450,
+      "content": "https://www.1acre.in/subscribe\n\nPlease go through and subscribe or click 'talk to us->' at the end of the page and fill in the form. We'll get back to you.",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "https://www.1acre.in/subscribe\n\nPlease go through and subscribe or click 'talk to us->' at the end of the page and fill in the form. We'll get back to you."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Zuber Ayon",
+      "timestamp_ms": 1706117516395,
+      "content": "93989 66792",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Zuber Ayon",
+      "timestamp_ms": 1706117508628,
+      "content": "Or else do a call i want a land....",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Zuber Ayon",
+      "timestamp_ms": 1706117466382,
+      "content": "??",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Zuber Ayon",
+      "timestamp_ms": 1706117464467,
+      "content": "Contact number please",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Zuber Ayon",
+      "timestamp_ms": 1706117455400,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Zuber Ayon",
+  "is_still_participant": true,
+  "thread_path": "inbox/zuberayon_1268679997858137",
+  "magic_words": [
+    
+  ]
+}

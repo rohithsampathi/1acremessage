@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Ruman Ruman"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730895409300,
+      "content": "Hello,\nHow may i assist you?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ruman Ruman",
+      "timestamp_ms": 1730895219151,
+      "content": "Hio",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ruman Ruman",
+  "is_still_participant": true,
+  "thread_path": "inbox/rumanruman_18044894246272221",
+  "magic_words": [
+    
+  ]
+}

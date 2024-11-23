@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Meet patel"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717684385607,
+      "content": "Hi l, currently we are listing only in Telangana. \nSoon, we'll start lisitings in other states.\nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Meet patel",
+      "timestamp_ms": 1717669736222,
+      "content": "How to download Gujarat all Village survey number",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Meet patel",
+  "is_still_participant": true,
+  "thread_path": "inbox/meetpatel_1008290554148686",
+  "magic_words": [
+    
+  ]
+}

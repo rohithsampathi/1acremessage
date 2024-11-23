@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "@NIL Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "@NIL Reddy",
+      "timestamp_ms": 1723985637491,
+      "content": "Thank you for the quick response",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723981476380,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723981467723,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "@NIL Reddy",
+      "timestamp_ms": 1723980359379,
+      "content": "Do u still have the 225 sq yard plot in the proposed boutique villa community?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "@NIL Reddy",
+      "timestamp_ms": 1723980330863,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "@NIL Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/nilreddy_1470602244333563",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Pravin Dara"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pravin Dara",
+      "timestamp_ms": 1707658372035,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707655212726,
+      "content": "Hi, he'll call back tomorrow.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pravin Dara",
+      "timestamp_ms": 1707654032095,
+      "content": "Calls not answering on the given number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pravin Dara",
+      "timestamp_ms": 1707632459096,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707631933402,
+      "content": "Hi, sure. Please contact Vijay\n9959994737 from the team. \nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pravin Dara",
+      "timestamp_ms": 1707630369638,
+      "content": "Hi, I have an 152 yards North facing plot for sale, 40 ft road, Silent Avenue, Dammaiguda",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Pravin Dara",
+  "is_still_participant": true,
+  "thread_path": "inbox/pravindara_1321661299225772",
+  "magic_words": [
+    
+  ]
+}

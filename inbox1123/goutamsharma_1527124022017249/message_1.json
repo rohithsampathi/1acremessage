@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Goutam sharma"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Goutam sharma",
+      "timestamp_ms": 1727158719930,
+      "content": "Agricultural land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Goutam sharma",
+      "timestamp_ms": 1727158709311,
+      "content": "?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Goutam sharma",
+      "timestamp_ms": 1727158706955,
+      "content": "Of around 2 cr",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Goutam sharma",
+      "timestamp_ms": 1727158700821,
+      "content": "Of a land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Goutam sharma",
+      "timestamp_ms": 1727158692729,
+      "content": "Do you have any portfolio?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Goutam sharma",
+      "timestamp_ms": 1727154510795,
+      "content": "9596690844",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727154500122,
+      "content": "Hi Mr Goutam, \nThis is Srikar from the team.\nKindly share your mobile number and I will get back to you shortly.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Goutam sharma",
+      "timestamp_ms": 1727111892913,
+      "content": "In telangana",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Goutam sharma",
+      "timestamp_ms": 1727111885086,
+      "content": "I am interested in buying property",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Goutam sharma",
+      "timestamp_ms": 1727111874617,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Goutam sharma",
+  "is_still_participant": true,
+  "thread_path": "inbox/goutamsharma_1527124022017249",
+  "magic_words": [
+    
+  ]
+}

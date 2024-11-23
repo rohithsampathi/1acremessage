@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Ahmed"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ahmed",
+      "timestamp_ms": 1721992116805,
+      "content": "Hello\nI\u00e2\u0080\u0099m looking for 1acre lands near Hyderabad in less than 1cr budget please share",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ahmed",
+  "is_still_participant": true,
+  "thread_path": "inbox/ahmed_1450559256344252",
+  "magic_words": [
+    
+  ]
+}

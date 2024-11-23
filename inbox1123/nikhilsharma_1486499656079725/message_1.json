@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Nikhil Sharma"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720176303303,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nikhil Sharma",
+      "timestamp_ms": 1720175844964,
+      "content": "Hi, I'm looking for 1-2 acres of land up to 25 Lakh to 30 lakh in chikabalapura district, mainly gudibande around near the highway, let me know if you have anything. Thanks",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nikhil Sharma",
+  "is_still_participant": true,
+  "thread_path": "inbox/nikhilsharma_1486499656079725",
+  "magic_words": [
+    
+  ]
+}

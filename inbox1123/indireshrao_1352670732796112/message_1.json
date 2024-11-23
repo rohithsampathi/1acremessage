@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Indiresh Rao"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Indiresh Rao",
+      "timestamp_ms": 1710926541626,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710926274255,
+      "content": "Sure. We'll get back.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Indiresh Rao",
+          "timestamp": 1710926541
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Indiresh Rao",
+      "timestamp_ms": 1710923189128,
+      "content": "Sure thank you. \nI own a good land at the airport. Would be glad if you put me in touch with anyone who\u00e2\u0080\u0099s planning a purchase. Thank you for reverting at such short notice.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710923130615,
+      "content": "Hi, we are not currently operational in Bangalore. We'll let you know if we come across such requirement.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Indiresh Rao",
+      "timestamp_ms": 1710922394667,
+      "content": "Hie are you guys planning to aquire land near banglore airport ? Do call me \n9902500589.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Indiresh Rao",
+  "is_still_participant": true,
+  "thread_path": "inbox/indireshrao_1352670732796112",
+  "magic_words": [
+    
+  ]
+}

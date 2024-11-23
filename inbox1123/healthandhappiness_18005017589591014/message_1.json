@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "HEALTH AND HAPPINESS\u00f0\u009f\u0092\u00ab"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "HEALTH AND HAPPINESS\u00f0\u009f\u0092\u00ab",
+      "timestamp_ms": 1715415342158,
+      "content": "Iam a freelancer n a content writer n expert in facebook ads",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715384966482,
+      "content": "Hi, may I know what you are referring to?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "HEALTH AND HAPPINESS\u00f0\u009f\u0092\u00ab",
+      "timestamp_ms": 1715364253848,
+      "content": "Hello, can I get more info on this?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "HEALTH AND HAPPINESS\u00f0\u009f\u0092\u00ab",
+  "is_still_participant": true,
+  "thread_path": "inbox/healthandhappiness_18005017589591014",
+  "magic_words": [
+    
+  ]
+}

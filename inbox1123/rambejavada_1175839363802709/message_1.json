@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Ram Bejavada"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703661051092,
+      "content": "You can contact to seller directly for more details (8978095933)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ram Bejavada",
+      "timestamp_ms": 1703659563354,
+      "content": "Send me details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ram Bejavada",
+      "timestamp_ms": 1703659551416,
+      "content": "Ram sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C0ifEzkLQ58/",
+        "share_text": "Investment size : 24 lakhs\nLand size : 1 Acre\nLocation : Sangareddy , Nagalgidda, Errakipalle Village\n\nCopy Link :https://www.1acre.in/verified-lands/sangareddy/nagalgidda/1282\n(or)\nclick the link in bio\n\nYou can copy the above link to view the listing and contact the seller directly.\nVerified by 1acre.in\n\nFollow @1acre.in to receive instant notification of all verified lands in Telangana between 5 lakh to 45 lakhs in investment size.\n\nTag your friends or share this post, if you believe they might benefit from this information!\n\n1acre.in - Buy verified agricultural lands around Hyderabad (Telangana)\n\n#agriculturelands #landforsale #telangana #hyderabad #kumurambheem #farmland #1acre",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ram Bejavada",
+  "is_still_participant": true,
+  "thread_path": "inbox/rambejavada_1175839363802709",
+  "magic_words": [
+    
+  ]
+}

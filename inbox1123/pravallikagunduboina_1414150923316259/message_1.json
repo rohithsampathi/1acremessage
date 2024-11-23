@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Pravallika Gunduboina"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pravallika Gunduboina",
+      "timestamp_ms": 1716254006666,
+      "content": "Ok thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716253989296,
+      "content": "Plz go thru the website and browse through all listings. If you like any land, you can contact the seller directly.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716253937750,
+      "content": "Hi, we are a listing platform of verified lands in Telangana. \nAs such, we don't advise on investments, excepts for lands we facilitate.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pravallika Gunduboina",
+      "timestamp_ms": 1716253872459,
+      "content": "Looking to invest 30 lakhs \nCan you please suggest",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716252339935,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pravallika Gunduboina",
+      "timestamp_ms": 1716228305363,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Pravallika Gunduboina",
+  "is_still_participant": true,
+  "thread_path": "inbox/pravallikagunduboina_1414150923316259",
+  "magic_words": [
+    
+  ]
+}

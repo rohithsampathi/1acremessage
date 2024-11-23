@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "AV & Associates"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "AV & Associates",
+      "timestamp_ms": 1723659707684,
+      "content": "AV sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C-qPNgaymBP/?id=3434624564683497551_63867502059",
+        "share_text": "",
+        "original_content_owner": "av_and_associates"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "AV & Associates",
+  "is_still_participant": true,
+  "thread_path": "inbox/avassociates_17875100238134060",
+  "magic_words": [
+    
+  ]
+}

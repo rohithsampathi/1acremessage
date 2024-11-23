@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Spacelink Properties"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719191406355,
+      "content": "Ratna Kiran \n9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Spacelink Properties",
+      "timestamp_ms": 1719163303323,
+      "content": "Hi \nCan you share your contact information",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Spacelink Properties",
+  "is_still_participant": true,
+  "thread_path": "inbox/spacelinkproperties_18010226252591014",
+  "magic_words": [
+    
+  ]
+}

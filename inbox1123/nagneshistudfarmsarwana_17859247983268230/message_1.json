@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Nagneshi Stud Farm Sarwana"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729751620405,
+      "content": "Not yet \nWe will launch soon in rajasthan and keep you updated",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nagneshi Stud Farm Sarwana",
+      "timestamp_ms": 1729696334049,
+      "content": "Hi \nAny land available in Jawai area (Rajasthan)",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nagneshi Stud Farm Sarwana",
+  "is_still_participant": true,
+  "thread_path": "inbox/nagneshistudfarmsarwana_17859247983268230",
+  "magic_words": [
+    
+  ]
+}

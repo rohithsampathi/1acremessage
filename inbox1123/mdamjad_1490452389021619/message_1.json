@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "MD AMJAD"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721666702878,
+      "content": "Could you tell us, \nLocation, extent and price?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "MD AMJAD",
+      "timestamp_ms": 1721665607168,
+      "content": "I want to sell my land what's the process",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721655258908,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "MD AMJAD",
+      "timestamp_ms": 1721654738097,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "MD AMJAD",
+  "is_still_participant": true,
+  "thread_path": "inbox/mdamjad_1490452389021619",
+  "magic_words": [
+    
+  ]
+}

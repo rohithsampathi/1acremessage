@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009d\u0092\u009c\u00f0\u009d\u0092\u00b6\u00f0\u009d\u0093\u0082\u00f0\u009d\u0092\u00be\u00f0\u009d\u0093\u0087 \u00f0\u009d\u0093\u0082\u00f0\u009d\u0092\u00b6\u00f0\u009d\u0093\u0081\u00f0\u009d\u0092\u00be\u00f0\u009d\u0093\u0080"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721368523480,
+      "content": "1acre.in/subscribe  Please explore.\n\nYou can call the sellers directly.",
+      "share": {
+        "link": "http://1acre.in/subscribe",
+        "share_text": "1acre.in/subscribe  Please explore.\n\nYou can call the sellers directly."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0092\u009c\u00f0\u009d\u0092\u00b6\u00f0\u009d\u0093\u0082\u00f0\u009d\u0092\u00be\u00f0\u009d\u0093\u0087 \u00f0\u009d\u0093\u0082\u00f0\u009d\u0092\u00b6\u00f0\u009d\u0093\u0081\u00f0\u009d\u0092\u00be\u00f0\u009d\u0093\u0080",
+      "timestamp_ms": 1721368489139,
+      "content": "I want land in shadnagar",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0092\u009c\u00f0\u009d\u0092\u00b6\u00f0\u009d\u0093\u0082\u00f0\u009d\u0092\u00be\u00f0\u009d\u0093\u0087 \u00f0\u009d\u0093\u0082\u00f0\u009d\u0092\u00b6\u00f0\u009d\u0093\u0081\u00f0\u009d\u0092\u00be\u00f0\u009d\u0093\u0080",
+      "timestamp_ms": 1721368483023,
+      "content": "Hy",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00f0\u009d\u0092\u009c\u00f0\u009d\u0092\u00b6\u00f0\u009d\u0093\u0082\u00f0\u009d\u0092\u00be\u00f0\u009d\u0093\u0087 \u00f0\u009d\u0093\u0082\u00f0\u009d\u0092\u00b6\u00f0\u009d\u0093\u0081\u00f0\u009d\u0092\u00be\u00f0\u009d\u0093\u0080",
+  "is_still_participant": true,
+  "thread_path": "inbox/aamirmalik_1420271702700631",
+  "magic_words": [
+    
+  ]
+}

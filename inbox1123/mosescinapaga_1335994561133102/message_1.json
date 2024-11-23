@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "M O S E S   C I N A P A G A"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704804546226,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "M O S E S   C I N A P A G A",
+      "timestamp_ms": 1704802090061,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "M O S E S   C I N A P A G A",
+  "is_still_participant": true,
+  "thread_path": "inbox/mosescinapaga_1335994561133102",
+  "magic_words": [
+    
+  ]
+}

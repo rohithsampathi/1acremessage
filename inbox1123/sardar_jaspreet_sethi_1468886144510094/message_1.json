@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "sardar_jaspreet_sethi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717929469806,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "sardar_jaspreet_sethi",
+      "timestamp_ms": 1717929365734,
+      "content": "sardar_jaspreet_sethi sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C76a60_yIkq/?id=3385136461765970218_47651711013",
+        "share_text": "21 acres | \u00e2\u0082\u00b91 Cr/acre | Bibi Nagar | Link in bio \u00f0\u009f\u008c\u009f\n\nTag your friends, if it suits them or if you want to group-buy with them. \n\n- Verified and facilitated by 1acre.in\n- Suitable for plotted development\n- 40\u00e2\u0080\u0099 road access\n- 8km from Bibi Nagar, 23km from the ORR, 6km from Bhongir town\n- Well within the HMDA limits\n\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 9959994737 \n\n#LandInvestment #BibiNagar #RealEstate #hyderabad #PrimeLocation #1acre.in",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "sardar_jaspreet_sethi",
+      "timestamp_ms": 1716138979899,
+      "content": "sardar_jaspreet_sethi sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C7InZjuKaVo/?id=3371117601243112808_47651711013",
+        "share_text": "Further:\n15km away from the Upcoming Nagpur-Goa Shakthipeeth expressway. \nA new railway line between Nagpur and Nanded is underway. \n\n10 Acres - 1.5Cr\n\nThis transaction is facilitated by 1acre.in, till the process of registration. \nIf you are interested in buying, \nContact: 9959994737\n\n#1acre #1acre.in #beauty #landscapephotography",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "sardar_jaspreet_sethi",
+  "is_still_participant": true,
+  "thread_path": "inbox/sardar_jaspreet_sethi_1468886144510094",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "participants": [
+    {
+      "name": "Foxnut Makhana"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Foxnut Makhana",
+      "timestamp_ms": 1726481711755,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726481301348,
+      "content": "We do free listings",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Foxnut Makhana",
+          "timestamp": 1726481711
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Foxnut Makhana",
+      "timestamp_ms": 1726479421432,
+      "content": "how much it cost",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Foxnut Makhana",
+      "timestamp_ms": 1726479411616,
+      "content": "7015703450",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Foxnut Makhana",
+      "timestamp_ms": 1726479185305,
+      "content": "hisar",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726449837203,
+      "content": "Which region in Haryana are you from?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726449813189,
+      "content": "Give us your number. \nWe'll launch Haryana soon and inform you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Foxnut Makhana",
+      "timestamp_ms": 1726379171727,
+      "content": "may i know number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726339053425,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Foxnut Makhana",
+      "timestamp_ms": 1726318479991,
+      "content": "we do colonization, sell purchase houses and plots too",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Foxnut Makhana",
+      "timestamp_ms": 1726318429045,
+      "content": "yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725718477353,
+      "content": "Are you an Agent actively dealing in lands or plots?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725718463265,
+      "content": "Hello Ajay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725718456809,
+      "content": "We are launching soon.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Foxnut Makhana",
+      "timestamp_ms": 1725714661907,
+      "content": "Hello \nmy name is AjayNehra \ndo you also work in Haryana",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Foxnut Makhana",
+  "is_still_participant": true,
+  "thread_path": "inbox/foxnutmakhana_17972589056770416",
+  "magic_words": [
+    
+  ]
+}

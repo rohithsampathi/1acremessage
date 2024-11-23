@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Uddipta Barman"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Uddipta Barman",
+      "timestamp_ms": 1722334859777,
+      "content": "Alright",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722320080680,
+      "content": "We currently only operate in telangana. \n\nWill keep you posted when we launch in other states",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Uddipta Barman",
+      "timestamp_ms": 1722309649396,
+      "content": "The land area is 25000sqft near 2 majorly growing industries",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Uddipta Barman",
+      "timestamp_ms": 1722309600790,
+      "content": "At assam",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Uddipta Barman",
+      "timestamp_ms": 1722309586653,
+      "content": "I do have a land to sell",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Uddipta Barman",
+      "timestamp_ms": 1722309582510,
+      "content": "Hello there",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Uddipta Barman",
+  "is_still_participant": true,
+  "thread_path": "inbox/uddiptabarman_18023836913351187",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "KHUSH JAIN"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "KHUSH JAIN",
+      "timestamp_ms": 1720161216981,
+      "content": "Ok sir,thankyou for the reply \nWill be waiting for the response",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720161165716,
+      "content": "Yeah, those are the only lands we have in Maharashtra. \nWe'll start listings soon and get more.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "KHUSH JAIN",
+      "timestamp_ms": 1720161121468,
+      "content": "Ok sir \nI have texted you coz your page have posted yavatmal land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720161062529,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "KHUSH JAIN",
+      "timestamp_ms": 1720160767003,
+      "content": "Hello sir \nI am from Nagpur \nDo you have land in Nagpur?\nWant for investment",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "KHUSH JAIN",
+  "is_still_participant": true,
+  "thread_path": "inbox/khushjain_1415400019851387",
+  "magic_words": [
+    
+  ]
+}

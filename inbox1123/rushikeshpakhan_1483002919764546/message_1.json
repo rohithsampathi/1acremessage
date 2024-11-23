@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Rushikesh Pakhan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720414834653,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720414834001,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rushikesh Pakhan",
+      "timestamp_ms": 1720409750957,
+      "content": "Details of yavatmal land",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rushikesh Pakhan",
+  "is_still_participant": true,
+  "thread_path": "inbox/rushikeshpakhan_1483002919764546",
+  "magic_words": [
+    
+  ]
+}

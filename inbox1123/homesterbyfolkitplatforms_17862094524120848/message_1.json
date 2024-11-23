@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Homester by Folkit Platforms"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Homester by Folkit Platforms",
+      "timestamp_ms": 1714092344339,
+      "content": "Our team would like to connect with your team since we're from the same industry",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1714055542403,
+      "content": "Going good. Thanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Homester by Folkit Platforms",
+      "timestamp_ms": 1714049786692,
+      "content": "How's it going",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Homester by Folkit Platforms",
+      "timestamp_ms": 1714049784373,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Homester by Folkit Platforms",
+  "is_still_participant": true,
+  "thread_path": "inbox/homesterbyfolkitplatforms_17862094524120848",
+  "magic_words": [
+    
+  ]
+}

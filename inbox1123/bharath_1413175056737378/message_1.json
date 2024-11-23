@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "BHARATH"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717660292642,
+      "content": "Hello there !",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "BHARATH",
+      "timestamp_ms": 1717655032068,
+      "content": "Hello \u00f0\u009f\u0091\u008b  sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "BHARATH",
+  "is_still_participant": true,
+  "thread_path": "inbox/bharath_1413175056737378",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Day Trader \u00e0\u00b0\u00a4\u00e0\u00b1\u0086\u00e0\u00b0\u00b2\u00e0\u00b1\u0081\u00e0\u00b0\u0097\u00e0\u00b1\u0081 | Finance"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1699701115100,
+      "content": "Hey , we are interested to work with you for a collaboration , can we connect ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Day Trader \u00e0\u00b0\u00a4\u00e0\u00b1\u0086\u00e0\u00b0\u00b2\u00e0\u00b1\u0081\u00e0\u00b0\u0097\u00e0\u00b1\u0081 | Finance",
+  "is_still_participant": true,
+  "thread_path": "inbox/daytradertelugufinance_1284849136244293",
+  "magic_words": [
+    
+  ]
+}

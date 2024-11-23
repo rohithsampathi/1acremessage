@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Samvveddd"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730783228129,
+      "content": "Please share your contact details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730690627185,
+      "content": "Please contact our team member ,pavan, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Samvveddd",
+      "timestamp_ms": 1730622374311,
+      "content": "I have 1.4 cr to invest",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Samvveddd",
+      "timestamp_ms": 1730622354925,
+      "content": "Please help to find the land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Samvveddd",
+      "timestamp_ms": 1730622337917,
+      "content": "I wanted to buy 10 lakhs per acre land in Maharashtra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730622167580,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Samvveddd",
+      "timestamp_ms": 1730620137213,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Samvveddd",
+  "is_still_participant": true,
+  "thread_path": "inbox/samvveddd_18025547450594168",
+  "magic_words": [
+    
+  ]
+}

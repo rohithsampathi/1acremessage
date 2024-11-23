@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Ramesh Potluri"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705900710894,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705900696833,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ramesh Potluri",
+      "timestamp_ms": 1705885650782,
+      "content": "Hi - I am interested in joining you guys in buying farms and consolidating land pools. Can we have a quick chat ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ramesh Potluri",
+  "is_still_participant": true,
+  "thread_path": "inbox/rameshpotluri_1334725047923214",
+  "magic_words": [
+    
+  ]
+}

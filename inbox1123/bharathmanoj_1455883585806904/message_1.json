@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Bharath Manoj"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722184647720,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bharath Manoj",
+      "timestamp_ms": 1722180959667,
+      "content": "80k",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bharath Manoj",
+      "timestamp_ms": 1722180956419,
+      "content": "can u send details of wipro plots",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Bharath Manoj",
+  "is_still_participant": true,
+  "thread_path": "inbox/bharathmanoj_1455883585806904",
+  "magic_words": [
+    
+  ]
+}

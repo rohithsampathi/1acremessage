@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Imran Khan 3237"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697701921098,
+      "content": "Hey, can we collaborate for a reel?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Imran Khan 3237",
+  "is_still_participant": true,
+  "thread_path": "inbox/imrankhan3237_17878292576968125",
+  "magic_words": [
+    
+  ]
+}

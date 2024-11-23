@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Dr.Mohammed Raihanuddin Aamir"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dr.Mohammed Raihanuddin Aamir",
+      "timestamp_ms": 1728120783920,
+      "content": "Okay thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dr.Mohammed Raihanuddin Aamir",
+      "timestamp_ms": 1728120780627,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728112497765,
+      "content": "We shall make a video once we have some more reliable information on musi",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Dr.Mohammed Raihanuddin Aamir",
+          "timestamp": 1728120780
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dr.Mohammed Raihanuddin Aamir",
+      "timestamp_ms": 1728103429353,
+      "content": "Hey . Can you also make a video on music river buffer zone area too in telangana , near janachaitanya suncity too",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Dr.Mohammed Raihanuddin Aamir",
+  "is_still_participant": true,
+  "thread_path": "inbox/drmohammedraihanuddinaamir_1699699924756648",
+  "magic_words": [
+    
+  ]
+}

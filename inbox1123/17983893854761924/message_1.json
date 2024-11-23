@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009f\u0095\u00b7"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731151011663,
+      "content": "Please contact our team member ,pavan, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u0095\u00b7",
+      "timestamp_ms": 1731136755067,
+      "content": "Bro I want 4acres land with rock hills for crusher plant",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00f0\u009f\u0095\u00b7",
+  "is_still_participant": true,
+  "thread_path": "inbox/17983893854761924",
+  "magic_words": [
+    
+  ]
+}

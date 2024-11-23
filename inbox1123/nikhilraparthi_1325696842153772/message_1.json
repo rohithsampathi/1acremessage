@@ -1,0 +1,91 @@
+{
+  "participants": [
+    {
+      "name": "Nikhil Raparthi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nikhil Raparthi",
+      "timestamp_ms": 1709973713125,
+      "content": "Okey",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709973685422,
+      "content": "Hi, Please contact Vijay\n9959994737, he'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nikhil Raparthi",
+      "timestamp_ms": 1709973677447,
+      "content": "Can I cal u",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nikhil Raparthi",
+      "timestamp_ms": 1709973666434,
+      "content": "Need suggestions of urs",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nikhil Raparthi",
+      "timestamp_ms": 1709973646454,
+      "content": "Siddipet",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nikhil Raparthi",
+      "timestamp_ms": 1709973642762,
+      "content": "4acres",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709973634464,
+      "content": "I'll connect accordingly.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709973624041,
+      "content": "May I know what you are looking for?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nikhil Raparthi",
+      "timestamp_ms": 1709973611731,
+      "content": "You missed an audio call",
+      "call_duration": 0,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nikhil Raparthi",
+      "timestamp_ms": 1709973599748,
+      "content": "nikhil_raparthi_ started an audio call",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nikhil Raparthi",
+      "timestamp_ms": 1709973592067,
+      "content": "My contact number : 7207204621",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nikhil Raparthi",
+      "timestamp_ms": 1709973562319,
+      "content": "Hello.. urgent requirement",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nikhil Raparthi",
+  "is_still_participant": true,
+  "thread_path": "inbox/nikhilraparthi_1325696842153772",
+  "magic_words": [
+    
+  ]
+}

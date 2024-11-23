@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Sumanth Guntur"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumanth Guntur",
+      "timestamp_ms": 1729253100189,
+      "content": "9776602929",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729253055068,
+      "content": "Please share your number, I shall get back to you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729253038942,
+      "content": "Hi Mr Sumanth. This is Pavan from 1acre.in\n\nThanks for reaching out",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sumanth Guntur",
+      "timestamp_ms": 1729252925743,
+      "content": "Hi andi sumanth here im looking for a developer who can do development of my site can u help me ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sumanth Guntur",
+  "is_still_participant": true,
+  "thread_path": "inbox/sumanthguntur_1439781787409130",
+  "magic_words": [
+    
+  ]
+}

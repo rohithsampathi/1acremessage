@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "g vineeth kumar 2"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725586851329,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "g vineeth kumar 2",
+      "timestamp_ms": 1725550182662,
+      "content": "Can u sale that land for us",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "g vineeth kumar 2",
+      "timestamp_ms": 1725550155461,
+      "content": "We have 3 acre land in our village",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "g vineeth kumar 2",
+      "timestamp_ms": 1725550107998,
+      "content": "Sir iam from vikarabad district. Indur village",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725548833842,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "g vineeth kumar 2",
+      "timestamp_ms": 1725546039158,
+      "content": "Hello sir \u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "g vineeth kumar 2",
+  "is_still_participant": true,
+  "thread_path": "inbox/gvineethkumar2_18005320112640921",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Arakeri Akshay"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709294203616,
+      "content": "Hi, thanks for reaching out. \nPlease contact Ratna Kiran \n9390155412. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Arakeri Akshay",
+      "timestamp_ms": 1709293653884,
+      "content": "And any such similar projects",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Arakeri Akshay",
+      "timestamp_ms": 1709293648261,
+      "content": "Hello,want to know details of anantgiri hills farmhouse project",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Arakeri Akshay",
+  "is_still_participant": true,
+  "thread_path": "inbox/arakeriakshay_1286919602697629",
+  "magic_words": [
+    
+  ]
+}

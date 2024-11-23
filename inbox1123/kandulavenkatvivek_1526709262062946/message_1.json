@@ -1,0 +1,65 @@
+{
+  "participants": [
+    {
+      "name": "Kandula Venkat Vivek"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729345779797,
+      "content": "We do not offer them. \nWe can refer to our empanelled lawyer tho",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kandula Venkat Vivek",
+      "timestamp_ms": 1729332262980,
+      "content": "Thank you. Do you offer legal opinions on Lands?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729319802722,
+      "content": "Do let us know if we can help with anything",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kandula Venkat Vivek",
+      "timestamp_ms": 1729302346985,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729241163063,
+      "content": "Link : www.1acre.in/lakes",
+      "share": {
+        "link": "http://www.1acre.in/lakes",
+        "share_text": "Link : www.1acre.in/lakes"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729241126584,
+      "content": "Hello Venkat \u00f0\u009f\u0091\u008b, \n\nIn context to recent demolitions by HYDRAA, We are digitising HMDA lakes with their FTL and buffer zones so people can understand if their lands falls in these zones instantly. \n\nLink : \n\nWe believe it helps a lot of people who are currently in distress. See if you can help spread the word about this :) \n\nThanks,\nTeam 1acre",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Kandula Venkat Vivek",
+          "timestamp": 1729302346
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kandula Venkat Vivek",
+  "is_still_participant": true,
+  "thread_path": "inbox/kandulavenkatvivek_1526709262062946",
+  "magic_words": [
+    
+  ]
+}

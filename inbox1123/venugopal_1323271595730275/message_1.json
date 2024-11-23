@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Venu Gopal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Venu Gopal",
+      "timestamp_ms": 1711681532183,
+      "content": "Okay thankyou andi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711681399926,
+      "content": "Tbh, I don't beleive it's possible to get land anywhere in Telangana, at 15-20. Would advise you to study the listings on the website. \n1acre.in \nIf you like any, you can contact the sellers directly.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Tbh, I don't beleive it's possible to get land anywhere in Telangana, at 15-20. Would advise you to study the listings on the website. \n1acre.in \nIf you like any, you can contact the sellers directly."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Venu Gopal",
+      "timestamp_ms": 1711681091400,
+      "content": "Chevvela mundu land undi annaru kada...im looking for more land in budget of 15 to 20L",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711679097733,
+      "content": "May I know what you are looking for?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Venu Gopal",
+      "timestamp_ms": 1711677826499,
+      "content": "Hello sir\nNumber share chestara..?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Venu Gopal",
+  "is_still_participant": true,
+  "thread_path": "inbox/venugopal_1323271595730275",
+  "magic_words": [
+    
+  ]
+}

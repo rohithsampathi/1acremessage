@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Amarkumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Amarkumar",
+      "timestamp_ms": 1728553333062,
+      "content": "Amarkumar sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DA8FF-VPeGE/?id=3475675413181489540_38928930592",
+        "share_text": "\u00f0\u009f\u0091\u008bChange your beam shape by us\u00f0\u009f\u0091\u008d\n#dm me for more details\n#pride \n#gypsumboard",
+        "original_content_owner": "amarkumar5861"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Amarkumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/amarkumar_18045107516298593",
+  "magic_words": [
+    
+  ]
+}

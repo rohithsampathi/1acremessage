@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "just_chanakya"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724162467153,
+      "content": "Hi, Please contact Srikar 8341149011, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "just_chanakya",
+      "timestamp_ms": 1724158546275,
+      "content": "I am interested in this land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "just_chanakya",
+      "timestamp_ms": 1724158410049,
+      "content": "just_chanakya sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C-us1AHy1QP/?id=3435880722039788559_47651711013",
+        "share_text": "5 acres near Bhiknoor | \u00e2\u0082\u00b987 Lakhs per acre | Surrounded by food processing units and ricemills | Free-zone with 40\u00e2\u0080\u0099 BT road access \u00f0\u009f\u008c\u00be\n\n\u00e2\u009c\u0085 Verified and facilitated by 1acre.in \n\nIdeal for agro-based industry or warehouse.\nJust 3 minutes from Nizamabad Highway\n3 km from Telangana University\n\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 8341149011\n\nDM us for more queries on buying, selling, or partnerships.\n\n#landforsale #agriculturalland #investment #propertyforsale #realestate #freezone #warehouse",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "just_chanakya",
+  "is_still_participant": true,
+  "thread_path": "inbox/just_chanakya_1463987491661817",
+  "magic_words": [
+    
+  ]
+}

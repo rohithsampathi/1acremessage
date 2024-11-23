@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Goverment Of Mahakal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717683998978,
+      "content": "We currently operate only in telangana. \n\nWill keep you posted when we launch in other states",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Goverment Of Mahakal",
+      "timestamp_ms": 1717683861512,
+      "content": "I want clients for buying",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Goverment Of Mahakal",
+      "timestamp_ms": 1717683841830,
+      "content": "I don\u00e2\u0080\u0099t required any lands in madhya pradesh",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717673112174,
+      "content": "May we know the requirement ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Goverment Of Mahakal",
+      "timestamp_ms": 1717672846434,
+      "content": ".?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Goverment Of Mahakal",
+      "timestamp_ms": 1717672845659,
+      "content": "Can i get your number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717668619260,
+      "content": "Sure \u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bc",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Goverment Of Mahakal",
+      "timestamp_ms": 1717666596199,
+      "content": "Contact for any type of properties in madhyapradesh 6232798489",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Goverment Of Mahakal",
+  "is_still_participant": true,
+  "thread_path": "inbox/govermentofmahakal_1299383464798594",
+  "magic_words": [
+    
+  ]
+}

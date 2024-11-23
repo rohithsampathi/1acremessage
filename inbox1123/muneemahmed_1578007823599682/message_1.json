@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "muneem Ahmed"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730462201723,
+      "content": "Please contact our team member ,pavan, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "muneem Ahmed",
+      "timestamp_ms": 1730459480079,
+      "content": "I need development site if you have pls send",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "muneem Ahmed",
+  "is_still_participant": true,
+  "thread_path": "inbox/muneemahmed_1578007823599682",
+  "magic_words": [
+    
+  ]
+}

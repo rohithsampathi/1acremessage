@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Appanna Chinthapilli"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723783781412,
+      "content": "Hello \nHow can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Appanna Chinthapilli",
+      "timestamp_ms": 1723741725585,
+      "content": "Hello sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Appanna Chinthapilli",
+      "timestamp_ms": 1711557378555,
+      "content": "My name is appanna chintapalli I'm studying graduation",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711557349764,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Appanna Chinthapilli",
+      "timestamp_ms": 1711557209541,
+      "content": "Hello sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Appanna Chinthapilli",
+  "is_still_participant": true,
+  "thread_path": "inbox/appannachinthapilli_1391204352278700",
+  "magic_words": [
+    
+  ]
+}

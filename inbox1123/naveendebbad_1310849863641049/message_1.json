@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Naveen Debbad"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Naveen Debbad",
+      "timestamp_ms": 1711621611810,
+      "content": "Thanks",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1711622986
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Naveen Debbad",
+      "timestamp_ms": 1711621610431,
+      "content": "Prateek fixed it",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711617418692,
+      "content": "Hi, Sorry about the inconvenience. \nPratheek will call you to resolve.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Naveen Debbad",
+      "timestamp_ms": 1711611595750,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Naveen Debbad",
+      "timestamp_ms": 1711611567735,
+      "content": "Hi.. i subscribed for premium access by paying 5k\nI am still unable to see map view",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Naveen Debbad",
+  "is_still_participant": true,
+  "thread_path": "inbox/naveendebbad_1310849863641049",
+  "magic_words": [
+    
+  ]
+}

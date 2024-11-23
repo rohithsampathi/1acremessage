@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Thripatty"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704380715535,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Thripatty",
+      "timestamp_ms": 1704380499191,
+      "content": "Hi\nI've seen your reel of acquiring 100 acre land at 2.5-4 Lakhs\n\nI'm interested in it, but I have to liquidate a property near Karimnagar which is 2 acres\nCan you pls help me with it?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Thripatty",
+  "is_still_participant": true,
+  "thread_path": "inbox/thripatty_1353102642754777",
+  "magic_words": [
+    
+  ]
+}

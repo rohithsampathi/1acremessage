@@ -1,0 +1,72 @@
+{
+  "participants": [
+    {
+      "name": "Manu Pendurthi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Manu Pendurthi",
+      "timestamp_ms": 1704365957902,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704349131757,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Manu Pendurthi",
+          "timestamp": 1704365957
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manu Pendurthi",
+      "timestamp_ms": 1704329248141,
+      "content": "I'm interested",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manu Pendurthi",
+      "timestamp_ms": 1704329247794,
+      "content": "Manu sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C1phjLHyPvy/?id=3272294156919700466_47651711013",
+        "share_text": "Missed the bus in Telangana. \nA lot of us have this feeling - We missed the bus in Telangana. We share that feeling with you. We wanted to find the next growth pockets and spent the last one year venturing out, researching and buying some lands (registering them). We aspire to aquire 1000 acres and would want to expand it to 5000 acres if others want to join in. Ping us, if you want to pick AT LEAST 100 acres at 2.5-4 lakh per acre. We\u00e2\u0080\u0099ll see how we can accommodate.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manu Pendurthi",
+      "timestamp_ms": 1704062828882,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701525073257,
+      "content": "Hy",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manu Pendurthi",
+      "timestamp_ms": 1701524057435,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Manu Pendurthi",
+  "is_still_participant": true,
+  "thread_path": "inbox/manupendurthi_1157799418958266",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Vimala Venkatesh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702016833392,
+      "content": "Hi , how can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vimala Venkatesh",
+      "timestamp_ms": 1702016812620,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vimala Venkatesh",
+  "is_still_participant": true,
+  "thread_path": "inbox/vimalavenkatesh_18006404726486603",
+  "magic_words": [
+    
+  ]
+}

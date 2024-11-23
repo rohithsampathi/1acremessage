@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "lookforsunset"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719191737218,
+      "content": "Not yet. Launching AP soon. Will keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "lookforsunset",
+      "timestamp_ms": 1719163484902,
+      "content": "Hello, will you list AP land properties also? we want to advertise one farm plot there",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "lookforsunset",
+  "is_still_participant": true,
+  "thread_path": "inbox/lookforsunset_17940648911832557",
+  "magic_words": [
+    
+  ]
+}

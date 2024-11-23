@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Sai Kiran Goud Tillu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sai Kiran Goud Tillu",
+      "timestamp_ms": 1721634272051,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721634085837,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721634085167,
+      "content": "Hi, Please contact Vijay 9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Kiran Goud Tillu",
+      "timestamp_ms": 1721549402216,
+      "content": "Near by Orr exit 5  \n  7 km",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Kiran Goud Tillu",
+      "timestamp_ms": 1721549352784,
+      "content": "Bro nak okka 1 acre land undhi aadhi ameyali",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sai Kiran Goud Tillu",
+  "is_still_participant": true,
+  "thread_path": "inbox/saikirangoudtillu_996427261954137",
+  "magic_words": [
+    
+  ]
+}

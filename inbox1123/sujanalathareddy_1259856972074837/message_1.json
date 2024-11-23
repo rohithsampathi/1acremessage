@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Sujana Latha Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sujana Latha Reddy",
+      "timestamp_ms": 1720149614988,
+      "content": "\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720107674485,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sujana Latha Reddy",
+      "timestamp_ms": 1720102620361,
+      "content": "Price per acre",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3404084211142933072"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sujana Latha Reddy",
+      "timestamp_ms": 1700982003516,
+      "content": "\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1700975349477,
+      "content": "Our office is associated in Hyderbad Gachibowli , Financial district ,Nankram Gudha , Rajapushpa Summit, 11th floor",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sujana Latha Reddy",
+      "timestamp_ms": 1700965771817,
+      "content": "Where is the office in Hyderabad",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sujana Latha Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/sujanalathareddy_1259856972074837",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "prawinn_ananthuula"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "prawinn_ananthuula",
+      "timestamp_ms": 1717594481797,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717594465471,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team. \nHe'll help you with it.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "prawinn_ananthuula",
+          "timestamp": 1717594481
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "prawinn_ananthuula",
+      "timestamp_ms": 1717594153846,
+      "content": "Hello, we have 3 acres available next to  tollgate at Nirmal district, bhainsa mandal, matagav village.\n\nWe have 7 acres available at karimnagar district, gangadhar mandal, gattubhootkur village. \n\n Please contact 9912177878",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "prawinn_ananthuula",
+  "is_still_participant": true,
+  "thread_path": "inbox/prawinn_ananthuula_18027084974509566",
+  "magic_words": [
+    
+  ]
+}

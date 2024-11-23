@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Shakeel Sultan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shakeel Sultan",
+      "timestamp_ms": 1704349212581,
+      "content": "Thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704348788547,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shakeel Sultan",
+      "timestamp_ms": 1704348704534,
+      "content": "Please share your telephone number \u00f0\u009f\u0099\u008f",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3272295087417729048"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shakeel Sultan",
+  "is_still_participant": true,
+  "thread_path": "inbox/shakeelsultan_18001276703467249",
+  "magic_words": [
+    
+  ]
+}

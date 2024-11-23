@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "mediocrity_11"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717584435028,
+      "content": "Hi, 1acre.in is a listing platform for verified lands. Currently, we are listing only for Telanagana. \nWe'll launch other states soon. \nWill keep you posted.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, 1acre.in is a listing platform for verified lands. Currently, we are listing only for Telanagana. \nWe'll launch other states soon. \nWill keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "mediocrity_11",
+      "timestamp_ms": 1717584036351,
+      "content": "Any land near odisha",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "mediocrity_11",
+      "timestamp_ms": 1717584030674,
+      "content": "Sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "mediocrity_11",
+  "is_still_participant": true,
+  "thread_path": "inbox/mediocrity_11_17960651405767229",
+  "magic_words": [
+    
+  ]
+}

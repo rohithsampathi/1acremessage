@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Bawesh Pradhan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bawesh Pradhan",
+      "timestamp_ms": 1709388828424,
+      "content": "Happy to see it grown in last week also",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1709389314
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bawesh Pradhan",
+      "timestamp_ms": 1709388819876,
+      "content": "Good going ratna I just saw you have 48k followers now",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1709389322
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705111003256,
+      "content": "Hey, this is Ratna's number if you want to reachout. 7661063355. Thanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bawesh Pradhan",
+      "timestamp_ms": 1705100813323,
+      "content": "I am Bawesh remember",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bawesh Pradhan",
+      "timestamp_ms": 1705100808013,
+      "content": "Good to see you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bawesh Pradhan",
+      "timestamp_ms": 1705100804114,
+      "content": "Ratna congratulation man",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Bawesh Pradhan",
+  "is_still_participant": true,
+  "thread_path": "inbox/baweshpradhan_1307437070655423",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "SReddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708753387239,
+      "content": "He'll help you with the details.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708753372199,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SReddy",
+      "timestamp_ms": 1708750291925,
+      "content": "Hello, Please let us know more details about 40 acrs land in Maharashtra",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "SReddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/sreddy_953216149651857",
+  "magic_words": [
+    
+  ]
+}

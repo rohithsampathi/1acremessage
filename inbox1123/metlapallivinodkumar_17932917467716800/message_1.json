@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Metlapalli vinod kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Metlapalli vinod kumar",
+      "timestamp_ms": 1695012696646,
+      "content": "Rate corect a",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Metlapalli vinod kumar",
+      "timestamp_ms": 1695012684630,
+      "content": "Ede",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Metlapalli vinod kumar",
+      "timestamp_ms": 1694973573119,
+      "content": "Land ekda",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1694966343276,
+      "content": "+91 80744 50533 Vijay 1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "+91 80744 50533 Vijay 1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Metlapalli vinod kumar",
+      "timestamp_ms": 1694887506773,
+      "content": "Number snd me",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Metlapalli vinod kumar",
+      "timestamp_ms": 1694887499260,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Metlapalli vinod kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/metlapallivinodkumar_17932917467716800",
+  "magic_words": [
+    
+  ]
+}

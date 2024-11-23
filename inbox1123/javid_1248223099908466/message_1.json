@@ -1,0 +1,70 @@
+{
+  "participants": [
+    {
+      "name": "Javid"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Javid",
+      "timestamp_ms": 1694787204109,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1694787180329,
+      "content": "Did you call Vijay?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Javid",
+      "timestamp_ms": 1694786036472,
+      "content": "I'm not able to understand",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Javid",
+      "timestamp_ms": 1694786025643,
+      "content": "Can you speak English or Hindi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Javid",
+      "timestamp_ms": 1694770368210,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1694770358069,
+      "content": "+91 80744 50533 Vijay 1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "+91 80744 50533 Vijay 1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Javid",
+      "timestamp_ms": 1694770298773,
+      "content": "I need seller details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Javid",
+      "timestamp_ms": 1694770268039,
+      "content": "Kaha",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Javid",
+  "is_still_participant": true,
+  "thread_path": "inbox/javid_1248223099908466",
+  "magic_words": [
+    
+  ]
+}

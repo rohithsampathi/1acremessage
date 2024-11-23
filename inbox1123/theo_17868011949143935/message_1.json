@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Theo"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Theo",
+      "timestamp_ms": 1720261324563,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720252897103,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Theo",
+          "timestamp": 1720261324
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Theo",
+      "timestamp_ms": 1720252417058,
+      "content": "Any option of getting one acre land near Pune ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Theo",
+  "is_still_participant": true,
+  "thread_path": "inbox/theo_17868011949143935",
+  "magic_words": [
+    
+  ]
+}

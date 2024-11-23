@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "prince \u00e2\u009c\u00a8"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "prince \u00e2\u009c\u00a8",
+      "timestamp_ms": 1732141921529,
+      "content": "prince sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DCTSvzEioYL/?id=3500223784886633995_8542275758",
+        "share_text": "\u00f0\u009f\u0092\u0080\u00e2\u009d\u008c\n\n.\n.\n.\n.\n#trend #trending #trendingreels #viral #viralvideos #share #explorepage #explore #instagood #instagram #instafashion #instadaily #feed #reels #reelsvideo #million #millionaire #millionairemindset #edits #power #reelkarofeelkaro #reelitfeelit #top #toptags #view #instalife #instaview #instafashion",
+        "original_content_owner": "mridulsinh____"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728919867053,
+      "content": "Are you referring to any land/plot?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "prince \u00e2\u009c\u00a8",
+      "timestamp_ms": 1728917115715,
+      "content": "How much price in mettu guda?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728907966644,
+      "content": "How can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "prince \u00e2\u009c\u00a8",
+      "timestamp_ms": 1728833432875,
+      "content": "Bro",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "prince \u00e2\u009c\u00a8",
+  "is_still_participant": true,
+  "thread_path": "inbox/prince_1468020354589500",
+  "magic_words": [
+    
+  ]
+}

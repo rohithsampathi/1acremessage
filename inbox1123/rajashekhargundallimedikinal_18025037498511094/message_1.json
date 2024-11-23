@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Rajashekhar Gundalli Medikinal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rajashekhar Gundalli Medikinal",
+      "timestamp_ms": 1718004251769,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718004224384,
+      "content": "Yes, but we'd be putting mostly Telangana facilitated lands, In this account.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rajashekhar Gundalli Medikinal",
+      "timestamp_ms": 1718004181665,
+      "content": "But, you uploaded a video regarding Sindhanur property",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717991215427,
+      "content": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, at 1acre.in, we are currently listing only Telangana.\nWe'll start other states soon. \nWe'll keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rajashekhar Gundalli Medikinal",
+      "timestamp_ms": 1717950203081,
+      "content": "We have a land of 38 acres of land near to SH -14 Raichur to Belgaum near Maski, Raichur",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717949107152,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rajashekhar Gundalli Medikinal",
+      "timestamp_ms": 1717945581257,
+      "content": "Hello sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rajashekhar Gundalli Medikinal",
+  "is_still_participant": true,
+  "thread_path": "inbox/rajashekhargundallimedikinal_18025037498511094",
+  "magic_words": [
+    
+  ]
+}

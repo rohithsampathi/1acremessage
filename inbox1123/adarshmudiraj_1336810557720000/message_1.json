@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Adarsh Mudiraj"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707360928985,
+      "content": "Please contact Vijay\n9959994737. He'll help you with the process.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707360904964,
+      "content": "Sure Adarsh. Thanks for reaching out.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Adarsh Mudiraj",
+      "timestamp_ms": 1707322213931,
+      "content": "I\u00e2\u0080\u0099ll gather the information of lands nearby and provide u",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Adarsh Mudiraj",
+      "timestamp_ms": 1707322188369,
+      "content": "I\u00e2\u0080\u0099m interested to work with you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Adarsh Mudiraj",
+      "timestamp_ms": 1707322142315,
+      "content": "Sir im from pargi vikarabad district \nI\u00e2\u0080\u0099m interested in 1 acer.in",
+      "share": {
+        "link": "http://acer.in/",
+        "share_text": "Sir im from pargi vikarabad district \nI\u00e2\u0080\u0099m interested in 1 acer.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Adarsh Mudiraj",
+  "is_still_participant": true,
+  "thread_path": "inbox/adarshmudiraj_1336810557720000",
+  "magic_words": [
+    
+  ]
+}

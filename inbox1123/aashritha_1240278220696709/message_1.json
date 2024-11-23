@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Aashritha"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aashritha",
+      "timestamp_ms": 1703839576844,
+      "content": "Thank u",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703827712329,
+      "content": "Hi Aashritha,you can connect with pratheek, 9390674324 , he will guide you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aashritha",
+      "timestamp_ms": 1703795934522,
+      "content": "We are actively looking to invest in lands around Hyderabad, when i try to subscribe to premium its asking me the india number for otp.\n\nHow can we connect on to discuss more ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aashritha",
+      "timestamp_ms": 1703795855042,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Aashritha",
+  "is_still_participant": true,
+  "thread_path": "inbox/aashritha_1240278220696709",
+  "magic_words": [
+    
+  ]
+}

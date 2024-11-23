@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Venkatesh Gorripati"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703738811245,
+      "content": "Hi you can contact ramu,9381491962",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Venkatesh Gorripati",
+      "timestamp_ms": 1703733117718,
+      "content": "Has 0.75 Acer for sale near Kothur\u00e2\u0080\u00a6 pls let me know leads for the same",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Venkatesh Gorripati",
+  "is_still_participant": true,
+  "thread_path": "inbox/venkateshgorripati_1156729549045032",
+  "magic_words": [
+    
+  ]
+}

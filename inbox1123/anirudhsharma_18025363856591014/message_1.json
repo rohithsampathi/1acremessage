@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Anirudh Sharma"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729751544136,
+      "content": "We have not launched yet in those states",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anirudh Sharma",
+      "timestamp_ms": 1729677509580,
+      "content": "Any property available in punjab near chandigarh?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Anirudh Sharma",
+  "is_still_participant": true,
+  "thread_path": "inbox/anirudhsharma_18025363856591014",
+  "magic_words": [
+    
+  ]
+}

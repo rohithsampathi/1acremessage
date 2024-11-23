@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Saroj Kishan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730728206008,
+      "content": "We do not confidently say the prices in the area you requested since there arent many listings yet. \n\nDo explore our website www.1acre.in to know prices of nearby listings",
+      "share": {
+        "link": "http://www.1acre.in/",
+        "share_text": "We do not confidently say the prices in the area you requested since there arent many listings yet. \n\nDo explore our website www.1acre.in to know prices of nearby listings"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730727970537,
+      "content": "Hello Saroj \n\nFirstly thanks for your appreciation :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Saroj Kishan",
+      "timestamp_ms": 1730725151573,
+      "content": "Hello Team, The content is very great and helps a lot for customers. I would like to know the price of agricultural land in Mulapadu village near RK Engineering College, Vijayawada. Thanks in advance",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Saroj Kishan",
+  "is_still_participant": true,
+  "thread_path": "inbox/sarojkishan_1459358882119281",
+  "magic_words": [
+    
+  ]
+}

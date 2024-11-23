@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "SRIK\u00f0\u009f\u00a5\u00b7"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "SRIK\u00f0\u009f\u00a5\u00b7",
+      "timestamp_ms": 1719978116939,
+      "content": "Okay, thank you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719968402072,
+      "content": "Hi, Sorry, that is outside our scope.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SRIK\u00f0\u009f\u00a5\u00b7",
+      "timestamp_ms": 1719951899112,
+      "content": "Hi, I actually have a commercial space that I wanna rent it out and is it possible that you can help me rent it out. If you interested I can share you the details of the property",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "SRIK\u00f0\u009f\u00a5\u00b7",
+  "is_still_participant": true,
+  "thread_path": "inbox/srik_1562647568466698",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Eeshanya Landmarks"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728035376649,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Eeshanya Landmarks",
+      "timestamp_ms": 1727939262746,
+      "content": "9742674685",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Eeshanya Landmarks",
+      "timestamp_ms": 1727939244567,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727939223712,
+      "content": "We are launching developer listing of layouts soon. \n\nDo share your number , we shall call you and discuss further",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Eeshanya Landmarks",
+      "timestamp_ms": 1727934426960,
+      "content": "What kind of service do you provide for the existing layouts",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727928173798,
+      "content": "How can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727928169409,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Eeshanya Landmarks",
+      "timestamp_ms": 1727876248904,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Eeshanya Landmarks",
+  "is_still_participant": true,
+  "thread_path": "inbox/eeshanyalandmarks_1274281690666924",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "participants": [
+    {
+      "name": "Venkata KoteswaraRao Angam"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Venkata KoteswaraRao Angam",
+      "timestamp_ms": 1731150892319,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731150878133,
+      "content": "Please call our team member Venu at +91 76749 01201\n\nHe shall help you list it and share other details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Venkata KoteswaraRao Angam",
+      "timestamp_ms": 1731136110562,
+      "content": "My mob no. 9059090909",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Venkata KoteswaraRao Angam",
+      "timestamp_ms": 1731136094820,
+      "content": "I have to sell off my property",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Venkata KoteswaraRao Angam",
+      "timestamp_ms": 1731136091457,
+      "content": "How to contact",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Venkata KoteswaraRao Angam",
+      "timestamp_ms": 1731136080547,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Venkata KoteswaraRao Angam",
+      "timestamp_ms": 1731081389724,
+      "content": "How to contact 1acre.Com....",
+      "share": {
+        "link": "http://1acre.com/",
+        "share_text": "How to contact 1acre.Com...."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Venkata KoteswaraRao Angam",
+      "timestamp_ms": 1731081361078,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Venkata KoteswaraRao Angam",
+  "is_still_participant": true,
+  "thread_path": "inbox/venkatakoteswararaoangam_18026685140450438",
+  "magic_words": [
+    
+  ]
+}

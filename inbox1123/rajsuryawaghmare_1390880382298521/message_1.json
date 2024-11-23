@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Rajsurya Waghmare"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723798475899,
+      "content": "\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bc",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rajsurya Waghmare",
+      "timestamp_ms": 1723787409554,
+      "content": "9623201707",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723784231640,
+      "content": "Please share your number and our team will get back to you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rajsurya Waghmare",
+      "timestamp_ms": 1723778459946,
+      "content": "My land is also available for  sell",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rajsurya Waghmare",
+  "is_still_participant": true,
+  "thread_path": "inbox/rajsuryawaghmare_1390880382298521",
+  "magic_words": [
+    
+  ]
+}

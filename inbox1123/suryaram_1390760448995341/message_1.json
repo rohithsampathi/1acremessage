@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Surya Ram"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727551086023,
+      "content": "Hello Surya, we would have to commission a GIS expert and would cost 5000 at cost.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Surya Ram",
+      "timestamp_ms": 1727531627962,
+      "content": "Hello,\nCan you pls help me with superimposing and helping me understand if our house is under FTL and will be impacted or not.\nPls advice. Thank you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Surya Ram",
+      "timestamp_ms": 1727531627223,
+      "content": "Surya sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DAdiWBsyusS/?id=3467078335380253458_47651711013",
+        "share_text": "We hope this video helps in understanding FTL & buffer zones.\n\nDM us if you need more details and we will try to help you the best we can. \n\nDo comment what you think about the current situation with HYDRA. \n\n#hyderabad #realestate #hydra #demolition #land #lake",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Surya Ram",
+  "is_still_participant": true,
+  "thread_path": "inbox/suryaram_1390760448995341",
+  "magic_words": [
+    
+  ]
+}

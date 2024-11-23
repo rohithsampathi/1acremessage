@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Naresh Maheshwaryy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717746307413,
+      "content": "Theek hein",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Naresh Maheshwaryy",
+      "timestamp_ms": 1717746009148,
+      "content": "Aapke waha ka hamare yaha invest karna cahata ho to hame kahena \n\n\nAur hamare yaha ka koi hoga to aapko contact karunga",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Naresh Maheshwaryy",
+      "timestamp_ms": 1717745910013,
+      "content": "Ham Kutch Gujrat se hai..",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Naresh Maheshwaryy",
+      "timestamp_ms": 1717745873976,
+      "content": "Bentonite \nBoxcite \nChainaclay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Naresh Maheshwaryy",
+      "timestamp_ms": 1717745851144,
+      "content": "Sir Ham bhi Brokar hai \nHam aapse kahena cahate hai ki hamare paas minrals waali jamin hai",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717689311415,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Naresh Maheshwaryy",
+      "timestamp_ms": 1717686396633,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Naresh Maheshwaryy",
+  "is_still_participant": true,
+  "thread_path": "inbox/nareshmaheshwaryy_17972120213713331",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "thammali ravinder\u00f0\u009f\u0091\u00bb"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713587406209,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "thammali ravinder\u00f0\u009f\u0091\u00bb",
+      "timestamp_ms": 1713542583750,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "thammali ravinder\u00f0\u009f\u0091\u00bb",
+  "is_still_participant": true,
+  "thread_path": "inbox/thammaliravinder_17881486926045989",
+  "magic_words": [
+    
+  ]
+}

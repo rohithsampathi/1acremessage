@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "MR.MONEY"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702781019773,
+      "content": "Starts from 10 lakhs ,You can contact to Pratheek  9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "MR.MONEY",
+      "timestamp_ms": 1702717632488,
+      "content": "Telangana lo low cost lands \nStarting price antha nunchi unnayi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "MR.MONEY",
+      "timestamp_ms": 1702717614968,
+      "content": "Hello sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "MR.MONEY",
+  "is_still_participant": true,
+  "thread_path": "inbox/mrmoney_18006967040486236",
+  "magic_words": [
+    
+  ]
+}

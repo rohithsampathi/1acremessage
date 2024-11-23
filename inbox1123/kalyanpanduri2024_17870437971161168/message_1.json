@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "kalyanpanduri2024"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723784294675,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "kalyanpanduri2024",
+      "timestamp_ms": 1723741414088,
+      "content": "hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "kalyanpanduri2024",
+  "is_still_participant": true,
+  "thread_path": "inbox/kalyanpanduri2024_17870437971161168",
+  "magic_words": [
+    
+  ]
+}

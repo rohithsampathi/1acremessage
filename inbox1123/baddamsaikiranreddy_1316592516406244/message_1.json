@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Baddam Sai Kiran Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1700811570923,
+      "content": "You can contact to pratheek 9505778117,he can guide you regarding your enquiries",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Baddam Sai Kiran Reddy",
+      "timestamp_ms": 1700804744718,
+      "content": "I need the location",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Baddam Sai Kiran Reddy",
+      "timestamp_ms": 1700804712971,
+      "content": "Baddam sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/CyfUQ2zruSu/?carousel_share_child_media_id=3215377774423208206_47651711013",
+        "share_text": "",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Baddam Sai Kiran Reddy",
+      "timestamp_ms": 1700804700278,
+      "content": "Hlo",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Baddam Sai Kiran Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/baddamsaikiranreddy_1316592516406244",
+  "magic_words": [
+    
+  ]
+}

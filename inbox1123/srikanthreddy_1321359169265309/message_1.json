@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Srikanth Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Srikanth Reddy",
+      "timestamp_ms": 1708170128777,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708137748400,
+      "content": "Hi, we are not currently dealing in Bangalore. Only in Telangana. We'll let you know if we get any.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Srikanth Reddy",
+      "timestamp_ms": 1708104327523,
+      "content": "Sir any property for joint development layout purpose in Bangalore",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Srikanth Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/srikanthreddy_1321359169265309",
+  "magic_words": [
+    
+  ]
+}

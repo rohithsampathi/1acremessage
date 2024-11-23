@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Basetti Aditya"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1714058582599,
+      "content": "Hi, may we know what you are looking for? We'll connect to the team accordingly.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Basetti Aditya",
+      "timestamp_ms": 1714055797133,
+      "content": "Please send contact details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Basetti Aditya",
+      "timestamp_ms": 1714055789921,
+      "content": "I want to talk to u",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Basetti Aditya",
+      "timestamp_ms": 1714055784427,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Basetti Aditya",
+  "is_still_participant": true,
+  "thread_path": "inbox/basettiaditya_1441446367253372",
+  "magic_words": [
+    
+  ]
+}

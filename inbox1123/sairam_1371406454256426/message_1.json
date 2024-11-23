@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Sai Ram"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710809818261,
+      "content": "Hi, Please contact Pratheek \n9390674324, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Ram",
+      "timestamp_ms": 1710808499503,
+      "content": "Im interested to buy land in maharastra as mentioned",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sai Ram",
+  "is_still_participant": true,
+  "thread_path": "inbox/sairam_1371406454256426",
+  "magic_words": [
+    
+  ]
+}

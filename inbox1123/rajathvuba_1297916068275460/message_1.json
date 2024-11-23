@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Rajath VUBA"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701368551943,
+      "content": "Hi , for more details please visit our website :https://www.1acre.in/, contact:9505778117",
+      "share": {
+        "link": "https://www.1acre.in/",
+        "share_text": "Hi , for more details please visit our website :https://www.1acre.in/, contact:9505778117"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rajath VUBA",
+      "timestamp_ms": 1701350987757,
+      "content": "?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rajath VUBA",
+      "timestamp_ms": 1701350985942,
+      "content": "Will you start in vijayawada surroundings also",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rajath VUBA",
+      "timestamp_ms": 1701350978863,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rajath VUBA",
+  "is_still_participant": true,
+  "thread_path": "inbox/rajathvuba_1297916068275460",
+  "magic_words": [
+    
+  ]
+}

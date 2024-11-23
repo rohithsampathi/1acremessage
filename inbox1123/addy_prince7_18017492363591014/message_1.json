@@ -1,0 +1,65 @@
+{
+  "participants": [
+    {
+      "name": "addy_prince7"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724209279516,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724209279032,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team. \nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "addy_prince7",
+      "timestamp_ms": 1724208525034,
+      "content": "Telangana , hyderabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724204324184,
+      "content": "Which state?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "addy_prince7",
+      "timestamp_ms": 1724200387880,
+      "content": "Mere pass plots hai uska promotion krna h!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "addy_prince7",
+      "timestamp_ms": 1724200377828,
+      "content": "Aap promotion krte ho plots ka",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724179476302,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "addy_prince7",
+      "timestamp_ms": 1724176580901,
+      "content": "Hy brooo",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "addy_prince7",
+  "is_still_participant": true,
+  "thread_path": "inbox/addy_prince7_18017492363591014",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "man.co1"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1696644861812,
+      "content": "Plz Subscribe to 1acre.in premium on the website, to access it.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Plz Subscribe to 1acre.in premium on the website, to access it."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "man.co1",
+      "timestamp_ms": 1696570140542,
+      "content": "Good morning \nWhat is the location of lake facing hilltop land (15lks acre) ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "man.co1",
+  "is_still_participant": true,
+  "thread_path": "inbox/manco1_869439904560074",
+  "magic_words": [
+    
+  ]
+}

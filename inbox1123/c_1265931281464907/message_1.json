@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "C"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701683917391,
+      "content": "Yes, you can connect with us on this number 9505778117,our team can explain you better",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "C",
+      "timestamp_ms": 1701683681067,
+      "content": "Asking for my cousins.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "C",
+      "timestamp_ms": 1701683657235,
+      "content": "Hello sir, are there opportunities for NRI's who are no longer citizens of India to invest in any farm lands ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "C",
+  "is_still_participant": true,
+  "thread_path": "inbox/c_1265931281464907",
+  "magic_words": [
+    
+  ]
+}

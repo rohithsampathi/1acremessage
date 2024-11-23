@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Preranaa J"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705981544731,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Preranaa J",
+      "timestamp_ms": 1705980916626,
+      "content": "Pls share the details of the 100acre land",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Preranaa J",
+  "is_still_participant": true,
+  "thread_path": "inbox/preranaaj_1352350146165437",
+  "magic_words": [
+    
+  ]
+}

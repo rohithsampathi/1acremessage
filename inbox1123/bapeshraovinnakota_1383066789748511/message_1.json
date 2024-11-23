@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Bapesh Rao Vinnakota"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722913467023,
+      "content": "Hello Bapesh \nWhat details are you seeking from us ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bapesh Rao Vinnakota",
+      "timestamp_ms": 1722878556446,
+      "content": "Pls send me the details on WhatsApp 9940663687",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Bapesh Rao Vinnakota",
+  "is_still_participant": true,
+  "thread_path": "inbox/bapeshraovinnakota_1383066789748511",
+  "magic_words": [
+    
+  ]
+}

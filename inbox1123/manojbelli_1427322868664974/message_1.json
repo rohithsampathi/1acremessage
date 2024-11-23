@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Manoj Belli"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Manoj Belli",
+      "timestamp_ms": 1717606639389,
+      "content": "Ohhh sorry",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717606624310,
+      "content": "We only engage in buying or selling.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manoj Belli",
+      "timestamp_ms": 1717606423972,
+      "content": "Want to rent it out!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manoj Belli",
+      "timestamp_ms": 1717606408774,
+      "content": "I have one acre industrial land which is near (100mts) to pune-bangalore highway.. Vasanthnarsapur industrial area... Tumkur",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717606118613,
+      "content": "Please tell us your requirements",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717606104549,
+      "content": "Hello there !",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manoj Belli",
+      "timestamp_ms": 1717601774187,
+      "content": "Hey!",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Manoj Belli",
+  "is_still_participant": true,
+  "thread_path": "inbox/manojbelli_1427322868664974",
+  "magic_words": [
+    
+  ]
+}

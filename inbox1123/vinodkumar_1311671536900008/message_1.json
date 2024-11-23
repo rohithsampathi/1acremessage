@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Vinod Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vinod Kumar",
+      "timestamp_ms": 1703575730648,
+      "content": "Zaidupalli is it roadside bit ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vinod Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/vinodkumar_1311671536900008",
+  "magic_words": [
+    
+  ]
+}

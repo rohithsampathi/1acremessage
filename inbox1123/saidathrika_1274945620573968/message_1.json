@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "sai dathrika"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702376360572,
+      "content": "Hi, please call Vijay\n +91 8074450533",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "sai dathrika",
+      "timestamp_ms": 1702376072996,
+      "content": "11acres agricultural available in narayanpoor mandal district yadadri buvangiri , 12kms from choutuppal",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "sai dathrika",
+  "is_still_participant": true,
+  "thread_path": "inbox/saidathrika_1274945620573968",
+  "magic_words": [
+    
+  ]
+}

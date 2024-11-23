@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Ruhit Sangwan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705814416110,
+      "content": "Sure. Please WhatsApp Ratna Kiran 9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ruhit Sangwan",
+      "timestamp_ms": 1705807340177,
+      "content": "Let\u00e2\u0080\u0099s connect",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ruhit Sangwan",
+      "timestamp_ms": 1705807334614,
+      "content": "Looking to buy 100 acre",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ruhit Sangwan",
+  "is_still_participant": true,
+  "thread_path": "inbox/ruhitsangwan_17992380020591014",
+  "magic_words": [
+    
+  ]
+}

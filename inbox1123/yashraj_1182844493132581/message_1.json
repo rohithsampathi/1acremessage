@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Yashraj\u00e2\u0080\u00a6.."
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717587623032,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yashraj\u00e2\u0080\u00a6..",
+      "timestamp_ms": 1717587462909,
+      "content": "Hello team",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Yashraj\u00e2\u0080\u00a6..",
+  "is_still_participant": true,
+  "thread_path": "inbox/yashraj_1182844493132581",
+  "magic_words": [
+    
+  ]
+}

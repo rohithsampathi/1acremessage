@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "geethika\u00f0\u009f\u008c\u00b8"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "geethika\u00f0\u009f\u008c\u00b8",
+      "timestamp_ms": 1707658082784,
+      "content": "okay thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707655264775,
+      "content": "It's a free listing platform. We verify before posting",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "geethika\u00f0\u009f\u008c\u00b8",
+      "timestamp_ms": 1707647835342,
+      "content": "Do u also sell or post the properties in 1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Do u also sell or post the properties in 1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "geethika\u00f0\u009f\u008c\u00b8",
+      "timestamp_ms": 1707647763295,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "geethika\u00f0\u009f\u008c\u00b8",
+  "is_still_participant": true,
+  "thread_path": "inbox/geethika_1232424004812127",
+  "magic_words": [
+    
+  ]
+}

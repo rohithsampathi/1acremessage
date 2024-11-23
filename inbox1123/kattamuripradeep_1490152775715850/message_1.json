@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Kattamuri Pradeep"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723906031129,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kattamuri Pradeep",
+      "timestamp_ms": 1723900241660,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kattamuri Pradeep",
+  "is_still_participant": true,
+  "thread_path": "inbox/kattamuripradeep_1490152775715850",
+  "magic_words": [
+    
+  ]
+}

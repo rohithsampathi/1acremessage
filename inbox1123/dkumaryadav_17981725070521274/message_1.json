@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "D Kumar Yadav"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697300676260,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "D Kumar Yadav",
+      "timestamp_ms": 1695651320412,
+      "content": "Hlo",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "D Kumar Yadav",
+      "timestamp_ms": 1695651117798,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "D Kumar Yadav",
+  "is_still_participant": true,
+  "thread_path": "inbox/dkumaryadav_17981725070521274",
+  "magic_words": [
+    
+  ]
+}

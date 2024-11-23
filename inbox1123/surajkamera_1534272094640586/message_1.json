@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Suraj Kamera"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730457228135,
+      "content": "You can call the sellers directly",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730457216815,
+      "content": "Plz check.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730457212717,
+      "content": "1acre.in/subscribe",
+      "share": {
+        "link": "http://1acre.in/subscribe",
+        "share_text": "1acre.in/subscribe"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Suraj Kamera",
+      "timestamp_ms": 1730452012489,
+      "content": "Hi Team,\nMe and my cousin looking for 2 acre land close to Hyderabad for setting up a poultry farm. Can you pls suggest any?\nNOTE: Budget 50Lakhs and less for 2 acres.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Suraj Kamera",
+  "is_still_participant": true,
+  "thread_path": "inbox/surajkamera_1534272094640586",
+  "magic_words": [
+    
+  ]
+}

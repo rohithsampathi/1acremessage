@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Praveen Kacham"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705283879790,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Praveen Kacham",
+      "timestamp_ms": 1705250672088,
+      "content": "Send u r contact no sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Praveen Kacham",
+  "is_still_participant": true,
+  "thread_path": "inbox/praveenkacham_17897486354945615",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Poloju Chandra Shekhar Azad"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Poloju Chandra Shekhar Azad",
+      "timestamp_ms": 1721438392924,
+      "content": "Purchase your packages",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721279049648,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Poloju Chandra Shekhar Azad",
+      "timestamp_ms": 1721278220901,
+      "content": "You missed an audio call",
+      "call_duration": 0,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Poloju Chandra Shekhar Azad",
+      "timestamp_ms": 1721278206829,
+      "content": "polojuchandrashekhar started an audio call",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Poloju Chandra Shekhar Azad",
+      "timestamp_ms": 1721278200396,
+      "content": "Hai",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Poloju Chandra Shekhar Azad",
+  "is_still_participant": true,
+  "thread_path": "inbox/polojuchandrashekharazad_17985414569699690",
+  "magic_words": [
+    
+  ]
+}

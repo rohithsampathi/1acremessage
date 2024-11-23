@@ -1,0 +1,37 @@
+{
+  "participants": [
+    {
+      "name": "S Vishva Karma"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722408500565,
+      "content": "Thanks :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "S Vishva Karma",
+      "timestamp_ms": 1722399038389,
+      "content": "Really Supportive n Good for Realtors...",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1722407629
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "S Vishva Karma",
+  "is_still_participant": true,
+  "thread_path": "inbox/svishvakarma_18034567547497648",
+  "magic_words": [
+    
+  ]
+}

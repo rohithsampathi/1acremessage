@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Miryala Sandeep"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1698906201942,
+      "content": "Yes, our team has done the site visit, and it is legally verified by 1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Yes, our team has done the site visit, and it is legally verified by 1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Miryala Sandeep",
+      "timestamp_ms": 1698904870135,
+      "content": "Have seen your add forest side land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1698900389340,
+      "content": "Hi Sandeep , how can we help you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Miryala Sandeep",
+      "timestamp_ms": 1698894574817,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Miryala Sandeep",
+  "is_still_participant": true,
+  "thread_path": "inbox/miryalasandeep_1203646381024163",
+  "magic_words": [
+    
+  ]
+}

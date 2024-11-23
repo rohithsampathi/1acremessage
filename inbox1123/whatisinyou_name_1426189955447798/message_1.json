@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "whatisinyou_name"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717582304040,
+      "content": "Are you a seller or a buyer?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717582296269,
+      "content": "We are currently listing only in Telangana. \nWe'll start other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "whatisinyou_name",
+      "timestamp_ms": 1717581919134,
+      "content": "property?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "whatisinyou_name",
+      "timestamp_ms": 1717581849301,
+      "content": "Chhattisgarh",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717581843397,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "whatisinyou_name",
+      "timestamp_ms": 1717581813548,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "whatisinyou_name",
+  "is_still_participant": true,
+  "thread_path": "inbox/whatisinyou_name_1426189955447798",
+  "magic_words": [
+    
+  ]
+}

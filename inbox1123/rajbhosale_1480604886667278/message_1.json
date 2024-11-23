@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Raj Bhosale"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726154515007,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raj Bhosale",
+      "timestamp_ms": 1726153759679,
+      "content": "Bechana hai",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raj Bhosale",
+      "timestamp_ms": 1726153751464,
+      "content": "Sir hamara khet hai",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725936635820,
+      "content": "How can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725936629413,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raj Bhosale",
+      "timestamp_ms": 1725889648854,
+      "content": "I am from Maharashtra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raj Bhosale",
+      "timestamp_ms": 1725889642408,
+      "content": "Hello sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Raj Bhosale",
+  "is_still_participant": true,
+  "thread_path": "inbox/rajbhosale_1480604886667278",
+  "magic_words": [
+    
+  ]
+}

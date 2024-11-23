@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Swathik Raghavan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702781064464,
+      "content": "You can contact to Pratheek  9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Swathik Raghavan",
+      "timestamp_ms": 1702734755403,
+      "content": "Hyderabad soundings",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Swathik Raghavan",
+      "timestamp_ms": 1702734743564,
+      "content": "Need your assistance to buy land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Swathik Raghavan",
+      "timestamp_ms": 1702734727330,
+      "content": "\u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Swathik Raghavan",
+      "timestamp_ms": 1702734722912,
+      "content": "Hi team",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Swathik Raghavan",
+  "is_still_participant": true,
+  "thread_path": "inbox/swathikraghavan_1270751834315956",
+  "magic_words": [
+    
+  ]
+}

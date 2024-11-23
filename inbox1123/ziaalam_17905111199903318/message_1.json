@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Zia alam"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702781078885,
+      "content": "You can contact to Pratheek  9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Zia alam",
+      "timestamp_ms": 1702767527566,
+      "content": "Your no sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Zia alam",
+  "is_still_participant": true,
+  "thread_path": "inbox/ziaalam_17905111199903318",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "participants": [
+    {
+      "name": "SamGram"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "SamGram",
+      "timestamp_ms": 1728980644935,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728979637550,
+      "content": "Thanks",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "SamGram",
+          "timestamp": 1728980644
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SamGram",
+      "timestamp_ms": 1728978938031,
+      "content": "9963066966",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728978700730,
+      "content": "Please share your number \nOur team will get back to you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SamGram",
+      "timestamp_ms": 1728908373391,
+      "content": "We are looking to set a repacking and stocking unit for analytical and production chemicals",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SamGram",
+      "timestamp_ms": 1728908338272,
+      "content": "If it is i would be interested",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SamGram",
+      "timestamp_ms": 1728908325778,
+      "content": "And is it an industrial land?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SamGram",
+      "timestamp_ms": 1728908318725,
+      "content": "Is this in an industrial marked zone?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "SamGram",
+      "timestamp_ms": 1728908300610,
+      "content": "SamGram sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DBGpW5FSgML/?id=3478649655217750795_47651711013",
+        "share_text": "540 Sq Yds near Dundigal | Available at \u00e2\u0082\u00b9 22000 per Sq Yd | Preliminarily verified by 1acre.in \u00e2\u009c\u0085\n\n \u00f0\u009f\u0093\u008d Property Specs :\n\nZoning : Manufacturing zone\n\nAccess : Through existing 60 feet road that is being proposed to widen 100 feet\n\nLocation : 2.5 KM from Dundigal ORR exit \n\nProximity : Very close to Aurobindo and Hetero Labs\n\nUse case : Ideal for a commercial establishment or a Manufacturing Unit\n\n\u00f0\u009f\u0093\u009e Interested? Contact the Owner: +91 8897989495 \n\n\u00f0\u009f\u0093\u00a9 For inquiries on buying, selling, or partnerships, DM us! \u00f0\u009f\u00a4\u009d\n\n#landforsale #propertyforsale #realestate #land #telangana #telanganarealestate #indiarealestate #buy #sell #buyland #sellandbuy #commercialrealestate #medchal #dundigal #malkajgiri #manufacturingindustry #pharmacompany #medchalrealestate #aurobindo #dundigal #heterolabs #1acre",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "SamGram",
+  "is_still_participant": true,
+  "thread_path": "inbox/samgram_1478989696825757",
+  "magic_words": [
+    
+  ]
+}

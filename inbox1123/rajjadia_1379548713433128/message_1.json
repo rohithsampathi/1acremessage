@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Raj Jadia"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Raj Jadia",
+      "timestamp_ms": 1723483402173,
+      "content": "Exactly Andheri 2.5 Acer for sell",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723426727716,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raj Jadia",
+      "timestamp_ms": 1723398281145,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Raj Jadia",
+  "is_still_participant": true,
+  "thread_path": "inbox/rajjadia_1379548713433128",
+  "magic_words": [
+    
+  ]
+}

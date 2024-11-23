@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Vinayak Pampati"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697269108821,
+      "content": "Please contact (+91 80744 50533) Vijay from 1acre.in for more details.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697269107359,
+      "content": "Visit 1acre.in website for more listings",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vinayak Pampati",
+      "timestamp_ms": 1697255795428,
+      "content": "Looking for lands in good price in bulk",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vinayak Pampati",
+      "timestamp_ms": 1697255784860,
+      "content": "Any number I can connect to",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vinayak Pampati",
+      "timestamp_ms": 1697255778553,
+      "content": "Hi good morning",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vinayak Pampati",
+  "is_still_participant": true,
+  "thread_path": "inbox/vinayakpampati_1283199639745602",
+  "magic_words": [
+    
+  ]
+}

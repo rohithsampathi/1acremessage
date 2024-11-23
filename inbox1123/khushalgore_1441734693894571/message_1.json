@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Khushal Gore"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720236511030,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720236510133,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Khushal Gore",
+      "timestamp_ms": 1720184420987,
+      "content": "Interested for 40 acres",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Khushal Gore",
+  "is_still_participant": true,
+  "thread_path": "inbox/khushalgore_1441734693894571",
+  "magic_words": [
+    
+  ]
+}

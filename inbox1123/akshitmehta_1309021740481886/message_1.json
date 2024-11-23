@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Akshit Mehta"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723302021825,
+      "content": "We currently only operate in telangana. \n\nWill keep you posted when we launch in other states",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akshit Mehta",
+      "timestamp_ms": 1723297967659,
+      "content": "Do you also sell agriculture land in Rajasthan?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Akshit Mehta",
+  "is_still_participant": true,
+  "thread_path": "inbox/akshitmehta_1309021740481886",
+  "magic_words": [
+    
+  ]
+}

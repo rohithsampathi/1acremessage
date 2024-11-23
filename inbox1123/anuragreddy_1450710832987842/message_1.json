@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Anurag Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anurag Reddy",
+      "timestamp_ms": 1724991176887,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724980221231,
+      "content": "Hi, Please contact Srikar 8341149011, from the team. He'll help you with your requirement.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anurag Reddy",
+      "timestamp_ms": 1724954690064,
+      "content": "Hey do you guys deal plots for development? \nI am a developer and looking for lands",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Anurag Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/anuragreddy_1450710832987842",
+  "magic_words": [
+    
+  ]
+}

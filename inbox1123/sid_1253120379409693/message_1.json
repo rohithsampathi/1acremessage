@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Sid"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709608313907,
+      "content": "He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709608306560,
+      "content": "Please contact Ratna Kiran \n9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709608299857,
+      "content": "Sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sid",
+      "timestamp_ms": 1709606562498,
+      "content": "Hey \nI wanted to discuss about the recent posting about a land in Maharastra",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sid",
+  "is_still_participant": true,
+  "thread_path": "inbox/sid_1253120379409693",
+  "magic_words": [
+    
+  ]
+}

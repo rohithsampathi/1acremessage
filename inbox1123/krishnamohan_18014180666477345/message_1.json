@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Krishna Mohan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Krishna Mohan",
+      "timestamp_ms": 1708331277306,
+      "content": "Moinabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708264632442,
+      "content": "Sure. If I may know what kind of budget/area we are looking at.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Krishna Mohan",
+      "timestamp_ms": 1708263716646,
+      "content": "No .. this is first time",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708222764192,
+      "content": "Have you talked to anyone at 1acre before?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Krishna Mohan",
+      "timestamp_ms": 1708217252741,
+      "content": "Hi \u00e2\u0080\u00a6 can you give your number so I can call you. I\u00e2\u0080\u0099m interested in buying again land in moinabad just want to talk to you about it.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Krishna Mohan",
+  "is_still_participant": true,
+  "thread_path": "inbox/krishnamohan_18014180666477345",
+  "magic_words": [
+    
+  ]
+}

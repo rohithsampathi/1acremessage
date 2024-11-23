@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Himad Ali"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701355114275,
+      "content": "Hi , for more details please visit our website :https://www.1acre.in/, contact:7780122120",
+      "share": {
+        "link": "https://www.1acre.in/",
+        "share_text": "Hi , for more details please visit our website :https://www.1acre.in/, contact:7780122120"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Himad Ali",
+      "timestamp_ms": 1701346800802,
+      "content": "As u said in post around 13lakes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Himad Ali",
+      "timestamp_ms": 1701346786152,
+      "content": "I want to see one acre land in sangareddy",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Himad Ali",
+      "timestamp_ms": 1701346767910,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Himad Ali",
+  "is_still_participant": true,
+  "thread_path": "inbox/himadali_1339375870794311",
+  "magic_words": [
+    
+  ]
+}

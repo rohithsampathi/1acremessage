@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Suman Paturi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Suman Paturi",
+      "timestamp_ms": 1701892340847,
+      "content": "Ok thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701757642201,
+      "content": "Hi,you can connect with Vijay, 7780122120.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Suman Paturi",
+      "timestamp_ms": 1701754135593,
+      "content": "Hi\nDo you also help in selling plots in and around Hyderabad",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Suman Paturi",
+  "is_still_participant": true,
+  "thread_path": "inbox/sumanpaturi_1295762061822115",
+  "magic_words": [
+    
+  ]
+}

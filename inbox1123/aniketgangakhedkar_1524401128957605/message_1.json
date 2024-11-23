@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Aniket Gangakhedkar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727774288029,
+      "content": "Hello , \n\nDue to unforeseen demand , we are not able to address each request so we have decided to digitised all lakes around hyderabad and make it accessible for free for everyone.\n\nTo help prioritise the digitisation process, fill the following form with your requirements. We will inform you once your required lake is digitised. \nRequirement form : https://forms.gle/LFThdXChRzH8Uz6M6 \n\nThanks for your patience.",
+      "share": {
+        "link": "https://forms.gle/LFThdXChRzH8Uz6M6",
+        "share_text": "Hello , \n\nDue to unforeseen demand , we are not able to address each request so we have decided to digitised all lakes around hyderabad and make it accessible for free for everyone.\n\nTo help prioritise the digitisation process, fill the following form with your requirements. We will inform you once your required lake is digitised. \nRequirement form : https://forms.gle/LFThdXChRzH8Uz6M6 \n\nThanks for your patience."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aniket Gangakhedkar",
+      "timestamp_ms": 1727645339372,
+      "content": "Hi - Can you please share Musi river FTL and Buffer zone map for Narsingi area??",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Aniket Gangakhedkar",
+  "is_still_participant": true,
+  "thread_path": "inbox/aniketgangakhedkar_1524401128957605",
+  "magic_words": [
+    
+  ]
+}

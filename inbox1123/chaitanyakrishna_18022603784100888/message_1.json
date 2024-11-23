@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Chaitanya Krishna"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Chaitanya Krishna",
+      "timestamp_ms": 1711167460940,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711167297512,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chaitanya Krishna",
+      "timestamp_ms": 1711162974179,
+      "content": "In nagar kurnool district",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chaitanya Krishna",
+      "timestamp_ms": 1711162961752,
+      "content": "On banglore high way main road 2 bit",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chaitanya Krishna",
+      "timestamp_ms": 1711162946910,
+      "content": "We have 8 accres land for sale",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chaitanya Krishna",
+      "timestamp_ms": 1711162927051,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Chaitanya Krishna",
+  "is_still_participant": true,
+  "thread_path": "inbox/chaitanyakrishna_18022603784100888",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Harin Reddy Illuri"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721025698652,
+      "content": "1acre.in/subscribe  Please explore.",
+      "share": {
+        "link": "http://1acre.in/subscribe",
+        "share_text": "1acre.in/subscribe  Please explore."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721023140611,
+      "content": "Are you interested in purchasing this half-acre plot in Ananthagiri Hills?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721023140472,
+      "content": "Please tap on one of the options provided to answer this question.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harin Reddy Illuri",
+      "timestamp_ms": 1721023140157,
+      "content": "Looking for 3-5 acres of land in shadnagar shamshabad road",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721023107028,
+      "content": "Are you interested in purchasing this half-acre plot in Ananthagiri Hills?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721023106906,
+      "content": "Please tap on one of the options provided to answer this question.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harin Reddy Illuri",
+      "timestamp_ms": 1721023106410,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Harin Reddy Illuri",
+  "is_still_participant": true,
+  "thread_path": "inbox/harinreddyilluri_1368529441214199",
+  "magic_words": [
+    
+  ]
+}

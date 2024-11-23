@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Aejaz"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704169252661,
+      "content": "Hello, please tell",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aejaz",
+      "timestamp_ms": 1704165710299,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Aejaz",
+  "is_still_participant": true,
+  "thread_path": "inbox/aejaz_1371331674263562",
+  "magic_words": [
+    
+  ]
+}

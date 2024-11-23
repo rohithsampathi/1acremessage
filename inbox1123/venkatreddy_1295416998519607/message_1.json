@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Venkat Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1700130906746,
+      "content": "You can contact 9505778117 pratheek he can help you with your enquiry",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Venkat Reddy",
+      "timestamp_ms": 1700127056439,
+      "content": "Hi, I\u00e2\u0080\u0099m looking for and acre or two around 40-50 kms away from Hyderabad. Would like to get in touch with you.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Venkat Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/venkatreddy_1295416998519607",
+  "magic_words": [
+    
+  ]
+}

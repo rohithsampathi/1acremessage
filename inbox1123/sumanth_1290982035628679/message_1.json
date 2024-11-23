@@ -1,0 +1,104 @@
+{
+  "participants": [
+    {
+      "name": "Sumanth"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumanth",
+      "timestamp_ms": 1712096273361,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712096267270,
+      "content": "1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712096262123,
+      "content": "Also, plz explore the site in general",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sumanth",
+      "timestamp_ms": 1712096220313,
+      "content": "How do i subscribe?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712096208640,
+      "content": "1acre.in/subscribe",
+      "share": {
+        "link": "http://1acre.in/subscribe",
+        "share_text": "1acre.in/subscribe"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712096192681,
+      "content": "Hi, if you subscribe, you will get access to the mapview. Finding prices in an area would be much easy.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sumanth",
+      "timestamp_ms": 1712082811641,
+      "content": "Is there a way to find what the price is?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sumanth",
+      "timestamp_ms": 1712082803881,
+      "content": "Hello, I\u00e2\u0080\u0099ve land at Nizamabad, Bodhan mandal.\nBut as an NRI I\u00e2\u0080\u0099m unable to get the real rates and people are bluffing a lot",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sumanth",
+      "timestamp_ms": 1704943982686,
+      "content": "Thank You",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704928444523,
+      "content": "you can connect with pratheek, 9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sumanth",
+      "timestamp_ms": 1704909266483,
+      "content": "Do you have anything around shankarpalli?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704903915417,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sumanth",
+      "timestamp_ms": 1704899151134,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sumanth",
+  "is_still_participant": true,
+  "thread_path": "inbox/sumanth_1290982035628679",
+  "magic_words": [
+    
+  ]
+}

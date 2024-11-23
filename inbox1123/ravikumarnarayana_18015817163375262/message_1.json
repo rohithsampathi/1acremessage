@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Ravi Kumar Narayana"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ravi Kumar Narayana",
+      "timestamp_ms": 1720109579227,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719536202940,
+      "content": "1000 we did introduce in the middle but not for life long. It was for 3 months.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Ravi Kumar Narayana",
+          "timestamp": 1720109579
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravi Kumar Narayana",
+      "timestamp_ms": 1719514385678,
+      "content": "Even at 1000, even with 10% of followers turned into subscribers, you will be making much money.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravi Kumar Narayana",
+      "timestamp_ms": 1719514303105,
+      "content": "I thought of subscribing when you kept 1000 for life long fee but stopped my plan once you made it 5000.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ravi Kumar Narayana",
+  "is_still_participant": true,
+  "thread_path": "inbox/ravikumarnarayana_18015817163375262",
+  "magic_words": [
+    
+  ]
+}

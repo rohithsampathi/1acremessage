@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Sunny Rajwani"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717756657014,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sunny Rajwani",
+      "timestamp_ms": 1717754967569,
+      "content": "Hey",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sunny Rajwani",
+  "is_still_participant": true,
+  "thread_path": "inbox/sunnyrajwani_1391642032230658",
+  "magic_words": [
+    
+  ]
+}

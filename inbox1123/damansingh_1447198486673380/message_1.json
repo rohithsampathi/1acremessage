@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009f\u0090\u0092Daman singh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709104325219,
+      "content": "Ok. Will tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u0090\u0092Daman singh",
+      "timestamp_ms": 1709104113626,
+      "content": "Or any plots on which loan is available",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u0090\u0092Daman singh",
+      "timestamp_ms": 1709104096987,
+      "content": "Farming land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u0090\u0092Daman singh",
+      "timestamp_ms": 1709104091191,
+      "content": "Confirm me when u r",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709104089013,
+      "content": "Are you looking for anything specific?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709104077449,
+      "content": "Not as of now. Only Telangana but soon, in Karnataka/Bangalore.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u0090\u0092Daman singh",
+      "timestamp_ms": 1709103353679,
+      "content": "Are you also giving service in Bangalore",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00f0\u009f\u0090\u0092Daman singh",
+  "is_still_participant": true,
+  "thread_path": "inbox/damansingh_1447198486673380",
+  "magic_words": [
+    
+  ]
+}

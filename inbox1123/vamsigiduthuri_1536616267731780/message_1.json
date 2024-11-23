@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Vamsi Giduthuri"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729240723262,
+      "content": "Hello Vamsi, \n\nWe are digitising HMDA lakes with their FTL and buffer zones so people can understand if their lands falls in these zones instantly. \n\nCheck the link : www.1acre.in/lakes\n\nWe believe it helps a lot of people who are currently in distress. See if you can help spread the word about this :) \n\nThanks,\nTeam 1acre.in",
+      "share": {
+        "link": "http://www.1acre.in/lakes",
+        "share_text": "Hello Vamsi, \n\nWe are digitising HMDA lakes with their FTL and buffer zones so people can understand if their lands falls in these zones instantly. \n\nCheck the link : www.1acre.in/lakes\n\nWe believe it helps a lot of people who are currently in distress. See if you can help spread the word about this :) \n\nThanks,\nTeam 1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vamsi Giduthuri",
+  "is_still_participant": true,
+  "thread_path": "inbox/vamsigiduthuri_1536616267731780",
+  "magic_words": [
+    
+  ]
+}

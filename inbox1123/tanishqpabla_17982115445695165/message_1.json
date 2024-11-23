@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Tanishq Pabla"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720245282264,
+      "content": "This account can't receive your message because they don't allow new message requests from everyone.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720245280246,
+      "content": "Please DM",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Tanishq Pabla",
+  "is_still_participant": true,
+  "thread_path": "inbox/tanishqpabla_17982115445695165",
+  "magic_words": [
+    
+  ]
+}

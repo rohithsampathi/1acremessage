@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Raj Reddy | Travel Thirstier \u00f0\u009f\u008f\u0095\u00ef\u00b8\u008f| RoyalEnfieldRider\u00f0\u009f\u008f\u008d\u00ef\u00b8\u008f"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705978285070,
+      "content": "Hi, sorry we won't be of much help here.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raj Reddy | Travel Thirstier \u00f0\u009f\u008f\u0095\u00ef\u00b8\u008f| RoyalEnfieldRider\u00f0\u009f\u008f\u008d\u00ef\u00b8\u008f",
+      "timestamp_ms": 1705966793263,
+      "content": "Also on loan basis I want to purchase a flat or house in goa under 40 lakhs... can you help me please",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raj Reddy | Travel Thirstier \u00f0\u009f\u008f\u0095\u00ef\u00b8\u008f| RoyalEnfieldRider\u00f0\u009f\u008f\u008d\u00ef\u00b8\u008f",
+      "timestamp_ms": 1705966758460,
+      "content": "Anna I have a requirement anna.... I have 5 lakhs in which can I get agriculture land anywhere....",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Raj Reddy | Travel Thirstier \u00f0\u009f\u008f\u0095\u00ef\u00b8\u008f| RoyalEnfieldRider\u00f0\u009f\u008f\u008d\u00ef\u00b8\u008f",
+  "is_still_participant": true,
+  "thread_path": "inbox/rajreddytravelthirstierroyalenfieldrider_1339130020818701",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Sujani Varma Sangaraju"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701525029494,
+      "content": "Hy can we have your contact number , our team will connect with you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sujani Varma Sangaraju",
+      "timestamp_ms": 1701519006174,
+      "content": "Any suggestions",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sujani Varma Sangaraju",
+      "timestamp_ms": 1701519001922,
+      "content": "We are also looking for land under 10-15laks budget near to Hyderabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sujani Varma Sangaraju",
+      "timestamp_ms": 1701518973128,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sujani Varma Sangaraju",
+  "is_still_participant": true,
+  "thread_path": "inbox/sujanivarmasangaraju_1261423871918088",
+  "magic_words": [
+    
+  ]
+}

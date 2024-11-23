@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "zar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707029640724,
+      "content": "He'll call back.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "zar",
+      "timestamp_ms": 1707026159303,
+      "content": "Not picking",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "zar",
+      "timestamp_ms": 1707026135784,
+      "content": "9989738297",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707025630647,
+      "content": "Hi, Please contact Harish\n9989738297. He'll help you with your query.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "zar",
+      "timestamp_ms": 1707024048733,
+      "content": "Can I buy 50 acre",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "zar",
+  "is_still_participant": true,
+  "thread_path": "inbox/zar_1289121819146742",
+  "magic_words": [
+    
+  ]
+}

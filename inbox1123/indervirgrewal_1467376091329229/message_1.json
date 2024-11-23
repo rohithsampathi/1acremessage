@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Indervir Grewal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Indervir Grewal",
+      "timestamp_ms": 1720098091194,
+      "content": "Okay thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720098059436,
+      "content": "The lands we post are facilitated lands by us where we help make the transaction happen\n\nIn these transactions , we also and take a facilitation fee of 2%\n\nIf the land is in Telangana and you are okay with the terms , we can consider your land for facilitation.\n\nFor more details , you can contact Mr vijay at 9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Indervir Grewal",
+      "timestamp_ms": 1720097278414,
+      "content": "For selling",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Indervir Grewal",
+      "timestamp_ms": 1720097275708,
+      "content": "Charge",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Indervir Grewal",
+      "timestamp_ms": 1720097273696,
+      "content": "How much commission do you chard",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Indervir Grewal",
+  "is_still_participant": true,
+  "thread_path": "inbox/indervirgrewal_1467376091329229",
+  "magic_words": [
+    
+  ]
+}

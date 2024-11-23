@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Alok Agarwal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706857538529,
+      "content": "Hi, Please contact Harish\n9989738297",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Alok Agarwal",
+      "timestamp_ms": 1706857193716,
+      "content": "plz send your mobile number",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3293205304409851297"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Alok Agarwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/alokagarwal_18007721096262264",
+  "magic_words": [
+    
+  ]
+}

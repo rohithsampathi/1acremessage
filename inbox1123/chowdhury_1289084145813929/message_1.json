@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Chowdhury"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Chowdhury",
+      "timestamp_ms": 1711480484288,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711472239428,
+      "content": "Hi, Please contact Pratheek \n9390674324, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chowdhury",
+      "timestamp_ms": 1711470786507,
+      "content": "Hi, can u send more details about this 5000acre landbank project",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Chowdhury",
+  "is_still_participant": true,
+  "thread_path": "inbox/chowdhury_1289084145813929",
+  "magic_words": [
+    
+  ]
+}

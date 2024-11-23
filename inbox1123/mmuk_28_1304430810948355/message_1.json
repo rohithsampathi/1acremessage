@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "mmuk_28"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708765562197,
+      "content": "Thankyou for letting us know. You can contact Ratna Kiran +919390155412 who can guide you further with details.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "mmuk_28",
+      "timestamp_ms": 1708765561484,
+      "content": "Yes, interested in Ananthagiri Hills Plot",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "mmuk_28",
+  "is_still_participant": true,
+  "thread_path": "inbox/mmuk_28_1304430810948355",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "hussain J"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706147787303,
+      "content": "Sure. We'll ping you on WhatsApp",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "hussain J",
+      "timestamp_ms": 1706124315495,
+      "content": "Plz whatsapp me... I rarely use Instagram",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "hussain J",
+      "timestamp_ms": 1706124293030,
+      "content": "Im a British passport with oci.... My wife and kids are Indian citizens",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704775808867,
+      "content": "Thanks. Are you an Indian citizen?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "hussain J",
+      "timestamp_ms": 1704743494374,
+      "content": "+971555425908",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "hussain J",
+      "timestamp_ms": 1704743483886,
+      "content": "Interested in investing from dubai",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "hussain J",
+  "is_still_participant": true,
+  "thread_path": "inbox/hussainj_1326845482045027",
+  "magic_words": [
+    
+  ]
+}

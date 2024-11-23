@@ -1,0 +1,74 @@
+{
+  "participants": [
+    {
+      "name": "Rajkiran Bandhakavi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702995249246,
+      "content": "Sure. This is my number - Ratna Kiran 7661063355",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rajkiran Bandhakavi",
+      "timestamp_ms": 1702977226485,
+      "content": "I really appreciate your honesty and integrity in this regard. I will be visiting hyd again in mid February and will be happy to have a chat with you. However I will be happy to ask my partner to visit you earlier if that's okay with you?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1702995197
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rajkiran Bandhakavi",
+      "timestamp_ms": 1702977107020,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702969878696,
+      "content": "Hello Rajkiran garu, generally we hold back from advising people where to invest etc. We take a neutral stance on this subject and stick to the legal aspects of the transaction. There are multiple people who explain the upcoming projects and infrastructure around the city. May be you can get an idea from them. How ever we would be happy to understand and discuss. You can drop by our office  sometime.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Rajkiran Bandhakavi",
+          "timestamp": 1702977107
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rajkiran Bandhakavi",
+      "timestamp_ms": 1702963774447,
+      "content": "What's your opinion on kadthal and nearby location and if we do a farm plots project there, what is the expected price point per Sq yard",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rajkiran Bandhakavi",
+      "timestamp_ms": 1702963725737,
+      "content": "I have been seeing your videos and have a high regard for your point of view",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rajkiran Bandhakavi",
+      "timestamp_ms": 1702963312875,
+      "content": "Good morning Ratna Kiran garu, I am Rajkiran Bandhakavi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rajkiran Bandhakavi",
+  "is_still_participant": true,
+  "thread_path": "inbox/rajkiranbandhakavi_1178091320244535",
+  "magic_words": [
+    
+  ]
+}

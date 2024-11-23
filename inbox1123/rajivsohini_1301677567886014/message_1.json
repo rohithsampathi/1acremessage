@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Rajiv Sohini"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715941034613,
+      "content": "Sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rajiv Sohini",
+      "timestamp_ms": 1715941013006,
+      "content": "Sure, please have him call me today as we plan to visit the site tomorrow",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715940980499,
+      "content": "Sure. Vijay, from the team will call you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rajiv Sohini",
+      "timestamp_ms": 1715940344314,
+      "content": "Interested in Anantagiri hills half acre farm plots. Planning to visit tomorrow. Please share the location and site contact person info. My contact no is 9000331571",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rajiv Sohini",
+  "is_still_participant": true,
+  "thread_path": "inbox/rajivsohini_1301677567886014",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "RealEstate_Telugu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "RealEstate_Telugu",
+      "timestamp_ms": 1730529730957,
+      "content": "RealEstate_Telugu sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DBxbxM6PIuI/?id=3490693314560953224_69430995391",
+        "share_text": "For More Details\u00f0\u009f\u0093\u00b1call : 8801614092\n.\n.\n.\n.\n.\n.\n.\n.\n#realestate #hyderabad #farmhouse  #telangana #agriculture #commercialland #nationalhighway #tollgate #investment #realtor #real #luxury #plot #landforsale",
+        "original_content_owner": "realestate_telugu"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "RealEstate_Telugu",
+  "is_still_participant": true,
+  "thread_path": "inbox/realestate_telugu_17853626565315392",
+  "magic_words": [
+    
+  ]
+}

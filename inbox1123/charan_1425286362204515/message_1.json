@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "CHA RAN"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717918781362,
+      "content": "Sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "CHA RAN",
+      "timestamp_ms": 1717918746373,
+      "content": "If iam not reachable on call please ask them to connect me on WhatsApp on the same number.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1717918777
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "CHA RAN",
+      "timestamp_ms": 1717918711685,
+      "content": "Sure thanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717914427819,
+      "content": "Hello Charan, \nSure. Vijay, from the team will give you a call, to discuss.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "CHA RAN",
+      "timestamp_ms": 1717910226730,
+      "content": "Hello there, \nWe are looking for 50 acre land within 80km around hyderabad, under 1cr price. It's an immediate requirement \nPlease contact me if you had any lead \nThanks \nCharan Gorantla \n9948245566",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "CHA RAN",
+  "is_still_participant": true,
+  "thread_path": "inbox/charan_1425286362204515",
+  "magic_words": [
+    
+  ]
+}

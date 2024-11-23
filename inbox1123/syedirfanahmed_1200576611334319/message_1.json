@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Syed Irfan Ahmed"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Syed Irfan Ahmed",
+      "timestamp_ms": 1694890077500,
+      "content": "Will you sell the lands",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1694704056614,
+      "content": "+91 80744 50533 Vijay 1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "+91 80744 50533 Vijay 1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Syed Irfan Ahmed",
+      "timestamp_ms": 1694700018840,
+      "content": "We have done Farm Land Project in Vikarabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Syed Irfan Ahmed",
+      "timestamp_ms": 1694700001358,
+      "content": "Wt required for your post",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Syed Irfan Ahmed",
+      "timestamp_ms": 1694699962780,
+      "content": "Hello sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Syed Irfan Ahmed",
+  "is_still_participant": true,
+  "thread_path": "inbox/syedirfanahmed_1200576611334319",
+  "magic_words": [
+    
+  ]
+}

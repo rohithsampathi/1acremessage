@@ -1,0 +1,102 @@
+{
+  "participants": [
+    {
+      "name": "s_Keerthy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "s_Keerthy",
+      "timestamp_ms": 1707194389352,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707192945287,
+      "content": "Hi, we only do land. Thanks for reaching out.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "s_Keerthy",
+          "timestamp": 1707194389
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "s_Keerthy",
+      "timestamp_ms": 1707190387778,
+      "content": "I can give you 1% commission on sale.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "s_Keerthy",
+      "timestamp_ms": 1707190365268,
+      "content": "To speed up process, reaching few other",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "s_Keerthy",
+      "timestamp_ms": 1707190349042,
+      "content": "But nothing finalized yet",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "s_Keerthy",
+      "timestamp_ms": 1707190339738,
+      "content": "This one\u00e2\u0080\u00a6I got multiple calls from that page",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "s_Keerthy",
+      "timestamp_ms": 1707190320798,
+      "content": "s_Keerthy sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C2wF_2WsM08/?id=3292157705530166588_58273063143",
+        "share_text": "What\u00e2\u0080\u0099s app only 9642400016 \n\nStilt +3 floors & Penthouse\nGHMC approved \nLand area: 240 Sq Yards\nEach Floor 1900 SFT\nPent house 1100 SFT\n\nBuilding back side\n\n2 mints drive to Kothapet Fruit Market \n5 mints drive to Tims (Telangana Institute of Sciences)\n2 mints drive to Kothapet-Vijayawada Highway & metro line\n\n5 mints drive to Dilsukhnagar Baba temple \n2 mints drive to Kothapet metro station\n#commercialbuildingsforsale #hyderbad",
+        "original_content_owner": "hyderabad_property_6"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "s_Keerthy",
+      "timestamp_ms": 1707190285547,
+      "content": "Trying to sell due to financial difficulties",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "s_Keerthy",
+      "timestamp_ms": 1707190263490,
+      "content": "I have a property in prime area in Hyderabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "s_Keerthy",
+      "timestamp_ms": 1707190245708,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707188289519,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "s_Keerthy",
+      "timestamp_ms": 1707186933510,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "s_Keerthy",
+  "is_still_participant": true,
+  "thread_path": "inbox/s_keerthy_1265082828215586",
+  "magic_words": [
+    
+  ]
+}

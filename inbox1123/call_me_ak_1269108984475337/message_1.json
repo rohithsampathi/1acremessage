@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "call_ me_ A.k"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718462628529,
+      "content": "1acre.in is a listing platform of verified lands.\nWe currently have over 2500 listings all over Telangana.\nYou can call the sellers directly.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "1acre.in is a listing platform of verified lands.\nWe currently have over 2500 listings all over Telangana.\nYou can call the sellers directly."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "call_ me_ A.k",
+      "timestamp_ms": 1718459265231,
+      "content": "kokapat any development sit",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718450431634,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "call_ me_ A.k",
+      "timestamp_ms": 1718446687166,
+      "content": "hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "call_ me_ A.k",
+  "is_still_participant": true,
+  "thread_path": "inbox/call_me_ak_1269108984475337",
+  "magic_words": [
+    
+  ]
+}

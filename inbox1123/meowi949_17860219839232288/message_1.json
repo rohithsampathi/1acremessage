@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "meowi949"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725726010698,
+      "content": "Just give us your number for now.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "meowi949",
+      "timestamp_ms": 1725722056352,
+      "content": "What r the procedure?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "meowi949",
+      "timestamp_ms": 1725722049585,
+      "content": "Okeyy",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725718638270,
+      "content": "Hi, we do take 1% for facilitating a transaction.\nYou can also list directly and for free. \nWe are launching Karnataka soon. \nPlz drop your number. We'll reach out to you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "meowi949",
+      "timestamp_ms": 1725710966013,
+      "content": "If land is sold do u take any percentage ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "meowi949",
+      "timestamp_ms": 1725710931800,
+      "content": "What r the procedure?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "meowi949",
+      "timestamp_ms": 1725710917582,
+      "content": "And i wanna sell my land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "meowi949",
+      "timestamp_ms": 1725710910977,
+      "content": "I'm from Banglore",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "meowi949",
+  "is_still_participant": true,
+  "thread_path": "inbox/meowi949_17860219839232288",
+  "magic_words": [
+    
+  ]
+}

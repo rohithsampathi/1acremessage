@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Kasam Rohit"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721368470994,
+      "content": "1acre.in/subscribe  Please explore.",
+      "share": {
+        "link": "http://1acre.in/subscribe",
+        "share_text": "1acre.in/subscribe  Please explore."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kasam Rohit",
+      "timestamp_ms": 1721368211863,
+      "content": "Bod uppal land rate entha",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721367871668,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kasam Rohit",
+      "timestamp_ms": 1721366487480,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kasam Rohit",
+  "is_still_participant": true,
+  "thread_path": "inbox/kasamrohit_18012461204607510",
+  "magic_words": [
+    
+  ]
+}

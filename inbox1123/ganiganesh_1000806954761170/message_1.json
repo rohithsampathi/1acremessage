@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Gani Ganesh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720018365820,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gani Ganesh",
+      "timestamp_ms": 1720016265576,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Gani Ganesh",
+  "is_still_participant": true,
+  "thread_path": "inbox/ganiganesh_1000806954761170",
+  "magic_words": [
+    
+  ]
+}

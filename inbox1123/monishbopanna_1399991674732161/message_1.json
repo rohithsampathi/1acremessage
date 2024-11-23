@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Monish Bopanna"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Monish Bopanna",
+      "timestamp_ms": 1708527816137,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Monish Bopanna",
+  "is_still_participant": true,
+  "thread_path": "inbox/monishbopanna_1399991674732161",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Risshiagarawal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Risshiagarawal",
+      "timestamp_ms": 1711698182872,
+      "content": "Ok thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711698123172,
+      "content": "Please contact Vijay\n9959994737, from the team. \nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711698050664,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Risshiagarawal",
+      "timestamp_ms": 1711697023119,
+      "content": "Medchal",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711696786846,
+      "content": "Hi, Where is the land?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Risshiagarawal",
+      "timestamp_ms": 1711695935654,
+      "content": "I have got 12acre of land..need to sell it..",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Risshiagarawal",
+  "is_still_participant": true,
+  "thread_path": "inbox/risshiagarawal_1319206329471319",
+  "magic_words": [
+    
+  ]
+}

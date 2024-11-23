@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Varun Sharma"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Varun Sharma",
+      "timestamp_ms": 1718836450861,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718836352338,
+      "content": "We currently only operate in telangana. \n\nWill keep you posted when we launch in other states",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Varun Sharma",
+          "timestamp": 1718836450
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Varun Sharma",
+      "timestamp_ms": 1718829974807,
+      "content": "Hey, do you have lands in UP Haryana?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Varun Sharma",
+  "is_still_participant": true,
+  "thread_path": "inbox/varunsharma_1453119479422473",
+  "magic_words": [
+    
+  ]
+}

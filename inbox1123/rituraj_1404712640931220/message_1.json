@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Ritu Raj"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ritu Raj",
+      "timestamp_ms": 1720261499108,
+      "content": "Hi , thanks for your reply . \n\nLocation Agonda \nArea - 2589 Sq meter\nPrice - 20,000/- per sq meter",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1720262325
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720095019345,
+      "content": "Hi, currently we are listing only Telangana.\n\nWe'll start Goa soon. Will keep you posted. \n\nBTW, Could you tell us the location, extent and price. \nWe get a lot of enquiries. We'll connect if someone is interested.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ritu Raj",
+      "timestamp_ms": 1720093774691,
+      "content": "Hi , I have a personal orchid land in Goa for Sale , please let me know how we can get in touch with you for the same . Thanks",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ritu Raj",
+  "is_still_participant": true,
+  "thread_path": "inbox/rituraj_1404712640931220",
+  "magic_words": [
+    
+  ]
+}

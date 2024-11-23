@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Venkat Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729239693278,
+      "content": "We have digitised most lakes on google maps and now you can check directly. \n\nLink : www.1acre.in/lakes\n\nIf your lake is mentioned on HMDA website and is not there on our website, you can request for it .\n\nWe will digitise it on priority basis",
+      "share": {
+        "link": "http://www.1acre.in/lakes",
+        "share_text": "We have digitised most lakes on google maps and now you can check directly. \n\nLink : www.1acre.in/lakes\n\nIf your lake is mentioned on HMDA website and is not there on our website, you can request for it .\n\nWe will digitise it on priority basis"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Venkat Reddy",
+      "timestamp_ms": 1727671687231,
+      "content": "Please let me know your best contact number to discuss on this",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Venkat Reddy",
+      "timestamp_ms": 1727671669991,
+      "content": "Hi Team, I am looking for your support to check on a under construction gated community. Is it under ftl zone or not",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Venkat Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/venkatreddy_1565712274828266",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "santosh yelamarty"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725862500158,
+      "content": "Hi, Please contact Srikar 8341149011, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "santosh yelamarty",
+      "timestamp_ms": 1725856138805,
+      "content": "Hi is this still available ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "santosh yelamarty",
+      "timestamp_ms": 1725856137783,
+      "content": "santosh sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C-fPv3FyPgg/?id=3431530700745537568_47651711013",
+        "share_text": "SOLD !",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "santosh yelamarty",
+  "is_still_participant": true,
+  "thread_path": "inbox/santoshyelamarty_18036303878175880",
+  "magic_words": [
+    
+  ]
+}

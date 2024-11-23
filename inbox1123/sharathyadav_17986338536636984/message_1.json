@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Sharath Yadav\u00e2\u009c\u00a8\u00f0\u009f\u0090\u00ba"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712309616776,
+      "content": "Please contact Vijay\n9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1712309604489,
+      "content": "Hi, we'll be listing plots starting from next week.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sharath Yadav\u00e2\u009c\u00a8\u00f0\u009f\u0090\u00ba",
+      "timestamp_ms": 1712309088914,
+      "content": "Bro I have a plot in Ghatkesar can you help me in selling the plot",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sharath Yadav\u00e2\u009c\u00a8\u00f0\u009f\u0090\u00ba",
+  "is_still_participant": true,
+  "thread_path": "inbox/sharathyadav_17986338536636984",
+  "magic_words": [
+    
+  ]
+}

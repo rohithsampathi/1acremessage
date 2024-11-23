@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Hemanth Manda"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709031520913,
+      "content": "https://www.1acre.in/subscribe\n\nPlease go through and subscribe (or) click 'talk to us->' at the end of the page and fill in the form. Someone from the team will get back to you, to dicuss on your requirement.",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "https://www.1acre.in/subscribe\n\nPlease go through and subscribe (or) click 'talk to us->' at the end of the page and fill in the form. Someone from the team will get back to you, to dicuss on your requirement."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hemanth Manda",
+      "timestamp_ms": 1709027787798,
+      "content": "1-2 acres plz suggest",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hemanth Manda",
+      "timestamp_ms": 1709027782015,
+      "content": "Hi i am looking for land within 50kms of hyd",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Hemanth Manda",
+  "is_still_participant": true,
+  "thread_path": "inbox/hemanthmanda_1354054395995058",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "kr"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704553607715,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "kr",
+      "timestamp_ms": 1704544640988,
+      "content": "Hi We are interested in 100 acres..",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "kr",
+  "is_still_participant": true,
+  "thread_path": "inbox/kr_17990597078591014",
+  "magic_words": [
+    
+  ]
+}

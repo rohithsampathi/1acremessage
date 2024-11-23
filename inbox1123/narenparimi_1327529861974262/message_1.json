@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "Naren Parimi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725718693423,
+      "content": "Hi, Please contact Srikar 8341149011, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Naren Parimi",
+      "timestamp_ms": 1725687940387,
+      "content": "Intrested",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Naren Parimi",
+      "timestamp_ms": 1725687939761,
+      "content": "Naren sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C--GlGXy_l2/?id=3440216103099038070_47651711013",
+        "share_text": "423 Sq Yds in Khanapur | \u00e2\u0082\u00b975,000 per Sq Yd | Near Neopolis | Link in bio \u00f0\u009f\u008c\u009f\n\nInterested?  contact the owner at +91 80082 45990\n \nPreliminary verification completed by 1acre.in\n\nIdeal for a small commercial building\nProposed 100\u00e2\u0080\u0099 road\n2 minutes from ORR\n300 meters from Shankarpally road\n\nDM us for more queries on buying, selling, or partnerships.\n\n#plot#landforsale #commercialland #khanapur #investment #propertyforsale #realestate #telangana #realestate",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707711590310,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team. He'll help you with the details.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Naren Parimi",
+      "timestamp_ms": 1707649365296,
+      "content": "Interested",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Naren Parimi",
+      "timestamp_ms": 1707649364390,
+      "content": "Naren sent an attachment.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Naren Parimi",
+  "is_still_participant": true,
+  "thread_path": "inbox/narenparimi_1327529861974262",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "arun_kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "arun_kumar",
+      "timestamp_ms": 1716178910629,
+      "content": "ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716169938234,
+      "content": "No. But you vou could have called the number and Found out as well.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "arun_kumar",
+      "timestamp_ms": 1716169273541,
+      "content": "please reply",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "arun_kumar",
+      "timestamp_ms": 1716168967766,
+      "content": "is there any joining or registration fee sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716168935770,
+      "content": "9032114737\nYou can talk to Bharath, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "arun_kumar",
+      "timestamp_ms": 1716167567157,
+      "content": "hello sir\nI need freelance job sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "arun_kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/arun_kumar_17965089335741491",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "AR RAHMAN"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720149537381,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720149536541,
+      "content": "Hi, Please contact Vijay 9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "AR RAHMAN",
+      "timestamp_ms": 1720120378054,
+      "content": "1573 sqrds for 86 lkhs neogotiable",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "AR RAHMAN",
+      "timestamp_ms": 1720120362711,
+      "content": "Hi my land for sale chevella",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "AR RAHMAN",
+  "is_still_participant": true,
+  "thread_path": "inbox/arrahman_1471204684279304",
+  "magic_words": [
+    
+  ]
+}

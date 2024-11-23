@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Bala Subrahmanyam Chinta"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bala Subrahmanyam Chinta",
+      "timestamp_ms": 1704514122870,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704508712696,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bala Subrahmanyam Chinta",
+      "timestamp_ms": 1704504370504,
+      "content": "Thx",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bala Subrahmanyam Chinta",
+      "timestamp_ms": 1704504369177,
+      "content": "Pls do share ur contacts",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bala Subrahmanyam Chinta",
+      "timestamp_ms": 1704504362704,
+      "content": "Good morning",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bala Subrahmanyam Chinta",
+      "timestamp_ms": 1704504359094,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Bala Subrahmanyam Chinta",
+  "is_still_participant": true,
+  "thread_path": "inbox/balasubrahmanyamchinta_1314899319906518",
+  "magic_words": [
+    
+  ]
+}

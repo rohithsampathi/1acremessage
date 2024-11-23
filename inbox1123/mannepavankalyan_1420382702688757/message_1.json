@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Manne Pavan Kalyan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719212641405,
+      "content": "He'll explain in detail.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719212633989,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719212633017,
+      "content": "Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719212621853,
+      "content": "We have more than 2300+ lands listed.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719212605458,
+      "content": "You can list on 1acre. Our website. A lot of agents have listed. They get direct calls and it is free.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manne Pavan Kalyan",
+      "timestamp_ms": 1719212384179,
+      "content": "medak",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719211467315,
+      "content": "Where are the lands?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manne Pavan Kalyan",
+      "timestamp_ms": 1719207506117,
+      "content": "what benfits can i get",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manne Pavan Kalyan",
+      "timestamp_ms": 1719207496879,
+      "content": "i have properties as a mediator",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Manne Pavan Kalyan",
+  "is_still_participant": true,
+  "thread_path": "inbox/mannepavankalyan_1420382702688757",
+  "magic_words": [
+    
+  ]
+}

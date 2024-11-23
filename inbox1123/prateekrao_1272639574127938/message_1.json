@@ -1,0 +1,85 @@
+{
+  "participants": [
+    {
+      "name": "Prateek Rao"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Prateek Rao",
+      "timestamp_ms": 1707040630056,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707040267517,
+      "content": "Our office is in Financial district. You will get a call from Harish. He'll fix up a meeting.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prateek Rao",
+      "timestamp_ms": 1707039875361,
+      "content": "Can you tell me where you office is? I would like to personally come",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prateek Rao",
+      "timestamp_ms": 1707039860462,
+      "content": "Hi, have not got the call back",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prateek Rao",
+      "timestamp_ms": 1707017635115,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706977525070,
+      "content": "Sure. Will the team to call you back.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prateek Rao",
+      "timestamp_ms": 1706970674268,
+      "content": "Hi, I have been trying to reach, but no one is taking calls. Can you have someone call back please?\n9985143214",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prateek Rao",
+      "timestamp_ms": 1706883089019,
+      "content": "Thank you , will call tomorrow",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1706885236
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706881220511,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prateek Rao",
+      "timestamp_ms": 1706878725925,
+      "content": "Hi I need to speak with someone in your team.\nI have couple of requirements",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Prateek Rao",
+  "is_still_participant": true,
+  "thread_path": "inbox/prateekrao_1272639574127938",
+  "magic_words": [
+    
+  ]
+}

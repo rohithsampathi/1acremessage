@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Pethamber VC"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pethamber VC",
+      "timestamp_ms": 1709309886631,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709300737065,
+      "content": "Please contact Ratna Kiran \n9390155412. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pethamber VC",
+      "timestamp_ms": 1709299873674,
+      "content": "Please send details on MH 40 acres venture",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pethamber VC",
+      "timestamp_ms": 1709299858277,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Pethamber VC",
+  "is_still_participant": true,
+  "thread_path": "inbox/pethambervc_1514709019922942",
+  "magic_words": [
+    
+  ]
+}

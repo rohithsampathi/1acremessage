@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Preeti"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Preeti",
+      "timestamp_ms": 1704858458562,
+      "content": "Thank you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704858152758,
+      "content": "https://www.1acre.in/subscribe\n\nPlease go through and fill in the form at the end of the page. We'll get back to you.",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "https://www.1acre.in/subscribe\n\nPlease go through and fill in the form at the end of the page. We'll get back to you."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704858134758,
+      "content": "Hi, sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Preeti",
+      "timestamp_ms": 1704856365130,
+      "content": "Good morning\nI am a resident of Hyderabad and interested in buying farmland. \n\nCame across your bit of information. \n\nIs it possible for me to call and speak personally?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Preeti",
+  "is_still_participant": true,
+  "thread_path": "inbox/preeti_17991057893591014",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "participants": [
+    {
+      "name": "Property Sales Hyderabad"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Property Sales Hyderabad",
+      "timestamp_ms": 1728637135034,
+      "content": "Our pleasure\u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Property Sales Hyderabad",
+      "timestamp_ms": 1728637087762,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728634374508,
+      "content": "Thanks very much :)",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Property Sales Hyderabad",
+          "timestamp": 1728637087
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Property Sales Hyderabad",
+      "timestamp_ms": 1728633348547,
+      "content": "Will do",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Property Sales Hyderabad",
+      "timestamp_ms": 1728633345046,
+      "content": "Defenitly...\u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Property Sales Hyderabad",
+      "timestamp_ms": 1728633323797,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728632155079,
+      "content": "A simple reshare in your stories , WhatsApp groups etc would help reach other people in need.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728632074421,
+      "content": "Hello bharadwaj, \n\nAppreciate for reaching out to us :)",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Property Sales Hyderabad",
+          "timestamp": 1728633323
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Property Sales Hyderabad",
+      "timestamp_ms": 1728628029767,
+      "content": "Hello \u00f0\u009f\u00a4\u009d Team 1acre.in\n\nThis is bharadwaj....Can you elaborate please...what kind of help you are asking",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3475634411678185493"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Property Sales Hyderabad",
+  "is_still_participant": true,
+  "thread_path": "inbox/propertysaleshyderabad_17907576597031948",
+  "magic_words": [
+    
+  ]
+}

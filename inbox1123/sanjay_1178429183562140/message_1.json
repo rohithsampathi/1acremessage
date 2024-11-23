@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Sanjay"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704710390872,
+      "content": "Hi, sorry about that. We are working on an NRI login. We'll get back to you at the earliest. Meanwhile, if you are looking for anything specific, you can let us know.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sanjay",
+      "timestamp_ms": 1704682640386,
+      "content": "Hi - I am trying to register for city lands on your website and it only allows India phone number. Is there an alternative way ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sanjay",
+  "is_still_participant": true,
+  "thread_path": "inbox/sanjay_1178429183562140",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Khalid Pasha"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719977615254,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Khalid Pasha",
+      "timestamp_ms": 1719973427184,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Khalid Pasha",
+  "is_still_participant": true,
+  "thread_path": "inbox/khalidpasha_1384277519628252",
+  "magic_words": [
+    
+  ]
+}

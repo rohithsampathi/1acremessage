@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Manik Hanagandi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711529986454,
+      "content": "Hi, currently we are listing only Telanagana. Will be launching karnataka soon. Will keep you informed.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manik Hanagandi",
+      "timestamp_ms": 1711528305397,
+      "content": "5 to 6 lakh range",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manik Hanagandi",
+      "timestamp_ms": 1711528286772,
+      "content": "Pls let me know",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manik Hanagandi",
+      "timestamp_ms": 1711528278891,
+      "content": "Bijapur district",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Manik Hanagandi",
+      "timestamp_ms": 1711528272059,
+      "content": "Hi I want land in Karnataka",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Manik Hanagandi",
+  "is_still_participant": true,
+  "thread_path": "inbox/manikhanagandi_1123451782404839",
+  "magic_words": [
+    
+  ]
+}

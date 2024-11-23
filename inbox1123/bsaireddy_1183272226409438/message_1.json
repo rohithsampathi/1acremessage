@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "B Sai Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "B Sai Reddy",
+      "timestamp_ms": 1697115599404,
+      "content": "Call me \u00f0\u009f\u0093\u009e 9100455162",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697114390641,
+      "content": "yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "B Sai Reddy",
+      "timestamp_ms": 1697114315318,
+      "content": "Promotion",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "B Sai Reddy",
+      "timestamp_ms": 1697114308907,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697114170099,
+      "content": "Hey, can we collaborate for a reel?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "B Sai Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/bsaireddy_1183272226409438",
+  "magic_words": [
+    
+  ]
+}

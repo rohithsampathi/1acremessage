@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Akki_D"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731466424696,
+      "content": "How can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1731466417082,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akki_D",
+      "timestamp_ms": 1731433676412,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Akki_D",
+  "is_still_participant": true,
+  "thread_path": "inbox/akki_d_1077664273829221",
+  "magic_words": [
+    
+  ]
+}

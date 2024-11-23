@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Jac Waseem Akram"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jac Waseem Akram",
+      "timestamp_ms": 1713193069148,
+      "content": "Ok thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713193024586,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jac Waseem Akram",
+      "timestamp_ms": 1713192857221,
+      "content": "Kodangal CM  conscience said lands available sir if any interest cantact please",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jac Waseem Akram",
+      "timestamp_ms": 1713192775445,
+      "content": "Hi sir iam from pargi vikarabad district",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Jac Waseem Akram",
+  "is_still_participant": true,
+  "thread_path": "inbox/jacwaseemakram_1377979060267886",
+  "magic_words": [
+    
+  ]
+}

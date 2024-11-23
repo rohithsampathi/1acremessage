@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Ganesh Varma"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706796455751,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ganesh Varma",
+      "timestamp_ms": 1706796408379,
+      "content": "What are the prices at Chilkoor for 1 acre ? Should have access to road",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ganesh Varma",
+  "is_still_participant": true,
+  "thread_path": "inbox/ganeshvarma_1295937865129177",
+  "magic_words": [
+    
+  ]
+}

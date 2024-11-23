@@ -1,0 +1,84 @@
+{
+  "participants": [
+    {
+      "name": "Venu Gopal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Venu Gopal",
+      "timestamp_ms": 1718413705734,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Venu Gopal",
+      "timestamp_ms": 1718413586493,
+      "content": "All are in organic farmed only",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1718413667
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Venu Gopal",
+      "timestamp_ms": 1718413561073,
+      "content": "Very close to city 35 acre organic farm land with 2 acres Pond sugarcane ready to harvest and cows and lot more different vegetables and fruites are grown",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718413529079,
+      "content": "But if you give us more details, we'll let you know if someone is interested.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718413496743,
+      "content": "We are currently listing only Telangana. We'll start other states soon. Will keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Venu Gopal",
+      "timestamp_ms": 1718413432636,
+      "content": "It\u00e2\u0080\u0099s Bellary Karnataka",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718413415475,
+      "content": "If you could give a little more detail as to the location, extent etc., we'll connect with the respective person from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Venu Gopal",
+      "timestamp_ms": 1718411958737,
+      "content": "To sell my prop",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718389276191,
+      "content": "Hi, may We know what you are looking for?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Venu Gopal",
+      "timestamp_ms": 1718388839651,
+      "content": "Hello can I get your Number?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Venu Gopal",
+  "is_still_participant": true,
+  "thread_path": "inbox/venugopal_1421997412528295",
+  "magic_words": [
+    
+  ]
+}

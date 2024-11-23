@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Yagna"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708683746680,
+      "content": "You can check the prices and spot opportunities better.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708683726582,
+      "content": "You can subscribe, to get access to MapView.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708683712448,
+      "content": "https://www.1acre.in/subscribe",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "https://www.1acre.in/subscribe"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yagna",
+      "timestamp_ms": 1708678629817,
+      "content": "And what other options are available",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yagna",
+      "timestamp_ms": 1708678613009,
+      "content": "I want to know the prices in vikarabad for 1 acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708677094882,
+      "content": "Hello, please tell",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yagna",
+      "timestamp_ms": 1708675310621,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Yagna",
+  "is_still_participant": true,
+  "thread_path": "inbox/yagna_1288214762569628",
+  "magic_words": [
+    
+  ]
+}

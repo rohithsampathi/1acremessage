@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Yusuf"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716197023145,
+      "content": "Hi, Please talk to Ratna Kiran \n9390155412.\nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yusuf",
+      "timestamp_ms": 1716196503190,
+      "content": "It\u00e2\u0080\u0099s about 10 acres of land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yusuf",
+      "timestamp_ms": 1716196488585,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Yusuf",
+  "is_still_participant": true,
+  "thread_path": "inbox/yusuf_1415959429800321",
+  "magic_words": [
+    
+  ]
+}

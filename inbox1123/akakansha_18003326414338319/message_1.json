@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "akakansha"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705204760472,
+      "content": "May I know what help you need?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "akakansha",
+      "timestamp_ms": 1705202252465,
+      "content": "Can you please send me ur contact information i need ur help",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "akakansha",
+  "is_still_participant": true,
+  "thread_path": "inbox/akakansha_18003326414338319",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "S A I D E E P"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704085068793,
+      "content": "For now, it's a one-time entry.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "S A I D E E P",
+      "timestamp_ms": 1704001873129,
+      "content": "Or one time subscription",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "S A I D E E P",
+      "timestamp_ms": 1704001865760,
+      "content": "Is it for yearly subscription?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703996608885,
+      "content": "Our premium subscription is 5000",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "S A I D E E P",
+      "timestamp_ms": 1703917002741,
+      "content": "Hi how much is your premium subscription price",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "S A I D E E P",
+  "is_still_participant": true,
+  "thread_path": "inbox/saideep_1181695669883567",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Dr Abhinav Golla"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dr Abhinav Golla",
+      "timestamp_ms": 1703672784652,
+      "content": "Connected but , Cost and Rate are very different compared to your advertisement .",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703672721204,
+      "content": "Hi , you can connect with pratheek  9390674324,",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dr Abhinav Golla",
+      "timestamp_ms": 1703672036414,
+      "content": "Any lands under 10 laks near Hyderabad",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Dr Abhinav Golla",
+  "is_still_participant": true,
+  "thread_path": "inbox/drabhinavgolla_1227597851976395",
+  "magic_words": [
+    
+  ]
+}

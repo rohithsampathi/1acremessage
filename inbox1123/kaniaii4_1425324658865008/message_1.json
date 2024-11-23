@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "\u00c6\u0099\u00c4\u0085\u00c5\u008b\u00c4\u00b1\u00ca\u0082\u00c9\u00a7 \u00e2\u0084\u0098\u00c4\u0085\u00c9\u00ac\u00c4\u00b1\u00c6\u0096 4"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720269369844,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00c6\u0099\u00c4\u0085\u00c5\u008b\u00c4\u00b1\u00ca\u0082\u00c9\u00a7 \u00e2\u0084\u0098\u00c4\u0085\u00c9\u00ac\u00c4\u00b1\u00c6\u0096 4",
+      "timestamp_ms": 1720267802069,
+      "content": "7km away from panvel airport",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00c6\u0099\u00c4\u0085\u00c5\u008b\u00c4\u00b1\u00ca\u0082\u00c9\u00a7 \u00e2\u0084\u0098\u00c4\u0085\u00c9\u00ac\u00c4\u00b1\u00c6\u0096 4",
+      "timestamp_ms": 1720267704881,
+      "content": "Near Panvel  airport",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720267514615,
+      "content": "Where?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00c6\u0099\u00c4\u0085\u00c5\u008b\u00c4\u00b1\u00ca\u0082\u00c9\u00a7 \u00e2\u0084\u0098\u00c4\u0085\u00c9\u00ac\u00c4\u00b1\u00c6\u0096 4",
+      "timestamp_ms": 1720265400573,
+      "content": "Sir I have land for sell",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720169206986,
+      "content": "Hello \u00f0\u009f\u0091\u008b \nPlease tell",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00c6\u0099\u00c4\u0085\u00c5\u008b\u00c4\u00b1\u00ca\u0082\u00c9\u00a7 \u00e2\u0084\u0098\u00c4\u0085\u00c9\u00ac\u00c4\u00b1\u00c6\u0096 4",
+      "timestamp_ms": 1720162152777,
+      "content": "Hello sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00c6\u0099\u00c4\u0085\u00c5\u008b\u00c4\u00b1\u00ca\u0082\u00c9\u00a7 \u00e2\u0084\u0098\u00c4\u0085\u00c9\u00ac\u00c4\u00b1\u00c6\u0096 4",
+  "is_still_participant": true,
+  "thread_path": "inbox/kaniaii4_1425324658865008",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "xubair Khan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724379506276,
+      "content": "Please call our team member Venu at +91 76749 01201\n\nHe shall help you list it and share other details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "xubair Khan",
+      "timestamp_ms": 1724366580347,
+      "content": "Which is located in Medak District.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "xubair Khan",
+      "timestamp_ms": 1724366538822,
+      "content": "My uncle is planning to sell his agricultural pand",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "xubair Khan",
+      "timestamp_ms": 1724366500757,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "xubair Khan",
+  "is_still_participant": true,
+  "thread_path": "inbox/xubairkhan_1509263077139703",
+  "magic_words": [
+    
+  ]
+}

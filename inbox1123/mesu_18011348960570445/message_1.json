@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "MeSu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "MeSu",
+      "timestamp_ms": 1720274862218,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720269396555,
+      "content": "We'll keep you posted, when we launch Bangalore.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "MeSu",
+      "timestamp_ms": 1720263623122,
+      "content": "Bangalore south",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "MeSu",
+      "timestamp_ms": 1720263606098,
+      "content": "10 to 15 Lakhs",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720256094797,
+      "content": "What are you looking for? Location, distance and budget?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720256073519,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "MeSu",
+      "timestamp_ms": 1720255062998,
+      "content": "Can get Land reals near to Bangalore city",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "MeSu",
+  "is_still_participant": true,
+  "thread_path": "inbox/mesu_18011348960570445",
+  "magic_words": [
+    
+  ]
+}

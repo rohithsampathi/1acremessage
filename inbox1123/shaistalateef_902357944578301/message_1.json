@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Shaista Lateef"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702376644796,
+      "content": "Please call Vijay \n7780122120",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shaista Lateef",
+      "timestamp_ms": 1702365783302,
+      "content": "Our price is 5500000",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shaista Lateef",
+      "timestamp_ms": 1702365609672,
+      "content": "Can you sell my land\nAm having 9 guntas of argi cum commercial highway facing land on jagtial-nizambad highway for sale",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shaista Lateef",
+  "is_still_participant": true,
+  "thread_path": "inbox/shaistalateef_902357944578301",
+  "magic_words": [
+    
+  ]
+}

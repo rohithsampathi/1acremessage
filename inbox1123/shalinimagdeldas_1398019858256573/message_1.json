@@ -1,0 +1,73 @@
+{
+  "participants": [
+    {
+      "name": "Shalini Magdel Das"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shalini Magdel Das",
+      "timestamp_ms": 1720431183510,
+      "content": "Thanks appreciate it!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shalini Magdel Das",
+      "timestamp_ms": 1720431173150,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720431153661,
+      "content": "We did",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Shalini Magdel Das",
+          "timestamp": 1720431173
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720431144218,
+      "content": "Sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shalini Magdel Das",
+      "timestamp_ms": 1720430895991,
+      "content": "Yes please kindly inform I shall call",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720430266744,
+      "content": "You can reach out to him. Will inform.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720430255399,
+      "content": "Hi, Sure. This is Ratna Kiran's number. \n9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shalini Magdel Das",
+      "timestamp_ms": 1720427298963,
+      "content": "Hi this is Shalini Mr. Ram Pothineni's manager I need to connect with you regarding a meeting, how can we take things forward. Please kindly respond.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shalini Magdel Das",
+  "is_still_participant": true,
+  "thread_path": "inbox/shalinimagdeldas_1398019858256573",
+  "magic_words": [
+    
+  ]
+}

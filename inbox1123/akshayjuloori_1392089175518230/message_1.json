@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Akshay Juloori"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718117724689,
+      "content": "Hi, Please talk to Sandeep 9005464412, from the team",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akshay Juloori",
+      "timestamp_ms": 1718115827527,
+      "content": "Hello\nI am Akshay, I graduated from IIT Roorkee with a degree in civil engineering and am really passionate about real estate. I always wanted to create a page like the one you have. Are there any career opportunities at your company?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Akshay Juloori",
+  "is_still_participant": true,
+  "thread_path": "inbox/akshayjuloori_1392089175518230",
+  "magic_words": [
+    
+  ]
+}

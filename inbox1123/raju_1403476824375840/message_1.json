@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "raju"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720414887352,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "raju",
+      "timestamp_ms": 1720367422463,
+      "content": "Land available in vizag ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "raju",
+  "is_still_participant": true,
+  "thread_path": "inbox/raju_1403476824375840",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Ravitej Devireddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730092920577,
+      "content": "Please contact our team member ,pavan, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravitej Devireddy",
+      "timestamp_ms": 1730091267629,
+      "content": "Hello we are looking for 5 acre land close to Orr in any direction 3-5 crore per acre is what we are looking at to invest",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ravitej Devireddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/ravitejdevireddy_1507833083938581",
+  "magic_words": [
+    
+  ]
+}

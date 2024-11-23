@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Rithvik Nand Yanamala's"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rithvik Nand Yanamala's",
+      "timestamp_ms": 1720364186449,
+      "content": "Sure. Thank you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720364173618,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rithvik Nand Yanamala's",
+      "timestamp_ms": 1720364132079,
+      "content": "Ok. Thank you. Iam from andhra pradesh. Nearby ex cm jagan mohan reddy house. I wanted my 2.5acres to be sold out,in andhra pradesh nearby to kl university, very near to jayabheri the capital apartments. Thankyou.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720363904296,
+      "content": "1acre.in is a listing platform for verified lands. \nCurrently we are listing Telangana.\nWe'll start other states soon.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "1acre.in is a listing platform for verified lands. \nCurrently we are listing Telangana.\nWe'll start other states soon."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rithvik Nand Yanamala's",
+      "timestamp_ms": 1720361064963,
+      "content": "Do you sell lands only in telangana..?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rithvik Nand Yanamala's",
+  "is_still_participant": true,
+  "thread_path": "inbox/rithviknandyanamalas_1408132153912148",
+  "magic_words": [
+    
+  ]
+}

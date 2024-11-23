@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "venkata krishna reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721092587613,
+      "content": "Hi, Please talk to Ratna Kiran \n9390155412\nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "venkata krishna reddy",
+      "timestamp_ms": 1721092024107,
+      "content": "Around 2000-2500 sq yds\n\nTentatively around 30C",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721091037837,
+      "content": "What total budget?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "venkata krishna reddy",
+      "timestamp_ms": 1721057492557,
+      "content": "Hi,\n\nI\u00e2\u0080\u0099m venkat, recently returned from the US, pl let me know if you have any commercial plots in areas near to kokapet, Narsingi, Gachibowli areas.\nPlanning to construct commercial spaces.\n\nThank you.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "venkata krishna reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/venkatakrishnareddy_1304667744261039",
+  "magic_words": [
+    
+  ]
+}

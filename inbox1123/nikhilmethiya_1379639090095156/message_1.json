@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Nikhil Methiya"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nikhil Methiya",
+      "timestamp_ms": 1718451259622,
+      "content": "Done",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718450462341,
+      "content": "Satish 7661933372",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nikhil Methiya",
+      "timestamp_ms": 1718450444594,
+      "content": "Want to connect with founder.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718413315004,
+      "content": "nikhil_methiya wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718413314456,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nikhil Methiya",
+      "timestamp_ms": 1718394764227,
+      "content": "Hey",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nikhil Methiya",
+  "is_still_participant": true,
+  "thread_path": "inbox/nikhilmethiya_1379639090095156",
+  "magic_words": [
+    
+  ]
+}

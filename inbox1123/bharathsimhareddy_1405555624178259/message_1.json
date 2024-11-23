@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Bharath Simha Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bharath Simha Reddy",
+      "timestamp_ms": 1711473323577,
+      "content": "Okay \u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711473307296,
+      "content": "During the day I meant.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bharath Simha Reddy",
+      "timestamp_ms": 1711472585321,
+      "content": "Okay what are the office hours?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711472564893,
+      "content": "Please contact Ratna Kiran \n9390155412\nYou can call him up tomorrow, during the office hours.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711472495950,
+      "content": "Ok. Got it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bharath Simha Reddy",
+      "timestamp_ms": 1711472338484,
+      "content": "I don\u00e2\u0080\u0099t want to put it for free on your website. I need your help in selling it sooner.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bharath Simha Reddy",
+      "timestamp_ms": 1711472309659,
+      "content": "It\u00e2\u0080\u0099s an agricultural land in Nalgonda Telangana",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bharath Simha Reddy",
+      "timestamp_ms": 1711472280962,
+      "content": "Hi, can we have a call? I\u00e2\u0080\u0099m interested in selling my property. I want to talk to someone regarding the details.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Bharath Simha Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/bharathsimhareddy_1405555624178259",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "BODYMANTRAA"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725284721736,
+      "content": "Hi, Please contact Srikar\n8341149011, from the team. He'll help you with all the details.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "BODYMANTRAA",
+      "timestamp_ms": 1725284360419,
+      "content": "Price per acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "BODYMANTRAA",
+      "timestamp_ms": 1725283908200,
+      "content": "Details of chegunta land",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "BODYMANTRAA",
+  "is_still_participant": true,
+  "thread_path": "inbox/bodymantraa_1557540235643172",
+  "magic_words": [
+    
+  ]
+}

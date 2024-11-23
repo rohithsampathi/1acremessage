@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Saketh Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707442974023,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Saketh Reddy",
+      "timestamp_ms": 1707416124484,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Saketh Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/sakethreddy_1252368419485422",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Divya Vangala"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719012408143,
+      "content": "Hi, may we know what you are referring to?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Divya Vangala",
+      "timestamp_ms": 1719005534852,
+      "content": "Where exactly is this?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Divya Vangala",
+  "is_still_participant": true,
+  "thread_path": "inbox/divyavangala_1404215904302376",
+  "magic_words": [
+    
+  ]
+}

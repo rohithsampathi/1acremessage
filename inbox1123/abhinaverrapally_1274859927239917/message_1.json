@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Abhinav Errapally"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703081098555,
+      "content": "Hy , you can connect with pratheek  9390674324,",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhinav Errapally",
+      "timestamp_ms": 1703050381464,
+      "content": "Is there a contact number to contact? Also is there office to come and visit?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhinav Errapally",
+      "timestamp_ms": 1703050331060,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Abhinav Errapally",
+  "is_still_participant": true,
+  "thread_path": "inbox/abhinaverrapally_1274859927239917",
+  "magic_words": [
+    
+  ]
+}

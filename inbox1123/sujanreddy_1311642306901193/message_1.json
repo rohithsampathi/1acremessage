@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Sujan reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sujan reddy",
+      "timestamp_ms": 1702141362368,
+      "content": "Okay thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702134255613,
+      "content": "You can connect with Vijay,80-74450533",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sujan reddy",
+      "timestamp_ms": 1702120206362,
+      "content": "Recently we purchased land at warangal rural region \nOn passbook it is mentioned enam \nIs it problematic",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702103830887,
+      "content": "Please ask",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sujan reddy",
+      "timestamp_ms": 1702100399154,
+      "content": "I have a doubt regarding Agri land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702097552038,
+      "content": "Hi,how can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sujan reddy",
+      "timestamp_ms": 1702053705811,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sujan reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/sujanreddy_1311642306901193",
+  "magic_words": [
+    
+  ]
+}

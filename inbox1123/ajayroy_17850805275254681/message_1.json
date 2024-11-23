@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Ajay Roy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723269460310,
+      "content": "We are not yet, in Patna.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ajay Roy",
+      "timestamp_ms": 1723263924393,
+      "content": "1 acre land prize in patna",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723202908712,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ajay Roy",
+      "timestamp_ms": 1723125385767,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ajay Roy",
+  "is_still_participant": true,
+  "thread_path": "inbox/ajayroy_17850805275254681",
+  "magic_words": [
+    
+  ]
+}

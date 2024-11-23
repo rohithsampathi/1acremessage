@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Sandeep Srivastava"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709480129206,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sandeep Srivastava",
+      "timestamp_ms": 1709475382872,
+      "content": "Details about the land acquisition please",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sandeep Srivastava",
+  "is_still_participant": true,
+  "thread_path": "inbox/sandeepsrivastava_1319417242786243",
+  "magic_words": [
+    
+  ]
+}

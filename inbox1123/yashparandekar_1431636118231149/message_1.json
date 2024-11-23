@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Yash Parandekar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717637934454,
+      "content": "Hi, 1acre.in is a listing platform for verified lands. Currently, we are listing only for Telanagana. \nWe'll launch other states soon. \nWill keep you posted.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Hi, 1acre.in is a listing platform for verified lands. Currently, we are listing only for Telanagana. \nWe'll launch other states soon. \nWill keep you posted."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yash Parandekar",
+      "timestamp_ms": 1717634412364,
+      "content": "In hospet karnataka any house or land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Yash Parandekar",
+      "timestamp_ms": 1717634383363,
+      "content": "He'll",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Yash Parandekar",
+  "is_still_participant": true,
+  "thread_path": "inbox/yashparandekar_1431636118231149",
+  "magic_words": [
+    
+  ]
+}

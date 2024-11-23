@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Dr. Aanchal Jaiswal Srivastava"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1700804633334,
+      "content": "Hi, please call Ratna Kiran 7661063355",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dr. Aanchal Jaiswal Srivastava",
+      "timestamp_ms": 1700748079843,
+      "content": "Hi, can you give me more details on land monitoring ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dr. Aanchal Jaiswal Srivastava",
+      "timestamp_ms": 1700748079472,
+      "content": "Dr. sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/Cz_Jamcyxh7/?id=3242351667140302971_47651711013",
+        "share_text": "Ratna Kiran, CEO, 1acre.in speaks about how a lot of people do have some documents but do not know where their land is, particularly in Telangana. A lot of land owners, especially NRIs face a lot of problem in looking after their land at Hyderabad. At 1acre.in, we have a service called \u00e2\u0080\u0098Land Monitoring\u00e2\u0080\u0099, to help you with the same. You can ask anything in the comments and we\u00e2\u0080\u0099ll answer them for you.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Dr. Aanchal Jaiswal Srivastava",
+  "is_still_participant": true,
+  "thread_path": "inbox/draanchaljaiswalsrivastava_1285383922862363",
+  "magic_words": [
+    
+  ]
+}

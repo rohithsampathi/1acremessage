@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Revanth Reddy Reddygari"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704349114515,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Revanth Reddy Reddygari",
+      "timestamp_ms": 1704334104993,
+      "content": "Hello I am interested in acquiring the suggested 100 acres land , but can you okeass share more details on this. Thank you !",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Revanth Reddy Reddygari",
+  "is_still_participant": true,
+  "thread_path": "inbox/revanthreddyreddygari_1295683655166566",
+  "magic_words": [
+    
+  ]
+}

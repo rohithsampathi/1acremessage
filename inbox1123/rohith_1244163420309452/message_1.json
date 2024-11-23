@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "R O H I T H"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "R O H I T H",
+      "timestamp_ms": 1700942577766,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1698206916927,
+      "content": "Hey Rohit  , for more details please visit our website :https://www.1acre.in/, contact:7780122120",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "R O H I T H",
+          "timestamp": 1700942577
+        }
+      ],
+      "share": {
+        "link": "https://www.1acre.in/",
+        "share_text": "Hey Rohit  , for more details please visit our website :https://www.1acre.in/, contact:7780122120"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "R O H I T H",
+      "timestamp_ms": 1698159167815,
+      "content": "Price is per 1 acer?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "R O H I T H",
+      "timestamp_ms": 1698159151862,
+      "content": "R O sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/CyfUQ2zruSu/?carousel_share_child_media_id=3215377774423208206_47651711013",
+        "share_text": "",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "R O H I T H",
+  "is_still_participant": true,
+  "thread_path": "inbox/rohith_1244163420309452",
+  "magic_words": [
+    
+  ]
+}

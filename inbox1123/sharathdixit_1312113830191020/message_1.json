@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Sharath Dixit"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708874106625,
+      "content": "Please contact Ratna Kiran \n9390155412. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sharath Dixit",
+      "timestamp_ms": 1708870165176,
+      "content": "Yes \u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bc",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708735806549,
+      "content": "I am assuming it's the Anantagiri hills one?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sharath Dixit",
+      "timestamp_ms": 1708727043080,
+      "content": "I am interested in buying the land",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sharath Dixit",
+  "is_still_participant": true,
+  "thread_path": "inbox/sharathdixit_1312113830191020",
+  "magic_words": [
+    
+  ]
+}

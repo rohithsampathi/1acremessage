@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Vivek Bhandari"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729663848218,
+      "content": "We currently operate in telangana \nExpanding into more states aggressively",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vivek Bhandari",
+      "timestamp_ms": 1729662786148,
+      "content": "Where are your properties located?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729662146938,
+      "content": "Not yet",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vivek Bhandari",
+      "timestamp_ms": 1729508843804,
+      "content": "Do you have something in Himachal Pradesh",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vivek Bhandari",
+  "is_still_participant": true,
+  "thread_path": "inbox/vivekbhandari_1524491302285689",
+  "magic_words": [
+    
+  ]
+}

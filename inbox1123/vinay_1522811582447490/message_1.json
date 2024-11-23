@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "VINAY"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723089045180,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723089044421,
+      "content": "vinay_sai_reddy wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723089044209,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "VINAY",
+      "timestamp_ms": 1723043217876,
+      "content": "Hello Im looking to sale my 1acre commercial land near gajwel",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "VINAY",
+  "is_still_participant": true,
+  "thread_path": "inbox/vinay_1522811582447490",
+  "magic_words": [
+    
+  ]
+}

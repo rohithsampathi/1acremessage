@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Pravin Yadav"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pravin Yadav",
+      "timestamp_ms": 1708573857388,
+      "content": "Thank you!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pravin Yadav",
+      "timestamp_ms": 1708573851427,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708571598465,
+      "content": "Hi, sure. Thanks for reaching out. We'll get back to you on this.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Pravin Yadav",
+          "timestamp": 1708573851
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pravin Yadav",
+      "timestamp_ms": 1708533391766,
+      "content": "Hello, I'm Pravin from Mumbai but i shifted banglore last month.\nCurrently I'm working but  I have interest in real estate and I want to work with you on weekends.\nIs this any vacancy or anything like internship.\nIf you have anything please let me know...or maybe in future.\nI'll be very happy to work with you.\n\nThank you!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708451414292,
+      "content": "Hi, Please tell",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pravin Yadav",
+      "timestamp_ms": 1708450766020,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Pravin Yadav",
+  "is_still_participant": true,
+  "thread_path": "inbox/pravinyadav_18016782947495060",
+  "magic_words": [
+    
+  ]
+}

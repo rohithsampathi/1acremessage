@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Sandeep Vuppala"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726218598741,
+      "content": "May we know what information you are looking for ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sandeep Vuppala",
+      "timestamp_ms": 1726218032859,
+      "content": "Hello, can I get more info on this?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sandeep Vuppala",
+  "is_still_participant": true,
+  "thread_path": "inbox/sandeepvuppala_1469121684480484",
+  "magic_words": [
+    
+  ]
+}

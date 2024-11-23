@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Sasank Tippavarjula"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702097898328,
+      "content": "Hi Sasank, right now we are working only in Telangana.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sasank Tippavarjula",
+      "timestamp_ms": 1702048284110,
+      "content": "Do you have any suggestions around Guntur- Vijayawada?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sasank Tippavarjula",
+  "is_still_participant": true,
+  "thread_path": "inbox/sasanktippavarjula_1264187724974387",
+  "magic_words": [
+    
+  ]
+}

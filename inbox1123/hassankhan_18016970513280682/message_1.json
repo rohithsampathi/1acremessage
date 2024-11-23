@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Hassan Khan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710896402455,
+      "content": "Hi, Please contact Harish\n9032114737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hassan Khan",
+      "timestamp_ms": 1710867869546,
+      "content": "Interested in freelancer job",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hassan Khan",
+      "timestamp_ms": 1710867855530,
+      "content": "I dont know telugu languge",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Hassan Khan",
+  "is_still_participant": true,
+  "thread_path": "inbox/hassankhan_18016970513280682",
+  "magic_words": [
+    
+  ]
+}

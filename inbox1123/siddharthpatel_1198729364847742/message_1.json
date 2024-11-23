@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Siddharth Patel"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Siddharth Patel",
+      "timestamp_ms": 1704796648602,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704721006056,
+      "content": "Thanks. I am afraid we'd be of little at this point of time. All the best with your venture.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Siddharth Patel",
+          "timestamp": 1704796648
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Siddharth Patel",
+      "timestamp_ms": 1704652400877,
+      "content": "I own an Electric Vehicle charging infrastructure company. We actively look out for lands in and around around Hyderabad and other cities for the installation of EV chargers.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704609584782,
+      "content": "Ideally not as of now. But if you tell me your exact requirement, I'll check if we can.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Siddharth Patel",
+      "timestamp_ms": 1704609099606,
+      "content": "Hello. Do you assist in land leasing as well?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Siddharth Patel",
+  "is_still_participant": true,
+  "thread_path": "inbox/siddharthpatel_1198729364847742",
+  "magic_words": [
+    
+  ]
+}

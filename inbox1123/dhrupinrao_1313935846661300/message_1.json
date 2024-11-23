@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Dhrupin Rao"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719293617552,
+      "content": "Where's the land?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dhrupin Rao",
+      "timestamp_ms": 1719291852813,
+      "content": "Hey I want to sell my land can u please make a video of it and post it",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704380549220,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dhrupin Rao",
+      "timestamp_ms": 1704373528848,
+      "content": "Could u please share the details and location of the land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dhrupin Rao",
+      "timestamp_ms": 1704373477742,
+      "content": "Hey I am interested in buying 100 acres of land Maharashtra",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Dhrupin Rao",
+  "is_still_participant": true,
+  "thread_path": "inbox/dhrupinrao_1313935846661300",
+  "magic_words": [
+    
+  ]
+}

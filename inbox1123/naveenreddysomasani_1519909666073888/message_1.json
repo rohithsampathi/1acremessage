@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Naveen Reddy Somasani"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722347794498,
+      "content": "What are you looking for ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Naveen Reddy Somasani",
+      "timestamp_ms": 1722346790792,
+      "content": "Send me num",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Naveen Reddy Somasani",
+  "is_still_participant": true,
+  "thread_path": "inbox/naveenreddysomasani_1519909666073888",
+  "magic_words": [
+    
+  ]
+}

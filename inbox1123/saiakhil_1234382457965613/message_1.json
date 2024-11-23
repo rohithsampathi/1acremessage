@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Sai Akhil"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707370830952,
+      "content": "Please contact Harish\n9989738297, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707370813211,
+      "content": "Sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Akhil",
+      "timestamp_ms": 1707369712154,
+      "content": "I am looking for 1 acre farm land near to hyderabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sai Akhil",
+      "timestamp_ms": 1707369694706,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sai Akhil",
+  "is_still_participant": true,
+  "thread_path": "inbox/saiakhil_1234382457965613",
+  "magic_words": [
+    
+  ]
+}

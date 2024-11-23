@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Likith"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710554074506,
+      "content": "Hi, Please contact Harish\n9032114737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Likith",
+      "timestamp_ms": 1710531369783,
+      "content": "I\u00e2\u0080\u0099m looking for freelancing job in 1acre.in",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Likith",
+      "timestamp_ms": 1710531369261,
+      "content": "Likith sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C4i6bwFSdhZ/?id=3324476468704696409_47651711013",
+        "share_text": "9032114737\n\nPlease call Bharath, from the team.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Likith",
+  "is_still_participant": true,
+  "thread_path": "inbox/likith_1362977625100232",
+  "magic_words": [
+    
+  ]
+}

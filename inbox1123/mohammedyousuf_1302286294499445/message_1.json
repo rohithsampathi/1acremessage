@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Mohammed Yousuf"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704948421567,
+      "content": "Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704948403496,
+      "content": "Hi, sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammed Yousuf",
+      "timestamp_ms": 1704945505353,
+      "content": "Give me your mobile number so I can get in touch with u.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohammed Yousuf",
+      "timestamp_ms": 1704945464986,
+      "content": "Hi buddy, I your help.  I am Hyderabadi living in Australia, I have plot / land over 400 Square yard in Gopanpally area in Hyderabad wanted to sale.  Rs 1.5 lakh per sq yard.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mohammed Yousuf",
+  "is_still_participant": true,
+  "thread_path": "inbox/mohammedyousuf_1302286294499445",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "VINODH \u00f0\u009f\u0092\u00ab"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "VINODH \u00f0\u009f\u0092\u00ab",
+      "timestamp_ms": 1717599907672,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717598618313,
+      "content": "1acre.in \nPlease check our website. You can call the sellers directly.\n\n1acre.in/subscribe\nGets you the MapView.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "1acre.in \nPlease check our website. You can call the sellers directly.\n\n1acre.in/subscribe\nGets you the MapView."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "VINODH \u00f0\u009f\u0092\u00ab",
+      "timestamp_ms": 1717590577867,
+      "content": "Any property between Hyderabad and Bangalore highway",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717590192847,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "VINODH \u00f0\u009f\u0092\u00ab",
+      "timestamp_ms": 1717589943744,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "VINODH \u00f0\u009f\u0092\u00ab",
+  "is_still_participant": true,
+  "thread_path": "inbox/vinodh_1455137455883193",
+  "magic_words": [
+    
+  ]
+}

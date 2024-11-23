@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Raghavendra prasad u s h\u00e2\u0099\u00a5\u00ef\u00b8\u008f\u00e2\u009c\u00a8"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704347662871,
+      "content": "you can connect with pratheek, 9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raghavendra prasad u s h\u00e2\u0099\u00a5\u00ef\u00b8\u008f\u00e2\u009c\u00a8",
+      "timestamp_ms": 1704344380136,
+      "content": "I need one acre surrounding hyd 50-60km .. budget 30-35lks per acre",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Raghavendra prasad u s h\u00e2\u0099\u00a5\u00ef\u00b8\u008f\u00e2\u009c\u00a8",
+  "is_still_participant": true,
+  "thread_path": "inbox/raghavendraprasadush_1270071971049998",
+  "magic_words": [
+    
+  ]
+}

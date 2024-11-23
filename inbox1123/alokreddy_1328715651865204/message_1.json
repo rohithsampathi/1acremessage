@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Alok Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717645017245,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717645015472,
+      "content": "You sent a private reply to a comment on your Instagram post.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Alok Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/alokreddy_1328715651865204",
+  "magic_words": [
+    
+  ]
+}

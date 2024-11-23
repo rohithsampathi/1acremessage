@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Sachin Sanghi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704309204948,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sachin Sanghi",
+      "timestamp_ms": 1704308892769,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704254119458,
+      "content": "Hi, Please contact Ramakrishna \n7780122120 \nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704254104924,
+      "content": "Hi. Sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sachin Sanghi",
+      "timestamp_ms": 1704216932331,
+      "content": "It\u00e2\u0080\u0099s in Mogiligidda Village Pargi Road SHADNAGAR",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sachin Sanghi",
+      "timestamp_ms": 1704216913515,
+      "content": "I have land parcel of 12 acres of which I want to sell 6.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sachin Sanghi",
+      "timestamp_ms": 1704216895213,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sachin Sanghi",
+  "is_still_participant": true,
+  "thread_path": "inbox/sachinsanghi_17968436375662681",
+  "magic_words": [
+    
+  ]
+}

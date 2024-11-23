@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Arjun"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710088246653,
+      "content": "Hi, may I know which land you are referring to?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Arjun",
+      "timestamp_ms": 1710084890202,
+      "content": "Can you please share more details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Arjun",
+      "timestamp_ms": 1710084884323,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Arjun",
+  "is_still_participant": true,
+  "thread_path": "inbox/arjun_1326146512110382",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Nagaraj Awarad"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722854364949,
+      "content": "We currently only operate in telangana. \n\nWill keep you posted when we launch in karnataka , soon",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nagaraj Awarad",
+      "timestamp_ms": 1722783808038,
+      "content": "16acer",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nagaraj Awarad",
+      "timestamp_ms": 1722783787842,
+      "content": "Gulbarga 16 land selln",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nagaraj Awarad",
+  "is_still_participant": true,
+  "thread_path": "inbox/nagarajawarad_18035386460494399",
+  "magic_words": [
+    
+  ]
+}

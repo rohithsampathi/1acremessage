@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Prashanth"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704347808409,
+      "content": "you can connect with pratheek, 9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prashanth",
+      "timestamp_ms": 1704313340892,
+      "content": "how to start investing or know more details?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Prashanth",
+      "timestamp_ms": 1704313327908,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Prashanth",
+  "is_still_participant": true,
+  "thread_path": "inbox/prashanth_1325326922196652",
+  "magic_words": [
+    
+  ]
+}

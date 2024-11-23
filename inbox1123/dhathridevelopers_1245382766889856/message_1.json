@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Dhathri Developers"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726145030595,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dhathri Developers",
+      "timestamp_ms": 1726130244408,
+      "content": "Hello, Can I get more info on this?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726130243167,
+      "content": "Dhathri Developers replied to an ad. View ad(https://www.instagram.com/p/C_xW-DVsF8Q/)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dhathri Developers",
+      "timestamp_ms": 1726130241689,
+      "content": "Hi, thanks for contacting us. We've received your message and appreciate you reaching out.will call you shortly..",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Dhathri Developers",
+  "is_still_participant": true,
+  "thread_path": "inbox/dhathridevelopers_1245382766889856",
+  "magic_words": [
+    
+  ]
+}

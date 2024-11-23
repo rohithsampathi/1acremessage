@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Karan Sahni"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Karan Sahni",
+      "timestamp_ms": 1728282410454,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728281729682,
+      "content": "Generally, we do not acquire based on requirements \n\nPlease contact Vijay\n9959994737, from the team. \n\nHe will explain other details",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Karan Sahni",
+          "timestamp": 1728282410
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Karan Sahni",
+      "timestamp_ms": 1727958843866,
+      "content": "Do you guys help to acquire farm land for dairy farm around tri city area?",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3470674478605272600"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Karan Sahni",
+  "is_still_participant": true,
+  "thread_path": "inbox/karansahni_1424921565562599",
+  "magic_words": [
+    
+  ]
+}

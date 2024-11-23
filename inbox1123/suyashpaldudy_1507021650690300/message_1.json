@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Suyash Pal Dudy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Suyash Pal Dudy",
+      "timestamp_ms": 1729777647303,
+      "content": "Hello\nAny beach front land available near Pondicherry? Minimum size 1000 square yards",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Suyash Pal Dudy",
+  "is_still_participant": true,
+  "thread_path": "inbox/suyashpaldudy_1507021650690300",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Shivansh real-estates"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shivansh real-estates",
+      "timestamp_ms": 1709958873221,
+      "content": "Sure \u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709958847460,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412\nYou can discuss with him.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shivansh real-estates",
+      "timestamp_ms": 1709952719810,
+      "content": "We are from movie buisness and got a requirement from there.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shivansh real-estates",
+      "timestamp_ms": 1709952681214,
+      "content": "We have a requirement of 1000 to 1500 sq yards of residential land in prime locations like banjara, Jubilee Hills, manikonda, Gachibowli etc",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shivansh real-estates",
+      "timestamp_ms": 1709945183726,
+      "content": "Hi , are you open to do business with us? We can get you clients from Hyderabad. We have builders/ investors. Let us know if you are ok to collaborate. \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shivansh real-estates",
+  "is_still_participant": true,
+  "thread_path": "inbox/shivanshrealestates_17846234310172819",
+  "magic_words": [
+    
+  ]
+}

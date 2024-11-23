@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Vivek Vivek"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711532987923,
+      "content": "Hi, Please contact Harish\n9032114737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vivek Vivek",
+      "timestamp_ms": 1711532932453,
+      "content": "Jobs",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711532921268,
+      "content": "Hi, may I know what you are referring to?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vivek Vivek",
+      "timestamp_ms": 1711532382889,
+      "content": "Pls share me the details",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vivek Vivek",
+      "timestamp_ms": 1711532380735,
+      "content": "Iam interested",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vivek Vivek",
+  "is_still_participant": true,
+  "thread_path": "inbox/vivekvivek_1289513705785160",
+  "magic_words": [
+    
+  ]
+}

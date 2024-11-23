@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "Bobby"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bobby",
+      "timestamp_ms": 1718871551603,
+      "content": "Ok \u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718869663674,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718869662799,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bobby",
+      "timestamp_ms": 1718869607619,
+      "content": "We are interested in this",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3393843241278849558"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Bobby",
+  "is_still_participant": true,
+  "thread_path": "inbox/bobby_1387993005936475",
+  "magic_words": [
+    
+  ]
+}

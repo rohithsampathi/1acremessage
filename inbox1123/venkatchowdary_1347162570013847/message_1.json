@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "venkatchowdary"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706201578083,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "venkatchowdary",
+      "timestamp_ms": 1706194122986,
+      "content": "Open land lease kuda ipistara andi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "venkatchowdary",
+  "is_still_participant": true,
+  "thread_path": "inbox/venkatchowdary_1347162570013847",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Akshay Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725458261508,
+      "content": "Share your requirements so we can connect you to the right person",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akshay Kumar",
+      "timestamp_ms": 1725453932696,
+      "content": "Your contact details?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akshay Kumar",
+      "timestamp_ms": 1725453925350,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718702911917,
+      "content": "Could you tell us what you are looking for?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akshay Kumar",
+      "timestamp_ms": 1718702706467,
+      "content": "Call me after 8pm",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akshay Kumar",
+      "timestamp_ms": 1718702701707,
+      "content": "9727215061",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718700443682,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Akshay Kumar",
+      "timestamp_ms": 1718695496297,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Akshay Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/akshaykumar_1296718971714719",
+  "magic_words": [
+    
+  ]
+}

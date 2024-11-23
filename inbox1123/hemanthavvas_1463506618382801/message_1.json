@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Hemanth Avvas"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718603097424,
+      "content": "Regarding the land at Jadcherla, Please let me know more details - location, extent and price. \nSo, we can tell you how we can list it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718603002145,
+      "content": "Hi, \nWith premium, you get access to all the listings in the MapView. It makes visualization of data much easier. You'd also have access to Private land listings, which are otherwise not visible to the general user. \n\n1acre.in/subscribe",
+      "share": {
+        "link": "http://1acre.in/subscribe",
+        "share_text": "Hi, \nWith premium, you get access to all the listings in the MapView. It makes visualization of data much easier. You'd also have access to Private land listings, which are otherwise not visible to the general user. \n\n1acre.in/subscribe"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hemanth Avvas",
+      "timestamp_ms": 1718515868933,
+      "content": "Hi good morning! What are benefits with premium subscription? Also I have land at Jedcharla, I want to collaboarte with you. Let me know the details. Thank you",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3390912614770604628"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Hemanth Avvas",
+  "is_still_participant": true,
+  "thread_path": "inbox/hemanthavvas_1463506618382801",
+  "magic_words": [
+    
+  ]
+}

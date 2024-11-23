@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "MN_realestates"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722083854268,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "MN_realestates",
+      "timestamp_ms": 1722082493568,
+      "content": "Want details about this plot",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "MN_realestates",
+      "timestamp_ms": 1722082471504,
+      "content": "MN_realestates sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C9HyihKy6mL/?id=3406913917531433355_47651711013",
+        "share_text": "500 sq yards | \u00e2\u0082\u00b985,000 per sq yard | Manchirevula | Link in bio \u00f0\u009f\u008c\u009f\n\n- Verified and facilitated by 1acre.in\n- East-facing plot\n- Surrounded by highrises and gated communities\n- Close to Kokapet, Narsingi, and the Financial District\n- Ideal for a four-storied midrise for a group of friends\n\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 9959994737\n\n\u00f0\u009f\u0093\u00ac DM us for more queries on buying, selling, or partnerships",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "MN_realestates",
+  "is_still_participant": true,
+  "thread_path": "inbox/mn_realestates_17851628508248414",
+  "magic_words": [
+    
+  ]
+}

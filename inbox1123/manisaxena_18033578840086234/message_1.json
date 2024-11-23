@@ -1,0 +1,63 @@
+{
+  "participants": [
+    {
+      "name": "Mani saxena"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mani saxena",
+      "timestamp_ms": 1721134700345,
+      "content": "Will inform",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mani saxena",
+      "timestamp_ms": 1721134675677,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721118392759,
+      "content": "Thanks for applying",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721118389373,
+      "content": "It'll take some time for us to Launch Haryana. Will keep you posted",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mani saxena",
+      "timestamp_ms": 1721117529482,
+      "content": "Haryana",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721117161046,
+      "content": "Which state?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mani saxena",
+      "timestamp_ms": 1721116965347,
+      "content": "Hi I'm interested",
+      "share": {
+        "link": "https://www.instagram.com/p/C9UBKzVt_9s/"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mani saxena",
+  "is_still_participant": true,
+  "thread_path": "inbox/manisaxena_18033578840086234",
+  "magic_words": [
+    
+  ]
+}

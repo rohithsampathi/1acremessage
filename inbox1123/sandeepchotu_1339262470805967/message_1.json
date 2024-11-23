@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Sandeep Chotu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705111182602,
+      "content": "Hi, the price is 3cr per acre. Please contact Vijay for all the details. \n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sandeep Chotu",
+      "timestamp_ms": 1705076419024,
+      "content": "Price please",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sandeep Chotu",
+      "timestamp_ms": 1705076409666,
+      "content": "Sandeep sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C2AaHfgyD0q/?id=3278735392807337258_47651711013",
+        "share_text": "1acre facilitated property:\n5 acre land, very close to the city\nAt Mudimyal, 22km from ORR (APPA junction).\nJust 500mt away from the Highway. \nAvailable as 1/2 acre & 1 acre units or as a whole. \n\nYou can get in touch with us at: 9959994737",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sandeep Chotu",
+  "is_still_participant": true,
+  "thread_path": "inbox/sandeepchotu_1339262470805967",
+  "magic_words": [
+    
+  ]
+}

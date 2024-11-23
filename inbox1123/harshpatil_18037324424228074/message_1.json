@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Harsh Patil"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Harsh Patil",
+      "timestamp_ms": 1729504026003,
+      "content": "Thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harsh Patil",
+      "timestamp_ms": 1729504024995,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729480035983,
+      "content": "Please contact our team member ,pavan, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harsh Patil",
+      "timestamp_ms": 1729447514512,
+      "content": "Please let me know if we can discuss",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harsh Patil",
+      "timestamp_ms": 1729447506280,
+      "content": "I am interested in collaborating with you for the purpose of promoting my plot.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harsh Patil",
+      "timestamp_ms": 1729447492546,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Harsh Patil",
+  "is_still_participant": true,
+  "thread_path": "inbox/harshpatil_18037324424228074",
+  "magic_words": [
+    
+  ]
+}

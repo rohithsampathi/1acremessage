@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Lenin Tuppari"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723556221987,
+      "content": "Hi, Please contact Srikar 8341149011, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lenin Tuppari",
+      "timestamp_ms": 1723552047304,
+      "content": "Hi could you send the details for 1450sq. Yds manchirevula ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Lenin Tuppari",
+  "is_still_participant": true,
+  "thread_path": "inbox/lenintuppari_1388663922522851",
+  "magic_words": [
+    
+  ]
+}

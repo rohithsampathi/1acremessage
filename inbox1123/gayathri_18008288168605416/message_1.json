@@ -1,0 +1,51 @@
+{
+  "participants": [
+    {
+      "name": "Gayathri"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gayathri",
+      "timestamp_ms": 1719366087217,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719366067451,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719366066764,
+      "content": "Hi, Please talk to Vijay\n9959994737, from the team on your exact requirement. \nHe'll try to help you with whatever might be the best.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Gayathri",
+          "timestamp": 1719366087
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gayathri",
+      "timestamp_ms": 1719363802282,
+      "content": "Hi looking for a place for perfect farm house.. is it possible to just block 1 acre or even half",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3398204658505451443"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Gayathri",
+  "is_still_participant": true,
+  "thread_path": "inbox/gayathri_18008288168605416",
+  "magic_words": [
+    
+  ]
+}

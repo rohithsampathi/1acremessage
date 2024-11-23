@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Shashi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1697269083442,
+      "content": "Please contact (+91 80744 50533) Vijay from 1acre.in for more details.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shashi",
+      "timestamp_ms": 1697255895621,
+      "content": "Details please",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shashi",
+  "is_still_participant": true,
+  "thread_path": "inbox/shashi_1177129067023834",
+  "magic_words": [
+    
+  ]
+}

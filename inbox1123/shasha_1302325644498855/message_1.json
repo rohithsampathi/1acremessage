@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Sha Sha"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701490519065,
+      "content": "Hi right now we are working on Telangana , we can help you with your enquiry  , you can connect to our relationship manager PRATHEEK,9505778117,",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sha Sha",
+      "timestamp_ms": 1701484690908,
+      "content": "Can you provide Andhra Pradesh land rates bro",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sha Sha",
+  "is_still_participant": true,
+  "thread_path": "inbox/shasha_1302325644498855",
+  "magic_words": [
+    
+  ]
+}

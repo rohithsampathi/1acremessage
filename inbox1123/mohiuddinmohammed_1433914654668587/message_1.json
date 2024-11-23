@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Mohiuddin Mohammed"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721964041595,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohiuddin Mohammed",
+      "timestamp_ms": 1721932874341,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mohiuddin Mohammed",
+  "is_still_participant": true,
+  "thread_path": "inbox/mohiuddinmohammed_1433914654668587",
+  "magic_words": [
+    
+  ]
+}

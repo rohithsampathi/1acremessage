@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Sameer Ahuja"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720221334986,
+      "content": "sameer_ahujaa wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720221334539,
+      "content": "We currently only operate in telangana. \n\nWill keep you posted when we launch in other states",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sameer Ahuja",
+      "timestamp_ms": 1720206159941,
+      "content": "Around 30 to 40 lakh per acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sameer Ahuja",
+      "timestamp_ms": 1720206139966,
+      "content": "Do you have any projects near indore",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sameer Ahuja",
+  "is_still_participant": true,
+  "thread_path": "inbox/sameerahuja_1382846216452173",
+  "magic_words": [
+    
+  ]
+}

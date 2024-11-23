@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Dr Shakeeb Abdul Rafee"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720169132883,
+      "content": "Hello \u00f0\u009f\u0091\u008b",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dr Shakeeb Abdul Rafee",
+      "timestamp_ms": 1720165359342,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Dr Shakeeb Abdul Rafee",
+  "is_still_participant": true,
+  "thread_path": "inbox/drshakeebabdulrafee_1431118481623326",
+  "magic_words": [
+    
+  ]
+}

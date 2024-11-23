@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Ravi Teja"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703041533460,
+      "content": "Hi, please check the website. You can check by district and Mandal and see the location and contact the seller directly. \nYou can also call Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravi Teja",
+      "timestamp_ms": 1703034394225,
+      "content": "Hi !\n\nCan you please let us know if you have any 1acre land between Hyderabad to Vijayawada area ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ravi Teja",
+  "is_still_participant": true,
+  "thread_path": "inbox/raviteja_1261676068558515",
+  "magic_words": [
+    
+  ]
+}

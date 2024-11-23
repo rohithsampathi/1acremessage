@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Sehdev Malik"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723865031807,
+      "content": "Not yet. Will launch there soon.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sehdev Malik",
+      "timestamp_ms": 1723750916078,
+      "content": "Between 2-10L per acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sehdev Malik",
+      "timestamp_ms": 1723750897188,
+      "content": "Any references for agriculture land in haryana or rajasthan ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sehdev Malik",
+  "is_still_participant": true,
+  "thread_path": "inbox/sehdevmalik_1491480068909467",
+  "magic_words": [
+    
+  ]
+}

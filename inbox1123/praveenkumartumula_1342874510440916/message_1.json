@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Praveen Kumar Tumula"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709876015941,
+      "content": "Hi, Please contact Pratheek \n9390674324. He'll help you with the information.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Praveen Kumar Tumula",
+      "timestamp_ms": 1709873826205,
+      "content": "Saw reel stating pooling land with a share of 100acres as one pie in 5000acres",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709873759125,
+      "content": "Hi, may I know what you are interested in?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Praveen Kumar Tumula",
+      "timestamp_ms": 1709873716679,
+      "content": "Intrested, details please",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Praveen Kumar Tumula",
+  "is_still_participant": true,
+  "thread_path": "inbox/praveenkumartumula_1342874510440916",
+  "magic_words": [
+    
+  ]
+}

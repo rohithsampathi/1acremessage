@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Dipendra Singh Gurjar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1732115492809,
+      "content": "How can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1732115482806,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dipendra Singh Gurjar",
+      "timestamp_ms": 1732101692763,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Dipendra Singh Gurjar",
+  "is_still_participant": true,
+  "thread_path": "inbox/dipendrasinghgurjar_1459629432093318",
+  "magic_words": [
+    
+  ]
+}

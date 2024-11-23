@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "pK....vo7"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "pK....vo7",
+      "timestamp_ms": 1703161778982,
+      "content": "9143311999",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703150422902,
+      "content": "Hy Praveen , can we have your contact number our team would like to connect with you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "pK....vo7",
+      "timestamp_ms": 1703137476806,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703137463847,
+      "content": "Hy Praveen , we are actively dealing with agriculture lands , we have noted your requirement , if we get any good opportunity we will connect back ,",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "pK....vo7",
+      "timestamp_ms": 1703137238178,
+      "content": "Hi we are looking for 250 square yard for commercial purposes surrounded by Lingampalli or Kondapur\u00e2\u0080\u00a6do you have any ..?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "pK....vo7",
+  "is_still_participant": true,
+  "thread_path": "inbox/pkvo7_1277002367028207",
+  "magic_words": [
+    
+  ]
+}

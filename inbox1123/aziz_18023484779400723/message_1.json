@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "AZIZ\u00f0\u009f\u0094\u00a5"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727773917914,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "AZIZ\u00f0\u009f\u0094\u00a5",
+      "timestamp_ms": 1727638307256,
+      "content": "Hello\u00f0\u009f\u0091\u008b",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "AZIZ\u00f0\u009f\u0094\u00a5",
+  "is_still_participant": true,
+  "thread_path": "inbox/aziz_18023484779400723",
+  "magic_words": [
+    
+  ]
+}

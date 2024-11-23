@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "R O N N Y"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "R O N N Y",
+      "timestamp_ms": 1727436057289,
+      "content": "Farms",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "R O N N Y",
+      "timestamp_ms": 1727436054435,
+      "content": "Karantaka hubli",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "R O N N Y",
+  "is_still_participant": true,
+  "thread_path": "inbox/ronny_17914515338990863",
+  "magic_words": [
+    
+  ]
+}

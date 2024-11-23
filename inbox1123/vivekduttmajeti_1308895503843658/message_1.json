@@ -1,0 +1,56 @@
+{
+  "participants": [
+    {
+      "name": "Vivek Dutt Majeti"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701501665887,
+      "content": "Sure , we are happy to work with you in future",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701501630882,
+      "content": "Thank you for the feedback Vivek , will look into it",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vivek Dutt Majeti",
+      "timestamp_ms": 1701500677935,
+      "content": "Also. Im very impressed with your background and good work. Soon you will hear from me for a requirement of land. Thanks",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1701501591
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vivek Dutt Majeti",
+      "timestamp_ms": 1701499822754,
+      "content": "Namasthe, i have a request. \n\nLiving abroad for many years it gets difficult to understand guntas and local measurements in Hyderabad. Can you please add square meters for plots especially with guntas as measurements in your site",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1701501592
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vivek Dutt Majeti",
+  "is_still_participant": true,
+  "thread_path": "inbox/vivekduttmajeti_1308895503843658",
+  "magic_words": [
+    
+  ]
+}

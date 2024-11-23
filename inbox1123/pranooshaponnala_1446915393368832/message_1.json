@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Pranoosha Ponnala"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725586955553,
+      "content": "Please explore 1acre.in where we have 3500+ across telangana. \n\nYou can use filters like budget and location to find the right lands for you. \n\nHope that helps :)",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Please explore 1acre.in where we have 3500+ across telangana. \n\nYou can use filters like budget and location to find the right lands for you. \n\nHope that helps :)"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pranoosha Ponnala",
+      "timestamp_ms": 1725550940468,
+      "content": "which areas have lands that are 40-60lakh per acre",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pranoosha Ponnala",
+      "timestamp_ms": 1725550917519,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Pranoosha Ponnala",
+  "is_still_participant": true,
+  "thread_path": "inbox/pranooshaponnala_1446915393368832",
+  "magic_words": [
+    
+  ]
+}

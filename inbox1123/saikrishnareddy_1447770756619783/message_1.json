@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Saikrishna Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Saikrishna Reddy",
+      "timestamp_ms": 1721130182668,
+      "content": "Got it",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721091000488,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721090999762,
+      "content": "Hi, Please contact Vijay 9959994737, from the team.  He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Saikrishna Reddy",
+      "timestamp_ms": 1721061363254,
+      "content": "Where is this exactly?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Saikrishna Reddy",
+      "timestamp_ms": 1721061362370,
+      "content": "Saikrishna sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C9CgdjpSOCk/?id=3405427036872302756_47651711013",
+        "share_text": "1 acre | \u00e2\u0082\u00b914 Cr | Gandimaisamma-Medchal Road | Link in bio \u00f0\u009f\u008c\u009f\n\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\n\nWhich direction of Hyderabad you are looking for lands ? \u00f0\u009f\u0091\u0080",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Saikrishna Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/saikrishnareddy_1447770756619783",
+  "magic_words": [
+    
+  ]
+}

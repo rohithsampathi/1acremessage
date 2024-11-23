@@ -1,0 +1,79 @@
+{
+  "participants": [
+    {
+      "name": "Basu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709364977395,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Basu",
+      "timestamp_ms": 1709364842925,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Basu",
+      "timestamp_ms": 1709364837932,
+      "content": "Tie*",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Basu",
+      "timestamp_ms": 1709364830501,
+      "content": "Let me know if you have any time up",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709364824743,
+      "content": "Yeah, soon in bangalore.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Basu",
+          "timestamp": 1709364842
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Basu",
+      "timestamp_ms": 1709364807604,
+      "content": "See you soon in Bangalore",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Basu",
+      "timestamp_ms": 1709364797274,
+      "content": "Ok sir thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709364777208,
+      "content": "Not yet. Right now, we are only in Telangana",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Basu",
+      "timestamp_ms": 1709364084993,
+      "content": "Do you have property near Bangalore?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Basu",
+  "is_still_participant": true,
+  "thread_path": "inbox/basu_1308609063862951",
+  "magic_words": [
+    
+  ]
+}

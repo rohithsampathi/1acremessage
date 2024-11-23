@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "\u00e1\u008e\u00b7\u00e1\u008e\u00aa\u00e1\u008e\u00bb\u00e1\u008e\u00aa\u00e1\u008f\u0099\u00e1\u008e\u00ac\u00e1\u008e\u00ac\u00e1\u008e\u00a1"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729330959607,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00e1\u008e\u00b7\u00e1\u008e\u00aa\u00e1\u008e\u00bb\u00e1\u008e\u00aa\u00e1\u008f\u0099\u00e1\u008e\u00ac\u00e1\u008e\u00ac\u00e1\u008e\u00a1",
+      "timestamp_ms": 1729328818788,
+      "content": "32acres I m interested",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00e1\u008e\u00b7\u00e1\u008e\u00aa\u00e1\u008e\u00bb\u00e1\u008e\u00aa\u00e1\u008f\u0099\u00e1\u008e\u00ac\u00e1\u008e\u00ac\u00e1\u008e\u00a1",
+  "is_still_participant": true,
+  "thread_path": "inbox/1335874557797572",
+  "magic_words": [
+    
+  ]
+}

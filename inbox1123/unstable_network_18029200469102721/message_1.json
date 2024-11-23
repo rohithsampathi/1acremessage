@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "unstable_network"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717815433659,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "unstable_network",
+      "timestamp_ms": 1717814788982,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "unstable_network",
+  "is_still_participant": true,
+  "thread_path": "inbox/unstable_network_18029200469102721",
+  "magic_words": [
+    
+  ]
+}

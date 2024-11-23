@@ -1,0 +1,79 @@
+{
+  "participants": [
+    {
+      "name": "Kishore Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kishore Kumar",
+      "timestamp_ms": 1716438788743,
+      "content": "Interested in Goa also",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kishore Kumar",
+      "timestamp_ms": 1716438778524,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716438766043,
+      "content": "Oh, ok. Not yet. Will keep you posted.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Kishore Kumar",
+          "timestamp": 1716438778
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kishore Kumar",
+      "timestamp_ms": 1716438633975,
+      "content": "10 acre or so",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kishore Kumar",
+      "timestamp_ms": 1716438631374,
+      "content": "Mixed use land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kishore Kumar",
+      "timestamp_ms": 1716438622033,
+      "content": "Kerala or Cory",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716437032008,
+      "content": "What are you looking for?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716437012309,
+      "content": "Not yet. But soon.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kishore Kumar",
+      "timestamp_ms": 1716429888214,
+      "content": "Do you also deal with other states",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kishore Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/kishorekumar_1412114853515741",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "M007\"'\u00e2\u0099\u008c\u00f0\u009f\u0094\u00ab"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719115142407,
+      "content": "It would be better for you to approach a lawyer locally.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "M007\"'\u00e2\u0099\u008c\u00f0\u009f\u0094\u00ab",
+      "timestamp_ms": 1719114611722,
+      "content": "Any information about waqf land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719105059500,
+      "content": "Hi, we are currently not operational in Karnataka.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "M007\"'\u00e2\u0099\u008c\u00f0\u009f\u0094\u00ab",
+      "timestamp_ms": 1719073510734,
+      "content": "I'm from raichur karnataka, maadi 5acr land undi but pahani lo waqf board ani print vastundi.. how to sell this land?  please help",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "M007\"'\u00e2\u0099\u008c\u00f0\u009f\u0094\u00ab",
+      "timestamp_ms": 1719073299976,
+      "content": "Hi sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "M007\"'\u00e2\u0099\u008c\u00f0\u009f\u0094\u00ab",
+  "is_still_participant": true,
+  "thread_path": "inbox/m007_1362195855182692",
+  "magic_words": [
+    
+  ]
+}

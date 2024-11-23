@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Harshit Krishna"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Harshit Krishna",
+      "timestamp_ms": 1720232923007,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720221599537,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Harshit Krishna",
+          "timestamp": 1720232923
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harshit Krishna",
+      "timestamp_ms": 1720200626095,
+      "content": "Hi \nDo you have anything near Delhi?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Harshit Krishna",
+  "is_still_participant": true,
+  "thread_path": "inbox/harshitkrishna_1477512443645552",
+  "magic_words": [
+    
+  ]
+}

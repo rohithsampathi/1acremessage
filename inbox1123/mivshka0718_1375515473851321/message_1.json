@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Mivshka0718"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716397548520,
+      "content": "Yawatmal, Maharashtra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mivshka0718",
+      "timestamp_ms": 1716395128832,
+      "content": "Where",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3373573828072004236"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mivshka0718",
+  "is_still_participant": true,
+  "thread_path": "inbox/mivshka0718_1375515473851321",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Surendra Samal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Surendra Samal",
+      "timestamp_ms": 1717580832033,
+      "content": "Yes.... Seeing your previous post I pinged you",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1717580878
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717580773222,
+      "content": "Here, we mostly post wrt to Telangana. \nWe'll launch other states soon.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Surendra Samal",
+      "timestamp_ms": 1717579776663,
+      "content": "Just came across one of your post , you posted about the land in sindanoor Karnataka, so here I thought you only post about the property that are in Telangana, \n\nSo I just wanted to say , I have developed plots in Town Shaktinagar, Raichur district, 190 kms away from hyd, so I want to know , does you deal with customers?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717579532984,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Surendra Samal",
+      "timestamp_ms": 1717579263352,
+      "content": "Hi there",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Surendra Samal",
+  "is_still_participant": true,
+  "thread_path": "inbox/surendrasamal_1374856380573409",
+  "magic_words": [
+    
+  ]
+}

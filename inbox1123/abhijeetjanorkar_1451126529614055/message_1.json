@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Abhijeet Janorkar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Abhijeet Janorkar",
+      "timestamp_ms": 1722056229314,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhijeet Janorkar",
+      "timestamp_ms": 1722014772828,
+      "content": "Hi 1acre.in ,\nPlease Connect With my Team on WhatsApp @ 8485007201 During Working Hours 11 AM to 6 PM (Monday to Saturday), Team will help you for any Queries or Issues.\nThanks!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722014771250,
+      "content": "Please contact Vijay\n9959994737, from the team. \n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhijeet Janorkar",
+      "timestamp_ms": 1722014599395,
+      "content": "Yavatmal 40 acre land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abhijeet Janorkar",
+      "timestamp_ms": 1722014535058,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Abhijeet Janorkar",
+  "is_still_participant": true,
+  "thread_path": "inbox/abhijeetjanorkar_1451126529614055",
+  "magic_words": [
+    
+  ]
+}

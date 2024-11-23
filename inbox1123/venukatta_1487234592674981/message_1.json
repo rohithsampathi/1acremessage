@@ -1,0 +1,81 @@
+{
+  "participants": [
+    {
+      "name": "Venu Katta"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720350690092,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720350689149,
+      "content": "Hi, Please contact Vijay 9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Venu Katta",
+      "timestamp_ms": 1720347891180,
+      "content": "1 acre :1.30cr",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Venu Katta",
+      "timestamp_ms": 1720347875178,
+      "content": "Nawabpet to kondur road",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Venu Katta",
+      "timestamp_ms": 1720347848339,
+      "content": "https://maps.app.goo.gl/CDazovjDuFfMGpVg8",
+      "share": {
+        "link": "https://maps.app.goo.gl/CDazovjDuFfMGpVg8",
+        "share_text": "https://maps.app.goo.gl/CDazovjDuFfMGpVg8"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Venu Katta",
+      "timestamp_ms": 1720347799025,
+      "content": "67acres",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Venu Katta",
+      "timestamp_ms": 1720347785549,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/venukatta_1487234592674981/photos/449012937_842894887341574_1792630831679920621_n_842894884008241.jpg",
+          "creation_timestamp": 1720347784,
+          "backup_uri": "https://scontent.fmaa12-3.fna.fbcdn.net/v/t1.15752-9/449012937_842894887341574_1792630831679920621_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=9f807c&_nc_ohc=rFYECrlornYQ7kNvgGVfrGx&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fmaa12-3.fna&oh=03_Q7cD1QHuGpFQba_bfqwP0S7N6eY0qfQvyXxMzMiQpi99SVQWqw&oe=6766B84B"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720345328852,
+      "content": "Please share more details about the land such as location , acreage, price etc",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Venu Katta",
+      "timestamp_ms": 1720333292875,
+      "content": "We have an land to sell 66 acres",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Venu Katta",
+  "is_still_participant": true,
+  "thread_path": "inbox/venukatta_1487234592674981",
+  "magic_words": [
+    
+  ]
+}

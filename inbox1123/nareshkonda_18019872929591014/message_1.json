@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Naresh Konda"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725958468512,
+      "content": "Hi, Please contact Srikar 8341149011, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Naresh Konda",
+      "timestamp_ms": 1725852318414,
+      "content": "What is the zone of the commercial plot near to shameerpet lake?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Naresh Konda",
+  "is_still_participant": true,
+  "thread_path": "inbox/nareshkonda_18019872929591014",
+  "magic_words": [
+    
+  ]
+}

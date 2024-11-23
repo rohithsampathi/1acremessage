@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Shivam Aggarwal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716339182024,
+      "content": "Please contact Ratna Kiran \n9390155412\nHe'll help you with all the details.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716339154262,
+      "content": "Hi, sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shivam Aggarwal",
+      "timestamp_ms": 1716310581824,
+      "content": "Can you send details please",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shivam Aggarwal",
+      "timestamp_ms": 1716310581459,
+      "content": "Shivam sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C7InZjuKaVo/?id=3371117601243112808_47651711013",
+        "share_text": "Further:\n15km away from the Upcoming Nagpur-Goa Shakthipeeth expressway. \nA new railway line between Nagpur and Nanded is underway. \n\n10 Acres - 1.5Cr\n\nThis transaction is facilitated by 1acre.in, till the process of registration. \nIf you are interested in buying, \nContact: 9959994737\n\n#1acre #1acre.in #beauty #landscapephotography",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shivam Aggarwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/shivamaggarwal_1418568262874059",
+  "magic_words": [
+    
+  ]
+}

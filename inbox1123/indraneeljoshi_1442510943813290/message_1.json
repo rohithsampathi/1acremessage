@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Indraneel Joshi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1719757049675,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Indraneel Joshi",
+      "timestamp_ms": 1719741664744,
+      "content": "Hey! I want to advertise my land which is in Dapoli Maharashtra",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Indraneel Joshi",
+  "is_still_participant": true,
+  "thread_path": "inbox/indraneeljoshi_1442510943813290",
+  "magic_words": [
+    
+  ]
+}

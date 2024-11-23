@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Naveen Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Naveen Kumar",
+      "timestamp_ms": 1716444338120,
+      "content": "TQ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716444325064,
+      "content": "9032114737\nYou can talk to Bharath, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Naveen Kumar",
+      "timestamp_ms": 1716444197147,
+      "content": "8309121451",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Naveen Kumar",
+      "timestamp_ms": 1716444196638,
+      "content": "Naveen sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C4j3HBRt6Vt/?id=3324743324894995821_47651711013",
+        "share_text": "9032114737\n\nPlease call Bharath, from the team.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Naveen Kumar",
+      "timestamp_ms": 1716444187522,
+      "content": "Iam interested for this job",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Naveen Kumar",
+      "timestamp_ms": 1716444186628,
+      "content": "Naveen sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C4j3HBRt6Vt/?id=3324743324894995821_47651711013",
+        "share_text": "9032114737\n\nPlease call Bharath, from the team.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Naveen Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/naveenkumar_1419081509487859",
+  "magic_words": [
+    
+  ]
+}

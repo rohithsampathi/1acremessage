@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Mohd Hafeez"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706466876740,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mohd Hafeez",
+      "timestamp_ms": 1706465750914,
+      "content": "Hi sir I have lots of properties arround hyd",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mohd Hafeez",
+  "is_still_participant": true,
+  "thread_path": "inbox/mohdhafeez_17993301158591014",
+  "magic_words": [
+    
+  ]
+}

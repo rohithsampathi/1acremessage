@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "karthik_dorna0037"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "karthik_dorna0037",
+      "timestamp_ms": 1727627445081,
+      "content": "I appreciate your response",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1727627791
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "karthik_dorna0037",
+      "timestamp_ms": 1727627427711,
+      "content": "9666773435",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1727625660331,
+      "content": "Sure, pls drop your number. Someone from our team would call you during office hours tomorrow",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "karthik_dorna0037",
+      "timestamp_ms": 1727623218171,
+      "content": "Hello,\n\nRecently I have taken a flat near narsingi so I\u00e2\u0080\u0099m a bit confused about this FTL & buffer zone it would be great if you could clear my doubt \n\nThank You",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "karthik_dorna0037",
+  "is_still_participant": true,
+  "thread_path": "inbox/karthik_dorna0037_1542700310464051",
+  "magic_words": [
+    
+  ]
+}

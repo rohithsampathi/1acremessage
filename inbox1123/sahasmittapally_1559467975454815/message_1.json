@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Sahas Mittapally"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729480093708,
+      "content": "Please contact our team member ,pavan, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sahas Mittapally",
+      "timestamp_ms": 1729449098991,
+      "content": "I am looking for a land in Hyderabad \nBetween the range of 320sq yards to 380sq for construction",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sahas Mittapally",
+      "timestamp_ms": 1729449047280,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sahas Mittapally",
+  "is_still_participant": true,
+  "thread_path": "inbox/sahasmittapally_1559467975454815",
+  "magic_words": [
+    
+  ]
+}

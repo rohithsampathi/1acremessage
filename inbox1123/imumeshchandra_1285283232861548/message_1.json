@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "I'm Umeshchandra"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "I'm Umeshchandra",
+      "timestamp_ms": 1706073375940,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706073358448,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706073352131,
+      "content": "Hi, sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "I'm Umeshchandra",
+      "timestamp_ms": 1706070764291,
+      "content": "Hello,\n\nCan you help us to sale our property located exactly opposite to passport seva kendram, Begumpet. \n\nWe can give goodwill on sale!",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "I'm Umeshchandra",
+  "is_still_participant": true,
+  "thread_path": "inbox/imumeshchandra_1285283232861548",
+  "magic_words": [
+    
+  ]
+}

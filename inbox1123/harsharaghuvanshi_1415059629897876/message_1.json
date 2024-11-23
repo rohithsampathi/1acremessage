@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Harsha Raghuvanshi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729751756135,
+      "content": "We recently launched in Maharashtra so we do not have many listings yet. \n\nIf you could share a clear requirement, we can see if we can connect you with someone who can help",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harsha Raghuvanshi",
+      "timestamp_ms": 1729751659109,
+      "content": "You have land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harsha Raghuvanshi",
+      "timestamp_ms": 1729751649586,
+      "content": "Pune",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729751639545,
+      "content": "How can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Harsha Raghuvanshi",
+      "timestamp_ms": 1729706389917,
+      "content": "Pune",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Harsha Raghuvanshi",
+  "is_still_participant": true,
+  "thread_path": "inbox/harsharaghuvanshi_1415059629897876",
+  "magic_words": [
+    
+  ]
+}

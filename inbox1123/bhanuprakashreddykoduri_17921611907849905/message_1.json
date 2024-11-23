@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Bhanu Prakash Reddy Koduri"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bhanu Prakash Reddy Koduri",
+      "timestamp_ms": 1708315140200,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708312257920,
+      "content": "https://maps.app.goo.gl/aPbwiQmx6WXqGP1J7",
+      "share": {
+        "link": "https://maps.app.goo.gl/aPbwiQmx6WXqGP1J7",
+        "share_text": "https://maps.app.goo.gl/aPbwiQmx6WXqGP1J7"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bhanu Prakash Reddy Koduri",
+      "timestamp_ms": 1708309347155,
+      "content": "Hello,\n\n\n I'm interested in the Ananthagiri half acre land. Where's is this located?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Bhanu Prakash Reddy Koduri",
+  "is_still_participant": true,
+  "thread_path": "inbox/bhanuprakashreddykoduri_17921611907849905",
+  "magic_words": [
+    
+  ]
+}

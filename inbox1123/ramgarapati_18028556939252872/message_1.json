@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Ram Garapati"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723784021434,
+      "content": "Our team will get back to you. \nMeanwhile check our website 1acre.in where 3000+ lands all over telangana and call sellers directly",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Our team will get back to you. \nMeanwhile check our website 1acre.in where 3000+ lands all over telangana and call sellers directly"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723783960073,
+      "content": "Hello Ram\nThanks for reaching out.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ram Garapati",
+      "timestamp_ms": 1723696616901,
+      "content": "Hi, \nI\u00e2\u0080\u0099m a builder and am looking for plots of size 500SQY to 900SQY for purchase or joint development of residential  apartments around Kondapur, Manchirevula, Kukatpally. I.e close to Hitech City/ Gachibowli/ Financial District. Please let me know if you have any options. Also, is there an office where I could meet with your people to get more information. \nI can be reached on 9963156969. \nRegards, \nRamachandra",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ram Garapati",
+  "is_still_participant": true,
+  "thread_path": "inbox/ramgarapati_18028556939252872",
+  "magic_words": [
+    
+  ]
+}

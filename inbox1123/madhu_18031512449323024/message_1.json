@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Madhu\u00f0\u009f\u0092\u008b"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722616941714,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Madhu\u00f0\u009f\u0092\u008b",
+      "timestamp_ms": 1722611709947,
+      "content": "Ala",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Madhu\u00f0\u009f\u0092\u008b",
+      "timestamp_ms": 1722611705242,
+      "content": "Bro Madhi land vundhi sale cheyali",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Madhu\u00f0\u009f\u0092\u008b",
+  "is_still_participant": true,
+  "thread_path": "inbox/madhu_18031512449323024",
+  "magic_words": [
+    
+  ]
+}

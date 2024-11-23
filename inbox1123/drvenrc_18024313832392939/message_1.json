@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "dr.venrc"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729480242665,
+      "content": "You can explore 1acre.in where we have 3500+ lands across Telangana",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "You can explore 1acre.in where we have 3500+ lands across Telangana"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "dr.venrc",
+      "timestamp_ms": 1729378368064,
+      "content": "You have anything in jagtial",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "dr.venrc",
+  "is_still_participant": true,
+  "thread_path": "inbox/drvenrc_18024313832392939",
+  "magic_words": [
+    
+  ]
+}

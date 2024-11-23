@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Malode"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724413131343,
+      "content": "Can you please share more details such as what type of lands you deal in , region , years of experience etc",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724413073840,
+      "content": "Thanks for reaching out :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pawan Malode",
+      "timestamp_ms": 1724400716329,
+      "content": "I'm interested",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3440186346676381456"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Pawan Malode",
+  "is_still_participant": true,
+  "thread_path": "inbox/pawanmalode_18027276908338854",
+  "magic_words": [
+    
+  ]
+}

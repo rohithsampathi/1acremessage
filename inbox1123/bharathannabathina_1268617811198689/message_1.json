@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Bharath Annabathina"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702442649585,
+      "content": "you can connect with pratheek  9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bharath Annabathina",
+      "timestamp_ms": 1702425398074,
+      "content": "Hi I\u00e2\u0080\u0099m interested in buying land please let me know",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Bharath Annabathina",
+  "is_still_participant": true,
+  "thread_path": "inbox/bharathannabathina_1268617811198689",
+  "magic_words": [
+    
+  ]
+}

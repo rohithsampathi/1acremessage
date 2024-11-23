@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Raj Jain"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705956049450,
+      "content": "raj.jain95 wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1705956049120,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Raj Jain",
+      "timestamp_ms": 1705942777500,
+      "content": "Want to buy 100 acres",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Raj Jain",
+  "is_still_participant": true,
+  "thread_path": "inbox/rajjain_1328170401916627",
+  "magic_words": [
+    
+  ]
+}

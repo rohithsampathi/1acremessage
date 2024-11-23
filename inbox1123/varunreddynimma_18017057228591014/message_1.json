@@ -1,0 +1,79 @@
+{
+  "participants": [
+    {
+      "name": "Varun Reddy Nimma"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723880806944,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723880806197,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Varun Reddy Nimma",
+      "timestamp_ms": 1723879923795,
+      "content": "An extent of 6 acres",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Varun Reddy Nimma",
+      "timestamp_ms": 1723879916809,
+      "content": "https://maps.app.goo.gl/djWfDMRudgTh68V89?g_st=ic",
+      "share": {
+        "link": "https://maps.app.goo.gl/djWfDMRudgTh68V89?g_st=ic",
+        "share_text": "https://maps.app.goo.gl/djWfDMRudgTh68V89?g_st=ic"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Varun Reddy Nimma",
+      "timestamp_ms": 1723879797778,
+      "content": "Opp to kondapochamma reservoir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Varun Reddy Nimma",
+      "timestamp_ms": 1723879746517,
+      "content": "Telangana",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723879731994,
+      "content": "Which state?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Varun Reddy Nimma",
+      "timestamp_ms": 1723879122418,
+      "content": "I want to list my land on 1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "I want to list my land on 1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Varun Reddy Nimma",
+      "timestamp_ms": 1723879108339,
+      "content": "Hi !",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Varun Reddy Nimma",
+  "is_still_participant": true,
+  "thread_path": "inbox/varunreddynimma_18017057228591014",
+  "magic_words": [
+    
+  ]
+}

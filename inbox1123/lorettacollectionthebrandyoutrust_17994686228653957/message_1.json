@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Loretta collection The brand you Trust"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Loretta collection The brand you Trust",
+      "timestamp_ms": 1722311305770,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721964289448,
+      "content": "We currently only operate in telangana. \n\nWill keep you posted when we launch in other states",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Loretta collection The brand you Trust",
+      "timestamp_ms": 1721851488012,
+      "content": "I am interested in puri Odisha . For Resort",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Loretta collection The brand you Trust",
+  "is_still_participant": true,
+  "thread_path": "inbox/lorettacollectionthebrandyoutrust_17994686228653957",
+  "magic_words": [
+    
+  ]
+}

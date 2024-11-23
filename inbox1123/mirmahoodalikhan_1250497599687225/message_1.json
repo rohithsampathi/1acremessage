@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Mir Mahood Ali Khan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mir Mahood Ali Khan",
+      "timestamp_ms": 1710137962687,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710135131187,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mir Mahood Ali Khan",
+      "timestamp_ms": 1710133939366,
+      "content": "Ibhrahimpatnam",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710128319452,
+      "content": "Can you tell me the location and price?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mir Mahood Ali Khan",
+      "timestamp_ms": 1710126941730,
+      "content": "I have 47 acre land and i want to sel it",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710119900457,
+      "content": "Hello, may I know what you are looking for? I'll connect accordingly",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mir Mahood Ali Khan",
+      "timestamp_ms": 1710098195485,
+      "content": "Can i have your contact number",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mir Mahood Ali Khan",
+      "timestamp_ms": 1710098185697,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mir Mahood Ali Khan",
+  "is_still_participant": true,
+  "thread_path": "inbox/mirmahoodalikhan_1250497599687225",
+  "magic_words": [
+    
+  ]
+}

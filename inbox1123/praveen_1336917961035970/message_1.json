@@ -1,0 +1,84 @@
+{
+  "participants": [
+    {
+      "name": "praveen"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709184920927,
+      "content": "Currently only in Telangana. Soon, all other states b",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709184870387,
+      "content": "Are you interested in purchasing this half-acre plot in Ananthagiri Hills?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709184870278,
+      "content": "Please tap on one of the options provided to answer this question.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "praveen",
+      "timestamp_ms": 1709184869723,
+      "content": "Anything in bangalore",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709184853060,
+      "content": "Are you interested in purchasing this half-acre plot in Ananthagiri Hills?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709184852942,
+      "content": "Please tap on one of the options provided to answer this question.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "praveen",
+      "timestamp_ms": 1709184852545,
+      "content": "Looking for land in bangalore",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709184833486,
+      "content": "Not yet, but very soon.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709183616079,
+      "content": "Are you interested in purchasing this half-acre plot in Ananthagiri Hills?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1709183615964,
+      "content": "Please tap on one of the options provided to answer this question.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "praveen",
+      "timestamp_ms": 1709183615140,
+      "content": "Is this in Andhrapradesh",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "praveen",
+  "is_still_participant": true,
+  "thread_path": "inbox/praveen_1336917961035970",
+  "magic_words": [
+    
+  ]
+}

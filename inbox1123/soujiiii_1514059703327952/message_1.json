@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "soujiiii...."
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715755303697,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "soujiiii....",
+      "timestamp_ms": 1715754201576,
+      "content": "Can I call tomorrow",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715754149166,
+      "content": "9032114737\nYou can talk to Bharath, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "soujiiii....",
+      "timestamp_ms": 1715753574573,
+      "content": "Iam interested",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "soujiiii....",
+      "timestamp_ms": 1715753573492,
+      "content": "soujiiii.... sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C4j3HBRt6Vt/?id=3324743324894995821_47651711013",
+        "share_text": "9032114737\n\nPlease call Bharath, from the team.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "soujiiii....",
+  "is_still_participant": true,
+  "thread_path": "inbox/soujiiii_1514059703327952",
+  "magic_words": [
+    
+  ]
+}

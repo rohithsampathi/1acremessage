@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Shweta Aroskar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shweta Aroskar",
+      "timestamp_ms": 1711349089284,
+      "content": "Requesting notification for farm land in Goa or Sindhudurg or Ratnagiri district of Maharashtra. 30-50 acres.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shweta Aroskar",
+  "is_still_participant": true,
+  "thread_path": "inbox/shwetaaroskar_1328122911913694",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Ayush  Bhatt"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720240150946,
+      "content": "??",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ayush  Bhatt",
+      "timestamp_ms": 1720237037232,
+      "content": "???",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3405429436274227402"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ayush  Bhatt",
+  "is_still_participant": true,
+  "thread_path": "inbox/ayushbhatt_18023923097243247",
+  "magic_words": [
+    
+  ]
+}

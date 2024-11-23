@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Ponnekanti Sivasankar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724428923525,
+      "content": "Are you an agent ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724428918883,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ponnekanti Sivasankar",
+      "timestamp_ms": 1724416420229,
+      "content": "I am from Amaravathi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ponnekanti Sivasankar",
+      "timestamp_ms": 1724416413279,
+      "content": "Hello sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ponnekanti Sivasankar",
+  "is_still_participant": true,
+  "thread_path": "inbox/ponnekantisivasankar_18005164592630063",
+  "magic_words": [
+    
+  ]
+}

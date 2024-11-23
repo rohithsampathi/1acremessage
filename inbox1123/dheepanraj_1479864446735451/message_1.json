@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Dheepan Raj \u00f0\u009f\u0091\u0091"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dheepan Raj \u00f0\u009f\u0091\u0091",
+      "timestamp_ms": 1732185990202,
+      "content": "\u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1732185977634,
+      "content": "Our team will get back to you soon \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dheepan Raj \u00f0\u009f\u0091\u0091",
+      "timestamp_ms": 1732185967590,
+      "content": "Haiii I\u00e2\u0080\u0099m a promoter",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Dheepan Raj \u00f0\u009f\u0091\u0091",
+  "is_still_participant": true,
+  "thread_path": "inbox/dheepanraj_1479864446735451",
+  "magic_words": [
+    
+  ]
+}

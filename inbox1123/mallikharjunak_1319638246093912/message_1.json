@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Mallikharjuna K"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mallikharjuna K",
+      "timestamp_ms": 1713431672704,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/mallikharjunak_1319638246093912/photos/417627469_2416447571888713_9045562430901012938_n_940902680916335.jpg",
+          "creation_timestamp": 1713431669,
+          "backup_uri": "https://scontent.fmaa12-1.fna.fbcdn.net/v/t1.15752-9/417627469_2416447571888713_9045562430901012938_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=9f807c&_nc_ohc=84fMLQn037YQ7kNvgGVt3HD&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fmaa12-1.fna&oh=03_Q7cD1QFoB0NWJf8KNdsS87T--Ard_7tZJ0QUUt0xSFLDP5ngCA&oe=6766CEED"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mallikharjuna K",
+  "is_still_participant": true,
+  "thread_path": "inbox/mallikharjunak_1319638246093912",
+  "magic_words": [
+    
+  ]
+}

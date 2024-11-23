@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Viraj Desai"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1730081783000,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Viraj Desai",
+      "timestamp_ms": 1730054039628,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Viraj Desai",
+  "is_still_participant": true,
+  "thread_path": "inbox/virajdesai_1582902396437552",
+  "magic_words": [
+    
+  ]
+}

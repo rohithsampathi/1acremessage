@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Pujan Agarwal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704553680778,
+      "content": "https://www.1acre.in/subscribe",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "https://www.1acre.in/subscribe"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704553678349,
+      "content": "Hi. Please check.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Pujan Agarwal",
+      "timestamp_ms": 1704552089750,
+      "content": "Intrested in buying land, a little far is ok, but 4-5 acres only",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Pujan Agarwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/pujanagarwal_18006680303329292",
+  "magic_words": [
+    
+  ]
+}

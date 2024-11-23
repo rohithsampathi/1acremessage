@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "musiccenter"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "musiccenter",
+      "timestamp_ms": 1704422107312,
+      "content": "Ok thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704420766399,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "musiccenter",
+      "timestamp_ms": 1704411814235,
+      "content": "Could you please tell me where can I buy one acre around Telangana at lowest price",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "musiccenter",
+  "is_still_participant": true,
+  "thread_path": "inbox/musiccenter_1339952027399922",
+  "magic_words": [
+    
+  ]
+}

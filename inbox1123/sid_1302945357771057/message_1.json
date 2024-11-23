@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Sid"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702109256369,
+      "content": "He is from our company",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sid",
+      "timestamp_ms": 1702105897271,
+      "content": "Is he in your company or another company?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702105879759,
+      "content": "You can connect with Ratna kiran ,7661-063355",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sid",
+      "timestamp_ms": 1702105806003,
+      "content": "Hello - do you post projects? We are looking for a marketing partner for selling 45,000 sqft in upcoming project. We are the land owner, will register land against purchase to buyers. Ticket size is 1.26 Cr for each investor",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sid",
+  "is_still_participant": true,
+  "thread_path": "inbox/sid_1302945357771057",
+  "magic_words": [
+    
+  ]
+}

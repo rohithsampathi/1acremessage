@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Anuj patil"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720345360599,
+      "content": "Please share more details about the land such as location , acreage, price etc",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anuj patil",
+      "timestamp_ms": 1720341084761,
+      "content": "can you advertise our property",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Anuj patil",
+  "is_still_participant": true,
+  "thread_path": "inbox/anujpatil_1043172907149803",
+  "magic_words": [
+    
+  ]
+}

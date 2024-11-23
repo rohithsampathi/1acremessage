@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "KarthickRaja"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "KarthickRaja",
+      "timestamp_ms": 1732123319220,
+      "content": "7092330092",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1732100185275,
+      "content": "Share your contact and our team will get in touch",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "KarthickRaja",
+      "timestamp_ms": 1732046034593,
+      "content": "Chennai Land Owners Details \n\nI can source it for you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "KarthickRaja",
+      "timestamp_ms": 1732046009000,
+      "content": "If you need",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "KarthickRaja",
+  "is_still_participant": true,
+  "thread_path": "inbox/karthickraja_1430664864987699",
+  "magic_words": [
+    
+  ]
+}

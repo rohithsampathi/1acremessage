@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Aravind KuMar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aravind KuMar",
+      "timestamp_ms": 1703913717284,
+      "content": "Sure , thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1703911213071,
+      "content": "you can connect with pratheek, 9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aravind KuMar",
+      "timestamp_ms": 1703872249645,
+      "content": "Can I get the details . So that I can bring you the customers.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aravind KuMar",
+      "timestamp_ms": 1703872224748,
+      "content": "I do marketing",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aravind KuMar",
+      "timestamp_ms": 1703872215932,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Aravind KuMar",
+  "is_still_participant": true,
+  "thread_path": "inbox/aravindkumar_1263051971752585",
+  "magic_words": [
+    
+  ]
+}

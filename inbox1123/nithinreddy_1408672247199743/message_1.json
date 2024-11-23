@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Nithin Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717588580269,
+      "content": "In the same map, along with the survey numbers.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717588556417,
+      "content": "It is similar, except that all the 2500+ verified lands for sale, are listed.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nithin Reddy",
+      "timestamp_ms": 1717584901152,
+      "content": "Is it similar to cadestral maps in dharani? Is it more accurate? Is it like tipan survey?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nithin Reddy",
+      "timestamp_ms": 1717584884174,
+      "content": "Hi, i saw your map reel on insta.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nithin Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/nithinreddy_1408672247199743",
+  "magic_words": [
+    
+  ]
+}

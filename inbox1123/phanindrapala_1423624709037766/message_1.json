@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Phanindra Pala"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716197088605,
+      "content": "Hi, Please talk to Vijay\n9959994737, from the team. \nHe'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Phanindra Pala",
+      "timestamp_ms": 1716196267608,
+      "content": "Can you facilitate in selling?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Phanindra Pala",
+      "timestamp_ms": 1716196249780,
+      "content": "Hii... I have 11 acres land in jadcharla",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Phanindra Pala",
+  "is_still_participant": true,
+  "thread_path": "inbox/phanindrapala_1423624709037766",
+  "magic_words": [
+    
+  ]
+}

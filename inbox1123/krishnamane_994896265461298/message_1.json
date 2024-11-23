@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Krishna Mane"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Krishna Mane",
+      "timestamp_ms": 1720159592727,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720107478761,
+      "content": "We currently only operate in telangana. \n\nWill keep you posted when we launch in other states",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Krishna Mane",
+      "timestamp_ms": 1720106381059,
+      "content": "Built in warehouse is there of 12500 sqft",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Krishna Mane",
+      "timestamp_ms": 1720106346776,
+      "content": "Hello sir \nI am from latur I want to sell my land which is 8.5 acre",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Krishna Mane",
+  "is_still_participant": true,
+  "thread_path": "inbox/krishnamane_994896265461298",
+  "magic_words": [
+    
+  ]
+}

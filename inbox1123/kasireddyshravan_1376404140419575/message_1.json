@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Kasireddy Shravan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kasireddy Shravan",
+      "timestamp_ms": 1718664401604,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718642396307,
+      "content": "Hi, Please reach out to Ratna Kiran \n9390155412\nHe'll help you with it.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Kasireddy Shravan",
+          "timestamp": 1718664401
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kasireddy Shravan",
+      "timestamp_ms": 1718634425903,
+      "content": "Budget 4cr",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kasireddy Shravan",
+      "timestamp_ms": 1718634411730,
+      "content": "We are looking for a good land near to Hyderabad\u00e2\u0080\u00a6Nagarjun sagar or Srisailam Highway",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kasireddy Shravan",
+      "timestamp_ms": 1718634372010,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kasireddy Shravan",
+  "is_still_participant": true,
+  "thread_path": "inbox/kasireddyshravan_1376404140419575",
+  "magic_words": [
+    
+  ]
+}

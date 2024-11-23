@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Chaitanya Sekhar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726145070174,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chaitanya Sekhar",
+      "timestamp_ms": 1726135869254,
+      "content": "Location and price per Sq. Yard?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726135849866,
+      "content": "Thank you for applying as a regional partner with 1acre.in.\nWe shall get back to you soon",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726135844730,
+      "content": "Chaitanya Sekhar replied to an ad. View ad(https://www.instagram.com/p/C-7mJxuM5hB/)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Chaitanya Sekhar",
+      "timestamp_ms": 1726135843345,
+      "content": "Hello, Can I get more info on this?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Chaitanya Sekhar",
+  "is_still_participant": true,
+  "thread_path": "inbox/chaitanyasekhar_1494860605249358",
+  "magic_words": [
+    
+  ]
+}

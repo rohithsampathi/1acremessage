@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Z3D"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729770558031,
+      "content": "Sorry 1acre buying isnt available",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Z3D",
+      "timestamp_ms": 1729762507948,
+      "content": "Like can i buy individual 1 acre for 24 lacs or have to buy all of it",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Z3D",
+      "timestamp_ms": 1729762487241,
+      "content": "Is the land near jagtial for sale",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Z3D",
+  "is_still_participant": true,
+  "thread_path": "inbox/z3d_17920897814989970",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "M@ddy M@verick"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713682143957,
+      "content": "Hi, Please contact Pratheek \n9390674324, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "M@ddy M@verick",
+      "timestamp_ms": 1713677406837,
+      "content": "Good lands to invest in Hyderabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "M@ddy M@verick",
+      "timestamp_ms": 1713677401606,
+      "content": "Good lands to invest",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713677369050,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "M@ddy M@verick",
+      "timestamp_ms": 1713677303260,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "M@ddy M@verick",
+  "is_still_participant": true,
+  "thread_path": "inbox/mddymverick_1392399982161526",
+  "magic_words": [
+    
+  ]
+}

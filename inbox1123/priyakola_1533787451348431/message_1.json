@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Priya Kola"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726208881476,
+      "content": "Hi, I tried to call you but couldn't connect. Kindly call back on 8341149011 at your convenience till 5 pm today.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Priya Kola",
+      "timestamp_ms": 1726200210370,
+      "content": "7672002349",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726041301709,
+      "content": "please give your contact",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726041293136,
+      "content": "Our team will call you to discuss",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726041283741,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Priya Kola",
+      "timestamp_ms": 1726039249588,
+      "content": "I have 1 property in Mancherial dist jannaram  for sale",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Priya Kola",
+      "timestamp_ms": 1726039114486,
+      "content": "Namaste",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Priya Kola",
+  "is_still_participant": true,
+  "thread_path": "inbox/priyakola_1533787451348431",
+  "magic_words": [
+    
+  ]
+}

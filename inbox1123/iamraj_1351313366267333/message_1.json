@@ -1,0 +1,96 @@
+{
+  "participants": [
+    {
+      "name": "iamRaj"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "iamRaj",
+      "timestamp_ms": 1710221042047,
+      "content": "Perfect. I called him may be he is busy. But will try and reach him again tomorrow morning my time.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710220880640,
+      "content": "He'll have the context. Say you got in touch on insta.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "iamRaj",
+      "timestamp_ms": 1710220867089,
+      "content": "Thanks much will call him",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710220851702,
+      "content": "You can call him now. If he's busy, he'll call back.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "iamRaj",
+      "timestamp_ms": 1710220801321,
+      "content": "And who should I say have provided the number ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "iamRaj",
+      "timestamp_ms": 1710220785290,
+      "content": "Thank you and can I call them now ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710220760676,
+      "content": "Please contact Harish\n9989738297. He'll help you with the process.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "iamRaj"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "iamRaj",
+      "timestamp_ms": 1710220756056,
+      "content": "Nope, I will be there for around 40 days.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710220735886,
+      "content": "I guess, 10 days is too short a time to close any land.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "iamRaj",
+      "timestamp_ms": 1710220695870,
+      "content": "looking to purchase a land and I am travelling to India in 10 days. I want to meet you or your team. Please let me know how you or your team can help me in closing the appropriate land which I am looking for .. thank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710220688954,
+      "content": "Yes, Please tell",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "iamRaj",
+      "timestamp_ms": 1710220577163,
+      "content": "Hi, My name is Revanth. I am",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "iamRaj",
+  "is_still_participant": true,
+  "thread_path": "inbox/iamraj_1351313366267333",
+  "magic_words": [
+    
+  ]
+}

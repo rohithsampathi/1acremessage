@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Swayam"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Swayam",
+      "timestamp_ms": 1720195375287,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720194858745,
+      "content": "We'll get back to you on that.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Swayam",
+      "timestamp_ms": 1720193449853,
+      "content": "Located in kanhan nagpur Maharashtra \n3.45 acer\nPiace 80 lack pr acer",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720183565452,
+      "content": "May we know more details about the farm such as location , acres , price etc",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Swayam",
+      "timestamp_ms": 1720181773477,
+      "content": "And how much you charge for a promotion",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Swayam",
+      "timestamp_ms": 1720181708598,
+      "content": "I want to sold my farm you can promote my farm",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Swayam",
+      "timestamp_ms": 1720181434501,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Swayam",
+  "is_still_participant": true,
+  "thread_path": "inbox/swayam_1331952168192878",
+  "magic_words": [
+    
+  ]
+}

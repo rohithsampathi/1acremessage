@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Farhan Khan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701923192891,
+      "content": "Hi Farhan khan , our team will connect with you today .",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Farhan Khan",
+      "timestamp_ms": 1701893435686,
+      "content": "Can I get your number. Please.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Farhan Khan",
+      "timestamp_ms": 1701893415171,
+      "content": "Sir I am from Gulbarga.  Dealing in agricultural lands. On Mumbai highway. In and around humnabad ,bidar, rajeshwer. Baswakalayan, till Gulbarga. My contact number. 9986597311.  You may get. 10 acers to 100 acers.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Farhan Khan",
+  "is_still_participant": true,
+  "thread_path": "inbox/farhankhan_1319840906080697",
+  "magic_words": [
+    
+  ]
+}

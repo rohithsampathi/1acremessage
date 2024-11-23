@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "V A I S H N A V I L I N G A"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715158980241,
+      "content": "Hi, Please talk to Ratna Kiran \n9390155412\nHe'll help you with it. Thanks.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "V A I S H N A V I L I N G A",
+      "timestamp_ms": 1715158923991,
+      "content": "Hi can I get more details about this",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "V A I S H N A V I L I N G A",
+      "timestamp_ms": 1715158923665,
+      "content": "V A sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C6qyGm-q6nz/?id=3362720428281539059_47651711013",
+        "share_text": "2 acre lake-facing land, along with Permissions to build 100 lake-facing studios at 2.5Cr per acre.\nAnantagiri Hills, Vikarabad. \n\nTransaction facilitated by 1acre.in \nIf interested, get in touch with us. \n\nContact: 9959994737",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "V A I S H N A V I L I N G A",
+  "is_still_participant": true,
+  "thread_path": "inbox/vaishnavilinga_1361089705284421",
+  "magic_words": [
+    
+  ]
+}

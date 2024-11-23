@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Sunilkumar Kallu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704804563158,
+      "content": "Hi, Please contact Ramakrishna \n7780122120",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sunilkumar Kallu",
+      "timestamp_ms": 1704803888937,
+      "content": "Cn u connect to buyers",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704798865984,
+      "content": "Not particularly. We are a listing platform.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sunilkumar Kallu",
+      "timestamp_ms": 1704798443178,
+      "content": "Ru looking for land parcels in Bengaluru, Hyderabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704796324349,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sunilkumar Kallu",
+      "timestamp_ms": 1704792157203,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sunilkumar Kallu",
+  "is_still_participant": true,
+  "thread_path": "inbox/sunilkumarkallu_1267264564676062",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Aishwary Wasnik"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1729601686128,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aishwary Wasnik",
+      "timestamp_ms": 1729578011341,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Aishwary Wasnik",
+  "is_still_participant": true,
+  "thread_path": "inbox/aishwarywasnik_1584721242926571",
+  "magic_words": [
+    
+  ]
+}

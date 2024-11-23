@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Ashok Pelluru"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713848000981,
+      "content": "Please talk to Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ashok Pelluru",
+      "timestamp_ms": 1713847981634,
+      "content": "Any customer support mobile number?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713847573296,
+      "content": "Please check on 1acre.in \nYou can call the sellers directly. \n\nAdditionally, you can subscribe to 1acre premium, at 1acre.in/subscribe\nTo access the mapview.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Please check on 1acre.in \nYou can call the sellers directly. \n\nAdditionally, you can subscribe to 1acre premium, at 1acre.in/subscribe\nTo access the mapview."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ashok Pelluru",
+      "timestamp_ms": 1713838975727,
+      "content": "Looking for agriculture land",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ashok Pelluru",
+      "timestamp_ms": 1713838974333,
+      "content": "Ashok sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C5nDjr6Njrp/?id=3343656894814632681_47651711013",
+        "share_text": "\u00f0\u009f\u008c\u009f Exciting Announcement! \u00f0\u009f\u009a\u0080\n\n1acre.in is answering your demand! We\u00e2\u0080\u0099re thrilled to share that we\u00e2\u0080\u0099ll soon be featuring plots on our platform. \u00f0\u009f\u008f\u009e\u00ef\u00b8\u008f Initially hesitant, our commitment to preliminary verification remains our main USP, adding substantial value to plot listings just like agricultural lands.\n\nWe\u00e2\u0080\u0099re focusing on two primary types of plots:\n1. Plots in approved layouts with verified permissions.\n2. Plots in kachha or panchayat layouts with Land Regularization Scheme (LRS) already paid.\n\nOur aim is quality over quantity, which is why we won\u00e2\u0080\u0099t list plots directly from developers. Instead, we\u00e2\u0080\u0099ll showcase plots from individuals who have purchased from developers and are looking to resell.\n\nWhether you\u00e2\u0080\u0099re a buyer seeking plots or a seller wanting to list, keep an eye on 1acre.in for exciting updates and opportunities in the world of plots! \u00f0\u009f\u008c\u00bf\u00f0\u009f\u0092\u00bc #PlotListings #1acreOpportunities #RealEstateInvesting \u00f0\u009f\u008f\u00a1\u00e2\u009c\u00a8",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ashok Pelluru",
+  "is_still_participant": true,
+  "thread_path": "inbox/ashokpelluru_1420378972697109",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Anudeep Yapala"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anudeep Yapala",
+      "timestamp_ms": 1702651029814,
+      "content": "Thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702635603392,
+      "content": "you can connect with pratheek  9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Anudeep Yapala",
+      "timestamp_ms": 1702572002538,
+      "content": "Hi, I need 1-2 acres under 1.5 hour drive from Gachibowli. Price is 50-55 lakhs per acre. Should have road access, this is to build a farmhouse. Thank you",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Anudeep Yapala",
+  "is_still_participant": true,
+  "thread_path": "inbox/anudeepyapala_1298629721533260",
+  "magic_words": [
+    
+  ]
+}

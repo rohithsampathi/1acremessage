@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Aditya Vyas"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aditya Vyas",
+      "timestamp_ms": 1720414181513,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720413370046,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aditya Vyas",
+      "timestamp_ms": 1720409391988,
+      "content": "I am interested to purchase land near Pune",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aditya Vyas",
+      "timestamp_ms": 1720409369268,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Aditya Vyas",
+  "is_still_participant": true,
+  "thread_path": "inbox/adityavyas_18012000062591014",
+  "magic_words": [
+    
+  ]
+}

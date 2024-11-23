@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "__\u00f0\u009d\u0098\u00bf\u00f0\u009d\u0099\u00a4\u00f0\u009d\u0099\u00a1\u00f0\u009d\u0099\u00a1\u00f0\u009d\u0099\u00ae\u00f0\u009f\u0098\u0088!!!!"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1696395603816,
+      "content": "+91 80744 50533 Vijay 1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "+91 80744 50533 Vijay 1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "__\u00f0\u009d\u0098\u00bf\u00f0\u009d\u0099\u00a4\u00f0\u009d\u0099\u00a1\u00f0\u009d\u0099\u00a1\u00f0\u009d\u0099\u00ae\u00f0\u009f\u0098\u0088!!!!",
+      "timestamp_ms": 1696081031647,
+      "content": "Hii sir",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "__\u00f0\u009d\u0098\u00bf\u00f0\u009d\u0099\u00a4\u00f0\u009d\u0099\u00a1\u00f0\u009d\u0099\u00a1\u00f0\u009d\u0099\u00ae\u00f0\u009f\u0098\u0088!!!!",
+  "is_still_participant": true,
+  "thread_path": "inbox/__dolly_17974488719573975",
+  "magic_words": [
+    
+  ]
+}

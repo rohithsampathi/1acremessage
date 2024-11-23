@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Rup Kishore"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rup Kishore",
+      "timestamp_ms": 1711125042612,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711125031373,
+      "content": "Hi, Please contact Pratheek \n9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rup Kishore",
+      "timestamp_ms": 1711125017104,
+      "content": "On the land to buy in acres",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711124983728,
+      "content": "Hello, may I know what you are referring to?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rup Kishore",
+      "timestamp_ms": 1711112093797,
+      "content": "Hii.  I am interested",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rup Kishore",
+  "is_still_participant": true,
+  "thread_path": "inbox/rupkishore_1375432723853074",
+  "magic_words": [
+    
+  ]
+}

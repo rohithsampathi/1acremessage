@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Somya Verma"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Somya Verma",
+      "timestamp_ms": 1720193601526,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720174187849,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Somya Verma",
+      "timestamp_ms": 1720173133170,
+      "content": "Sir is 1acre land available . Near nagpur (mh49) , maharastra?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Somya Verma",
+  "is_still_participant": true,
+  "thread_path": "inbox/somyaverma_18030247715503101",
+  "magic_words": [
+    
+  ]
+}

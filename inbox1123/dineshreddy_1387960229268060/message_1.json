@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Dinesh Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710502382898,
+      "content": "Hi, Please contact Ramakrishna \n7780122120, from the team.\nHe'll help you with the details.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dinesh Reddy",
+      "timestamp_ms": 1710501996474,
+      "content": "Can u pls give me more details and location",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dinesh Reddy",
+      "timestamp_ms": 1710501974853,
+      "content": "Dinesh sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C2aM_vyyE1S/?id=3285996035323219282_47651711013",
+        "share_text": "2:17 acres land near Kadthal, towards Srisailam Highway for sale.\n*28 km From ORR Tukkuguda exit\n*3 km from Highway, 2 km from kadthal town\nRectangular Shape\n*Black top road on north side\n*Red soil land with peripheral mature teak plantation.\n*Fenced on all sides, Borewells.\n*Free zone beyond HMDA limits. \n*Surrounded by multiple layouts.\n*Closer to proposed Regional Ring Road\n\nQuoted price: 1.65 Cr per acre.\nContact: 9959994737",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Dinesh Reddy",
+      "timestamp_ms": 1710501967269,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Dinesh Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/dineshreddy_1387960229268060",
+  "magic_words": [
+    
+  ]
+}

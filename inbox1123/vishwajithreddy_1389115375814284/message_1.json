@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Vishwajith Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718928466454,
+      "content": "Hi, Please contact Vijay\n9959994737, from the team. \nHe'll help you with the details.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishwajith Reddy",
+      "timestamp_ms": 1718924388006,
+      "content": "Let\u00e2\u0080\u0099s discuss",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishwajith Reddy",
+      "timestamp_ms": 1718924387370,
+      "content": "Vishwajith sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C8ZV7fkSx4e/?id=3393840241521139230_47651711013",
+        "share_text": "3 acres | 65 Lakhs per acre | Ananthagiri Hills | Link in bio \u00f0\u009f\u008c\u009f\n\n- Verified and facilitated by 1acre.in\n- 500 ft road frontage along a 40 ft blacktop road\n- Just 10 km from Vikarabad\n- Surrounded by beautiful views\n\nInterested? Get in touch now! \n\n\u00f0\u009f\u0093\u009e +91 9959994737",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vishwajith Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/vishwajithreddy_1389115375814284",
+  "magic_words": [
+    
+  ]
+}

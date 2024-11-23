@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Vishal Rudani"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711590726031,
+      "content": "Hi, currently listing only Telangana. Will launch Karnataka soon. Will keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishal Rudani",
+      "timestamp_ms": 1711560519567,
+      "content": "Land in Bangalore to tumkur",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vishal Rudani",
+  "is_still_participant": true,
+  "thread_path": "inbox/vishalrudani_1371310414265332",
+  "magic_words": [
+    
+  ]
+}

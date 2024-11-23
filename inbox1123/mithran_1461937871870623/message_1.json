@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Mithran"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mithran",
+      "timestamp_ms": 1720467541237,
+      "content": "Ok sure \u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720455959949,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mithran",
+      "timestamp_ms": 1720451492340,
+      "content": "I have 1acre property in Varkala Kerala for sale",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720443436009,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mithran",
+      "timestamp_ms": 1720439095514,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mithran",
+  "is_still_participant": true,
+  "thread_path": "inbox/mithran_1461937871870623",
+  "magic_words": [
+    
+  ]
+}

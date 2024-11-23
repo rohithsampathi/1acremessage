@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Rahman Shamshiri"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1726398569206,
+      "content": "How can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Rahman Shamshiri",
+      "timestamp_ms": 1726364329208,
+      "content": "Rahman sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C_2O9yOsIkL/?id=3456015582526212363_47651711013",
+        "share_text": "Land investment is a journey of success and the first step is MapView on 1acre.in. \n1. Find cheapest lands to best investment opportunities\n2. 3700+ verified lands in Telangana, Andhra, Karnataka and Maharashtra\n3. Find private listed, highway facing and lake facing lands.\n\nContact the owners directly. Lifetime subscription now only at INR 5000. Subscribe now and start your smart investment journey with 1acre.in - https://www.1acre.in/subscribe",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Rahman Shamshiri",
+  "is_still_participant": true,
+  "thread_path": "inbox/rahmanshamshiri_1409659017103631",
+  "magic_words": [
+    
+  ]
+}

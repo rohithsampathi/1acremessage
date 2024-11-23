@@ -1,0 +1,76 @@
+{
+  "participants": [
+    {
+      "name": "Vishal Garud"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1732116506320,
+      "content": "www.1acre.in",
+      "share": {
+        "link": "http://www.1acre.in/",
+        "share_text": "www.1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1732116490926,
+      "content": "You can check our website",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishal Garud",
+      "timestamp_ms": 1732116401126,
+      "content": "Do you have farming land or commercial?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1732115465926,
+      "content": "How can we help you ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishal Garud",
+      "timestamp_ms": 1732112965188,
+      "content": "I am from Pune, Maharashtra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1732100155598,
+      "content": "What are you looking for ? \n\nPrimarily we are a marketplace for verified lands. Well established in Telangana and recently started in andhra karnataka and Maharashtra.\n\nWe also help find buyers or sellers based on our discretion",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishal Garud",
+      "timestamp_ms": 1732087953437,
+      "content": "Which service you provide?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1732079353227,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vishal Garud",
+      "timestamp_ms": 1732028646098,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vishal Garud",
+  "is_still_participant": true,
+  "thread_path": "inbox/vishalgarud_1400491238022827",
+  "magic_words": [
+    
+  ]
+}

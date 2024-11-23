@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "vanampally_srinu"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722791524670,
+      "content": "Please contact our team member ,Srikar, at 83411 49011\n\nHe will share more details :)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "vanampally_srinu",
+      "timestamp_ms": 1722778595672,
+      "content": "I won't sale",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "vanampally_srinu",
+      "timestamp_ms": 1722778589866,
+      "content": "I have 5 acres land",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "vanampally_srinu",
+  "is_still_participant": true,
+  "thread_path": "inbox/vanampally_srinu_18015501506591014",
+  "magic_words": [
+    
+  ]
+}

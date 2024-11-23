@@ -1,0 +1,76 @@
+{
+  "participants": [
+    {
+      "name": "Sugun Surya"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725771161209,
+      "content": "Can you ping on WhatsApp?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sugun Surya",
+      "timestamp_ms": 1725767187929,
+      "content": "Yes, can you send me your office location in financial district",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725759186292,
+      "content": "Monday?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725759181119,
+      "content": "Sure.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sugun Surya",
+      "timestamp_ms": 1725728755540,
+      "content": "Can we meet once?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725725987319,
+      "content": "Co-founder, 1acre.in",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Co-founder, 1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725725975789,
+      "content": "Satish 7661933372",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1725725967203,
+      "content": "It's in Financial District.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sugun Surya",
+      "timestamp_ms": 1725723605381,
+      "content": "Hi, this is Surya and I am in real estate influencing field from past 4 months. May I know where is your office",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sugun Surya",
+  "is_still_participant": true,
+  "thread_path": "inbox/sugunsurya_18019689059591014",
+  "magic_words": [
+    
+  ]
+}

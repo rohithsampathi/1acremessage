@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Shashank Gupta"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711036901021,
+      "content": "Hi, Please contact Vijay\n9959994737, he'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shashank Gupta",
+      "timestamp_ms": 1711029134916,
+      "content": "So I wanna discuss you regarding sale of our land can you provide your contact details so I can discuss!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shashank Gupta",
+      "timestamp_ms": 1711029064698,
+      "content": "Actually we have land for sale at sadasivpet",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shashank Gupta",
+      "timestamp_ms": 1711029036407,
+      "content": "Hi this is Shashank from sadasivpet Sangareddy dist",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shashank Gupta",
+  "is_still_participant": true,
+  "thread_path": "inbox/shashankgupta_956712159312083",
+  "magic_words": [
+    
+  ]
+}

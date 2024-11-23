@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Sanjit Jadhav"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sanjit Jadhav",
+      "timestamp_ms": 1720180221210,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720178667476,
+      "content": "He could help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720178667007,
+      "content": "Hi, Please contact Ratna Kiran \n9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sanjit Jadhav",
+      "timestamp_ms": 1720176364216,
+      "content": "In maharashtra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720174341656,
+      "content": "Where?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sanjit Jadhav",
+      "timestamp_ms": 1720170069890,
+      "content": "100 acres  land requirement",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sanjit Jadhav",
+      "timestamp_ms": 1720170057605,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sanjit Jadhav",
+  "is_still_participant": true,
+  "thread_path": "inbox/sanjitjadhav_1464705828263445",
+  "magic_words": [
+    
+  ]
+}

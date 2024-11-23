@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Masroor Hassan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1716301245526,
+      "content": "Not really",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Masroor Hassan",
+      "timestamp_ms": 1716299156930,
+      "content": "Can we get loan on farm land?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Masroor Hassan",
+  "is_still_participant": true,
+  "thread_path": "inbox/masroorhassan_18023764253138924",
+  "magic_words": [
+    
+  ]
+}

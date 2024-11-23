@@ -1,0 +1,70 @@
+{
+  "participants": [
+    {
+      "name": "Goutham Raj"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Goutham Raj",
+      "timestamp_ms": 1720440074844,
+      "content": "\u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720440056747,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720440055789,
+      "content": "Hi, Please contact Vijay 9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720440046428,
+      "content": "Sorry wrong message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Goutham Raj",
+      "timestamp_ms": 1720438198020,
+      "content": "I'm also from Telangana Hyderabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720414323409,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Goutham Raj",
+      "timestamp_ms": 1720411678659,
+      "content": "Share location",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Goutham Raj",
+      "timestamp_ms": 1720411669069,
+      "content": "Goutham sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C9HyihKy6mL/?id=3406913917531433355_47651711013",
+        "share_text": "500 sq yards | \u00e2\u0082\u00b985,000 per sq yard | Manchirevula | Link in bio \u00f0\u009f\u008c\u009f\n\n- Verified and facilitated by 1acre.in\n- East-facing plot\n- Surrounded by highrises and gated communities\n- Close to Kokapet, Narsingi, and the Financial District\n- Ideal for a four-storied midrise for a group of friends\n\nInterested? Get in touch now! \u00f0\u009f\u0093\u009e +91 9959994737\n\n\u00f0\u009f\u0093\u00ac DM us for more queries on buying, selling, or partnerships",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Goutham Raj",
+  "is_still_participant": true,
+  "thread_path": "inbox/gouthamraj_1392426572149345",
+  "magic_words": [
+    
+  ]
+}

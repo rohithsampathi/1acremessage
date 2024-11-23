@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Amit Singh"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1718772449495,
+      "content": "Right now, mostly Telanagna and a little part of Maharashtra.\n\nPlease check the website. \n1acre.in\nWe are a listing platform for verified lands. You can contact the sellers directly.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "Right now, mostly Telanagna and a little part of Maharashtra.\n\nPlease check the website. \n1acre.in\nWe are a listing platform for verified lands. You can contact the sellers directly."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Amit Singh",
+      "timestamp_ms": 1718767664791,
+      "content": "Do you deal in land purchase all over the country ? Or just state specific .",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Amit Singh",
+  "is_still_participant": true,
+  "thread_path": "inbox/amitsingh_1340175597371373",
+  "magic_words": [
+    
+  ]
+}

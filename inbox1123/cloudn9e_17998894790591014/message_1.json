@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "cloud.n9e"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710811232627,
+      "content": "Sure. First let's talk.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "cloud.n9e",
+      "timestamp_ms": 1710802514746,
+      "content": "I am from Bangalore, Karnataka.\n\nI speak Hindi , English , kannada , bengali ,",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710745278183,
+      "content": "Which languages do you speak?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710745270242,
+      "content": "Where are you from originally?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710745246067,
+      "content": "We'll let you know",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "cloud.n9e",
+      "timestamp_ms": 1710742999594,
+      "content": "Full time role will be better",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710732828773,
+      "content": "Internship? Or a full time role?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "cloud.n9e",
+      "timestamp_ms": 1710731823942,
+      "content": "I am a BCA grad specialization in DATA ANALYTICS from Jain University Bangalore. \nI really like the whole ldea of 1acre and I too had a very similar idea. \nIf you guys are hiring for any internship role! I would like to be a part of it and thrive as it grows",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1710728645615,
+      "content": "For what?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "cloud.n9e",
+      "timestamp_ms": 1710722162836,
+      "content": "Good morning sir, \nAre you guys hiring?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "cloud.n9e",
+  "is_still_participant": true,
+  "thread_path": "inbox/cloudn9e_17998894790591014",
+  "magic_words": [
+    
+  ]
+}

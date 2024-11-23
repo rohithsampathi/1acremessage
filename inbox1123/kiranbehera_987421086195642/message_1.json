@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Kiran Behera"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kiran Behera",
+      "timestamp_ms": 1721749711451,
+      "content": "Thank you for talking to me \u00f0\u009f\u0091\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "1acre.in | Buy verified lands",
+          "timestamp": 1721749909
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kiran Behera",
+      "timestamp_ms": 1721749693101,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721749675645,
+      "content": "We are currently listing only Telangana.  We'll list other states soon.  Will keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kiran Behera",
+      "timestamp_ms": 1721749649060,
+      "content": "How to konw my land price in odisha",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1721749614923,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kiran Behera",
+      "timestamp_ms": 1721748989914,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kiran Behera",
+  "is_still_participant": true,
+  "thread_path": "inbox/kiranbehera_987421086195642",
+  "magic_words": [
+    
+  ]
+}

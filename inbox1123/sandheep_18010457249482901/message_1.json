@@ -1,0 +1,73 @@
+{
+  "participants": [
+    {
+      "name": "Sandheep"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sandheep",
+      "timestamp_ms": 1706119811133,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706117152461,
+      "content": "Sure. We'll definitely let you know. We'll collaborate.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Sandheep",
+          "timestamp": 1706119811
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sandheep",
+      "timestamp_ms": 1706114966582,
+      "content": "Meeru TN farms lo interested aithe, gimme a msg at 9884962129. Let's discuss.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sandheep",
+      "timestamp_ms": 1706114911559,
+      "content": "Anyways thanks for the prompt response.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sandheep",
+      "timestamp_ms": 1706114899756,
+      "content": "Can we collaborate? I am a farmer into natural farming. We have farms at few hills.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1706113499691,
+      "content": "Hi, not yet. But soon.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sandheep",
+      "timestamp_ms": 1706112038948,
+      "content": "Anything in Tamilnadu?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sandheep",
+      "timestamp_ms": 1706112028391,
+      "content": "Hey there",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sandheep",
+  "is_still_participant": true,
+  "thread_path": "inbox/sandheep_18010457249482901",
+  "magic_words": [
+    
+  ]
+}

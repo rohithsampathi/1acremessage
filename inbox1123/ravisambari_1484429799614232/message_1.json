@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Ravi Sambari"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1728752650157,
+      "content": "Can you briefly tell us what it is about, so that the right person from our team can connect with you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ravi Sambari",
+      "timestamp_ms": 1728750187960,
+      "content": "Hello Team\n\nVery good evening \n\nCan u call me once 9701744814\n\nThanks \nRavi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ravi Sambari",
+  "is_still_participant": true,
+  "thread_path": "inbox/ravisambari_1484429799614232",
+  "magic_words": [
+    
+  ]
+}

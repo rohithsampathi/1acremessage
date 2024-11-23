@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Vikitha Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715664270516,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715664269294,
+      "content": "Hi, Please talk to Vijay\n9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vikitha Reddy",
+      "timestamp_ms": 1715663742944,
+      "content": "Can I have a call",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Vikitha Reddy",
+      "timestamp_ms": 1715663742217,
+      "content": "Vikitha sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C6srakJNoKv/?id=3363253963254563503_47651711013",
+        "share_text": "2 acre lake-facing land, along with Permissions to build 100 lake-facing studios at 2.5Cr per acre.\nAnantagiri Hills, Vikarabad. \n\nTransaction facilitated by 1acre.in \nIf interested, get in touch with us. \n\nContact: 9959994737",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Vikitha Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/vikithareddy_1339206550803623",
+  "magic_words": [
+    
+  ]
+}

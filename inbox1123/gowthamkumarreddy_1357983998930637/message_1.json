@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Gowtham Kumar Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gowtham Kumar Reddy",
+      "timestamp_ms": 1713607727252,
+      "content": "Great, thanks!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713607679537,
+      "content": "Not yet. We are only listing Telangana for now. We'll be listing Karnataka, Maharashtra & Andhra from next month.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gowtham Kumar Reddy",
+      "timestamp_ms": 1713607255503,
+      "content": "Do you also provide information on Bangalore real-estate",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1713605383827,
+      "content": "Hello, Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Gowtham Kumar Reddy",
+      "timestamp_ms": 1713605021377,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Gowtham Kumar Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/gowthamkumarreddy_1357983998930637",
+  "magic_words": [
+    
+  ]
+}

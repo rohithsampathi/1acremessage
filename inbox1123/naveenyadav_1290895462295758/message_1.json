@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Naveen Yadav"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722132788318,
+      "content": "Hello \u00f0\u009f\u0091\u008b",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Naveen Yadav",
+      "timestamp_ms": 1722132449054,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Naveen Yadav",
+  "is_still_participant": true,
+  "thread_path": "inbox/naveenyadav_1290895462295758",
+  "magic_words": [
+    
+  ]
+}

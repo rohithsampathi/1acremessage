@@ -1,0 +1,104 @@
+{
+  "participants": [
+    {
+      "name": "Onecly Interiors"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1714405410954,
+      "content": "Hi, Please contact Vijay 9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Onecly Interiors",
+      "timestamp_ms": 1714405098782,
+      "content": "Do you have any pls call me",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Onecly Interiors",
+      "timestamp_ms": 1714405065036,
+      "content": "You missed an audio call",
+      "call_duration": 0,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Onecly Interiors",
+      "timestamp_ms": 1714405034066,
+      "content": "oneclyinteriors started an audio call",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Onecly Interiors",
+      "timestamp_ms": 1714405001478,
+      "content": "You missed an audio call",
+      "call_duration": 0,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Onecly Interiors",
+      "timestamp_ms": 1714404981495,
+      "content": "oneclyinteriors started an audio call",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Onecly Interiors",
+      "timestamp_ms": 1714404964300,
+      "content": "It's urgent",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Onecly Interiors",
+      "timestamp_ms": 1714404959613,
+      "content": "I need 10 to 15 acres of land in Kangara Kalan Park",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702271674413,
+      "content": "Can we have your contact number our team will reach you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Onecly Interiors",
+      "timestamp_ms": 1702202097039,
+      "content": "I call him he is not picking the call",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1702097480312,
+      "content": "Yes, you can connect with pratheek, 9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Onecly Interiors",
+      "timestamp_ms": 1702037938593,
+      "content": "Can you help me out",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Onecly Interiors",
+      "timestamp_ms": 1702037927078,
+      "content": "I want to sell my land it's near tandur",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Onecly Interiors",
+      "timestamp_ms": 1702037871153,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Onecly Interiors",
+  "is_still_participant": true,
+  "thread_path": "inbox/oneclyinteriors_17986713833591014",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Sirish Vemuganty"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sirish Vemuganty",
+      "timestamp_ms": 1708593724699,
+      "content": "Ok .\nThank you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708591949483,
+      "content": "Hi, Please contact Pratheek \n9390674324, from the team. He'll help you with it.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sirish Vemuganty",
+      "timestamp_ms": 1708573969034,
+      "content": "Hi .\nI have 6 acres land in MIDGIL . I am planning to sell it .\nCould you explain me the process ?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sirish Vemuganty",
+  "is_still_participant": true,
+  "thread_path": "inbox/sirishvemuganty_1295325735192233",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "THESHARKSAM"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723891329602,
+      "content": "We are launching Maharashtra soon. Will keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "THESHARKSAM",
+      "timestamp_ms": 1723885602383,
+      "content": "Can you Lookup Chiplun \nI've table plots",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "THESHARKSAM",
+      "timestamp_ms": 1723885578187,
+      "content": "Sizes vary",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "THESHARKSAM",
+      "timestamp_ms": 1723885566258,
+      "content": "I have multiple plots there average about 70 lakhs per plot",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723883743661,
+      "content": "Could you tell us, \nLocation, extent and price?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "THESHARKSAM",
+      "timestamp_ms": 1723883558160,
+      "content": "Maharashtra \nDist: Ratnagiri",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1723883389311,
+      "content": "Which state?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "THESHARKSAM",
+      "timestamp_ms": 1723882892159,
+      "content": "Can you sell my land",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "THESHARKSAM",
+  "is_still_participant": true,
+  "thread_path": "inbox/thesharksam_1514959876564780",
+  "magic_words": [
+    
+  ]
+}

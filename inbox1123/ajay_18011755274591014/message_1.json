@@ -1,0 +1,77 @@
+{
+  "participants": [
+    {
+      "name": "Ajay"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ajay",
+      "timestamp_ms": 1720247675986,
+      "content": "Ok ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720247664298,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720247663365,
+      "content": "Hi, Please contact Vijay 9959994737, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ajay",
+      "timestamp_ms": 1720247528887,
+      "content": "Can u tell me discription..?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ajay",
+      "timestamp_ms": 1720247367091,
+      "content": "Road touch or out side road..?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720247361785,
+      "content": "No",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ajay",
+      "timestamp_ms": 1720247352971,
+      "content": "Is it highway touch land ?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ajay",
+      "timestamp_ms": 1720247329177,
+      "content": "Sir what about 40 acres land Hyderabad - yavatmal highway",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720247305037,
+      "content": "Hello. Please tell.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Ajay",
+      "timestamp_ms": 1720246848567,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ajay",
+  "is_still_participant": true,
+  "thread_path": "inbox/ajay_18011755274591014",
+  "magic_words": [
+    
+  ]
+}

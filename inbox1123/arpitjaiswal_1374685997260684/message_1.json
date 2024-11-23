@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Arpit Jaiswal"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715581639016,
+      "content": "1acre.in/subscribe",
+      "share": {
+        "link": "http://1acre.in/subscribe",
+        "share_text": "1acre.in/subscribe"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Arpit Jaiswal",
+      "timestamp_ms": 1715569875615,
+      "content": "Arpit sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C6xqJ_aN6-d/?id=3364655801136820125_47651711013",
+        "share_text": "Land is the most opaque market. And 1acre.in wants to be the center of all information, in this opaque market.\n\nWith 2500+ listings and heading towards 10000+ very soon, we invite you to try our Premium Subscription and the MapView Feature. Land Information at your fingertips is being simplified now! \n\nPremium Subscription is INR 5000 only. For the first 1 Lakh premium subscribers, we are offering the access for lifetime! \n\n#realestate #landpurchase #1acre #acre #plots #hyderabad #telangana #vikarabad #landpurchase #privateproperty",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Arpit Jaiswal",
+  "is_still_participant": true,
+  "thread_path": "inbox/arpitjaiswal_1374685997260684",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Uzair Patel"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Uzair Patel",
+      "timestamp_ms": 1720458621153,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720368745294,
+      "content": "We are currently listing only Telangana. \nWe'll list other states soon. \nWill keep you posted.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Uzair Patel",
+      "timestamp_ms": 1720366576912,
+      "content": "In chandrapur district",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Uzair Patel",
+      "timestamp_ms": 1720366560672,
+      "content": "Maharashtra",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720236369127,
+      "content": "Which state?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Uzair Patel",
+      "timestamp_ms": 1720189078418,
+      "content": "I want to sell my land",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Uzair Patel",
+  "is_still_participant": true,
+  "thread_path": "inbox/uzairpatel_1461649605234535",
+  "magic_words": [
+    
+  ]
+}

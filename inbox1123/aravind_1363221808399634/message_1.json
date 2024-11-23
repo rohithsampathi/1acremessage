@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Aravind"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720053685876,
+      "content": "I guess if you haven't already, Please check the website. \n\n1acre.in\n\nWe have around 3000 verified listings. You can call the sellers directly. \n\nIf you subscribe, You' also get access to the MapView.",
+      "share": {
+        "link": "http://1acre.in/",
+        "share_text": "I guess if you haven't already, Please check the website. \n\n1acre.in\n\nWe have around 3000 verified listings. You can call the sellers directly. \n\nIf you subscribe, You' also get access to the MapView."
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aravind",
+      "timestamp_ms": 1720027830133,
+      "content": "am I being realistic here or is the market different?\nI assumed 111 GO zones are priced lesser than the surroundings",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aravind",
+      "timestamp_ms": 1720027772329,
+      "content": "I\u00e2\u0080\u0099m looking for atleast 1000sqyards budget is around 1 CR",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720018385044,
+      "content": "Sure. What's your budget?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aravind",
+      "timestamp_ms": 1720011409977,
+      "content": "Can you please help, thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Aravind",
+      "timestamp_ms": 1720011396999,
+      "content": "Hello there, I\u00e2\u0080\u0099d like to obtain some land for myself in the area with 111GO Around west Hyderabad.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Aravind",
+  "is_still_participant": true,
+  "thread_path": "inbox/aravind_1363221808399634",
+  "magic_words": [
+    
+  ]
+}

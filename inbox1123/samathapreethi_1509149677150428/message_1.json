@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "Samatha Preethi"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Samatha Preethi",
+      "timestamp_ms": 1724647337398,
+      "content": "Thank you so much",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Samatha Preethi",
+      "timestamp_ms": 1724647335759,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724393090365,
+      "content": "samathapreethi wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1724393089830,
+      "content": "Hello Samatha garu, \n\nThanks for reaching out :) \nAs a policy , we do not advice on any real estate investment. \n\nBut we are trying to bridge the information gap so individuals can take more informed decisions in our map view feature. \n\nExample, we just added hmda app to understand zoning more easily, we soon will be adding all proposed roads, infrastructure etc so it becomes easy to understand and identify right opportunities. \n\nFor more details , you can check out website at www.1acre.in\n\nHope this helps :)",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Samatha Preethi",
+          "timestamp": 1724647335
+        }
+      ],
+      "share": {
+        "link": "http://www.1acre.in/",
+        "share_text": "Hello Samatha garu, \n\nThanks for reaching out :) \nAs a policy , we do not advice on any real estate investment. \n\nBut we are trying to bridge the information gap so individuals can take more informed decisions in our map view feature. \n\nExample, we just added hmda app to understand zoning more easily, we soon will be adding all proposed roads, infrastructure etc so it becomes easy to understand and identify right opportunities. \n\nFor more details , you can check out website at www.1acre.in\n\nHope this helps :)"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Samatha Preethi",
+      "timestamp_ms": 1724341744919,
+      "content": "Hi not a big investor let me tell you that before I begin I am trying to buy a plot for my mom\u00e2\u0080\u0099s retirement I wanted to know if you think chevella is a good area to invest down the line 5-10 yrs.\nLet me know you opinion thank you",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Samatha Preethi",
+  "is_still_participant": true,
+  "thread_path": "inbox/samathapreethi_1509149677150428",
+  "magic_words": [
+    
+  ]
+}

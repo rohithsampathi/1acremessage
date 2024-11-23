@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Shashank Reddy"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1704284837847,
+      "content": "you can connect with pratheek, 9390674324",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shashank Reddy",
+      "timestamp_ms": 1704284756752,
+      "content": "Location and how it works",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Shashank Reddy",
+      "timestamp_ms": 1704284756372,
+      "content": "Shashank sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C1ovoF3Nyv4/?id=3272074592544828408_47651711013",
+        "share_text": "Get Lifetime Membership for Rs 5000 only of 1acre Premium. Get access to lands starting at Rs 2.5L/acre, only 5 hours drive from Hyderabad. \n\nWhat do you get? \n\u00f0\u009f\u00a4\u009d Hand Holding and Investment Guidance \n\u00f0\u009f\u008f\u009c\u00ef\u00b8\u008f Curated Land Parcels just for you \n\u00f0\u009f\u0091\u0081\u00ef\u00b8\u008f Access lands in Karnataka & Maharastra\n\u00f0\u009f\u0093\u008d Map view to see all lands available at a glance",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Shashank Reddy",
+  "is_still_participant": true,
+  "thread_path": "inbox/shashankreddy_1326967398704588",
+  "magic_words": [
+    
+  ]
+}

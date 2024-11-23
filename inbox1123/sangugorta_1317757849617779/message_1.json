@@ -1,0 +1,84 @@
+{
+  "participants": [
+    {
+      "name": "Sangu Gorta"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sangu Gorta",
+      "timestamp_ms": 1723004793230,
+      "content": "Ok sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722995043184,
+      "content": "Please contact Ratna Kiran \n9390155412",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1722995031651,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sangu Gorta",
+      "timestamp_ms": 1722963862772,
+      "content": "Hi sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sangu Gorta",
+      "timestamp_ms": 1715397019850,
+      "content": "Hi sir contact number please",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1708687069039,
+      "content": "We are only listing Telangana for now. Will get back. Thank you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sangu Gorta",
+      "timestamp_ms": 1708684735882,
+      "content": "Hi sir",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sangu Gorta",
+      "timestamp_ms": 1707910909736,
+      "content": "Looking buyer",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sangu Gorta",
+      "timestamp_ms": 1707910891414,
+      "content": "I am from bidar Karanataka",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707749891317,
+      "content": "May I know what you are looking for?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sangu Gorta",
+      "timestamp_ms": 1707746888020,
+      "content": "Hi sir send your number",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sangu Gorta",
+  "is_still_participant": true,
+  "thread_path": "inbox/sangugorta_1317757849617779",
+  "magic_words": [
+    
+  ]
+}

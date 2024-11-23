@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Danish Khan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Danish Khan",
+      "timestamp_ms": 1711385844036,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1711379515271,
+      "content": "Thank you.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Danish Khan",
+          "timestamp": 1711385844
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Danish Khan",
+      "timestamp_ms": 1711378901779,
+      "content": "You have the most Best and Elite inventory.\nWould love to work and get connected with he team.\nThank you.",
+      "share": {
+        "link": "https://www.instagram.com/p/C3t28m8N2Gf/"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Danish Khan",
+  "is_still_participant": true,
+  "thread_path": "inbox/danishkhan_1412144573519089",
+  "magic_words": [
+    
+  ]
+}

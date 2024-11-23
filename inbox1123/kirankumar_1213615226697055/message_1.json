@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Kiran Kumar"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1698051233740,
+      "content": "Hey Kiran , you can connect with Mr Ratna kiran :7661-063355, he is our chief head in investment advisory. Do connect him he will help you out",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kiran Kumar",
+      "timestamp_ms": 1698044601936,
+      "content": "https://www.nirvanainfrabuild.com/",
+      "share": {
+        "link": "https://www.nirvanainfrabuild.com/",
+        "share_text": "https://www.nirvanainfrabuild.com/"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kiran Kumar",
+      "timestamp_ms": 1698044563674,
+      "content": "We are construction company",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kiran Kumar",
+      "timestamp_ms": 1698044286142,
+      "content": "We are searching farm lands in Vikarabad",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1698042773927,
+      "content": "Hey Kiran, How can we help you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kiran Kumar",
+      "timestamp_ms": 1698037582207,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kiran Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/kirankumar_1213615226697055",
+  "magic_words": [
+    
+  ]
+}

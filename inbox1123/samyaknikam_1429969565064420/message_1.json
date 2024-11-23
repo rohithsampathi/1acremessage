@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Samyak Nikam"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1720190720794,
+      "content": "Hi, Please contact Vijay\n9959994737",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Samyak Nikam",
+      "timestamp_ms": 1720187343773,
+      "content": ".",
+      "share": {
+        "link": "https://instagram.com/stories/1acre.in/3405429436274227402"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Samyak Nikam",
+      "timestamp_ms": 1720187233736,
+      "content": "Can I get the details of land in yevatmal",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Samyak Nikam",
+  "is_still_participant": true,
+  "thread_path": "inbox/samyaknikam_1429969565064420",
+  "magic_words": [
+    
+  ]
+}

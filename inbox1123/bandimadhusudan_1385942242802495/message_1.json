@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "Bandi Madhusudan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bandi Madhusudan",
+      "timestamp_ms": 1715360881152,
+      "content": "K",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715358102214,
+      "content": "Tomorrow, During 10-6",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bandi Madhusudan",
+      "timestamp_ms": 1715354881819,
+      "content": "At what time I have to call",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1715354447211,
+      "content": "9032114737\nYou can talk to Bharath, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bandi Madhusudan",
+      "timestamp_ms": 1715351923686,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Bandi Madhusudan",
+      "timestamp_ms": 1715351922929,
+      "content": "Bandi sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C4j3HBRt6Vt/?id=3324743324894995821_47651711013",
+        "share_text": "9032114737\n\nPlease call Bharath, from the team.",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Bandi Madhusudan",
+  "is_still_participant": true,
+  "thread_path": "inbox/bandimadhusudan_1385942242802495",
+  "magic_words": [
+    
+  ]
+}

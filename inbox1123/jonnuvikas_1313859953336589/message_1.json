@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Jonnu Vikas"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1717555992627,
+      "content": "9032114737\nYou can talk to Bharath, from the team.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jonnu Vikas",
+      "timestamp_ms": 1717551461975,
+      "content": "Jonnu sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C5qyPBES2No/?id=3344706607539512168_47651711013",
+        "share_text": "Looking for freelance opportunities to earn extra income? 1acre.in is hiring freelance listing associates. Your role involves collecting and uploading data to our platform, which our team will verify. Requirements include good communication skills and basic computer knowledge. Our induction program is now online via Zoom meetings. Interested? Contact us at the number below!",
+        "original_content_owner": "1acre.in"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Jonnu Vikas",
+  "is_still_participant": true,
+  "thread_path": "inbox/jonnuvikas_1313859953336589",
+  "magic_words": [
+    
+  ]
+}

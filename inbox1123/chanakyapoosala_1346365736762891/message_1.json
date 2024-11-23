@@ -1,0 +1,70 @@
+{
+  "participants": [
+    {
+      "name": "CHANAKYA POOSALA"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CHANAKYA POOSALA",
+      "timestamp_ms": 1707478400221,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707478289753,
+      "content": "1acre as a platform, is free for both buyers and sellers. However, if you want hand-holding or want access to the mapview, so you can get a better understanding, you can subscribe to 1acre premium. \n\nhttps://www.1acre.in/subscribe",
+      "share": {
+        "link": "https://www.1acre.in/subscribe",
+        "share_text": "1acre as a platform, is free for both buyers and sellers. However, if you want hand-holding or want access to the mapview, so you can get a better understanding, you can subscribe to 1acre premium. \n\nhttps://www.1acre.in/subscribe"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "CHANAKYA POOSALA",
+      "timestamp_ms": 1707478123959,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707478058215,
+      "content": "Loans are generally not given on agricultural lands.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "CHANAKYA POOSALA",
+      "timestamp_ms": 1707477432504,
+      "content": "If we can get a loan that's much better, we can invest more",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "CHANAKYA POOSALA",
+      "timestamp_ms": 1707477404771,
+      "content": "1.5 cr",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1707473409099,
+      "content": "What would be your budget?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "CHANAKYA POOSALA",
+      "timestamp_ms": 1707466807042,
+      "content": "Can you suggest me good lands around moinabad or surrounding",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "CHANAKYA POOSALA",
+  "is_still_participant": true,
+  "thread_path": "inbox/chanakyapoosala_1346365736762891",
+  "magic_words": [
+    
+  ]
+}

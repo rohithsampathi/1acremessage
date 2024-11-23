@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "aryan"
+    },
+    {
+      "name": "1acre.in | Buy verified lands"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "aryan",
+      "timestamp_ms": 1701490647764,
+      "content": "9110718021",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "1acre.in | Buy verified lands",
+      "timestamp_ms": 1701490385595,
+      "content": "Hi Aryan, we can help you , can we have your contact number, our team will connect with you.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "aryan",
+      "timestamp_ms": 1701484326666,
+      "content": "Hi im looking for land bitween 10 to 25 gunta near me from hitech to 60km",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "aryan",
+  "is_still_participant": true,
+  "thread_path": "inbox/aryan_1179052790149141",
+  "magic_words": [
+    
+  ]
+}
