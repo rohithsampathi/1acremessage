@@ -7,7 +7,8 @@ users = {
     "deepika@1acre.in": hash_password("deepika@1acre"),
     "sandeep@1acre.in": hash_password("1acre@sandeep"),
     "satish@1acre.in": hash_password("1acre@satish"),
-    "pavan@1acre.in": hash_password("1acre@pavan")
+    "pavan@1acre.in": hash_password("1acre@pavan"),
+    "rohith@montaigne.co": hash_password("montaigne@rohith"),
 
 }
 
