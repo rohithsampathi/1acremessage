@@ -29,6 +29,9 @@ class FilterState:
 class DashboardApp:
     def __init__(self):
         """Initialize dashboard application"""
+        # Initialize session state first
+        self._init_session_state()
+        
         # Set page config with metadata
         st.set_page_config(
             page_title="1acre Message Analytics | Conversation Intelligence Platform",
@@ -47,10 +50,13 @@ class DashboardApp:
                 """
             }
         )
-        self._init_state()
+        
+        # Initialize components
         self.data_loader = DataLoader()
         self.ui = UIComponents()
         self.metrics = None
+        
+        # Load custom CSS
         with open('style.css') as f:
             st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
 
@@ -63,19 +69,34 @@ class DashboardApp:
             """,
             unsafe_allow_html=True
         )
+        
+        # Force dark theme
+        st.markdown("""
+            <script>
+                document.documentElement.style.setProperty('--primary-color', '#4CAF50');
+                document.documentElement.style.setProperty('--secondary-color', '#2E7D32');
+                document.documentElement.style.setProperty('--background-color', '#1E1E1E');
+                document.documentElement.style.setProperty('--text-color', '#FFFFFF');
+            </script>
+            """, 
+            unsafe_allow_html=True
+        )
     
-    def _init_state(self) -> None:
-        defaults = {
-            'logged_in': False,
-            'selected_chats': [],
-            'search_results': pd.DataFrame(),
-            'filters': FilterState()
-        }
-        for key, value in defaults.items():
-            if key not in st.session_state:
-                st.session_state[key] = value
+    def _init_session_state(self) -> None:
+        """Initialize all session state variables"""
+        if 'initialized' not in st.session_state:
+            st.session_state.initialized = True
+            st.session_state.logged_in = False
+            st.session_state.selected_chats = []
+            st.session_state.search_results = pd.DataFrame()
+            st.session_state.filters = FilterState()
+            st.session_state.current_view = 'overview'
+            st.session_state.last_search = None
+            st.session_state.page_number = 1
+            st.session_state.items_per_page = 10
     
     def handle_auth(self) -> None:
+        """Handle user authentication"""
         st.markdown("""
             <div class="login-header">
                 <h1>🏙️ 1acre Message Analytics</h1>
@@ -98,6 +119,7 @@ class DashboardApp:
                         st.error("Invalid credentials")
 
     def _format_message(self, msg: str) -> Dict[str, str]:
+        """Format message for display"""
         try:
             if msg.startswith('['):
                 sender, content = msg.split(':', 1)
@@ -122,6 +144,7 @@ class DashboardApp:
             }
 
     def _render_message(self, msg: Dict[str, str]) -> None:
+        """Render a single message"""
         st.markdown(
             f'<div class="message {msg["style"]}">'
             f'<div class="sender sender-{msg["style"]}">{msg["sender"]}</div>'
@@ -131,6 +154,7 @@ class DashboardApp:
         )
 
     def render_overview(self, df: pd.DataFrame) -> None:
+        """Render overview page"""
         try:
             if not self.metrics:
                 self.metrics = MetricsAnalyzer(df)
@@ -154,6 +178,7 @@ class DashboardApp:
             st.error("Error displaying overview")
 
     def render_conversations(self, df: pd.DataFrame) -> None:
+        """Render conversations page"""
         try:
             search = ConversationSearch(df)
             search_params = search.get_search_interface()
@@ -226,6 +251,7 @@ class DashboardApp:
             st.error("Error displaying conversations")
 
     def render_analytics(self, df: pd.DataFrame) -> None:
+        """Render analytics page"""
         try:
             if not self.metrics:
                 self.metrics = MetricsAnalyzer(df)
@@ -270,6 +296,7 @@ class DashboardApp:
             st.error("Error displaying analytics")
 
     def run(self) -> None:
+        """Run the dashboard application"""
         try:
             if not st.session_state.logged_in:
                 self.handle_auth()
@@ -284,7 +311,9 @@ class DashboardApp:
                 )
                 
                 if st.button("Logout"):
-                    st.session_state.logged_in = False
+                    for key in list(st.session_state.keys()):
+                        del st.session_state[key]
+                    self._init_session_state()
                     st.rerun()
 
             # Load and process data
